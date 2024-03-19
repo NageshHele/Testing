@@ -1,0 +1,4 @@
+[DEBUG] 8/10/2023 2:50:56 PM => Receiver Setup Success on 8718 Port.
+[DEBUG] 8/10/2023 2:53:00 PM => Receiver Setup Success on 8718 Port.
+[DEBUG] 8/10/2023 3:35:10 PM => Receiver Setup Success on 8718 Port.
+[DEBUG] 8/10/2023 3:53:39 PM => Receiver Setup Success on 8718 Port.

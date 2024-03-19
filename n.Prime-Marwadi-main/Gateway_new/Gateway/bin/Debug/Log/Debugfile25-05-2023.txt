@@ -1,0 +1,66 @@
+5/25/2023 12:44:00 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 12:44:03 PM,Trades Read in 2.88secs
+5/25/2023 12:44:03 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:03 PM,ReadCM Loop 0.05secs, Trades:1000
+5/25/2023 12:44:06 PM,Trades Read in 2.47secs
+5/25/2023 12:44:06 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:06 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 12:44:06 PM,Trades Read in 0.02secs
+5/25/2023 12:44:06 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:06 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 12:44:06 PM,Trades Read in 0.02secs
+5/25/2023 12:44:06 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:07 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 12:44:07 PM,Trades Read in 0.02secs
+5/25/2023 12:44:07 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:08 PM,ReadCM Loop 0.04secs, Trades:1000
+5/25/2023 12:44:08 PM,Trades Read in 0.04secs
+5/25/2023 12:44:08 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:09 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 12:44:09 PM,Trades Read in 0.03secs
+5/25/2023 12:44:09 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:10 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 12:44:10 PM,Trades Read in 0.02secs
+5/25/2023 12:44:10 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:10 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 12:44:10 PM,Trades Read in 0.03secs
+5/25/2023 12:44:10 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 12:44:12 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 12:44:12 PM,Trades Read in 0.03secs
+5/25/2023 12:44:12 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:13 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 1:15:13 PM,Trades Read in 0.04secs
+5/25/2023 1:15:13 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:13 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 1:15:13 PM,Trades Read in 0.03secs
+5/25/2023 1:15:13 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:14 PM,ReadCM Loop 0.04secs, Trades:1000
+5/25/2023 1:15:14 PM,Trades Read in 0.04secs
+5/25/2023 1:15:14 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:15 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 1:15:15 PM,Trades Read in 0.03secs
+5/25/2023 1:15:15 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:16 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 1:15:16 PM,Trades Read in 0.03secs
+5/25/2023 1:15:16 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:17 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 1:15:17 PM,Trades Read in 0.03secs
+5/25/2023 1:15:17 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:17 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 1:15:17 PM,Trades Read in 0.03secs
+5/25/2023 1:15:17 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:18 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 1:15:18 PM,Trades Read in 0.02secs
+5/25/2023 1:15:18 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:19 PM,ReadCM Loop 0.02secs, Trades:1000
+5/25/2023 1:15:19 PM,Trades Read in 0.02secs
+5/25/2023 1:15:19 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:20 PM,ReadCM Loop 0.03secs, Trades:1000
+5/25/2023 1:15:20 PM,Trades Read in 0.03secs
+5/25/2023 1:15:20 PM,Total Trade Rows Sent,1000, Status,False
+5/25/2023 1:15:37 PM,ReadCM Loop 16.16secs, Trades:991
+5/25/2023 1:15:49 PM,Trades Read in 28.92secs
+5/25/2023 1:15:50 PM,Total Trade Rows Sent,991, Status,False
+5/25/2023 1:31:37 PM,ReadCM Loop 849.54secs, Trades:977
+5/25/2023 1:31:37 PM,Trades Read in 849.57secs
+5/25/2023 1:31:37 PM,Total Trade Rows Sent,977, Status,False

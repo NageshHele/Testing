@@ -1,0 +1,4 @@
+8/9/2023 12:49:58 PM,ReadBSEFO Loop 33.71secs, Trades:7
+8/9/2023 12:49:58 PM,Trades Read in 33.72secs
+8/9/2023 12:49:58 PM,Total Trade Rows Sent,7, Status,False
+8/9/2023 12:50:27 PM,ReadBSEFO Loop 0.01secs, Trades:7

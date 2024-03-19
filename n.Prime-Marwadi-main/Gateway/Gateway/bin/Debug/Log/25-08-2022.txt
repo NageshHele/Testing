@@ -1,0 +1,53 @@
+25-08-2022 15:34:13 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+25-08-2022 15:34:17 : ReadBSEMappingFile : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Gateway.nProcess.ReadBSEMappingFile() in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 331
+
+25-08-2022 15:34:48 : Received HB Server : ID^n.ENGINE
+
+25-08-2022 15:34:51 : Received Trade Server : ID^n.ENGINE
+
+25-08-2022 15:34:52 : Received Span Server : ID^n.ENGINE
+
+25-08-2022 15:35:03 : Received HB Server : ID^n.ENGINE
+
+25-08-2022 15:35:03 : Received HB Server : SIGNAL^START
+
+25-08-2022 09:39:51 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+25-08-2022 09:39:55 : ReadBSEMappingFile : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Gateway.nProcess.ReadBSEMappingFile() in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 331
+
+25-08-2022 09:40:06 : Received HB Server : ID^n.ENGINE
+
+25-08-2022 09:40:07 : Received Trade Server : ID^n.ENGINE
+
+25-08-2022 09:40:09 : Received Span Server : ID^n.ENGINE
+
+25-08-2022 09:40:21 : Received HB Server : ID^n.ENGINE
+
+25-08-2022 09:40:22 : Received HB Server : SIGNAL^START
+
+25-08-2022 10:09:42 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+25-08-2022 10:09:42 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+25-08-2022 10:09:42 : SendToEngine Span System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Gateway.Connectors.EngineDataConnector.SendToEngineSpan(String prmValue) in C:\Users\admin\Documents\n.Prime-Marwadi\Gateway\Gateway\Connectors\EngineDataConnector.cs:line 298
+

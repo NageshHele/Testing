@@ -1,0 +1,69 @@
+09-Dec-21 11:12:53 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+09-Dec-21 11:14:04 : Received HB Server : ID^n.ENGINE
+
+09-Dec-21 11:14:05 : Received Trade Server : ID^n.ENGINE
+
+09-Dec-21 11:14:06 : Received Span Server : ID^n.ENGINE
+
+09-Dec-21 11:14:16 : Received HB Server : ID^n.ENGINE
+
+09-Dec-21 11:14:16 : Received HB Server : SIGNAL^START
+
+09-Dec-21 11:14:16 : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BOD_Files\20211209'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Core-Logic\nProcess.cs:line 405
+
+09-Dec-21 11:25:41 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+09-Dec-21 11:31:43 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+09-Dec-21 11:32:05 : Received HB Server : ID^n.ENGINE
+
+09-Dec-21 11:32:06 : Received Trade Server : ID^n.ENGINE
+
+09-Dec-21 11:32:08 : Received Span Server : ID^n.ENGINE
+
+09-Dec-21 11:32:20 : Received HB Server : ID^n.ENGINE
+
+09-Dec-21 11:32:20 : Received HB Server : SIGNAL^START
+
+09-Dec-21 11:32:27 : Received HB Server : SIGNAL^STOP
+
+09-Dec-21 11:32:33 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+09-Dec-21 11:32:33 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+09-Dec-21 11:33:39 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+09-Dec-21 11:34:13 : Received HB Server : ID^n.ENGINE
+
+09-Dec-21 11:34:14 : Received Trade Server : ID^n.ENGINE
+
+09-Dec-21 11:34:15 : Received Span Server : ID^n.ENGINE
+
+09-Dec-21 11:34:28 : Received HB Server : ID^n.ENGINE
+
+09-Dec-21 11:34:28 : Received HB Server : SIGNAL^START
+

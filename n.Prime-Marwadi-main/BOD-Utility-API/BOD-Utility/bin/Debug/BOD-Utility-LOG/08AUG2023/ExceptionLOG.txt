@@ -1,0 +1,24 @@
+[EXCEPTION] DeleteOldSpanDirectories at 8/8/2023 3:25:44 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-latest\BOD-Utility-API\BOD-Utility\Home.cs:line 392
+
+[EXCEPTION] DeleteOldSpanDirectories at 8/8/2023 3:29:17 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-latest\BOD-Utility-API\BOD-Utility\Home.cs:line 392
+
+[EXCEPTION] DeleteOldSpanDirectories at 8/8/2023 3:34:22 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-latest\BOD-Utility-API\BOD-Utility\Home.cs:line 392
+

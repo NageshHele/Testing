@@ -1,0 +1,42 @@
+[EXCEPTION] ReadIndexClosing at 10/10/2023 11:02:17 AM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+
+[EXCEPTION] ReadIndexClosing at 10/10/2023 11:03:15 AM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+
+[EXCEPTION] ReadIndexClosing at 10/10/2023 11:06:37 AM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+
+[EXCEPTION] ReadIndexClosing at 10/10/2023 12:59:38 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+
+[EXCEPTION] ReadIndexClosing at 10/10/2023 1:01:07 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+
+[EXCEPTION] ReadIndexClosing at 10/10/2023 1:01:32 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+
+[EXCEPTION] ReadIndexClosing at 10/10/2023 1:26:52 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadIndexClosing() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 78
+

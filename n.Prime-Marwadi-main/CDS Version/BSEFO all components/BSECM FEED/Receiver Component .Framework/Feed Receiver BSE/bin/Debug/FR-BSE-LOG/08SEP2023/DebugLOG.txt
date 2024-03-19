@@ -1,0 +1,8 @@
+[DEBUG] 9/8/2023 12:44:52 PM => Server Setup Success
+[DEBUG] 9/8/2023 12:44:53 PM => Receiver Setup Success127.0.0.1:8700
+[DEBUG] 9/8/2023 12:46:24 PM => Server Setup Success
+[DEBUG] 9/8/2023 12:46:31 PM => Receiver Setup Success127.0.0.1:8700
+[DEBUG] 9/8/2023 12:47:22 PM => Server Setup Success
+[DEBUG] 9/8/2023 12:47:24 PM => Receiver Setup Success127.0.0.1:8700
+[DEBUG] 9/8/2023 12:47:46 PM => Server Setup Success
+[DEBUG] 9/8/2023 12:47:54 PM => Receiver Setup Success127.0.0.1:8700

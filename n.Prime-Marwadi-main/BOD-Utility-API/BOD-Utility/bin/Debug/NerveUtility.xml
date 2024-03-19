@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NerveUtility</name>
+    </assembly>
+    <members>
+        <member name="T:NerveUtility.NerveUtils">
+            <summary>
+            Main Class
+            </summary>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.STR(System.Object)">
+            <summary>
+            Converts anything to String.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.STR(System.DateTime,System.String)">
+            <summary>
+            Converts anything to String DateTime.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <param name="format">Date format => ddMMyyyy</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.STR(System.DateTime,System.String,System.Globalization.CultureInfo)">
+            <summary>
+            Converts anything to String DateTime.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <param name="format">Date format => ddMMyyyy</param>
+            <param name="cultureInfo">Pass CultureInfo</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.STR(System.Object,System.String)">
+            <summary>
+            Converts anything to String number format.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <param name="format">Number format => 00/0.#</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DBL(System.Object,System.Int32)">
+            <summary>
+            Converts anything to Double.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <param name="RoundNum">Number of digits to round</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.I16(System.Object)">
+            <summary>
+            Converts anything to Int16.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.I32(System.Object)">
+            <summary>
+            Converts anything to Int32.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.I64(System.Object)">
+            <summary>
+            Converts anything to Int64.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.BLN(System.Object)">
+            <summary>
+            Converts anything to Boolean.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CHR(System.Object)">
+            <summary>
+            Converts anything to Char.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DCML(System.Object)">
+            <summary>
+            Converts anything to Decimal.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.BYT(System.Object)">
+            <summary>
+            Converts anything to Boolean.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.FLT(System.Object)">
+            <summary>
+            Converts anything to Float.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UI16(System.Object)">
+            <summary>
+            Converts anything to UInt16.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UI32(System.Object)">
+            <summary>
+            Converts anything to UInt32.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UI64(System.Object)">
+            <summary>
+            Converts anything to UInt64.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DTE(System.Object)">
+            <summary>
+            Converts anything to DateTime.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DTEX(System.Object,System.String)">
+            <summary>
+            Converts anything to DateTime exact.
+            </summary>
+            <param name="objName">Pass input to convert</param>
+            <param name="format">Date format => ddMMyyyy</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.TSA(System.String)">
+            <summary>
+            Converts string to TimeSpan.
+            </summary>
+            <param name="input">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.IPP(System.String)">
+            <summary>
+            Converts string to IPAddress.
+            </summary>
+            <param name="input">Pass input to convert</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UTDT(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Converts String Unix timestamp to DateTime.
+            </summary>
+            <param name="input">Unix Timestamp</param>
+            <param name="Year">Year from which the couning starts</param>
+            <param name="toUTCTime">If true, will convert to UTC, else to Local time</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UTDT(System.Double,System.Int32,System.Boolean)">
+            <summary>
+            Converts Double Unix timestamp to DateTime.
+            </summary>
+            <param name="input">Unix Timestamp</param>
+            <param name="Year">Year from which the couning starts</param>
+            <param name="toUTCTime">If true, will convert to UTC, else to Local time</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UTDT(System.Int64,System.Int32,System.Boolean)">
+            <summary>
+            Converts Long Unix timestamp to DateTime.
+            </summary>
+            <param name="input">Unix Timestamp</param>
+            <param name="Year">Year from which the couning starts</param>
+            <param name="toUTCTime">If true, will convert to UTC, else to Local time</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DTUT(System.String,System.Int32)">
+            <summary>
+            Converts DateTime string to Unix.
+            </summary>
+            <param name="input">Unix Timestamp</param>
+            <param name="Year">Year from which the couning starts</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DTUT(System.DateTime,System.Int32)">
+            <summary>
+            Converts DateTime to Unix.
+            </summary>
+            <param name="input">Unix Timestamp</param>
+            <param name="Year">Year from which the couning starts</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CONW(System.Object)">
+            <summary>
+            Will write to console.
+            </summary>
+            <param name="input">Text to write</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CONR">
+            <summary>
+            Returns Console.ReadLine() input.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CTN(System.String,System.String)">
+            <summary>
+            Checks if string contains other string.
+            </summary>
+            <param name="input">Pass string to check</param>
+            <param name="StringToCheck">Pass input here to check if it is present in main string</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.SPL(System.String,System.Char)">
+            <summary>
+            Seperated string using seperator.
+            </summary>
+            <param name="input">Pass string to seperate</param>
+            <param name="Seperator">Char seperator to split string from</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.LNTH(System.String)">
+            <summary>
+            Returns legnth of string.
+            </summary>
+            <param name="input">Pass string</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.UPP(System.String)">
+            <summary>
+            Returns upper case string.
+            </summary>
+            <param name="input">Pass string</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.LOW(System.String)">
+            <summary>
+            Returns lower case string.
+            </summary>
+            <param name="input">Pass string</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.TRM(System.String)">
+            <summary>
+            Returns trimmed string.
+            </summary>
+            <param name="input">Pass string</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.REP(System.String,System.String,System.String)">
+            <summary>
+            Returns replaced string.
+            </summary>
+            <param name="input">Pass string</param>
+            <param name="OldValue">The string to be replaced</param>
+            <param name="NewValue">The string to replace all occurrences of OldValue</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.REP(System.String,System.Char,System.Char)">
+            <summary>
+            Returns replaced string.
+            </summary>
+            <param name="input">Pass string</param>
+            <param name="OldValue">The char to be replaced</param>
+            <param name="NewValue">The char to replace all occurrences of OldValue</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.SUB(System.String,System.Int32,System.Int32)">
+            <summary>
+            Returns substring of string.
+            </summary>
+            <param name="input">Pass string</param>
+            <param name="StartIndex">Starting charater position</param>
+            <param name="Length">If -1 => Substring(StartIndex) Else => Substring(StartIndex, Length)</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.EQL(System.String,System.String)">
+            <summary>
+            Returns if string equals SecondString.
+            </summary>
+            <param name="input">Pass main string</param>
+            <param name="SecondString">Pass String to compare</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CON(System.String,System.String)">
+            <summary>
+            Returns if string contains SecondString.
+            </summary>
+            <param name="input">Pass main string</param>
+            <param name="SecondString">Pass String to check</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.JOIN(System.String[],System.String)">
+            <summary>
+            Returns joined string.
+            </summary>
+            <param name="input">Pass array of string</param>
+            <param name="JoinString">String seperator</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.IDX(System.String,System.Char)">
+            <summary>
+            Returns index of specified character.
+            </summary>
+            <param name="input">Pass string</param>
+            <param name="Character">Character to be found</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.ISEMTY(System.String)">
+            <summary>
+            IsNullOrEmpty string check.
+            </summary>
+            <param name="input">Pass string</param>
+            <returns>true/false</returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.NOW">
+            <summary>
+            Returns DateTime.Now;
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.ADD(System.DateTime,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Adds to DateTime.
+            </summary>
+            <param name="input">Pass DateTime</param>
+            <param name="D">Days to add</param>
+            <param name="M">Months to add</param>
+            <param name="Y">Years to add</param>
+            <param name="H">Hours to add</param>
+            <param name="MI">Minutes to add</param>
+            <param name="S">Seconds to add</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.SUB(System.DateTime,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Subtract to DateTime.
+            </summary>
+            <param name="input">Pass DateTime</param>
+            <param name="D">Days to subtract</param>
+            <param name="M">Months to subtract</param>
+            <param name="Y">Years to subtract</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.XMLC(System.String,System.String)">
+            <summary>
+            Reads XML file and returns DataSet.
+            </summary>
+            <param name="filepath">If "auto" => Will read file from location where .exe is located. Else => Exact file path</param>
+            <param name="filename">If filepath is "auto" => Please mention exact filename</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.XMLW(System.Data.DataSet,System.String,System.String)">
+            <summary>
+            Writes to XML file.
+            </summary>
+            <param name="ds_Config">Pass DataSet</param>
+            <param name="filepath">If "auto" => Will read file from location where .exe is located. Else => Exact file path</param>
+            <param name="filename">If filepath is "auto" => Please mention exact filename</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GETT(System.Data.DataSet,System.String)">
+            <summary>
+            Returns DataTable from DataSet
+            </summary>
+            <param name="dataSt">Pass DataSet</param>
+            <param name="Table">Table name in DataSet</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GET(System.Data.DataSet,System.String,System.String,System.Int32)">
+            <summary>
+            Returns DataTable from DataSet
+            </summary>
+            <param name="dataSt">Pass DataSet</param>
+            <param name="Table">Table name in DataSet</param>
+            <param name="ColName">Column name</param>
+            <param name="RowIndex">Row number</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GET(System.Data.DataSet,System.String,System.Int32,System.Int32)">
+            <summary>
+            Returns DataTable from DataSet
+            </summary>
+            <param name="dataSt">Pass DataSet</param>
+            <param name="Table">Table name in DataSet</param>
+            <param name="ColIndex">Column number</param>
+            <param name="RowIndex">Row number</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GET(System.Data.DataTable,System.String,System.Int32)">
+            <summary>
+            Returns row data from DataSet.
+            </summary>
+            <param name="dTable">Pass DataTable</param>
+            <param name="Col">Column name in Table</param>
+            <param name="RowIndex">Row number</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GET(System.Data.DataTable,System.Int32,System.Int32)">
+            <summary>
+            Returns row data from DataSet.
+            </summary>
+            <param name="dTable">Pass DataTable</param>
+            <param name="ColIndex">Column Number</param>
+            <param name="RowIndex">Row number</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.STRMY(MySql.Data.MySqlClient.MySqlDataReader,System.Int32)">
+            <summary>
+            Returns string at certain index from MySqlDataReader
+            </summary>
+            <param name="obj">Pass MySqlDataReader object</param>
+            <param name="index">Numeric index at which the string need to be retrieved from</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DBL(MySql.Data.MySqlClient.MySqlDataReader,System.Int32)">
+            <summary>
+            Returns double at certain index from MySqlDataReader
+            </summary>
+            <param name="obj">Pass MySqlDataReader object</param>
+            <param name="index">Numeric index at which the string need to be retrieved from</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.I32(MySql.Data.MySqlClient.MySqlDataReader,System.Int32)">
+            <summary>
+            Returns Integer32 at certain index from MySqlDataReader
+            </summary>
+            <param name="obj">Pass MySqlDataReader object</param>
+            <param name="index">Numeric index at which the string need to be retrieved from</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.I64(MySql.Data.MySqlClient.MySqlDataReader,System.Int32)">
+            <summary>
+            Returns long at certain index from MySqlDataReader
+            </summary>
+            <param name="obj">Pass MySqlDataReader object</param>
+            <param name="index">Numeric index at which the string need to be retrieved from</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.DCML(MySql.Data.MySqlClient.MySqlDataReader,System.Int32)">
+            <summary>
+            Returns decimal at certain index from MySqlDataReader
+            </summary>
+            <param name="obj">Pass MySqlDataReader object</param>
+            <param name="index">Numeric index at which the string need to be retrieved from</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.PRM(MySql.Data.MySqlClient.MySqlCommand,System.String,System.Object)">
+            <summary>
+            Adds parameter to MySqlCommand object. mySqlCommandObj.Parameters.AddWithValue(ParameterName, Value);
+            </summary>
+            <param name="obj">Pass MySqlCommand object</param>
+            <param name="ParameterName">Parameter name</param>
+            <param name="Value">Value to be assigned to the parameter</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CON``1(System.Collections.Generic.HashSet{``0},``0)">
+            <summary>
+            HashSet.Contains(ValueToCheck).
+            </summary>
+            <param name="hs">HashSet</param>
+            <param name="ValueToCheck">Pass value to check if exists.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CON``1(System.Collections.Generic.List{``0},``0)">
+            <summary>
+            List.Contains(ValueToCheck).
+            </summary>
+            <param name="ls">List</param>
+            <param name="ValueToCheck">Pass value to check if exists.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CON``1(``0[],``0)">
+            <summary>
+            Array.Contains(ValueToCheck).
+            </summary>
+            <param name="arr">Array</param>
+            <param name="ValueToCheck">Pass value to check if exists.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.IN``1(``0,``0[])">
+            <summary>
+            Checks if passed object is present in provided params.
+            </summary>
+            <param name="obj">Object epending on caller</param>
+            <param name="args">Array of arguments</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.IDX``1(``0[],``0)">
+            <summary>
+            Array.IndexOf smaller version.
+            </summary>
+            <param name="arr">Arrat</param>
+            <param name="ValueToCheck">Pass value to get index of.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CONK``2(System.Collections.Generic.Dictionary{``0,``1},``0)">
+            <summary>
+            Checks if ContainsKey.
+            </summary>
+            <param name="dict">Call using Dictionary</param>
+            <param name="Key">Key</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.CONK``2(System.Collections.Concurrent.ConcurrentDictionary{``0,``1},``0)">
+            <summary>
+            Checks if ContainsKey.
+            </summary>
+            <param name="dict">Call using Dictionary</param>
+            <param name="Key">Key</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.SETV``2(System.Collections.Generic.Dictionary{``0,``1},``0,``1)">
+            <summary>
+            Checks if ContainsKey if yes then Updates value.
+            </summary>
+            <param name="dict">Call using Dictionary</param>
+            <param name="Key">Key</param>
+            <param name="Value">Value</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GETV``2(System.Collections.Generic.Dictionary{``0,``1},``0)">
+            <summary>
+            Checks if ContainsKey if yes then returns Value else default.
+            </summary>
+            <param name="dict">Call using Dictionary</param>
+            <param name="Key">Key</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.GETV``2(System.Collections.Concurrent.ConcurrentDictionary{``0,``1},``0)">
+            <summary>
+            Checks if ContainsKey if yes then returns Value else default.
+            </summary>
+            <param name="dict">Call using Dictionary</param>
+            <param name="Key">Key</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.SETV``2(System.Collections.Concurrent.ConcurrentDictionary{``0,``1},``0,``1)">
+            <summary>
+            Checks if ContainsKey if yes then Updates value.
+            </summary>
+            <param name="dict">Call using Dictionary</param>
+            <param name="Key">Key</param>
+            <param name="Value">Value</param>
+        </member>
+        <member name="M:NerveUtility.NerveUtils.EQL(System.Boolean,System.Boolean)">
+            <summary>
+            Ternary like syntax but without the else part. PreviousValue will be returned if statement is false.
+            </summary>
+            <param name="value">bool value to check.</param>
+            <param name="ValueToBeChecked">Value To Be Checked.</param>
+            <returns>bool</returns>
+        </member>
+    </members>
+</doc>

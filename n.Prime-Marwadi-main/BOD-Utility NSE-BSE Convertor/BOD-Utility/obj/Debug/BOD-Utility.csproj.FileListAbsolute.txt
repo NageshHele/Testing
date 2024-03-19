@@ -1,0 +1,349 @@
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\config.xml
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe.config
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.pdb
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\Ionic.Zip.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\Zstandard.Net.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\Renci.SshNet.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.pdb
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.xml
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.pdb
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.xml
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.dll.config
+E:\Miscellaneous\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.xml
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csprojAssemblyReference.cache
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.config
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe
+E:\Miscellaneous\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csprojAssemblyReference.cache
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\config.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe.config
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.dll.config
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\Zstandard.Net.dll
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\n.Structs.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\NSEUtilitaire.pdb
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.xml
+C:\Users\Snehadri\Desktop\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\config.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe.config
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\Zstandard.Net.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\n.Structs.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.dll.config
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\NSEUtilitaire.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csprojAssemblyReference.cache
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Settings.resources
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\config.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe.config
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.pdb
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\Zstandard.Net.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.pdb
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\n.Structs.pdb
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.pdb
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\NerveLog.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.pdb
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\NerveUtility.dll.config
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\NSEUtilitaire.pdb
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csprojAssemblyReference.cache
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Settings.resources
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe
+D:\Snehadri Nerve\Client Releases\Marwadi\Release JUN2021 (One Touch)\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.pdb
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\config.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe.config
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.pdb
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\Zstandard.Net.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.pdb
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.AssemblyReference.cache
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Settings.resources
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe
+D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.pdb
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\config.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe.config
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.exe
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\BOD Utility.pdb
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\Zstandard.Net.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.pdb
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\Google.Protobuf.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\MySql.Data.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\System.Buffers.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\System.Memory.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.AssemblyReference.cache
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD_Utility.Settings.resources
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.exe
+D:\Prime-Marwadi\BOD-Utility\BOD-Utility\obj\Debug\BOD Utility.pdb
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\config.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\BOD Utility.exe.config
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\BOD Utility.exe
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\BOD Utility.pdb
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\Google.Protobuf.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\K4os.Compression.LZ4.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\K4os.Hash.xxHash.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\MySql.Data.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\System.Buffers.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\System.Memory.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\Ubiety.Dns.Core.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\Zstandard.Net.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\Google.Protobuf.pdb
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\Google.Protobuf.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\K4os.Compression.LZ4.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\K4os.Hash.xxHash.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\MySql.Data.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\System.Buffers.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\System.Memory.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD-Utility.csproj.AssemblyReference.cache
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD_Utility.Home.resources
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD_Utility.Properties.Resources.resources
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD_Utility.Settings.resources
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD-Utility.csproj.GenerateResource.cache
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD Utility.exe.licenses
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD-Utility.csproj.CoreCompileInputs.cache
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD-Utility.csproj.CopyComplete
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD Utility.exe
+D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\obj\Debug\BOD Utility.pdb

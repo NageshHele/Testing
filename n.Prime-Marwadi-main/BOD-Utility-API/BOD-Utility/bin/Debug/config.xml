@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BOD-Utility>
+  <LOGIN>
+    <GUEST>ftpguest,FTPGUEST</GUEST>
+    <FO>faoguest,FAOGUEST</FO>
+	  <CD>cdsguest,CDSGUEST</CD>
+    <MEMBER-CODE>090181223</MEMBER-CODE>
+    <SECRET-KEY>PnL8p8Zf02vDQePmySTpQY4mN6QiOPeCGlXADZDQz/o=</SECRET-KEY>
+    <API-LOGINID>ees</API-LOGINID>
+    <API-PASSWORD>Emkay@123456</API-PASSWORD>
+  </LOGIN>
+  <URLs>
+    <CONTRACT>ftp://ftp.connect22nse.com/FaoCommon/contract.gz,C:\BOD_Files\</CONTRACT>  <!--FO-->
+    <SECURITY>ftp://ftp.connect22nse.com/FaoCommon/security.gz,C:\BOD_Files\</SECURITY>  <!--FO-->
+    <CD_CONTRACT>ftp://ftp.connect22nse.com/CDSCommon/cd_contract.gz,C:\BOD_Files\</CD_CONTRACT>
+    <FO_BHAVCOPY>ftp://ftp.connect22nse.com/FaoCommon/Bhavcopy/,https://www1.nseindia.com/content/historical/DERIVATIVES/,C:\BOD_Files\</FO_BHAVCOPY>  <!--FO-->
+    <CM_BHAVCOPY>ftp://ftp.connect22nse.com/Common/Bhavcopy/,https://www1.nseindia.com/content/historical/EQUITIES/,C:\BOD_Files\</CM_BHAVCOPY>  <!--GUEST-->
+    <CD_BHAVCOPY>ftp://ftp.connect22nse.com/CDSCommon/Bhavcopy/,https://www1.nseindia.com/content/historical/EQUITIES/,C:\BOD_Files\</CD_BHAVCOPY>
+    <SPAN>ftp://ftp.connect22nse.com/FaoCommon/Parameter/,https://archives.nseindia.com/archives/nsccl/span/,C:\BOD_Files\</SPAN>  <!--FO-->
+    <CD-SPAN>ftp://ftp.connect22nse.com/CDSCommon/Parameter/</CD-SPAN>
+    <EXPOSURE>ftp://ftp.connect22nse.com/FaoCommon/Limit%20Files/,https://www1.nseindia.com/archives/exp_lim/,C:\BOD_Files\</EXPOSURE>  <!--FO-->
+    <VAREXPOSURE>ftp://ftp.connect22nse.com/Common/VARRate/,https://archives.nseindia.com/archives/nsccl/var/,C:\BOD_Files\</VAREXPOSURE>
+	<NIFTY_EXPOSURE>ftp://ftp.connect22nse.com/FaoCommon/Limit%20Files/,C:\BOD_Files</NIFTY_EXPOSURE>
+    <!--GUEST-->
+    <OTM>ftp://ftp.connect2nse.com/FaoCommon/Limit%20Files/,C:\BOD_Files\</OTM>
+    <!--FO-->
+    <FO_SECBAN>ftp://ftp.connect2nse.com/FaoCommon/Limit%20Files/,https://www1.nseindia.com/content/fo/,C:\BOD_Files\</FO_SECBAN>
+    <!--FO-->
+    <DAILY_SNAPSHOT>https://www1.nseindia.com/content/indices/,C:\BOD_Files\</DAILY_SNAPSHOT>
+    <BSE-SPAN>C:\BOD_Files\</BSE-SPAN>
+    <BSE-EXPOSURE>C:\BOD_Files\</BSE-EXPOSURE>
+    <BSECM_BHAVCOPY>https://www.bseindia.com/download/BhavCopy/Equity/,C:\BOD_Files\</BSECM_BHAVCOPY>
+    <BSECM_SCRIP>https://www.bseindia.com/downloads/Help/file/scrip.zip,C:\BOD_Files\</BSECM_SCRIP>
+    <MF-HAIRCUT>https://www1.nseindia.com/archives/fo/mf_haircut/</MF-HAIRCUT>
+    <COLLATERAL-HAIRCUT>ftp://ftp.connect2nse.com/Common/,https://www1.nseindia.com/content/equities/</COLLATERAL-HAIRCUT>
+    <NNF-SECURITY>ftp://ftp.connect2nse.com/FaoCommon/nnf_security.gz</NNF-SECURITY>
+  </URLs>
+	<SAVEPATH>
+		<CONTRACT>C:\BOD-API\,C:\Prime\</CONTRACT>
+		<SECURITY>C:\BOD-API\,C:\Prime\</SECURITY>
+		<CD_CONTRACT>C:\BOD-API\,C:\Prime\</CD_CONTRACT>
+		<FO_BHAVCOPY>C:\BOD-API\,C:\Prime\</FO_BHAVCOPY>
+		<CM_BHAVCOPY>C:\BOD-API\,C:\Prime\</CM_BHAVCOPY>
+		<CD_BHAVCOPY>C:\BOD-API\,C:\Prime\</CD_BHAVCOPY>
+		<EXPOSURE>C:\BOD-API\Span1\,C:\BOD-API\Span2\</EXPOSURE>
+		<SPAN>C:\BOD-API\Span1\,C:\BOD-API\Span2\</SPAN>
+		<VAREXPOSURE>C:\BOD-API\</VAREXPOSURE>
+		<DAILY_SNAPSHOT>C:\BOD-API\,C:\Prime\</DAILY_SNAPSHOT>
+		<SPAN-EXTENSTIONS>s,i05,i04,i03,i02,i01</SPAN-EXTENSTIONS>
+		<VAR-EXTENSTIONS>6,5,4,3,2,1</VAR-EXTENSTIONS>
+		<FO_SECBAN>C:\BOD-API\</FO_SECBAN>
+		<BSE-SPAN-EXTENSTIONS>FINAL,04,03,02,01,00</BSE-SPAN-EXTENSTIONS>
+		<SPAN-LOGS>C:\BOD_Files\SpanMargin\Span1\Logs,C:\BOD_Files\SpanMargin\Span2\Logs</SPAN-LOGS>
+		<BSECM_BHAVCOPY>C:\BOD-API\,C:\Prime\</BSECM_BHAVCOPY>
+		<BSECM_SCRIP>C:\BOD-API\,C:\Prime\</BSECM_SCRIP>
+    <NNF-SECURITY>C:\BOD-API\,C:\Prime\</NNF-SECURITY>
+    <MF-HAIRCUT>C:\BOD-API\,C:\Prime\</MF-HAIRCUT>
+    <COLLATERAL-HAIRCUT>C:\BOD-API\,C:\Prime\Other\</COLLATERAL-HAIRCUT>
+	</SAVEPATH>
+
+	<INTERVAL>
+    <SPAN-RECHECK-SECONDS>900</SPAN-RECHECK-SECONDS>
+   <SPAN-WAIT-SECONDS>1</SPAN-WAIT-SECONDS>
+   <SPAN-WAIT-SECONDS-WEBSITE>10</SPAN-WAIT-SECONDS-WEBSITE>
+   <SPAN-WAIT-SECONDS-API>20</SPAN-WAIT-SECONDS-API>
+  </INTERVAL>
+  <AUTOMATICSETTINGS>
+    <ATTEMPTS>8</ATTEMPTS>
+    <INTERVAL>5</INTERVAL>
+    <STARTNOTIS>Yes</STARTNOTIS>
+	<START_CD_COMPONENTS>Yes</START_CD_COMPONENTS>
+    <CDFEEDPATH>C:\Snehadri-Repo\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver CD\FeedReceiver\bin\Debug\CD FeedReceiver.exe</CDFEEDPATH>
+    <CMFEEDPATH>C:\Users\sneha\OneDrive\Desktop\Release\Feed Receivers - DO NOT DELTETE THIS\CM FeedReceiver\CM FeedReceiver.exe</CMFEEDPATH>
+    <FOFEEDPATH>C:\Users\sneha\OneDrive\Desktop\Release\Feed Receivers - DO NOT DELTETE THIS\FO FeedReceiver\FO FeedReceiver.exe</FOFEEDPATH>
+    <GATEWAYPATH>C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\bin\Debug\Gateway.exe</GATEWAYPATH>
+    <ENGINEPATH>C:\Github\n.Prime-Marwadi\CDS Version\Engine\Engine\bin\Debug\Engine.exe</ENGINEPATH>
+    <NOTISEQPath>C:\Snehadri-Repo\Snehadri-New-BODUtility\NOTIS_API_Manager-master\NOTIS API EQ Manager\bin\Debug\NOTIS API EQ Manager.exe</NOTISEQPath>
+    <NOTISFOPATH>D:\NOTIS API FO Manager.exe</NOTISFOPATH>
+	<NOTISCDPATH>C:\Snehadri-Repo\Snehadri-New-BODUtility\NOTIS_API_Manager-master\NOTIS API CD Manager\NOTIS API CD Manager\bin\Debug</NOTISCDPATH>
+    <DAY1FOLDER>C:\Prime\Day1</DAY1FOLDER>
+    <PSO3FOLDER>C:\Prime\PS03</PSO3FOLDER>
+    <BHAVCOPYPATH>C:\Prime</BHAVCOPYPATH>
+    <CLIENTFULLUPLOADPATH>C:\Prime\ClientMaster\Full Upload</CLIENTFULLUPLOADPATH>
+    <CLIENTPARTIALUPLOADPATH>C:\Prime\ClientMaster\Partial Upload</CLIENTPARTIALUPLOADPATH>
+    <USERMAPPINGFILEPATH>C:\Prime\ClientMaster\Mapping</USERMAPPINGFILEPATH>
+    <FROMEMAIL></FROMEMAIL>
+    <TOEMAIL></TOEMAIL>
+    <PASSWORD></PASSWORD>
+    <SMTP></SMTP>
+  
+</AUTOMATICSETTINGS>
+</BOD-Utility>

@@ -1,0 +1,194 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.38": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.38": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.38": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.38": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Tulpep.NotificationWindow/1.1.38": {
+      "sha512": "cotu1DDvSiSqvkGIY0SOh1QN5NgXTiWJEspZCx34My+p0q9ONvtPYUZELyN+Fpo0U/KyAG5B0wEiiFdaMCesag==",
+      "type": "package",
+      "path": "tulpep.notificationwindow/1.1.38",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Tulpep.NotificationWindow.dll",
+        "tulpep.notificationwindow.1.1.38.nupkg.sha512",
+        "tulpep.notificationwindow.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Newtonsoft.Json >= 13.0.1",
+      "Tulpep.NotificationWindow >= 1.1.38"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nikhi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Github\\n.Prime-Marwadi-latest\\CDS Version\\BSEFO all components\\Prime\\Prime.csproj",
+      "projectName": "Prime",
+      "projectPath": "C:\\Github\\n.Prime-Marwadi-latest\\CDS Version\\BSEFO all components\\Prime\\Prime.csproj",
+      "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
+      "outputPath": "C:\\Github\\n.Prime-Marwadi-latest\\CDS Version\\BSEFO all components\\Prime\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "Tulpep.NotificationWindow": {
+            "target": "Package",
+            "version": "[1.1.38, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

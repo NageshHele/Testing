@@ -1,0 +1,212 @@
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\APPSEC_COLLVAL_20012023.csv at 25-01-2023 12:55:55
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cd20JAN2023bhav.csv at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cd_contract.txt at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cm20JAN2023bhav.csv at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\contract.txt at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\EQ_ISINCODE_200123.CSV at 25-01-2023 12:55:55
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\fo20JAN2023bhav.csv.csv at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\fo_secban_23012023.csv at 25-01-2023 12:55:55
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\ind_close_all_20012023.csv at 25-01-2023 12:55:55
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\MF_VAR_20012023.csv at 25-01-2023 12:55:55
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\nnf_security.txt at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\SCRIP_200123.txt at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\security.txt at 25-01-2023 12:55:55
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DownloadExchangeFiles - Contract at 25-01-2023 12:55:57
+System.Net.WebException: The remote name could not be resolved: 'ftp.connect22nse.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadContractFile() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 463
+
+[EXCEPTION] DownloadExchangeFiles - Security at 25-01-2023 12:56:07
+System.Net.WebException: The remote name could not be resolved: 'ftp.connect22nse.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSecurityFile() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 553
+
+[EXCEPTION] DownloadExchangeFiles - cd_Contract at 25-01-2023 12:56:09
+System.Net.WebException: The remote name could not be resolved: 'ftp.connect22nse.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadCDContractFile() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 928
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\APPSEC_COLLVAL_20012023.csv at 25-01-2023 12:56:51
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cd20JAN2023bhav.csv at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cd_contract.txt at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cm20JAN2023bhav.csv at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\contract.txt at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\EQ_ISINCODE_200123.CSV at 25-01-2023 12:56:51
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\fo20JAN2023bhav.csv.csv at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\fo_secban_23012023.csv at 25-01-2023 12:56:51
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\ind_close_all_20012023.csv at 25-01-2023 12:56:51
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\MF_VAR_20012023.csv at 25-01-2023 12:56:51
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\nnf_security.txt at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\SCRIP_200123.txt at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\security.txt at 25-01-2023 12:56:51
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DownloadExchangeFiles - Contract at 25-01-2023 12:56:53
+System.Net.WebException: The remote name could not be resolved: 'ftp.connect22nse.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadContractFile() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 463
+
+[EXCEPTION] DownloadExchangeFiles - Security at 25-01-2023 12:56:55
+System.Net.WebException: The remote name could not be resolved: 'ftp.connect22nse.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSecurityFile() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 553
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\APPSEC_COLLVAL_24012023.csv at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\cd_contract.txt at 25-01-2023 15:43:11
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\contract.txt at 25-01-2023 15:43:11
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\EQ_ISINCODE_200123.CSV at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\fo_secban_25012023.csv at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\ind_close_all_20012023.csv at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\ind_close_all_24012023.csv at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\MF_VAR_20012023.csv at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\MF_VAR_24012023.csv at 25-01-2023 15:43:11
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 402
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\nnf_security.txt at 25-01-2023 15:43:11
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+
+[EXCEPTION] DeleteOldSpanDirectories -VaRExosure Loop : C:\BOD-API\security.txt at 25-01-2023 15:43:11
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Miscellaneous Codes\Testing\BOD Utility\Marwadi - New\Prime1\BOD-Utility-API\BOD-Utility\Home.cs:line 401
+

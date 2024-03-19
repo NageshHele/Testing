@@ -1,0 +1,35 @@
+8/7/2023 6:05:32 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/7/2023 6:06:22 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/7/2023 6:27:33 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/7/2023 6:35:51 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/7/2023 6:36:29 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/7/2023 7:56:55 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/7/2023 8:16:08 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+

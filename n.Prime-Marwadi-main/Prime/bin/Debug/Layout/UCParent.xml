@@ -1,0 +1,334 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@11,Width=0.857142866@9,Height=0.7647059</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="GroupFooterShowMode">VisibleAlways</property>
+    <property name="ColumnAutoWidth">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="35">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colUnderlying</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">133</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">colFuturesMTM</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">129</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">colOptionsMTM</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">133</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colEquityMTM</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">121</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">colMTM</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">88</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">colIntradayFuturesMTM</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">201</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">colIntradayOptionsMTM</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">205</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">colIntradayEquityMTM</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">193</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">colIntradayMTM</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">137</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">colTheoreticalMTM</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">159</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">colVAR</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">58</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">colTheta</property>
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Width">69</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">colDeltaAmount</property>
+      <property name="VisibleIndex">14</property>
+      <property name="Visible">true</property>
+      <property name="Width">136</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">colDelta</property>
+      <property name="VisibleIndex">15</property>
+      <property name="Visible">true</property>
+      <property name="Width">69</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">colVega</property>
+      <property name="VisibleIndex">16</property>
+      <property name="Visible">true</property>
+      <property name="Width">69</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">colGamma</property>
+      <property name="VisibleIndex">17</property>
+      <property name="Visible">true</property>
+      <property name="Width">85</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Name">colSpan</property>
+      <property name="VisibleIndex">18</property>
+      <property name="Visible">true</property>
+      <property name="Width">63</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Name">colExposure</property>
+      <property name="VisibleIndex">19</property>
+      <property name="Visible">true</property>
+      <property name="Width">95</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Name">colMarginUtil</property>
+      <property name="VisibleIndex">20</property>
+      <property name="Visible">true</property>
+      <property name="Width">115</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Name">colSnapSpan</property>
+      <property name="VisibleIndex">21</property>
+      <property name="Visible">true</property>
+      <property name="Width">108</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Name">colSnapExposure</property>
+      <property name="VisibleIndex">22</property>
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Name">colSnapMarginUtil</property>
+      <property name="VisibleIndex">23</property>
+      <property name="Visible">true</property>
+      <property name="Width">160</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Name">colDeliveryMargin</property>
+      <property name="VisibleIndex">24</property>
+      <property name="Visible">true</property>
+      <property name="Width">152</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Name">colNetposDelMargin</property>
+      <property name="VisibleIndex">25</property>
+      <property name="Visible">true</property>
+      <property name="Width">175</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Name">colObligation</property>
+      <property name="VisibleIndex">26</property>
+      <property name="Visible">true</property>
+      <property name="Width">109</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Name">colPercentChange</property>
+      <property name="VisibleIndex">27</property>
+      <property name="Visible">true</property>
+      <property name="Width">148</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Name">colSpotPrice</property>
+      <property name="VisibleIndex">28</property>
+      <property name="Visible">true</property>
+      <property name="Width">105</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="Name">colPosExpoOPT</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">132</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="Name">colPosExpoFUT</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">130</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="Name">colNPL</property>
+      <property name="VisibleIndex">29</property>
+      <property name="Visible">true</property>
+      <property name="Width">88</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Name">colTurnover</property>
+      <property name="VisibleIndex">30</property>
+      <property name="Visible">true</property>
+      <property name="Width">95</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="Name">colScenario1</property>
+      <property name="VisibleIndex">31</property>
+      <property name="Visible">true</property>
+      <property name="Width">101</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="Name">colScenario2</property>
+      <property name="VisibleIndex">32</property>
+      <property name="Visible">true</property>
+      <property name="Width">101</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="Name">colScenario3</property>
+      <property name="VisibleIndex">33</property>
+      <property name="Visible">true</property>
+      <property name="Width">101</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="Name">colScenario4</property>
+      <property name="VisibleIndex">34</property>
+      <property name="Visible">true</property>
+      <property name="Width">101</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+  </property>
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString">[Underlying] In ('BANKNIFTY', 'NIFTY')</property>
+  <property name="MRUFiltersInfo" iskey="true" value="3">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">Custom</property>
+          <property name="FilterString">[Underlying] In ('BANKNIFTY', 'NIFTY')</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colUnderlying</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">Custom</property>
+          <property name="FilterString">[Underlying] = 'BANKNIFTY'</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colUnderlying</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">Custom</property>
+          <property name="FilterString">[Underlying] = 'NIFTY'</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colUnderlying</property>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

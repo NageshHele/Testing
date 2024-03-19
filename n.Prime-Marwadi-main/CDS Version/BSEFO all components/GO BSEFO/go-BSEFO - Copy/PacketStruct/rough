@@ -1,0 +1,57 @@
+
+
+/*
+////////////////////////////////////////Retriving  High Price////////////////////////////////
+
+        
+		if (*buffer)[start]==MaxByteValue && (*buffer)[start+1]==MaxByteValue{
+			fmt.Println("Got Maximum Byte")
+			temp := int32(binary.BigEndian.Uint32((*buffer)[start : start+4]))
+			//fmt.Println("Temp ", temp)
+			start += 4
+			High= temp
+			//fmt.Println("Open ", Open)
+			binary.BigEndian.PutUint32(longValue, uint32(High))
+			copy(FinalStrcuture.MessageData[IndexOfNormalMessage:IndexOfNormalMessage+4], longValue)
+			IndexOfNormalMessage += 4 
+
+		}else{
+			fmt.Println("Got Minimum Byte")
+			temp := uint16(binary.BigEndian.Uint16((*buffer)[start : start+2]))
+		start += 2
+		High= LTP+int32(temp)
+		binary.BigEndian.PutUint32(longValue, uint32(High))
+		copy(FinalStrcuture.MessageData[IndexOfNormalMessage:IndexOfNormalMessage+4], longValue)
+		IndexOfNormalMessage += 4
+
+
+		}
+
+
+
+		////////////////////////////////////////Retriving  Low Price////////////////////////////////
+
+        
+		if (*buffer)[start]==MaxByteValue && (*buffer)[start+1]==MaxByteValue{
+			fmt.Println("Got Maximum Byte")
+			temp := int32(binary.BigEndian.Uint32((*buffer)[start : start+4]))
+			//fmt.Println("Temp ", temp)
+			start += 4
+			Low= temp
+			//fmt.Println("Open ", Open)
+			binary.BigEndian.PutUint32(longValue, uint32(High))
+			copy(FinalStrcuture.MessageData[IndexOfNormalMessage:IndexOfNormalMessage+4], longValue)
+			IndexOfNormalMessage += 4 
+
+		}else{
+			fmt.Println("Got Minimum Byte")
+			temp := uint16(binary.BigEndian.Uint16((*buffer)[start : start+2]))
+		start += 2
+		Low= LTP+int32(temp)
+		binary.BigEndian.PutUint32(longValue, uint32(High))
+		copy(FinalStrcuture.MessageData[IndexOfNormalMessage:IndexOfNormalMessage+4], longValue)
+		IndexOfNormalMessage += 4
+
+
+		}
+*/

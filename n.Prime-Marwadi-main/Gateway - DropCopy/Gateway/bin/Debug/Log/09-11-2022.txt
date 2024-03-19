@@ -1,0 +1,145 @@
+11/9/2022 12:33:23 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 12:35:04 PM : Received Trade Server : ID^n.ENGINE
+
+11/9/2022 12:35:04 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 12:35:04 PM : Received Span Server : ID^n.ENGINE
+
+11/9/2022 12:35:23 PM : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+11/9/2022 12:38:42 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 12:38:42 PM : Received Span Server : ID^n.ENGINE
+
+11/9/2022 12:38:45 PM : Received Span Server : ID^n.ENGINE
+
+11/9/2022 12:40:17 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 1:47:37 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:05:33 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:05:44 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:05:45 PM : Received Trade Server : ID^n.ENGINE
+
+11/9/2022 2:05:45 PM : Received Span Server : ID^n.ENGINE
+
+11/9/2022 2:05:57 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:05:58 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:05:58 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:11:36 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:13:02 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:13:02 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:16:21 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:16:33 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:16:53 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:16:54 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:16:54 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:17:41 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:17:54 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:18:00 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:18:01 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:18:01 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:19:23 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:19:57 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:19:57 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:20:24 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:20:29 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:20:49 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:20:49 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:20:49 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:21:51 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:21:56 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:22:28 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:22:28 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:22:29 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:23:43 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:23:43 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:23:43 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:27:16 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:27:32 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:27:47 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:27:48 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:27:48 PM : Received HB Server : SIGNAL^START
+
+11/9/2022 2:44:54 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\nprime marwadi akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+11/9/2022 2:45:03 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:45:30 PM : Received HB Server : SIGNAL^STOP
+
+11/9/2022 2:45:30 PM : Received HB Server : ID^n.ENGINE
+
+11/9/2022 2:45:30 PM : Received HB Server : SIGNAL^START
+

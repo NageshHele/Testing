@@ -1,0 +1,2233 @@
+11/7/2023 10:02:44 AM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 10:02:44 AM,ReadBCECM Loop 0.17secs, Trades:3
+11/7/2023 10:02:44 AM,ReadBSEFO Loop 0secs, Trades:3
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|19800.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19250.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19100.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 10:02:46 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 10:02:46 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 10:02:46 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 10:02:46 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 10:02:46 AM,Trades Read in 2.03secs
+11/7/2023 10:02:46 AM,Total Trade Rows Sent,258, Status,True
+11/7/2023 10:03:09 AM,Initialising Image.
+11/7/2023 10:03:56 AM,Initialising CDS Image.
+11/7/2023 10:03:57 AM,Image Initialised successfully
+11/7/2023 10:03:57 AM,Computing span for eod data TotalRows : 7
+11/7/2023 10:04:03 AM,CD Image Initialised successfully
+11/7/2023 10:04:03 AM,Computing CDSspan for eod data TotalRows : 7
+11/7/2023 10:04:03 AM,CDS Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 7
+11/7/2023 10:04:03 AM,CDS EOD Span Rows : 0
+11/7/2023 10:04:05 AM,CDS Span Rows : 1
+11/7/2023 11:41:35 AM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 11:41:36 AM,ReadBCECM Loop 1.53secs, Trades:3
+11/7/2023 11:41:46 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 11:41:46 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 11:41:46 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 11:42:46 AM,Initialising Image.
+11/7/2023 11:43:20 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 11:43:22 AM,Initialising CDS Image.
+11/7/2023 11:43:37 AM,CD Image Initialised successfully
+11/7/2023 11:43:37 AM,Computing CDSspan for eod data TotalRows : 7
+11/7/2023 11:43:37 AM,CDS Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 7
+11/7/2023 11:43:49 AM,CDS EOD Span Rows : 0
+11/7/2023 11:43:54 AM,CDS Span Rows : 1
+11/7/2023 11:44:35 AM,Image Initialised successfully
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|19800.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19250.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19100.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:44:52 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:44:58 AM,Computing span for eod data TotalRows : 7
+11/7/2023 11:44:58 AM,Trades Read in 204.94secs
+11/7/2023 11:44:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:44:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:44:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:44:58 AM,Trades Read in 0.37secs
+11/7/2023 11:44:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:44:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:44:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:44:59 AM,Trades Read in 0.04secs
+11/7/2023 11:44:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:44:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:44:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:44:59 AM,Trades Read in 0.02secs
+11/7/2023 11:44:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:00 AM,Trades Read in 0.2secs
+11/7/2023 11:45:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:01 AM,Trades Read in 0.04secs
+11/7/2023 11:45:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:02 AM,Trades Read in 0.02secs
+11/7/2023 11:45:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:03 AM,Trades Read in 0.03secs
+11/7/2023 11:45:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:03 AM,Trades Read in 0secs
+11/7/2023 11:45:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:04 AM,Trades Read in 0.02secs
+11/7/2023 11:45:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:05 AM,Trades Read in 0.04secs
+11/7/2023 11:45:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:06 AM,Trades Read in 0.02secs
+11/7/2023 11:45:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:07 AM,Trades Read in 0secs
+11/7/2023 11:45:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:07 AM,Trades Read in 0.02secs
+11/7/2023 11:45:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:08 AM,Trades Read in 0.11secs
+11/7/2023 11:45:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:09 AM,Trades Read in 0.02secs
+11/7/2023 11:45:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:10 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:10 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:10 AM,Trades Read in 0.03secs
+11/7/2023 11:45:10 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:11 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:11 AM,Trades Read in 0.06secs
+11/7/2023 11:45:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:12 AM,Trades Read in 0.03secs
+11/7/2023 11:45:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:12 AM,Trades Read in 0.03secs
+11/7/2023 11:45:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:13 AM,Trades Read in 0.05secs
+11/7/2023 11:45:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:14 AM,Trades Read in 0.03secs
+11/7/2023 11:45:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:15 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:15 AM,Trades Read in 0.05secs
+11/7/2023 11:45:15 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:16 AM,Trades Read in 0.03secs
+11/7/2023 11:45:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:16 AM,Trades Read in 0.05secs
+11/7/2023 11:45:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:17 AM,Trades Read in 0.05secs
+11/7/2023 11:45:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:18 AM,Trades Read in 0.02secs
+11/7/2023 11:45:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:19 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:19 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:19 AM,Trades Read in 0secs
+11/7/2023 11:45:19 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:20 AM,Trades Read in 0.02secs
+11/7/2023 11:45:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:20 AM,Trades Read in 0secs
+11/7/2023 11:45:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:21 AM,Trades Read in 0secs
+11/7/2023 11:45:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:22 AM,Trades Read in 0secs
+11/7/2023 11:45:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:23 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:23 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:23 AM,Trades Read in 0.02secs
+11/7/2023 11:45:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:24 AM,Trades Read in 0.03secs
+11/7/2023 11:45:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:24 AM,Trades Read in 0.03secs
+11/7/2023 11:45:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:25 AM,Trades Read in 0secs
+11/7/2023 11:45:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:26 AM,Trades Read in 0.05secs
+11/7/2023 11:45:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:27 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:27 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:27 AM,Trades Read in 0secs
+11/7/2023 11:45:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:28 AM,Trades Read in 0.05secs
+11/7/2023 11:45:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:28 AM,Trades Read in 0.05secs
+11/7/2023 11:45:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:29 AM,Trades Read in 0.03secs
+11/7/2023 11:45:29 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:30 AM,Trades Read in 0.03secs
+11/7/2023 11:45:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:31 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:31 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:31 AM,Trades Read in 0.03secs
+11/7/2023 11:45:31 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:32 AM,Trades Read in 0.05secs
+11/7/2023 11:45:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:32 AM,Trades Read in 0.03secs
+11/7/2023 11:45:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:33 AM,Trades Read in 0.02secs
+11/7/2023 11:45:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:34 AM,Trades Read in 0.06secs
+11/7/2023 11:45:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:35 AM,Trades Read in 0secs
+11/7/2023 11:45:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:36 AM,Trades Read in 0secs
+11/7/2023 11:45:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:36 AM,Trades Read in 0.03secs
+11/7/2023 11:45:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:37 AM,Trades Read in 0secs
+11/7/2023 11:45:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:38 AM,Trades Read in 0.03secs
+11/7/2023 11:45:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:39 AM,Trades Read in 0.03secs
+11/7/2023 11:45:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:40 AM,Trades Read in 0.05secs
+11/7/2023 11:45:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:40 AM,Trades Read in 0.03secs
+11/7/2023 11:45:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:41 AM,Trades Read in 0.04secs
+11/7/2023 11:45:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:42 AM,Trades Read in 0.02secs
+11/7/2023 11:45:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:43 AM,Trades Read in 0.02secs
+11/7/2023 11:45:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:44 AM,Trades Read in 0.02secs
+11/7/2023 11:45:44 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:45 AM,Trades Read in 0.04secs
+11/7/2023 11:45:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:45 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:45 AM,Trades Read in 0secs
+11/7/2023 11:45:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:46 AM,Trades Read in 0secs
+11/7/2023 11:45:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:47 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:47 AM,Trades Read in 0.04secs
+11/7/2023 11:45:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:48 AM,Trades Read in 0.04secs
+11/7/2023 11:45:48 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:49 AM,Trades Read in 0.02secs
+11/7/2023 11:45:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:49 AM,Trades Read in 0.05secs
+11/7/2023 11:45:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:50 AM,Trades Read in 0.02secs
+11/7/2023 11:45:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:51 AM,Trades Read in 0.04secs
+11/7/2023 11:45:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:52 AM,Trades Read in 0.02secs
+11/7/2023 11:45:52 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:53 AM,Trades Read in 0.02secs
+11/7/2023 11:45:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:53 AM,Trades Read in 0.02secs
+11/7/2023 11:45:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:54 AM,Trades Read in 0secs
+11/7/2023 11:45:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:55 AM,Trades Read in 0.04secs
+11/7/2023 11:45:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:56 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:56 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:56 AM,Trades Read in 0.04secs
+11/7/2023 11:45:56 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:57 AM,Trades Read in 0.02secs
+11/7/2023 11:45:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:57 AM,Trades Read in 0.02secs
+11/7/2023 11:45:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:58 AM,Trades Read in 0.04secs
+11/7/2023 11:45:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:45:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:45:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:45:59 AM,Trades Read in 0.01secs
+11/7/2023 11:45:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:00 AM,Trades Read in 0.01secs
+11/7/2023 11:46:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:01 AM,ReadBCECM Loop 0.01secs, Trades:32
+11/7/2023 11:46:01 AM,Trades Read in 0.04secs
+11/7/2023 11:46:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:01 AM,Trades Read in 0.02secs
+11/7/2023 11:46:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:02 AM,Trades Read in 0.01secs
+11/7/2023 11:46:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:03 AM,Trades Read in 0.04secs
+11/7/2023 11:46:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:04 AM,Trades Read in 0.03secs
+11/7/2023 11:46:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:05 AM,Trades Read in 0secs
+11/7/2023 11:46:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:05 AM,Trades Read in 0.04secs
+11/7/2023 11:46:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:06 AM,Trades Read in 0secs
+11/7/2023 11:46:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:07 AM,Trades Read in 0.04secs
+11/7/2023 11:46:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:08 AM,Trades Read in 0.02secs
+11/7/2023 11:46:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:09 AM,Trades Read in 0secs
+11/7/2023 11:46:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:09 AM,Trades Read in 0.02secs
+11/7/2023 11:46:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:10 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:10 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:10 AM,Trades Read in 0.02secs
+11/7/2023 11:46:10 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:11 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:11 AM,Trades Read in 0.2secs
+11/7/2023 11:46:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:12 AM,Trades Read in 0.02secs
+11/7/2023 11:46:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:13 AM,Trades Read in 0.02secs
+11/7/2023 11:46:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:13 AM,Trades Read in 0.04secs
+11/7/2023 11:46:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:14 AM,Trades Read in 0.07secs
+11/7/2023 11:46:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:15 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:15 AM,Trades Read in 0.05secs
+11/7/2023 11:46:15 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:16 AM,Trades Read in 0.04secs
+11/7/2023 11:46:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:17 AM,Trades Read in 0.04secs
+11/7/2023 11:46:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:17 AM,Trades Read in 0.04secs
+11/7/2023 11:46:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:18 AM,Trades Read in 0.04secs
+11/7/2023 11:46:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:19 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:19 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:19 AM,Trades Read in 0secs
+11/7/2023 11:46:19 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:20 AM,Trades Read in 0.05secs
+11/7/2023 11:46:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:21 AM,Trades Read in 0.01secs
+11/7/2023 11:46:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:21 AM,Trades Read in 0.02secs
+11/7/2023 11:46:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:22 AM,ReadBCECM Loop 0.01secs, Trades:32
+11/7/2023 11:46:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:22 AM,Trades Read in 0.05secs
+11/7/2023 11:46:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:23 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:23 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:23 AM,Trades Read in 0.01secs
+11/7/2023 11:46:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:24 AM,Trades Read in 0.01secs
+11/7/2023 11:46:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:25 AM,Trades Read in 0.05secs
+11/7/2023 11:46:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:25 AM,Trades Read in 0.05secs
+11/7/2023 11:46:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:26 AM,Trades Read in 0.02secs
+11/7/2023 11:46:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:27 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:27 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:27 AM,Trades Read in 0.05secs
+11/7/2023 11:46:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:28 AM,Trades Read in 0.02secs
+11/7/2023 11:46:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:29 AM,Trades Read in 0.03secs
+11/7/2023 11:46:29 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:30 AM,Trades Read in 0.05secs
+11/7/2023 11:46:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:30 AM,Trades Read in 0secs
+11/7/2023 11:46:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:31 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:31 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:31 AM,Trades Read in 0.03secs
+11/7/2023 11:46:31 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:32 AM,Trades Read in 0secs
+11/7/2023 11:46:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:33 AM,Trades Read in 0.03secs
+11/7/2023 11:46:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:33 AM,Trades Read in 0secs
+11/7/2023 11:46:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:34 AM,Trades Read in 0.02secs
+11/7/2023 11:46:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:35 AM,Trades Read in 0.03secs
+11/7/2023 11:46:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:36 AM,Trades Read in 0.02secs
+11/7/2023 11:46:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:37 AM,Trades Read in 0.05secs
+11/7/2023 11:46:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:37 AM,Trades Read in 0.02secs
+11/7/2023 11:46:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:38 AM,Trades Read in 0.03secs
+11/7/2023 11:46:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:39 AM,Trades Read in 0secs
+11/7/2023 11:46:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:40 AM,Trades Read in 0.02secs
+11/7/2023 11:46:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:41 AM,Trades Read in 0.02secs
+11/7/2023 11:46:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:42 AM,Trades Read in 0.02secs
+11/7/2023 11:46:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:42 AM,Trades Read in 0.02secs
+11/7/2023 11:46:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:43 AM,Trades Read in 0.02secs
+11/7/2023 11:46:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:44 AM,Trades Read in 0secs
+11/7/2023 11:46:44 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:45 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:45 AM,Trades Read in 0.05secs
+11/7/2023 11:46:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:46 AM,Trades Read in 0.03secs
+11/7/2023 11:46:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:46 AM,Trades Read in 0.05secs
+11/7/2023 11:46:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:47 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:47 AM,Trades Read in 0secs
+11/7/2023 11:46:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:48 AM,Trades Read in 0.03secs
+11/7/2023 11:46:48 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:49 AM,Trades Read in 0.05secs
+11/7/2023 11:46:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:50 AM,Trades Read in 0secs
+11/7/2023 11:46:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:50 AM,Trades Read in 0.02secs
+11/7/2023 11:46:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:51 AM,Trades Read in 0.04secs
+11/7/2023 11:46:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:52 AM,Trades Read in 0.02secs
+11/7/2023 11:46:52 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:53 AM,Trades Read in 0.02secs
+11/7/2023 11:46:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:54 AM,Trades Read in 0.02secs
+11/7/2023 11:46:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:54 AM,Trades Read in 0.02secs
+11/7/2023 11:46:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:55 AM,Trades Read in 0.04secs
+11/7/2023 11:46:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:56 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:56 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:56 AM,Trades Read in 0.04secs
+11/7/2023 11:46:56 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:57 AM,Trades Read in 0.04secs
+11/7/2023 11:46:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:58 AM,Trades Read in 0.05secs
+11/7/2023 11:46:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:58 AM,Trades Read in 0.03secs
+11/7/2023 11:46:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:46:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:46:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:46:59 AM,Trades Read in 0.04secs
+11/7/2023 11:46:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:00 AM,Trades Read in 0.03secs
+11/7/2023 11:47:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:01 AM,Trades Read in 0.02secs
+11/7/2023 11:47:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:02 AM,Trades Read in 0.04secs
+11/7/2023 11:47:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:02 AM,Trades Read in 0secs
+11/7/2023 11:47:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:03 AM,Trades Read in 0secs
+11/7/2023 11:47:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:04 AM,Trades Read in 0.02secs
+11/7/2023 11:47:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:05 AM,Trades Read in 0.02secs
+11/7/2023 11:47:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:06 AM,Trades Read in 0.02secs
+11/7/2023 11:47:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:06 AM,Trades Read in 0.02secs
+11/7/2023 11:47:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:07 AM,Trades Read in 0.02secs
+11/7/2023 11:47:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:08 AM,Trades Read in 0.02secs
+11/7/2023 11:47:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:09 AM,Trades Read in 0.02secs
+11/7/2023 11:47:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:10 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:10 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:10 AM,Trades Read in 0secs
+11/7/2023 11:47:10 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:10 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:10 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:10 AM,Trades Read in 0secs
+11/7/2023 11:47:10 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:11 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:11 AM,Trades Read in 0.04secs
+11/7/2023 11:47:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:12 AM,Trades Read in 0secs
+11/7/2023 11:47:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:13 AM,Trades Read in 0.04secs
+11/7/2023 11:47:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:14 AM,Trades Read in 0.03secs
+11/7/2023 11:47:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:14 AM,Trades Read in 0.04secs
+11/7/2023 11:47:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:15 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:15 AM,Trades Read in 0secs
+11/7/2023 11:47:15 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:16 AM,Trades Read in 0secs
+11/7/2023 11:47:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:17 AM,Trades Read in 0.04secs
+11/7/2023 11:47:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:18 AM,Trades Read in 0.04secs
+11/7/2023 11:47:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:18 AM,Trades Read in 0.02secs
+11/7/2023 11:47:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:19 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:19 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:19 AM,Trades Read in 0.02secs
+11/7/2023 11:47:19 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:20 AM,Trades Read in 0.02secs
+11/7/2023 11:47:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:21 AM,Trades Read in 0.04secs
+11/7/2023 11:47:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:22 AM,Trades Read in 0.03secs
+11/7/2023 11:47:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:23 AM,Trades Read in 0.04secs
+11/7/2023 11:47:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:23 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:23 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:23 AM,Trades Read in 0.04secs
+11/7/2023 11:47:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:24 AM,Trades Read in 0.02secs
+11/7/2023 11:47:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:25 AM,Trades Read in 0.02secs
+11/7/2023 11:47:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:26 AM,Trades Read in 0secs
+11/7/2023 11:47:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:27 AM,Trades Read in 0.04secs
+11/7/2023 11:47:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:27 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:27 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:27 AM,Trades Read in 0secs
+11/7/2023 11:47:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:28 AM,Trades Read in 0secs
+11/7/2023 11:47:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:29 AM,Trades Read in 0.04secs
+11/7/2023 11:47:29 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:30 AM,Trades Read in 0secs
+11/7/2023 11:47:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:30 AM,Trades Read in 0secs
+11/7/2023 11:47:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:31 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:31 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:31 AM,Trades Read in 0.04secs
+11/7/2023 11:47:31 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:32 AM,Trades Read in 0.03secs
+11/7/2023 11:47:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:33 AM,Trades Read in 0.02secs
+11/7/2023 11:47:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:34 AM,Trades Read in 0.02secs
+11/7/2023 11:47:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:35 AM,Trades Read in 0.03secs
+11/7/2023 11:47:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:35 AM,Trades Read in 0.02secs
+11/7/2023 11:47:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:36 AM,Trades Read in 0.02secs
+11/7/2023 11:47:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:37 AM,Trades Read in 0.03secs
+11/7/2023 11:47:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:38 AM,Trades Read in 0.04secs
+11/7/2023 11:47:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:39 AM,Trades Read in 0.04secs
+11/7/2023 11:47:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:39 AM,Trades Read in 0.04secs
+11/7/2023 11:47:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:40 AM,Trades Read in 0.02secs
+11/7/2023 11:47:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:41 AM,Trades Read in 0.02secs
+11/7/2023 11:47:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:42 AM,Trades Read in 0.04secs
+11/7/2023 11:47:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:43 AM,Trades Read in 0.04secs
+11/7/2023 11:47:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:43 AM,Trades Read in 0.02secs
+11/7/2023 11:47:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:44 AM,Trades Read in 0secs
+11/7/2023 11:47:44 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:45 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:45 AM,Trades Read in 0.05secs
+11/7/2023 11:47:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:46 AM,Trades Read in 0.02secs
+11/7/2023 11:47:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:47 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:47 AM,Trades Read in 0.05secs
+11/7/2023 11:47:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:47 AM,ReadBCECM Loop 0.01secs, Trades:32
+11/7/2023 11:47:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:47 AM,Trades Read in 0.04secs
+11/7/2023 11:47:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:48 AM,Trades Read in 0.02secs
+11/7/2023 11:47:48 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:49 AM,Trades Read in 0secs
+11/7/2023 11:47:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:50 AM,Trades Read in 0.06secs
+11/7/2023 11:47:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:51 AM,Trades Read in 0.03secs
+11/7/2023 11:47:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:51 AM,Trades Read in 0.05secs
+11/7/2023 11:47:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:52 AM,Trades Read in 0.05secs
+11/7/2023 11:47:52 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:53 AM,Trades Read in 0.05secs
+11/7/2023 11:47:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:54 AM,Trades Read in 0.01secs
+11/7/2023 11:47:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:55 AM,Trades Read in 0.02secs
+11/7/2023 11:47:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:55 AM,Trades Read in 0.04secs
+11/7/2023 11:47:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:56 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:56 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:56 AM,Trades Read in 0.04secs
+11/7/2023 11:47:56 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:57 AM,Trades Read in 0.02secs
+11/7/2023 11:47:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:58 AM,Trades Read in 0.02secs
+11/7/2023 11:47:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:47:59 AM,Trades Read in 0.03secs
+11/7/2023 11:47:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:47:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:47:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:00 AM,Trades Read in 0.03secs
+11/7/2023 11:48:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:00 AM,Trades Read in 0.03secs
+11/7/2023 11:48:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:01 AM,Trades Read in 0.02secs
+11/7/2023 11:48:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:02 AM,Trades Read in 0.02secs
+11/7/2023 11:48:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:03 AM,Trades Read in 0.03secs
+11/7/2023 11:48:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:04 AM,Trades Read in 0.02secs
+11/7/2023 11:48:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:04 AM,Trades Read in 0secs
+11/7/2023 11:48:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:05 AM,Trades Read in 0.02secs
+11/7/2023 11:48:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:06 AM,Trades Read in 0.05secs
+11/7/2023 11:48:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:07 AM,Trades Read in 0secs
+11/7/2023 11:48:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:08 AM,Trades Read in 0.05secs
+11/7/2023 11:48:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:08 AM,Trades Read in 0.06secs
+11/7/2023 11:48:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:09 AM,Trades Read in 0.05secs
+11/7/2023 11:48:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:10 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:10 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:10 AM,Trades Read in 0.02secs
+11/7/2023 11:48:10 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:11 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:11 AM,Trades Read in 0.03secs
+11/7/2023 11:48:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:12 AM,Trades Read in 0.03secs
+11/7/2023 11:48:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:12 AM,Trades Read in 0.02secs
+11/7/2023 11:48:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:13 AM,Trades Read in 0.05secs
+11/7/2023 11:48:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:14 AM,Trades Read in 0.02secs
+11/7/2023 11:48:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:15 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:15 AM,Trades Read in 0.02secs
+11/7/2023 11:48:15 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:16 AM,Trades Read in 0.02secs
+11/7/2023 11:48:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:16 AM,Trades Read in 0.02secs
+11/7/2023 11:48:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:17 AM,Trades Read in 0.05secs
+11/7/2023 11:48:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:18 AM,Trades Read in 0.03secs
+11/7/2023 11:48:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:19 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:19 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:19 AM,Trades Read in 0.02secs
+11/7/2023 11:48:19 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:20 AM,Trades Read in 0.02secs
+11/7/2023 11:48:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:20 AM,Trades Read in 0.03secs
+11/7/2023 11:48:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:21 AM,Trades Read in 0.05secs
+11/7/2023 11:48:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:22 AM,Trades Read in 0.03secs
+11/7/2023 11:48:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:23 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:23 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:23 AM,Trades Read in 0.02secs
+11/7/2023 11:48:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:24 AM,Trades Read in 0secs
+11/7/2023 11:48:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:24 AM,Trades Read in 0.03secs
+11/7/2023 11:48:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:25 AM,Trades Read in 0.05secs
+11/7/2023 11:48:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:26 AM,Trades Read in 0.03secs
+11/7/2023 11:48:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:27 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:27 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:27 AM,Trades Read in 0.03secs
+11/7/2023 11:48:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:28 AM,Trades Read in 0.02secs
+11/7/2023 11:48:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:28 AM,Trades Read in 0.02secs
+11/7/2023 11:48:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:29 AM,Trades Read in 0.04secs
+11/7/2023 11:48:29 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:30 AM,Trades Read in 0.03secs
+11/7/2023 11:48:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:31 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:31 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:31 AM,Trades Read in 0.02secs
+11/7/2023 11:48:31 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:32 AM,Trades Read in 0.02secs
+11/7/2023 11:48:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:32 AM,Trades Read in 0.04secs
+11/7/2023 11:48:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:33 AM,Trades Read in 0secs
+11/7/2023 11:48:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:34 AM,Trades Read in 0.03secs
+11/7/2023 11:48:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:35 AM,Trades Read in 0.02secs
+11/7/2023 11:48:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:36 AM,Trades Read in 0.04secs
+11/7/2023 11:48:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:36 AM,Trades Read in 0.04secs
+11/7/2023 11:48:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:37 AM,Trades Read in 0.03secs
+11/7/2023 11:48:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:38 AM,Trades Read in 0secs
+11/7/2023 11:48:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:39 AM,Trades Read in 0.05secs
+11/7/2023 11:48:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:40 AM,Trades Read in 0.03secs
+11/7/2023 11:48:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:41 AM,Trades Read in 0.05secs
+11/7/2023 11:48:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:41 AM,Trades Read in 0.1secs
+11/7/2023 11:48:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:42 AM,Trades Read in 0.02secs
+11/7/2023 11:48:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:43 AM,Trades Read in 0.03secs
+11/7/2023 11:48:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:44 AM,Trades Read in 0.02secs
+11/7/2023 11:48:44 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:45 AM,Trades Read in 0.04secs
+11/7/2023 11:48:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:45 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:45 AM,Trades Read in 0.02secs
+11/7/2023 11:48:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:46 AM,Trades Read in 0.02secs
+11/7/2023 11:48:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:47 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:47 AM,Trades Read in 0.02secs
+11/7/2023 11:48:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:48 AM,Trades Read in 0.04secs
+11/7/2023 11:48:48 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:49 AM,Trades Read in 0.02secs
+11/7/2023 11:48:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:49 AM,Trades Read in 0secs
+11/7/2023 11:48:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:50 AM,Trades Read in 0secs
+11/7/2023 11:48:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:51 AM,Trades Read in 0.02secs
+11/7/2023 11:48:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:52 AM,Trades Read in 0.03secs
+11/7/2023 11:48:52 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:53 AM,Trades Read in 0.03secs
+11/7/2023 11:48:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:53 AM,Trades Read in 0.03secs
+11/7/2023 11:48:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:54 AM,Trades Read in 0.02secs
+11/7/2023 11:48:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:55 AM,Trades Read in 0.02secs
+11/7/2023 11:48:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:56 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:56 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:56 AM,Trades Read in 0.05secs
+11/7/2023 11:48:56 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:57 AM,Trades Read in 0.03secs
+11/7/2023 11:48:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:57 AM,Trades Read in 0.02secs
+11/7/2023 11:48:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:58 AM,Trades Read in 0.03secs
+11/7/2023 11:48:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:48:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:48:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:48:59 AM,Trades Read in 0secs
+11/7/2023 11:48:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:01 AM,Trades Read in 0.74secs
+11/7/2023 11:49:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:01 AM,Trades Read in 0.03secs
+11/7/2023 11:49:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:01 AM,Trades Read in 0.03secs
+11/7/2023 11:49:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:02 AM,Trades Read in 0.05secs
+11/7/2023 11:49:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:03 AM,Trades Read in 0.03secs
+11/7/2023 11:49:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:04 AM,Trades Read in 0.02secs
+11/7/2023 11:49:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:05 AM,Trades Read in 0.05secs
+11/7/2023 11:49:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:05 AM,Trades Read in 0.03secs
+11/7/2023 11:49:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:06 AM,Trades Read in 0.03secs
+11/7/2023 11:49:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:07 AM,Trades Read in 0.03secs
+11/7/2023 11:49:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:08 AM,Trades Read in 0.04secs
+11/7/2023 11:49:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:09 AM,Trades Read in 0secs
+11/7/2023 11:49:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:09 AM,Trades Read in 0secs
+11/7/2023 11:49:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:10 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:10 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:10 AM,Trades Read in 0.02secs
+11/7/2023 11:49:10 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:11 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:11 AM,Trades Read in 0.04secs
+11/7/2023 11:49:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:12 AM,Trades Read in 0.04secs
+11/7/2023 11:49:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:13 AM,Trades Read in 0.05secs
+11/7/2023 11:49:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:13 AM,Trades Read in 0.02secs
+11/7/2023 11:49:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:14 AM,Trades Read in 0secs
+11/7/2023 11:49:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:15 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:15 AM,Trades Read in 0.02secs
+11/7/2023 11:49:15 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:16 AM,Trades Read in 0secs
+11/7/2023 11:49:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:17 AM,Trades Read in 0secs
+11/7/2023 11:49:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:18 AM,Trades Read in 0.02secs
+11/7/2023 11:49:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:18 AM,Trades Read in 0.02secs
+11/7/2023 11:49:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:19 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:19 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:19 AM,Trades Read in 0.04secs
+11/7/2023 11:49:19 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:20 AM,Trades Read in 0.02secs
+11/7/2023 11:49:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:21 AM,Trades Read in 0.22secs
+11/7/2023 11:49:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:22 AM,Trades Read in 0.01secs
+11/7/2023 11:49:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:22 AM,Trades Read in 0.01secs
+11/7/2023 11:49:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:23 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:23 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:23 AM,Trades Read in 0.02secs
+11/7/2023 11:49:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:24 AM,Trades Read in 0.04secs
+11/7/2023 11:49:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:25 AM,Trades Read in 0.04secs
+11/7/2023 11:49:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:26 AM,Trades Read in 0.05secs
+11/7/2023 11:49:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:26 AM,Trades Read in 0.04secs
+11/7/2023 11:49:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:27 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:27 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:27 AM,Trades Read in 0.04secs
+11/7/2023 11:49:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:28 AM,ReadBCECM Loop 0.31secs, Trades:32
+11/7/2023 11:49:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:28 AM,Trades Read in 0.34secs
+11/7/2023 11:49:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:29 AM,Trades Read in 0.01secs
+11/7/2023 11:49:29 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:30 AM,Trades Read in 0.02secs
+11/7/2023 11:49:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:30 AM,Trades Read in 0.04secs
+11/7/2023 11:49:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:31 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:31 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:31 AM,Trades Read in 0.04secs
+11/7/2023 11:49:31 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:32 AM,Trades Read in 0.02secs
+11/7/2023 11:49:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:33 AM,Trades Read in 0.01secs
+11/7/2023 11:49:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:34 AM,Trades Read in 0.05secs
+11/7/2023 11:49:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:34 AM,Trades Read in 0.03secs
+11/7/2023 11:49:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:35 AM,Trades Read in 0.03secs
+11/7/2023 11:49:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:36 AM,Trades Read in 0secs
+11/7/2023 11:49:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:37 AM,Trades Read in 0.03secs
+11/7/2023 11:49:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:38 AM,Trades Read in 0.02secs
+11/7/2023 11:49:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:38 AM,Trades Read in 0.07secs
+11/7/2023 11:49:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:39 AM,Trades Read in 0secs
+11/7/2023 11:49:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:40 AM,Trades Read in 0secs
+11/7/2023 11:49:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:41 AM,Trades Read in 0secs
+11/7/2023 11:49:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:42 AM,Trades Read in 0.05secs
+11/7/2023 11:49:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:42 AM,Trades Read in 0.02secs
+11/7/2023 11:49:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:43 AM,Trades Read in 0secs
+11/7/2023 11:49:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:44 AM,Trades Read in 0.02secs
+11/7/2023 11:49:44 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:45 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:45 AM,Trades Read in 0secs
+11/7/2023 11:49:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:46 AM,Trades Read in 0secs
+11/7/2023 11:49:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:46 AM,Trades Read in 0.03secs
+11/7/2023 11:49:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:47 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:47 AM,Trades Read in 0.02secs
+11/7/2023 11:49:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:48 AM,Trades Read in 0.02secs
+11/7/2023 11:49:48 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:49 AM,Trades Read in 0.02secs
+11/7/2023 11:49:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:50 AM,Trades Read in 0.03secs
+11/7/2023 11:49:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:50 AM,Trades Read in 0.03secs
+11/7/2023 11:49:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:51 AM,Trades Read in 0secs
+11/7/2023 11:49:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:52 AM,Trades Read in 0.03secs
+11/7/2023 11:49:52 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:53 AM,Trades Read in 0.03secs
+11/7/2023 11:49:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:54 AM,Trades Read in 0secs
+11/7/2023 11:49:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:54 AM,Trades Read in 0.05secs
+11/7/2023 11:49:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:55 AM,Trades Read in 0.02secs
+11/7/2023 11:49:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:56 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:56 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:56 AM,Trades Read in 0.02secs
+11/7/2023 11:49:56 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:57 AM,Trades Read in 0.02secs
+11/7/2023 11:49:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:58 AM,Trades Read in 0secs
+11/7/2023 11:49:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:58 AM,Trades Read in 0secs
+11/7/2023 11:49:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:49:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:49:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:49:59 AM,Trades Read in 0secs
+11/7/2023 11:49:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:00 AM,Trades Read in 0.03secs
+11/7/2023 11:50:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:01 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:01 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:01 AM,Trades Read in 0.03secs
+11/7/2023 11:50:01 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:02 AM,Trades Read in 0.02secs
+11/7/2023 11:50:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:02 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:02 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:02 AM,Trades Read in 0.03secs
+11/7/2023 11:50:02 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:03 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:03 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:03 AM,Trades Read in 0.02secs
+11/7/2023 11:50:03 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:04 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:04 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:04 AM,Trades Read in 0.02secs
+11/7/2023 11:50:04 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:05 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:05 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:05 AM,Trades Read in 0.02secs
+11/7/2023 11:50:05 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:06 AM,Trades Read in 0.05secs
+11/7/2023 11:50:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:06 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:06 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:06 AM,Trades Read in 0secs
+11/7/2023 11:50:06 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:07 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:07 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:07 AM,Trades Read in 0secs
+11/7/2023 11:50:07 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:08 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:08 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:08 AM,Trades Read in 0secs
+11/7/2023 11:50:08 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:09 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:09 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:09 AM,Trades Read in 0secs
+11/7/2023 11:50:09 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:11 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:11 AM,Trades Read in 1secs
+11/7/2023 11:50:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:11 AM,ReadBCECM Loop 0.02secs, Trades:32
+11/7/2023 11:50:11 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:11 AM,Trades Read in 0.02secs
+11/7/2023 11:50:11 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:12 AM,Trades Read in 0.03secs
+11/7/2023 11:50:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:12 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:12 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:12 AM,Trades Read in 0secs
+11/7/2023 11:50:12 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:13 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:13 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:13 AM,Trades Read in 0.02secs
+11/7/2023 11:50:13 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:14 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:14 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:14 AM,Trades Read in 0.02secs
+11/7/2023 11:50:14 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:15 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:15 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:15 AM,Trades Read in 0.02secs
+11/7/2023 11:50:15 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:16 AM,Trades Read in 0.03secs
+11/7/2023 11:50:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:16 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:16 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:16 AM,Trades Read in 0secs
+11/7/2023 11:50:16 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:17 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:17 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:17 AM,Trades Read in 0secs
+11/7/2023 11:50:17 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:18 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:18 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:18 AM,Trades Read in 0secs
+11/7/2023 11:50:18 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:19 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:19 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:19 AM,Trades Read in 0.03secs
+11/7/2023 11:50:19 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:20 AM,Trades Read in 0.02secs
+11/7/2023 11:50:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:20 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:20 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:20 AM,Trades Read in 0.02secs
+11/7/2023 11:50:20 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:21 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:21 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:21 AM,Trades Read in 0secs
+11/7/2023 11:50:21 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:22 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:22 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:22 AM,Trades Read in 0.02secs
+11/7/2023 11:50:22 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:23 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:23 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:23 AM,Trades Read in 0.02secs
+11/7/2023 11:50:23 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:24 AM,Trades Read in 0.03secs
+11/7/2023 11:50:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:24 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:24 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:24 AM,Trades Read in 0.03secs
+11/7/2023 11:50:24 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:25 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:25 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:25 AM,Trades Read in 0.02secs
+11/7/2023 11:50:25 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:26 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:26 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:26 AM,Trades Read in 0.02secs
+11/7/2023 11:50:26 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:27 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:27 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:27 AM,Trades Read in 0.04secs
+11/7/2023 11:50:27 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:28 AM,Trades Read in 0.02secs
+11/7/2023 11:50:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:28 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:28 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:28 AM,Trades Read in 0.04secs
+11/7/2023 11:50:28 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:29 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:29 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:29 AM,Trades Read in 0.04secs
+11/7/2023 11:50:29 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:30 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:30 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:30 AM,Trades Read in 0.02secs
+11/7/2023 11:50:30 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:31 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:31 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:31 AM,Trades Read in 0.05secs
+11/7/2023 11:50:31 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:32 AM,Trades Read in 0.03secs
+11/7/2023 11:50:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:32 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:32 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:32 AM,Trades Read in 0.02secs
+11/7/2023 11:50:32 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:33 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:33 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:33 AM,Trades Read in 0.02secs
+11/7/2023 11:50:33 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:34 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:34 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:34 AM,Trades Read in 0.02secs
+11/7/2023 11:50:34 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:35 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:35 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:35 AM,Trades Read in 0secs
+11/7/2023 11:50:35 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:36 AM,Trades Read in 0.02secs
+11/7/2023 11:50:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:36 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:36 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:36 AM,Trades Read in 0.02secs
+11/7/2023 11:50:36 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:37 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:37 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:37 AM,Trades Read in 0.03secs
+11/7/2023 11:50:37 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:38 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:38 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:38 AM,Trades Read in 0.03secs
+11/7/2023 11:50:38 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:39 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:39 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:39 AM,Trades Read in 0.05secs
+11/7/2023 11:50:39 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:40 AM,Trades Read in 0.03secs
+11/7/2023 11:50:40 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:40 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:40 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:41 AM,Trades Read in 0.03secs
+11/7/2023 11:50:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:41 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:41 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:41 AM,Trades Read in 0.02secs
+11/7/2023 11:50:41 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:42 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:42 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:42 AM,Trades Read in 0secs
+11/7/2023 11:50:42 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:43 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:43 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:43 AM,Trades Read in 0.03secs
+11/7/2023 11:50:43 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:44 AM,Trades Read in 0.03secs
+11/7/2023 11:50:44 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:44 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:44 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:45 AM,Trades Read in 0.03secs
+11/7/2023 11:50:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:45 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:45 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:45 AM,Trades Read in 0secs
+11/7/2023 11:50:45 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:46 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:46 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:46 AM,Trades Read in 0.03secs
+11/7/2023 11:50:46 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:47 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:47 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:47 AM,Trades Read in 0secs
+11/7/2023 11:50:47 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:48 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:48 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:48 AM,Trades Read in 0secs
+11/7/2023 11:50:48 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:49 AM,Trades Read in 0.02secs
+11/7/2023 11:50:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:49 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:49 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:49 AM,Trades Read in 0secs
+11/7/2023 11:50:49 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:50 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:50 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:50 AM,Trades Read in 0.03secs
+11/7/2023 11:50:50 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:51 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:51 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:51 AM,Trades Read in 0.05secs
+11/7/2023 11:50:51 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:52 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:52 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:52 AM,Trades Read in 0.05secs
+11/7/2023 11:50:52 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:53 AM,Trades Read in 0.03secs
+11/7/2023 11:50:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:53 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:53 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:53 AM,Trades Read in 0.05secs
+11/7/2023 11:50:53 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:54 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:54 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:54 AM,Trades Read in 0.06secs
+11/7/2023 11:50:54 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:55 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:55 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:55 AM,Trades Read in 0.03secs
+11/7/2023 11:50:55 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:56 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:56 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:56 AM,Trades Read in 0.02secs
+11/7/2023 11:50:56 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:57 AM,Trades Read in 0.03secs
+11/7/2023 11:50:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:57 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:57 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:57 AM,Trades Read in 0.05secs
+11/7/2023 11:50:57 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:58 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:58 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:58 AM,Trades Read in 0.03secs
+11/7/2023 11:50:58 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:50:59 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:50:59 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:50:59 AM,Trades Read in 0.02secs
+11/7/2023 11:50:59 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:51:00 AM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 11:51:00 AM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 11:51:00 AM,Trades Read in 0.03secs
+11/7/2023 11:51:00 AM,Total Trade Rows Sent,32, Status,False
+11/7/2023 11:53:24 AM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 11:53:24 AM,ReadBCECM Loop 0.04secs, Trades:3
+11/7/2023 11:53:24 AM,ReadBSEFO Loop 0secs, Trades:3
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|19800.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19250.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19100.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 11:53:25 AM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 11:53:25 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 11:53:25 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 11:53:25 AM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 11:53:25 AM,Trades Read in 0.59secs
+11/7/2023 11:53:26 AM,Total Trade Rows Sent,32, Status,True
+11/7/2023 11:53:32 AM,Initialising Image.
+11/7/2023 11:53:44 AM,Initialising CDS Image.
+11/7/2023 11:57:10 AM,Image Initialised successfully
+11/7/2023 11:57:40 AM,Computing span for eod data TotalRows : 7
+11/7/2023 11:57:41 AM,CD Image Initialised successfully
+11/7/2023 11:57:41 AM,Computing CDSspan for eod data TotalRows : 7
+11/7/2023 11:57:41 AM,CDS Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 7
+11/7/2023 11:57:41 AM,CDS EOD Span Rows : 0
+11/7/2023 11:57:52 AM,CDS Span Rows : 1
+11/7/2023 12:05:25 PM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 12:05:25 PM,ReadBCECM Loop 0.1secs, Trades:3
+11/7/2023 12:05:25 PM,ReadBSEFO Loop 0secs, Trades:3
+11/7/2023 12:05:26 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 12:05:26 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 12:05:26 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 12:05:26 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 12:05:26 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 12:25:34 PM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 12:25:34 PM,ReadBCECM Loop 0.16secs, Trades:3
+11/7/2023 12:25:36 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 12:25:36 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 12:25:36 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|19800.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19250.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19100.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:25:36 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:25:36 PM,Trades Read in 1.95secs
+11/7/2023 12:25:37 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:37 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:37 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:25:37 PM,Trades Read in 0.12secs
+11/7/2023 12:25:37 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:37 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:25:37 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:38 PM,Trades Read in 0.13secs
+11/7/2023 12:25:38 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:38 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:38 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:25:39 PM,Trades Read in 0.35secs
+11/7/2023 12:25:39 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:39 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:39 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:25:39 PM,Trades Read in 0.37secs
+11/7/2023 12:25:39 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:40 PM,Initialising Image.
+11/7/2023 12:25:40 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:40 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:40 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:25:40 PM,Trades Read in 0.08secs
+11/7/2023 12:25:40 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:41 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:41 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:41 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:25:41 PM,Trades Read in 0.02secs
+11/7/2023 12:25:41 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:25:41 PM,Initialising CDS Image.
+11/7/2023 12:25:48 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:25:48 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:26:30 PM,Trades Read in 42secs
+11/7/2023 12:26:30 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:26:34 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:26:34 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:26:34 PM,Trades Read in 3.71secs
+11/7/2023 12:26:34 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:26:35 PM,CD Image Initialised successfully
+11/7/2023 12:26:35 PM,Computing CDSspan for eod data TotalRows : 7
+11/7/2023 12:26:35 PM,CDS Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 7
+11/7/2023 12:26:35 PM,CDS EOD Span Rows : 0
+11/7/2023 12:26:36 PM,Image Initialised successfully
+11/7/2023 12:26:38 PM,Computing span for eod data TotalRows : 7
+11/7/2023 12:26:41 PM,CDS Span Rows : 1
+11/7/2023 12:27:01 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:27:01 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:27:01 PM,Trades Read in 26.77secs
+11/7/2023 12:27:01 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:27:01 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:27:01 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:27:01 PM,Trades Read in 0.44secs
+11/7/2023 12:27:01 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 12:27:25 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 12:27:25 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 12:27:25 PM,Trades Read in 22.91secs
+11/7/2023 12:27:25 PM,Total Trade Rows Sent,32, Status,True
+11/7/2023 12:58:48 PM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 12:58:48 PM,ReadBCECM Loop 0.12secs, Trades:3
+11/7/2023 12:58:48 PM,ReadBSEFO Loop 0secs, Trades:3
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|19800.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19250.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 12:58:51 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 12:58:51 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19100.00|PE
+11/7/2023 12:58:51 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:51 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 12:58:52 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 12:58:52 PM,Trades Read in 3.61secs
+11/7/2023 12:58:53 PM,Total Trade Rows Sent,32, Status,True
+11/7/2023 12:58:59 PM,Initialising Image.
+11/7/2023 1:05:05 PM,Initialising CDS Image.
+11/7/2023 1:05:11 PM,Image Initialised successfully
+11/7/2023 1:05:11 PM,Computing span for eod data TotalRows : 7
+11/7/2023 1:05:13 PM,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 2
+11/7/2023 1:06:08 PM,EOD Span Rows : 3
+11/7/2023 1:06:10 PM,Span Rows : 4
+11/7/2023 1:06:26 PM,CD Image Initialised successfully
+11/7/2023 1:06:26 PM,Computing CDSspan for eod data TotalRows : 7
+11/7/2023 1:06:26 PM,CDS Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 7
+11/7/2023 1:06:26 PM,CDS EOD Span Rows : 0
+11/7/2023 1:19:02 PM,ReadBSECM Skipped : BSECM|5472
+11/7/2023 1:19:02 PM,ReadBCECM Loop 0.14secs, Trades:3
+11/7/2023 1:19:03 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 1:19:03 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|81.7500|PE
+11/7/2023 1:19:03 PM,ReadCD Skipped : NSECD|USDINR|28JUL2023|82.2500|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19500.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19400.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|19800.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|31AUG2023|0|XX
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|10AUG2023|19700.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19650.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19250.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19200.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19150.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19100.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|PE
+11/7/2023 1:19:03 PM,ReadFO Skipped : NSEFO|NIFTY|03AUG2023|19750.00|CE
+11/7/2023 1:19:03 PM,Trades Read in 0.84secs
+11/7/2023 1:19:03 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:03 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:03 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:03 PM,Trades Read in 0.1secs
+11/7/2023 1:19:03 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:04 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:04 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:04 PM,Trades Read in 0.12secs
+11/7/2023 1:19:04 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:05 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:05 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:05 PM,Trades Read in 0.15secs
+11/7/2023 1:19:05 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:06 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:06 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:06 PM,Trades Read in 0.16secs
+11/7/2023 1:19:06 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:06 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:06 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:07 PM,Trades Read in 0.12secs
+11/7/2023 1:19:07 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:07 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:07 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:07 PM,Trades Read in 0.12secs
+11/7/2023 1:19:07 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:08 PM,Initialising Image.
+11/7/2023 1:19:08 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:08 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:08 PM,Trades Read in 0.02secs
+11/7/2023 1:19:08 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:09 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:09 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:09 PM,Trades Read in 0.02secs
+11/7/2023 1:19:09 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:10 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:10 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:10 PM,Trades Read in 0.02secs
+11/7/2023 1:19:10 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:10 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:10 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:11 PM,Trades Read in 0.01secs
+11/7/2023 1:19:11 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:11 PM,Initialising CDS Image.
+11/7/2023 1:19:21 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:21 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:53 PM,Trades Read in 32.48secs
+11/7/2023 1:19:53 PM,Total Trade Rows Sent,32, Status,False
+11/7/2023 1:19:54 PM,ReadBCECM Loop 0secs, Trades:32
+11/7/2023 1:19:54 PM,ReadBSEFO Loop 0secs, Trades:32
+11/7/2023 1:19:55 PM,Trades Read in 1.37secs
+11/7/2023 1:19:55 PM,Total Trade Rows Sent,32, Status,True
+11/7/2023 1:19:58 PM,CD Image Initialised successfully
+11/7/2023 1:19:58 PM,Computing CDSspan for eod data TotalRows : 7
+11/7/2023 1:19:58 PM,CDS Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 7
+11/7/2023 1:19:58 PM,CDS EOD Span Rows : 0
+11/7/2023 1:20:03 PM,Image Initialised successfully
+11/7/2023 1:20:03 PM,CDS Span Rows : 1
+11/7/2023 1:32:42 PM,Computing span for eod data TotalRows : 7
+11/7/2023 1:32:42 PM,Initialising Image.
+11/7/2023 1:32:58 PM,Image Initialised successfully
+11/7/2023 1:32:58 PM,Computing span for eod data TotalRows : 7
+11/7/2023 1:32:58 PM,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 2
+11/7/2023 1:32:58 PM,EOD Span Rows : 3
+11/7/2023 1:33:00 PM,Span Rows : 4

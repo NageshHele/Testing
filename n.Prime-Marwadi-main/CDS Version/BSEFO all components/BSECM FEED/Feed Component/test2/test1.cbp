@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MCX_DEED" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MCX_FEED" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-fPIC" />
+					<Add option="-g" />
+					<Add option="-fpermissive" />
+					<Add directory="C:/Users/bcastdev/Downloads/boost/boost_1_74_0/boost_1_74_0" />
+					<Add directory="C:/Users/bcastdev/Downloads/New folder/test2/bin/Debug" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libstdc++" />
+					<Add option="-lws2_32" />
+					<Add library="C:/Users/bcastdev/Downloads/New folder/test2/bin/Debug/XceedZip.lib" />
+					<Add directory="C:/Users/bcastdev/Downloads/New folder/test2/bin/Debug" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MCX_FEED" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Setting/MCXFeed.ini" />
+		<Unit filename="bin/Debug/XceedZip.dll" />
+		<Unit filename="bin/Debug/XceedZip.lib" />
+		<Unit filename="include/EpollSocket.hpp" />
+		<Unit filename="include/ProcessFeed.hpp" />
+		<Unit filename="include/Setting.hpp" />
+		<Unit filename="include/Structures.hpp" />
+		<Unit filename="include/UdpSokcet.hpp" />
+		<Unit filename="include/XceedZipAPI.h" />
+		<Unit filename="include/wepoll.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/EpollSocket.cpp" />
+		<Unit filename="src/ProcessFeed.cpp" />
+		<Unit filename="src/Setting.cpp" />
+		<Unit filename="src/UdpSokcet.cpp" />
+		<Unit filename="src/wepoll.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/adler32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/compress.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/crc32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/crc32.h" />
+		<Unit filename="xcd/deflate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/deflate.h" />
+		<Unit filename="xcd/gzclose.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/gzguts.h" />
+		<Unit filename="xcd/gzlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/gzread.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/gzwrite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/infback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/inffast.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/inffast.h" />
+		<Unit filename="xcd/inffixed.h" />
+		<Unit filename="xcd/inflate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/inflate.h" />
+		<Unit filename="xcd/inftrees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/inftrees.h" />
+		<Unit filename="xcd/trees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/trees.h" />
+		<Unit filename="xcd/uncompr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/zconf.h" />
+		<Unit filename="xcd/zlib.h" />
+		<Unit filename="xcd/zutil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xcd/zutil.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

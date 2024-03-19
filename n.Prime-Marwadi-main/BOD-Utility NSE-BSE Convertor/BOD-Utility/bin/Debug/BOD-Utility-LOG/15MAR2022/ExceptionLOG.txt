@@ -1,0 +1,157 @@
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\BodMongo at 3/15/2022 12:36:04 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 289
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FreshBODFiles at 3/15/2022 12:36:04 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 289
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 3/15/2022 12:36:04 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 289
+
+[EXCEPTION] DeleteOldSpanDirectories at 3/15/2022 12:36:04 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 299
+
+[EXCEPTION] CopyRISKfile at 3/15/2022 12:36:36 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime-Bundle\SpanMargin\$yyyyMMdd\BSERISK20220228-01.XML'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.CopyRISKfile(String Dir_ConvertorFiles) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DecompressGZAndDelete at 3/15/2022 12:36:41 PM
+System.IO.FileNotFoundException: Could not find file 'D:\BOD_Files\20220315\F_AEL_OTM_CONTRACTS_15032022.csv.gz'.
+File name: 'D:\BOD_Files\20220315\F_AEL_OTM_CONTRACTS_15032022.csv.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1873
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:44 PM
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1490
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:44 PM
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1310
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:44 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:45 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1506
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:45 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220315.s.spn'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1353
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:45 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_15032022_6.DAT'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1519
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:47 PM
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1310
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:47 PM
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1490
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:47 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:47 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1506
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:47 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220315.i05.spn'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1353
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:47 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_15032022_5.DAT'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1519
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:49 PM
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1310
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:49 PM
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1490
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:49 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 3/15/2022 12:36:49 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220315.i04.spn'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1353
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:50 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1506
+
+[EXCEPTION] DownloadVARExposure at 3/15/2022 12:36:50 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_15032022_4.DAT'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Prime-Marwadi\BOD-Utility\BOD-Utility\Home.cs:line 1519
+

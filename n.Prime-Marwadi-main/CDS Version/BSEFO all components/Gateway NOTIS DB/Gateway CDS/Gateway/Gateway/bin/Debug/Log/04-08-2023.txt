@@ -1,0 +1,82 @@
+8/4/2023 2:43:27 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 2:43:48 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+8/4/2023 2:43:48 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+8/4/2023 2:45:33 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 2:45:33 PM : Received Span Server : ID^n.ENGINE
+
+8/4/2023 2:45:33 PM : Received Trade Server : ID^n.ENGINE
+
+8/4/2023 2:45:33 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 2:46:05 PM : Received HB Server : SIGNAL^STOP
+
+8/4/2023 2:46:05 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 2:46:06 PM : Received HB Server : SIGNAL^START
+
+8/4/2023 2:46:06 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230804'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Core-Logic\nProcess.cs:line 600
+
+8/4/2023 2:47:20 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 2:47:27 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+8/4/2023 2:47:28 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+8/4/2023 2:47:29 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 2:47:31 PM : Received Trade Server : ID^n.ENGINE
+
+8/4/2023 2:47:31 PM : Received Span Server : ID^n.ENGINE
+
+8/4/2023 2:51:43 PM : Received HB Server : SIGNAL^STOP
+
+8/4/2023 2:51:43 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 2:51:44 PM : Received HB Server : SIGNAL^START
+
+8/4/2023 2:51:44 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230804'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Core-Logic\nProcess.cs:line 600
+
+8/4/2023 3:00:06 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 3:00:15 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+8/4/2023 3:00:15 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 3:00:16 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+8/4/2023 3:00:28 PM : Received HB Server : SIGNAL^STOP
+
+8/4/2023 3:00:37 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 3:00:37 PM : Received HB Server : SIGNAL^START
+
+8/4/2023 3:00:37 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230804'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway NOTISE DB\Gateway CDS\Gateway\Gateway\Core-Logic\nProcess.cs:line 600
+

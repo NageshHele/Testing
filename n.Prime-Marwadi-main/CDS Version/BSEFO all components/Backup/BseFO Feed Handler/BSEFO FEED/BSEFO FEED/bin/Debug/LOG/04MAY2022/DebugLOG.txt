@@ -1,0 +1,5 @@
+[DEBUG] 5/4/2022 10:24:10 AM => Receiver Setup Success on 8800 Port.
+[DEBUG] 5/4/2022 10:24:10 AM => Server Setup Success on 8704 Port.
+[DEBUG] 5/4/2022 10:24:11 AM => DataReceived
+[DEBUG] 5/4/2022 10:24:11 AM => receivedIpEndPoint
+[DEBUG] 5/4/2022 10:24:11 AM => 123456|456

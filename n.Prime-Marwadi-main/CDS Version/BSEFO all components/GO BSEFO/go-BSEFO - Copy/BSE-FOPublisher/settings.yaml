@@ -1,0 +1,9 @@
+name: BSESettings
+Settings:
+  BSEBroadcastInterfaceName: "127.0.0.1" 
+  BroadcastMulticastIP: "239.255.255.255"
+  BSEBroadcastPort: 8080
+  DestinationBroadcastInterface: "127.0.0.1"
+  DestinationMulticastIP: "239.255.255.255"
+  BindingPort: 8081 
+  DestinationPort: 8083

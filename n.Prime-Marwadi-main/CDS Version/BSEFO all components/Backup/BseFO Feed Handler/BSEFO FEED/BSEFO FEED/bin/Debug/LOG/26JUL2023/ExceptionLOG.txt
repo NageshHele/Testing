@@ -1,0 +1,10 @@
+[EXCEPTION] ReceiveReqeust at 26-07-2023 15:21:23
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 26-07-2023 15:35:39
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+

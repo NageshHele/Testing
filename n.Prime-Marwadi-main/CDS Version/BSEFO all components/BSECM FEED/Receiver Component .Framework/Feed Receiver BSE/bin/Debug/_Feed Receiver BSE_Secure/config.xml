@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <FEEDRECEIVER-SERVER>
+    <PORT>16100</PORT>
+  </FEEDRECEIVER-SERVER>
+  <FILE-PATH>
+    <BHAVCOPY>C:\Prime\</BHAVCOPY>
+    <SECURITY>C:\Prime\</SECURITY>
+    <INDEX-TOKEN>C:\Prime\</INDEX-TOKEN>
+  </FILE-PATH>
+  <CLOSING-TIME>
+    <TIME>23:59:59</TIME>
+  </CLOSING-TIME>
+  <FLAGS>
+    <DEBUG-MODE>true</DEBUG-MODE>
+  </FLAGS>
+  <EXCHANGE-CONNECTION>
+    <IP>127.0.0.1</IP>
+    <PORT>8706</PORT>
+  </EXCHANGE-CONNECTION>
+</root>

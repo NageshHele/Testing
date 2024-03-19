@@ -1,0 +1,10 @@
+02-08-2023 10:22:34 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+02-08-2023 11:31:21 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+

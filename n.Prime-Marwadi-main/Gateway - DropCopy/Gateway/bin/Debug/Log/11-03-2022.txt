@@ -1,0 +1,70 @@
+3/11/2022 10:31:29 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.30:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+3/11/2022 10:31:53 AM : Received HB Server : ^n.ENGINE
+
+3/11/2022 10:32:05 AM : Received HB Server : ^n.ENGINE
+
+3/11/2022 10:32:34 AM : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+3/11/2022 10:32:34 AM : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+3/11/2022 10:33:52 AM : Received HB Server : ID^n.ENGINE
+
+3/11/2022 10:33:56 AM : Received Trade Server : ID^n.ENGINE
+
+3/11/2022 10:33:57 AM : Received Span Server : ID^n.ENGINE
+
+3/11/2022 10:34:06 AM : Received HB Server : ID^n.ENGINE
+
+3/11/2022 10:34:06 AM : Received HB Server : SIGNAL^START
+
+3/11/2022 10:34:07 AM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220311'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+3/11/2022 10:41:40 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.30:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+3/11/2022 10:42:24 AM : Received HB Server : ID^n.ENGINE
+
+3/11/2022 10:42:31 AM : Received Trade Server : ID^n.ENGINE
+
+3/11/2022 10:42:40 AM : Received Span Server : ID^n.ENGINE
+
+3/11/2022 10:43:22 AM : Received HB Server : ID^n.ENGINE
+
+3/11/2022 10:43:37 AM : ReceiveCallBack Span Socket : System.Net.Sockets.SocketException (0x80004005): A non-blocking socket operation could not be completed immediately
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.Connectors.EngineDataConnector.ReceiveCallbackSpan(Socket soc_Current) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - DropCopy\Gateway\Connectors\EngineDataConnector.cs:line 201
+
+3/11/2022 10:43:37 AM : Received Span Server : ID^n.ENGINE
+
+3/11/2022 10:43:39 AM : Received HB Server : SIGNAL^START
+
+3/11/2022 10:43:40 AM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220311'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - DropCopy\Gateway\Core-Logic\nProcess.cs:line 405
+
+3/11/2022 5:33:44 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.30:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+

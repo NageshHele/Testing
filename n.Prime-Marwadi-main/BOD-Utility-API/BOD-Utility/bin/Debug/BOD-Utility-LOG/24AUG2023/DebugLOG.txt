@@ -1,0 +1,1 @@
+[DEBUG] 8/24/2023 3:40:29 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000

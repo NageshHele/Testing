@@ -1,0 +1,21 @@
+[EXCEPTION] StartUDPApp Start at 4/19/2022 2:19:59 PM
+System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at UDPSocketReceiver.StartUDPApp() in D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\UDPSocketReceiver.cs:line 29
+
+[EXCEPTION] StartUDPApp Start at 4/19/2022 2:20:38 PM
+System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at UDPSocketReceiver.StartUDPApp() in D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\UDPSocketReceiver.cs:line 29
+
+[EXCEPTION] ReceiveReqeust at 4/19/2022 6:34:40 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\SocketServer.cs:line 76
+

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BOD-Utility>
+  <LOGIN>
+    <GUEST>ftpguest,FTPGUEST</GUEST>
+    <FO>faoguest,FAOGUEST</FO>
+	  <CD>cdsguest,CDSGUEST</CD>
+  </LOGIN>
+  <URLs>
+    <CONTRACT>ftp://ftp.connect2nse.com/FaoCommon/contract.gz,C:\Users\Snehadri\Desktop\BODFiles\</CONTRACT>                                                                        <!--FO-->
+    <SECURITY>ftp://ftp.connect2nse.com/FaoCommon/security.gz,C:\Users\Snehadri\Desktop\BODFiles\</SECURITY>                                                                        <!--FO-->
+    <FO_BHAVCOPY>ftp://ftp.connect2nse.com/FaoCommon/Bhavcopy/,https://www1.nseindia.com/content/historical/DERIVATIVES/,C:\Users\Snehadri\Desktop\BODFiles\</FO_BHAVCOPY>          <!--FO-->
+    <CM_BHAVCOPY>ftp://ftp.connect2nse.com/Common/Bhavcopy/,https://www1.nseindia.com/content/historical/EQUITIES/,C:\Users\Snehadri\Desktop\BODFiles\</CM_BHAVCOPY>                <!--GUEST-->
+    <SPAN>ftp://ftp.connect2nse.com/FaoCommon/Parameter/,https://www1.nseindia.com/archives/nsccl/span/,C:\Users\Snehadri\Desktop\BODFiles\</SPAN>                                  <!--FO-->
+    <EXPOSURE>ftp://ftp.connect2nse.com/FaoCommon/Limit%20Files/,https://www1.nseindia.com/archives/exp_lim/,C:\Users\Snehadri\Desktop\BODFiles\</EXPOSURE>                         <!--FO-->
+    <VAREXPOSURE>ftp://ftp.connect2nse.com/Common/VARRate/,https://www1.nseindia.com/archives/nsccl/var/,C:\Users\Snehadri\Desktop\BODFiles\</VAREXPOSURE>                          <!--GUEST-->
+    <OTM>ftp://ftp.connect2nse.com/FaoCommon/Limit%20Files/,C:\Users\Snehadri\Desktop\BODFiles\</OTM>                                                                               <!--FO-->
+    <FO_SECBAN>ftp://ftp.connect2nse.com/FaoCommon/Limit%20Files/,https://www1.nseindia.com/content/fo/,C:\Users\Snehadri\Desktop\BODFiles\</FO_SECBAN>                             <!--FO-->
+	<DAILY_SNAPSHOT>https://www1.nseindia.com/content/indices/,C:\Users\Snehadri\Desktop\BODFiles\</DAILY_SNAPSHOT>
+    <BSE-SPAN>F:\FILES\Bajaj\</BSE-SPAN>
+    <BSE-EXPOSURE>F:\FILES\Bajaj\</BSE-EXPOSURE>
+	<BSE-CONVERTOR-FILES>D:\BSE-CONVERTOR-FILES\</BSE-CONVERTOR-FILES>
+    <BSECM_BHAVCOPY>https://www.bseindia.com/download/BhavCopy/Equity/,C:\Users\Snehadri\Desktop\BODFiles\</BSECM_BHAVCOPY>
+    <BSECM_SCRIP>https://www.bseindia.com/downloads/Help/file/scrip.zip,C:\Users\Snehadri\Desktop\BODFiles\</BSECM_SCRIP>
+	<EXTREME-LOSS-MARGIN>https://www.bseindia.com/downloads/</EXTREME-LOSS-MARGIN>
+  </URLs>
+  <SAVEPATH>
+    <CONTRACT>D:\BOD_Files\,C:\Prime\</CONTRACT>
+    <SECURITY>D:\BOD_Files\,C:\Prime\</SECURITY>
+    <FO_BHAVCOPY>D:\BOD_Files\,C:\Prime\</FO_BHAVCOPY>
+    <CM_BHAVCOPY>D:\BOD_Files\,C:\Prime\</CM_BHAVCOPY>
+    <EXPOSURE>D:\BOD_Files\$yyyyMMdd\</EXPOSURE>
+    <SPAN>D:\BOD_Files\$yyyyMMdd\</SPAN>
+    <VAREXPOSURE>D:\BOD_Files\VaRMargin\</VAREXPOSURE>
+	<DAILY_SNAPSHOT>D:\BOD_Files\,C:\Prime\</DAILY_SNAPSHOT>
+    <SPAN-EXTENSTIONS>s,i05,i04,i03,i02,i01</SPAN-EXTENSTIONS>
+    <VAR-EXTENSTIONS>6,5,4,3,2,1</VAR-EXTENSTIONS>
+    <FO_SECBAN>C:\Prime\Other\</FO_SECBAN>
+    <BSE-SPAN-EXTENSTIONS>FINAL,04,03,02,01,00</BSE-SPAN-EXTENSTIONS>
+    <SPAN-LOGS>C:\Prime\Span Margin\Logs\</SPAN-LOGS>
+    <BSECM_BHAVCOPY>D:\BOD_Files\,C:\Prime\</BSECM_BHAVCOPY>
+    <BSECM_SCRIP>D:\BOD_Files\,C:\Prime\,D:\BSE-CONVERTOR-FILES\</BSECM_SCRIP>
+	<BSE-EXPOSURE-FILE>D:\BSE_SPAN\</BSE-EXPOSURE-FILE>
+	<EXTREME-LOSS-MARGIN>D:\BSE-CONVERTOR-FILES\</EXTREME-LOSS-MARGIN>
+  </SAVEPATH>
+  <INTERVAL>
+    <SPAN-RECHECK-SECONDS>60</SPAN-RECHECK-SECONDS>
+  </INTERVAL>
+	<AUTOMATICSETTINGS>
+		<ATTEMPTS>8</ATTEMPTS>
+		<INTERVAL>2</INTERVAL>
+		<STARTNOTIS>Yes</STARTNOTIS>
+		<CMFEEDPATH>C:\FEED Receiver\Feed-Receiver-master\Feed Receiver FO\FeedReceiver\bin\Debug\CM FeedReceiver.exe</CMFEEDPATH>
+		<FOFEEDPATH>D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver FO\FeedReceiver\bin\Debug\FO FeedReceiver.exe,C:\Users\Snehadri\Desktop\FO\Debug1\FO FeedReceiver.exe,C:\Users\Snehadri\Desktop\FO\Debug2\FO FeedReceiver.exe,C:\Users\Snehadri\Desktop\FO\Debug3\FO FeedReceiver.exe</FOFEEDPATH>
+		<GATEWAYPATH>D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Socket Gateway n Engine\Gateway\Gateway\bin\Debug\Gateway.exe</GATEWAYPATH>
+		<ENGINEPATH>D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Socket Gateway n Engine\Engine\Engine\bin\Debug\Engine.exe</ENGINEPATH>
+		<NOTISEQPath>D:\Snehadri Nerve\Snehadri-New-BODUtility\NOTIS_API_Manager-master\NOTIS API EQ Manager\bin\Debug\NOTIS API EQ Manager.exe</NOTISEQPath>
+		<NOTISFOPATH>D:\Snehadri Nerve\Snehadri-New-BODUtility\NOTIS_API_Manager-master\NOTIS API FO Manager\bin\Debug\NOTIS API FO Manager.exe</NOTISFOPATH>
+		<NOTISCDPATH>D:\Snehadri Nerve\Snehadri-New-BODUtility\NOTIS_API_Manager-master\NOTIS API CD Manager\NOTIS API CD Manager\bin\Debug\NOTIS API CD Manager.exe</NOTISCDPATH>
+		<DAY1FOLDER>C:\Users\Snehadri\Desktop\Day1</DAY1FOLDER>
+		<PSO3FOLDER>C:\Users\Snehadri\Desktop\PS03</PSO3FOLDER>
+		<BHAVCOPYPATH>C:\Prime</BHAVCOPYPATH>
+		<CLIENTFULLUPLOADPATH>C:\Users\Snehadri\Desktop\ClientMaster\Full Upload</CLIENTFULLUPLOADPATH>
+		<CLIENTPARTIALUPLOADPATH>C:\Users\Snehadri\Desktop\ClientMaster\Partial Upload</CLIENTPARTIALUPLOADPATH>
+		<USERMAPPINGFILEPATH>C:\Users\Snehadri\Desktop\Client Mapping</USERMAPPINGFILEPATH>
+		<FROMEMAIL></FROMEMAIL>
+		<TOEMAIL></TOEMAIL>
+		<PASSWORD></PASSWORD>
+		<SMTP></SMTP>
+	</AUTOMATICSETTINGS>
+</BOD-Utility>

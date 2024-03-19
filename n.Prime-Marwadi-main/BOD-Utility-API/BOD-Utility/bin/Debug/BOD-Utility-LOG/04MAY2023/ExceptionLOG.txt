@@ -1,0 +1,691 @@
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 8:59:47 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:00:07 AM
+System.Net.WebException: The remote name could not be resolved: 'www1.nseindia.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:00:07 AM
+System.Net.WebException: The remote name could not be resolved: 'www1.nseindia.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:00:17 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:00:18 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.s.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:00:37 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:00:38 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:00:38 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:00:38 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:00:47 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_5.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:00:49 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.i05.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:01:07 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:01:09 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:01:09 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:01:09 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:01:17 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_4.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_4.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:01:20 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.i04.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.i04.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:01:35 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:01:35 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:01:37 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:01:40 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:01:47 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_3.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_3.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:01:51 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.i03.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.i03.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:02:07 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:02:11 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:02:11 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:02:11 AM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:02:17 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_2.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_2.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:02:22 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.i02.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.i02.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:02:37 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:02:37 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 9:35:58 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:37:58 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:37:58 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:37:58 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:37:59 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.s.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:38:13 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:38:13 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:39:58 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:39:58 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_5.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:39:59 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:40:00 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.i05.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2031
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:40:13 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2132
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:40:13 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2142
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 9:41:29 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:43:29 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:43:29 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2725
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 9:43:59 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 9:46:58 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:48:11 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2748
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:48:11 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.Connection.CompleteStartConnection(Boolean async, HttpWebRequest httpWebRequest)
+   at System.Net.Connection.CompleteStartRequest(Boolean onSubmitThread, HttpWebRequest request, TriState needReConnect)
+   at System.Net.Connection.SubmitRequest(HttpWebRequest request, Boolean forcedsubmit)
+   at System.Net.ServicePoint.SubmitRequest(HttpWebRequest request, String connName)
+   at System.Net.HttpWebRequest.SubmitRequest(ServicePoint servicePoint)
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2155
+
+[EXCEPTION] DownloadviaWebSiteSpan at 5/4/2023 9:48:58 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSiteSpan(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2177
+
+[EXCEPTION] DownloadSpan at 5/4/2023 9:49:11 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.s.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath)
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:49:31 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.FtpWebRequest.SetException(Exception exception)
+   at System.Net.FtpWebRequest.SubmitRequest(Boolean async)
+   at System.Net.FtpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName)
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 9:49:31 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName)
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 9:50:11 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName)
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 9:50:11 AM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_5.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath)
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 10:38:15 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:27:36 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 5:27:56 PM
+System.Net.WebException: The remote name could not be resolved: 'archives.nseindia.com'
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2175
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:37:54 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:39:52 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:41:04 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 5:41:45 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2780
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 5:41:45 PM
+System.Net.WebException: An exception occurred during a WebClient request. ---> System.IO.IOException: The read operation failed, see inner exception. ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
+   at System.Net.Security._SslStream.StartFrameBody(Int32 readBytes, Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security._SslStream.StartFrameHeader(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security._SslStream.StartReading(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security._SslStream.ProcessRead(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   --- End of inner exception stack trace ---
+   at System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.WebClient.DownloadBitsState.RetrieveBytes(Int32& bytesRetrieved)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2186
+
+[EXCEPTION] DownloadviaFTP at 5/4/2023 5:42:02 PM
+System.Net.WebException: An exception occurred during a WebClient request. ---> System.IO.IOException: The process cannot access the file 'C:\BOD-API\Span1\20230504\TEMP\nsccl.20230504.s.spn.gz' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2163
+
+[EXCEPTION] DownloadSpan at 5/4/2023 5:42:03 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230504.s.spn'.
+File name: 'C:\BOD_Files\nsccl.20230504.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2062
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:50:11 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:50:34 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:50:57 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:53:27 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 5:54:26 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:02:42 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:27:00 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:28:44 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:30:47 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:31:34 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:38:34 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:39:23 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 6:39:55 PM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.get_ConnectionAsyncResult()
+   at System.Net.Connection.CompleteStartRequest(Boolean onSubmitThread, HttpWebRequest request, TriState needReConnect)
+   at System.Net.Connection.SubmitRequest(HttpWebRequest request, Boolean forcedsubmit)
+   at System.Net.ServicePoint.SubmitRequest(HttpWebRequest request, String connName)
+   at System.Net.HttpWebRequest.SubmitRequest(ServicePoint servicePoint)
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2218
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 6:39:55 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2812
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:47:14 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/4/2023 6:49:24 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DownloadviaWebSite at 5/4/2023 6:50:04 PM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Net.HttpWebRequest.get_ConnectionAsyncResult()
+   at System.Net.Connection.CompleteStartRequest(Boolean onSubmitThread, HttpWebRequest request, TriState needReConnect)
+   at System.Net.Connection.SubmitRequest(HttpWebRequest request, Boolean forcedsubmit)
+   at System.Net.ServicePoint.SubmitRequest(HttpWebRequest request, String connName)
+   at System.Net.HttpWebRequest.SubmitRequest(ServicePoint servicePoint)
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2196
+
+[EXCEPTION] DownloadVARExposure at 5/4/2023 6:50:04 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_04052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_04052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2790
+

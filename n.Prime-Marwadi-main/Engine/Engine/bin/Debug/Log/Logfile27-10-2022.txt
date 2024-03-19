@@ -1,0 +1,539 @@
+27-10-2022 10:50:11 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+27-10-2022 10:50:14 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+27-10-2022 10:50:14 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+27-10-2022 10:50:14 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+27-10-2022 10:50:14 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+27-10-2022 10:50:20 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 10:50:20 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 10:50:20 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 10:50:20 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 10:50:29 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+27-10-2022 10:50:32 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 10:50:32 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 10:50:32 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 10:50:44 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 10:50:44 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 10:50:44 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 10:50:56 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 10:50:56 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 10:50:56 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 10:51:08 : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 10:51:08 : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 10:51:08 : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 11:02:03 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+27-10-2022 11:02:08 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+27-10-2022 11:02:08 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+27-10-2022 11:02:08 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+27-10-2022 11:02:08 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+27-10-2022 11:02:15 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 11:02:15 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 11:02:15 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 11:02:15 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 11:02:24 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+27-10-2022 11:02:27 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 11:02:27 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 11:02:27 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 11:02:39 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 11:02:39 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 11:02:39 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 11:02:51 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 11:02:51 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 11:02:51 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 11:03:03 : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 11:03:03 : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 11:03:03 : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 12:47:20 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+27-10-2022 12:47:20 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+27-10-2022 12:47:20 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+27-10-2022 12:47:20 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+27-10-2022 12:47:20 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+27-10-2022 12:47:23 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 12:47:23 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 12:47:23 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 12:47:31 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+27-10-2022 12:47:36 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 12:47:36 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 12:47:36 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 12:47:36 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 12:47:48 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 12:47:48 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 12:47:48 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 12:47:48 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Ncket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 12:48:00 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 12:48:00 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 12:48:00 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 12:48:00 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 12:48:03 : EngineProcess_FormClosing
+
+27-10-2022 18:03:53 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+27-10-2022 18:03:55 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+27-10-2022 18:03:55 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+27-10-2022 18:03:55 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+27-10-2022 18:03:55 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+27-10-2022 18:03:58 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 18:03:58 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:03:58 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 18:04:06 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+27-10-2022 18:04:10 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:04:10 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:04:10 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 18:04:10 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 18:04:22 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:04:22 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 18:04:22 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:04:22 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddre27-10-2022 18:04:22 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 18:04:34 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 18:04:34 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 18:04:34 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:04:34 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 18:04:46 : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+27-10-2022 18:04:46 : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+27-10-2022 18:04:46 : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+27-10-2022 18:09:38 : EngineProcess_FormClosing
+

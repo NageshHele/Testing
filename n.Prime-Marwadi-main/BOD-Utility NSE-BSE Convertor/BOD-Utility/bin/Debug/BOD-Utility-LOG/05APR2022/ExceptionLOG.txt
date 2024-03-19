@@ -1,0 +1,57 @@
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/5/2022 10:31:38 AM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 289
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/5/2022 10:31:38 AM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 289
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/5/2022 10:31:38 AM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 289
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/5/2022 10:31:38 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 299
+
+[EXCEPTION] Download FO Bhavcopy With System.String[] at 4/5/2022 10:31:48 AM
+System.IO.IOException: The process cannot access the file 'C:\Prime\fo31MAR2022bhav.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at BOD_Utility.Home.DownloadFOBhavcopy(String[] BhavcopyURL, String[] arr_BhavcopyFolderPath) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 778
+
+[EXCEPTION] CopyRISKfile at 4/5/2022 10:32:05 AM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BOD_Files\$yyyyMMdd\BSERISK20220228-01.XML'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.CopyRISKfile(String Dir_ConvertorFiles) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 387
+
+[EXCEPTION] Download BSECM Bhavcopy at 4/5/2022 10:32:06 AM
+System.IO.IOException: The process cannot access the file 'C:\Prime\EQ_ISINCODE_310322.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at BOD_Utility.Home.DownloadBSECMBhavcopy(String[] BhavcopyURL, String[] arr_BhavcopyFolderPath) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1078
+
+[EXCEPTION] DecompressGZAndDelete at 4/5/2022 10:32:08 AM
+System.IO.FileNotFoundException: Could not find file 'D:\BOD_Files\20220405\F_AEL_OTM_CONTRACTS_05042022.csv.gz'.
+File name: 'D:\BOD_Files\20220405\F_AEL_OTM_CONTRACTS_05042022.csv.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1873
+

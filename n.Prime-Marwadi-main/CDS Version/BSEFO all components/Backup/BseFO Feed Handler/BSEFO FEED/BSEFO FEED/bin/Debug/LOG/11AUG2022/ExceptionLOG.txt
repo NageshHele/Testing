@@ -1,0 +1,30 @@
+[EXCEPTION] ReceiveReqeust at 8/11/2022 4:34:55 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 8/11/2022 5:17:24 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 8/11/2022 5:26:58 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 8/11/2022 5:48:46 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 8/11/2022 6:03:04 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 8/11/2022 6:14:21 PM
+System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 150
+

@@ -1,0 +1,71 @@
+14-02-2023 15:53:44 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Miscellaneous Codes\Testing\Marwadi\nImageB- Expiry - Dropcopy Server\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+14-02-2023 15:53:57 : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+14-02-2023 15:53:58 : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+14-02-2023 15:56:19 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Miscellaneous Codes\Testing\Marwadi\nImageB- Expiry - Dropcopy Server\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+14-02-2023 15:56:57 : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+14-02-2023 15:56:58 : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+14-02-2023 16:22:16 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Miscellaneous Codes\Testing\Marwadi\nImageB- Expiry - Dropcopy Server\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+14-02-2023 16:22:34 : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+14-02-2023 16:22:35 : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+14-02-2023 16:25:47 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Miscellaneous Codes\Testing\Marwadi\nImageB- Expiry - Dropcopy Server\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+14-02-2023 16:25:55 : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+14-02-2023 16:25:56 : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+14-02-2023 16:26:25 : ConsolidationTime: 1ms, TradeCount: 7
+
+14-02-2023 16:27:10 : SpanTime: 458ms, SpanList Count: 7
+
+14-02-2023 16:28:11 : SpanTime: 1392ms, SpanList Count: 7
+
+14-02-2023 16:29:10 : SpanTime: 169ms, SpanList Count: 7
+
+14-02-2023 16:31:25 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Miscellaneous Codes\Testing\Marwadi\nImageB- Expiry - Dropcopy Server\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+14-02-2023 16:31:30 : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+14-02-2023 16:31:31 : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+14-02-2023 16:31:46 : ConsolidationTime: 3ms, TradeCount: 10
+
+14-02-2023 16:31:47 : ConsolidationTime: 0ms, TradeCount: 7
+
+14-02-2023 16:31:47 : SpanTime: 189ms, SpanList Count: 10
+
+14-02-2023 16:32:33 : Received HB Server : ID^n.ENGINE
+
+14-02-2023 16:32:34 : Received Span Server : ID^n.ENGINE
+
+14-02-2023 16:32:34 : Received HB Server : SIGNAL^START
+
+14-02-2023 16:32:39 : SpanTime: 227ms, SpanList Count: 17
+
+14-02-2023 16:32:47 : SpanTime: 182ms, SpanList Count: 17
+
+14-02-2023 16:33:47 : SpanTime: 175ms, SpanList Count: 17
+

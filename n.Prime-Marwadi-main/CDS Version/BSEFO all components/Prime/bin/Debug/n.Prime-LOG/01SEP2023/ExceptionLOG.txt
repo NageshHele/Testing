@@ -1,0 +1,51 @@
+[EXCEPTION] => ClientInfo Received for : 20052 at 9/1/2023 11:06:52 AM
+
+
+[EXCEPTION] => ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankniftyExpoLimit,NiftyExpoLimit at 9/1/2023 11:06:57 AM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Helper\CollectionHelper.cs:line 664
+
+[EXCEPTION] => Waiting for Position data.. at 9/1/2023 11:07:06 AM
+
+
+[EXCEPTION] => Waiting for Span data.. at 9/1/2023 11:07:06 AM
+
+
+[EXCEPTION] => ReceivePrimeResponse Span Received- 0 at 9/1/2023 11:08:07 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] => Waiting for Span data.. at 9/1/2023 11:08:08 AM
+
+
+[EXCEPTION] => ReceivePrimeResponse Span Received- 0 at 9/1/2023 11:09:08 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] => Waiting for Span data.. at 9/1/2023 11:09:09 AM
+
+
+[EXCEPTION] => ReceivePrimeResponse Span Received- 0 at 9/1/2023 11:10:10 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] => Waiting for Span data.. at 9/1/2023 11:10:11 AM
+
+
+[EXCEPTION] => ReceivePrimeResponse Span Received- 0 at 9/1/2023 11:11:12 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] => Waiting for Span data.. at 9/1/2023 11:11:13 AM
+
+

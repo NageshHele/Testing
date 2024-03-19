@@ -1,0 +1,304 @@
+[EXCEPTION] ClientInfo Received for : 7999 at 05-09-2022 11:11:58
+
+
+[EXCEPTION] Waiting for Position data.. at 05-09-2022 11:12:06
+
+
+[EXCEPTION] Waiting for Span data.. at 05-09-2022 11:12:06
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 05-09-2022 11:14:15
+
+
+[EXCEPTION] Waiting for Position data.. at 05-09-2022 11:14:19
+
+
+[EXCEPTION] Waiting for Span data.. at 05-09-2022 11:14:19
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 05-09-2022 11:15:17
+
+
+[EXCEPTION] Waiting for Span data.. at 05-09-2022 11:15:21
+
+
+[EXCEPTION] Waiting for Position data.. at 05-09-2022 11:15:21
+
+
+[EXCEPTION] ReceiveResponseHB Received- 76 at 9/5/2022 12:10:04 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 70
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:10:08 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] ClientInfo Received for : 101 at 9/5/2022 12:11:37 PM
+
+
+[EXCEPTION] Waiting for Position data.. at 9/5/2022 12:11:43 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 9/5/2022 12:11:43 PM
+
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 9/5/2022 12:12:44 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 291
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 9/5/2022 12:12:44 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 192
+
+[EXCEPTION] ReceiveResponseHB Received- 6 at 9/5/2022 12:12:44 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 70
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:12:47 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:12:47 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:12:47 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] ClientInfo Received for : 101 at 9/5/2022 12:13:53 PM
+
+
+[EXCEPTION] Waiting for Position data.. at 9/5/2022 12:13:58 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 9/5/2022 12:13:58 PM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 6 at 9/5/2022 12:30:35 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 70
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 9/5/2022 12:30:35 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 192
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 9/5/2022 12:30:35 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 291
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:30:38 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:30:38 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:30:38 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] ClientInfo Received for : 21 at 9/5/2022 12:31:58 PM
+
+
+[EXCEPTION] Waiting for Position data.. at 9/5/2022 12:32:02 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 9/5/2022 12:32:02 PM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 10 at 9/5/2022 12:34:02 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 177
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 9/5/2022 12:34:02 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 221
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 9/5/2022 12:34:02 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 321
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:34:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:34:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:34:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] ClientInfo Received for : 21 at 9/5/2022 12:35:11 PM
+
+
+[EXCEPTION] Waiting for Position data.. at 9/5/2022 12:35:16 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 9/5/2022 12:35:16 PM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 10 at 9/5/2022 12:35:54 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 177
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 9/5/2022 12:35:54 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 321
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 9/5/2022 12:35:54 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 221
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:35:57 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:35:57 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:35:57 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:36:10 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:36:10 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:36:10 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:36:22 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:36:23 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:36:23 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] ClientInfo Received for : 21 at 9/5/2022 12:38:15 PM
+
+
+[EXCEPTION] Waiting for Position data.. at 9/5/2022 12:38:21 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 9/5/2022 12:38:21 PM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 60 at 9/5/2022 12:40:42 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 177
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 9/5/2022 12:40:42 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 221
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 9/5/2022 12:40:42 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 321
+
+[EXCEPTION] Trade Retrying 192.168.1.35, 13100 at 9/5/2022 12:40:45 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 120
+
+[EXCEPTION] Span Retrying 192.168.1.35, 13200 at 9/5/2022 12:40:45 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 62
+
+[EXCEPTION] Retrying 192.168.1.35, 13300 at 9/5/2022 12:40:46 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.35:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\AkshayNerve\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+

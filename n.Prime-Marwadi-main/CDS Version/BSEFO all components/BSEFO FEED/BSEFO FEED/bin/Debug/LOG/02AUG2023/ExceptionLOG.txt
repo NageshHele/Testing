@@ -1,0 +1,43 @@
+[EXCEPTION] ReceiveReqeust at 02-08-2023 16:10:01
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 02-08-2023 17:25:25
+System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 150
+
+[EXCEPTION] ReceiveReqeust at 02-08-2023 18:33:16
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 02-08-2023 18:47:42
+System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 150
+
+[EXCEPTION] Setup at 02-08-2023 19:01:01
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at SocketServer.Setup(NerveLogger logger) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 29
+
+[EXCEPTION] StartUDPReceive at 02-08-2023 19:01:01
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive(NerveLogger logger) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\UDPSocketReceiver.cs:line 71
+
+[EXCEPTION] ReceiveReqeust at 02-08-2023 19:01:45
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 02-08-2023 19:49:06
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+

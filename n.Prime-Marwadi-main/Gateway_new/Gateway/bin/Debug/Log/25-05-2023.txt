@@ -1,0 +1,78 @@
+5/25/2023 12:40:52 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+5/25/2023 12:40:55 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+5/25/2023 12:40:56 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+5/25/2023 12:41:32 PM : Received HB Server : ID^n.ENGINE
+
+5/25/2023 12:41:32 PM : Received HB Server : SIGNAL^START
+
+5/25/2023 12:41:33 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230525'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Core-Logic\nProcess.cs:line 489
+
+5/25/2023 12:43:30 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+5/25/2023 12:43:33 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+5/25/2023 12:43:34 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+5/25/2023 12:43:39 PM : Received HB Server : ID^n.ENGINE
+
+5/25/2023 12:43:40 PM : Received HB Server : SIGNAL^START
+
+5/25/2023 12:43:40 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230525'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Core-Logic\nProcess.cs:line 489
+
+5/25/2023 1:14:52 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+5/25/2023 1:14:58 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+5/25/2023 1:14:59 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+5/25/2023 1:15:12 PM : Received HB Server : ID^n.ENGINE
+
+5/25/2023 1:15:12 PM : Received HB Server : SIGNAL^START
+
+5/25/2023 1:15:12 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230525'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Core-Logic\nProcess.cs:line 489
+
+5/25/2023 1:15:30 PM : Inconsistent line found | 16082,11,NTPC,EQ,NTPC,0,8,1,USER8682,3,2,3,177.1,1,08383,13116,N,0,7,02-04-2018 09:07,02-04-2018 09:
+
+5/25/2023 1:16:56 PM : Inconsistent line found | 16082,11,NTPC,EQ,NTPC,0,8,1,USER8682,3,2,3,177.1,1,08383,13116,N,0,7,02-04-2018 09:07,02-04-2018 09:
+
+5/25/2023 1:17:27 PM : Inconsistent line found | 16082,11,NTPC,EQ,NTPC,0,8,1,USER8682,3,2,3,177.1,1,08383,13116,N,0,7,02-04-2018 09:07,02-04-2018 09:
+
+5/25/2023 1:31:37 PM : Inconsistent line found | 17581,11,ICICIBANK,EQ,ICICIBANK,0,8,1,USER3847,3,2,3,852.4,1,08383,13116,N,0,7,02-04-2018 09:07,02-04-2018 09:07,100000000015,NIL,11 APR 2023 08:22:
+
+5/25/2023 4:40:22 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+5/25/2023 4:40:43 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi\Gateway_new\Gateway\Connectors\BODUtilityConnector.cs:line 44
+

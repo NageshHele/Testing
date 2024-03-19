@@ -1,0 +1,85 @@
+[EXCEPTION] ReceiveReqeust at 27-07-2023 09:38:17
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 09:47:43
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 09:50:21
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 09:51:47
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 09:58:12
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 10:16:06
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 11:44:41
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 12:10:23
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 12:44:30
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 12:51:27
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 12:57:25
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 16:58:45
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 17:33:49
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 18:16:02
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 18:25:50
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 18:50:07
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 27-07-2023 18:53:19
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\MCX Feed\SocketServer.cs:line 77
+

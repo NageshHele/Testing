@@ -1,0 +1,4 @@
+[DEBUG] 8/31/2023 11:15:07 AM => Server Setup Success
+[DEBUG] 8/31/2023 11:15:07 AM => Receiver Setup Success
+[DEBUG] 8/31/2023 11:15:11 AM => Received Text: CONNECT^N.ENGINE^127.0.0.1^16100^<EOF>
+[DEBUG] 8/31/2023 11:16:29 AM => Received Text: SUBSCRIBE^-2222^N.ENGINE^<EOF>

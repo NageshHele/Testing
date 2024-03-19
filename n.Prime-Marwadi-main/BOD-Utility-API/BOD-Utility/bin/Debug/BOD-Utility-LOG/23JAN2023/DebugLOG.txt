@@ -1,0 +1,222 @@
+[DEBUG] 1/23/2023 12:11:54 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:12:43 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:12:56 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:13:12 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:13:27 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:13:30 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:14:04 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:14:30 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:14:43 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:15:02 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:15:31 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:18:03 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:18:03 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:18:05 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:18:06 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:18:08 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:18:09 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:18:12 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:18:18 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:18:25 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:18:26 PM => DownloadFOSecBanFilefo_secban_23012023.csv | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo_secban_23012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=fo_secban_23012023.csv"}
+[DEBUG] 1/23/2023 12:18:31 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:18:31 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:18:33 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:19:33 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:19:35 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:19:35 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:19:37 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:20:00 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:20:06 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:20:29 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:23:15 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:23:22 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:24:36 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:24:38 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:24:39 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:24:47 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:25:06 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:25:09 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:25:11 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:25:18 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:25:59 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:26:02 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:26:02 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:26:08 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:26:08 PM => Nifty Exposure FileName : ael_NIFTY_Options
+[DEBUG] 1/23/2023 12:26:25 PM => DownloadExposureFile ael_23012023 | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_23012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_23012023.csv"}
+[DEBUG] 1/23/2023 12:31:44 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:31:46 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:31:47 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:31:49 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:31:51 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:31:53 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:31:54 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:32:10 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:32:12 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:32:20 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:32:21 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:32:23 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:32:27 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:32:29 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:32:31 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:32:33 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:33:21 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:33:22 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:33:24 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:33:26 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:33:27 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:33:29 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:33:31 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:33:32 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:33:34 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:33:46 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:33:46 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:33:54 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:33:54 PM => Nifty Exposure FileName : ael_NIFTY_Options
+[DEBUG] 1/23/2023 12:33:57 PM => DownloadExposureFile ael_23012023 | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_23012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_23012023.csv"}
+[DEBUG] 1/23/2023 12:34:18 PM => FOExposure FileName : ael_23012023
+[DEBUG] 1/23/2023 12:34:20 PM => CDExposure FileName : C:\BOD-API\Span1\20230123\CDSael_23012023.csv
+[DEBUG] 1/23/2023 12:34:21 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_6.DAT
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-FINAL.spn
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-04.spn
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-03.spn
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-02.spn
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-01.spn
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-00.spn
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:21 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:22 PM => Download CDSspan  nsccl_ix.20230123.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:04:10.713218400Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl_ix.20230123.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230123.s.spn.gz"}
+[DEBUG] 1/23/2023 12:34:22 PM => Download span  nsccl.20230123.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:04:10.697592200Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl.20230123.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230123.s.spn.gz"}
+[DEBUG] 1/23/2023 12:34:22 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:04:10.697592200Z\",\"version\":\"1.0\",\"data\":null}","Filename":"C_VAR1_23012023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_23012023_6.DAT"}
+[DEBUG] 1/23/2023 12:34:43 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:34:43 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:34:43 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i05.spn.gz
+[DEBUG] 1/23/2023 12:34:43 PM => Download CDSspan  nsccl_ix.20230123.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:04:31.842156600Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl_ix.20230123.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230123.i05.spn.gz"}
+[DEBUG] 1/23/2023 12:36:26 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:36:27 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:36:28 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:36:30 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:36:31 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:36:32 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:36:35 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:36:36 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:36:39 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:36:46 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:36:46 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:36:47 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:36:47 PM => Nifty Exposure FileName : ael_NIFTY_Options
+[DEBUG] 1/23/2023 12:37:04 PM => DownloadExposureFile ael_23012023 | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_23012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_23012023.csv"}
+[DEBUG] 1/23/2023 12:38:04 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:38:05 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:38:07 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:38:09 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:38:11 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:38:12 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:38:14 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:38:16 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:38:45 PM => LOGIN REPONSE | STATUS : SUCCESS | MESSAGE : 
+[DEBUG] 1/23/2023 12:38:46 PM => DownloadContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 1/23/2023 12:38:48 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 1/23/2023 12:38:49 PM => DownloadCDContractFile API Response: {"ResponseStatus":1,"Message":"","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 1/23/2023 12:38:51 PM => DownloadFOBhavcopy fo20JAN2023bhav.csv.gz | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo20JAN2023bhav.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Bhavcopy&filename=fo20JAN2023bhav.csv.gz"}
+[DEBUG] 1/23/2023 12:38:53 PM => DownloadCMBhavcopy 20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/bhavcopy&filename=20010000.md"}
+[DEBUG] 1/23/2023 12:38:55 PM => DownloadCDBhavcopy  FINAL_20010000.md | API Response: {"ResponseStatus":1,"Message":"","Filename":"FINAL_20010000.md","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Bhavcopy&filename=FINAL_20010000.md"}
+[DEBUG] 1/23/2023 12:38:56 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"nnf_security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=nnf_security.gz"}
+[DEBUG] 1/23/2023 12:38:59 PM => DownloadSecurityFile API Response: {"ResponseStatus":1,"Message":"","Filename":"APPSEC_COLLVAL_20012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/&filename=APPSEC_COLLVAL_20012023.csv"}
+[DEBUG] 1/23/2023 12:39:05 PM => DownloadFOSecBanFilefo_secban_23012023.csv | API Response : {"ResponseStatus":1,"Message":"","Filename":"fo_secban_23012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=fo_secban_23012023.csv"}
+[DEBUG] 1/23/2023 12:39:11 PM => DownloadOTMScripFile F_AEL_OTM_CONTRACTS_23012023.csv.gz | API Response: {"ResponseStatus":1,"Message":"","Filename":"F_AEL_OTM_CONTRACTS_23012023.csv.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=F_AEL_OTM_CONTRACTS_23012023.csv.gz"}
+[DEBUG] 1/23/2023 12:39:11 PM => Extracted OTM : True
+[DEBUG] 1/23/2023 12:39:12 PM => DownloadNiftyExposureFile ael_NIFTY_Options | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_NIFTY_Options.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_NIFTY_Options.csv"}
+[DEBUG] 1/23/2023 12:39:12 PM => Nifty Exposure FileName : ael_NIFTY_Options
+[DEBUG] 1/23/2023 12:39:17 PM => DownloadExposureFile ael_23012023 | API Response: {"ResponseStatus":1,"Message":"","Filename":"ael_23012023.csv","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Limit Files&filename=ael_23012023.csv"}
+[DEBUG] 1/23/2023 12:39:17 PM => FOExposure FileName : ael_23012023
+[DEBUG] 1/23/2023 12:39:20 PM => CDExposure FileName : C:\BOD-API\Span1\20230123\CDSael_23012023.csv
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-FINAL.spn
+[DEBUG] 1/23/2023 12:39:21 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_6.DAT
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-04.spn
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-03.spn
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-02.spn
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-01.spn
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230123-00.spn
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:21 PM => Download span  nsccl.20230123.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:09:09.860056700Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl.20230123.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230123.s.spn.gz"}
+[DEBUG] 1/23/2023 12:39:21 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:09:09.860056700Z\",\"version\":\"1.0\",\"data\":null}","Filename":"C_VAR1_23012023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_23012023_6.DAT"}
+[DEBUG] 1/23/2023 12:39:21 PM => Download CDSspan  nsccl_ix.20230123.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:09:09.860056700Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl_ix.20230123.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230123.s.spn.gz"}
+[DEBUG] 1/23/2023 12:39:36 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:39:36 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:36 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i05.spn.gz
+[DEBUG] 1/23/2023 12:39:37 PM => Download CDSspan  nsccl_ix.20230123.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:09:25.455025Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl_ix.20230123.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230123.i05.spn.gz"}
+[DEBUG] 1/23/2023 12:39:52 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i05.spn.gz
+[DEBUG] 1/23/2023 12:39:52 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:39:52 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i04.spn.gz
+[DEBUG] 1/23/2023 12:39:52 PM => Download CDSspan  nsccl_ix.20230123.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:09:41.308235500Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl_ix.20230123.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230123.i04.spn.gz"}
+[DEBUG] 1/23/2023 12:40:07 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.s.spn.gz
+[DEBUG] 1/23/2023 12:40:07 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:40:07 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.i05.spn.gz
+[DEBUG] 1/23/2023 12:40:07 PM => Download span  nsccl.20230123.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:09:55.988486400Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl.20230123.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230123.i05.spn.gz"}
+[DEBUG] 1/23/2023 12:40:07 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i04.spn.gz
+[DEBUG] 1/23/2023 12:40:07 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:40:07 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i03.spn.gz
+[DEBUG] 1/23/2023 12:40:09 PM => Download CDSspan  nsccl_ix.20230123.i03.spn.gz | API RESPONSE :  {"ResponseStatus":1,"Message":"","Filename":"nsccl_ix.20230123.i03.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230123.i03.spn.gz"}
+[DEBUG] 1/23/2023 12:40:09 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230123.i03.spn.gz
+[DEBUG] 1/23/2023 12:40:10 PM => Extracted : True
+[DEBUG] 1/23/2023 12:40:10 PM => After Slice Index : 0 CDSpanFileExtensions Count : 3
+[DEBUG] 1/23/2023 12:40:13 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_6.DAT
+[DEBUG] 1/23/2023 12:40:13 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:40:13 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_5.DAT
+[DEBUG] 1/23/2023 12:40:13 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:10:01.980941600Z\",\"version\":\"1.0\",\"data\":null}","Filename":"C_VAR1_23012023_5.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_23012023_5.DAT"}
+[DEBUG] 1/23/2023 12:40:53 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.i05.spn.gz
+[DEBUG] 1/23/2023 12:40:53 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:40:53 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.i04.spn.gz
+[DEBUG] 1/23/2023 12:40:53 PM => Download span  nsccl.20230123.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:10:42.253675400Z\",\"version\":\"1.0\",\"data\":null}","Filename":"nsccl.20230123.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230123.i04.spn.gz"}
+[DEBUG] 1/23/2023 12:40:55 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_5.DAT
+[DEBUG] 1/23/2023 12:40:55 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:40:57 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_4.DAT
+[DEBUG] 1/23/2023 12:40:57 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"{\"responseCode\":[\"714\"],\"responseDesc\":\"error\",\"timestamp\":\"2023-01-23T07:10:46.187472500Z\",\"version\":\"1.0\",\"data\":null}","Filename":"C_VAR1_23012023_4.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_23012023_4.DAT"}
+[DEBUG] 1/23/2023 12:41:34 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.i04.spn.gz
+[DEBUG] 1/23/2023 12:41:34 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:41:34 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.i03.spn.gz
+[DEBUG] 1/23/2023 12:41:38 PM => Download span  nsccl.20230123.i03.spn.gz | API RESPONSE :  {"ResponseStatus":1,"Message":"","Filename":"nsccl.20230123.i03.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230123.i03.spn.gz"}
+[DEBUG] 1/23/2023 12:41:39 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_4.DAT
+[DEBUG] 1/23/2023 12:41:39 PM => [VaRExposure] Outside IF Index : 3 VaRFileExtensions Count : 6
+[DEBUG] 1/23/2023 12:42:09 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_3.DAT
+[DEBUG] 1/23/2023 12:42:10 PM => DownloadOTMScripFile API Response: {"ResponseStatus":1,"Message":"","Filename":"C_VAR1_23012023_3.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_23012023_3.DAT"}
+[DEBUG] 1/23/2023 12:42:10 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_23012023_3.DAT
+[DEBUG] 1/23/2023 12:42:10 PM => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 3
+[DEBUG] 1/23/2023 12:42:12 PM => Downloaded SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230123.i03.spn.gz
+[DEBUG] 1/23/2023 12:42:12 PM => After Slice Index : 0 FOSpanFileExtensions Count : 3
+[DEBUG] 1/23/2023 12:42:12 PM => --------------------------------------------------------------------------------

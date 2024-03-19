@@ -1,0 +1,20 @@
+5/2/2022 4:05:38 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.1.0.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\Gateway - BSE Span\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+5/2/2022 4:05:48 PM : Reading file C:\Prime\EQD_CC_CO120221.csv
+
+5/2/2022 4:05:49 PM : File C:\Prime\EQD_CC_CO120221.csv read successfully.
+
+5/2/2022 4:18:36 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.1.0.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\Gateway - BSE Span\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+5/2/2022 4:19:07 PM : Reading file C:\Prime\EQD_CC_CO120221.csv
+
+5/2/2022 4:19:08 PM : File C:\Prime\EQD_CC_CO120221.csv read successfully.
+
+5/2/2022 4:20:34 PM : Received HB Server : ID^n.ENGINE
+

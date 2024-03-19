@@ -1,0 +1,34 @@
+{
+  "API": {
+    "BASEURL": "https://www.connect2nse.com/extranet-api/",
+    "LOGIN": "/login/2.0",
+    "LOGOUT": "/logout/2.0",
+    "GETCOMMONFILES": "/common/content/2.0",
+    "GETMEMBERFILES": "/member/content/2.0",
+    "DOWNLOADCOMMONFILES": "/common/file/download/2.0",
+    "DOWNLOADMEMBERFILES": "/member/file/download/2.0"
+  },
+  "FO": {
+    "CONTARCT": "/",
+    "BHAVCOPY": "/Bhavcopy",
+    "SPREAD_CONTRACT": "/Contracts",
+    "SPAN": "/Parameter",
+    "OTM": "/Limit Files",
+    "SEC_BAN": "/Limit Files",
+    "AEL": "/Limit Files",
+    "NIFTY_AEL": "/Limit Files"
+  },
+  "CM": {
+    "SECURITY": "/ntneat",
+    "BHAVCOPY": "/bhavcopy",
+    "VAR_EXPOSURE": "/varrate",
+    "APPSEC_COLLVAL": "/",
+    "NNF_SECUIRTY": "/ntneat"
+  },
+  "CD": {
+    "CONTARCT": "/",
+    "BHAVCOPY": "/Bhavcopy",
+    "SPREAD_CONTRACT": "/cdscommon",
+    "SPAN": "/Parameter"
+  }
+}

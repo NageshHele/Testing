@@ -1,0 +1,1 @@
+[DEBUG] 9/1/2023 6:44:43 PM => Receiver Setup Success on 8718 Port.

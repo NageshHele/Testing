@@ -1,0 +1,5 @@
+[EXCEPTION] ReceiveReqeust at 9/8/2022 12:28:02 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+

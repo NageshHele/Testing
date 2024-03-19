@@ -1,0 +1,447 @@
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:11:59 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 369
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:12:43 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 369
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:13:27 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 369
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:14:30 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 369
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:18:03 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DecompressGZAndDelete at 1/23/2023 12:18:31 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\bin\Debug\System.String[]\F_AEL_OTM_CONTRACTS_23012023.csv.gz'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 3028
+
+[EXCEPTION] DownloadOTMScripFile at 1/23/2023 12:18:31 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\SpanMargin\Span1\20230123\F_AEL_OTM_CONTRACTS_23012023.csv'.
+File name: 'C:\BOD_Files\SpanMargin\Span1\20230123\F_AEL_OTM_CONTRACTS_23012023.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadOTMScripFile(String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2293
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:19:33 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DecompressGZAndDelete at 1/23/2023 12:19:35 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\bin\Debug\System.String[]\F_AEL_OTM_CONTRACTS_23012023.csv.gz'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 3028
+
+[EXCEPTION] DownloadOTMScripFile at 1/23/2023 12:19:35 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\SpanMargin\Span1\20230123\F_AEL_OTM_CONTRACTS_23012023.csv'.
+File name: 'C:\BOD_Files\SpanMargin\Span1\20230123\F_AEL_OTM_CONTRACTS_23012023.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadOTMScripFile(String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2293
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:20:00 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DecompressGZAndDelete at 1/23/2023 12:20:29 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\bin\Debug\System.String[]\F_AEL_OTM_CONTRACTS_23012023.csv.gz'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 3028
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:23:15 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:24:36 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:25:06 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:25:59 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 372
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:31:44 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 379
+
+[EXCEPTION] DownloadContractFile at 1/23/2023 12:31:45 PM
+System.ArgumentException: Path cannot be the empty string or all whitespace.
+   at System.IO.Directory.CreateDirectory(String path)
+   at BOD_Utility.Home.DownloadContractFile() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 424
+
+[EXCEPTION] DecompressGZAndDelete at 1/23/2023 12:31:46 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD-APIsecurity.gz'.
+File name: 'C:\BOD-APIsecurity.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 3038
+
+[EXCEPTION] DownloadSecurityFile at 1/23/2023 12:31:46 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD-APIsecurity.txt'.
+File name: 'C:\BOD-APIsecurity.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSecurityFile() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 582
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:32:10 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 379
+
+[EXCEPTION] DownloadFOSecBanFile at 1/23/2023 12:32:34 PM
+System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.DirectoryInfo.Init(String path, Boolean checkHost)
+   at System.IO.DirectoryInfo..ctor(String path)
+   at BOD_Utility.Home.DownloadFOSecBanFile(String[] URL, String SavePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2951
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:33:21 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 379
+
+[EXCEPTION] DownloadFOSecBanFile at 1/23/2023 12:33:35 PM
+System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.DirectoryInfo.Init(String path, Boolean checkHost)
+   at System.IO.DirectoryInfo..ctor(String path)
+   at BOD_Utility.Home.DownloadFOSecBanFile(String[] URL, String SavePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2951
+
+[EXCEPTION] DownloadExposureFile at 1/23/2023 12:34:18 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadExposureFile(String IndexFolderPath, String[] ExposureFolderPath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 1825
+
+[EXCEPTION] AddIndexExposure at 1/23/2023 12:34:18 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD-API\Span1\20230123\ael_23012023.csv'.
+File name: 'C:\BOD-API\Span1\20230123\ael_23012023.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at BOD_Utility.Home.AddIndexExposure(String ExposureFilePath, String IndexExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 1873
+
+[EXCEPTION] DownloadExposureFile at 1/23/2023 12:34:18 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD-API\Span1\20230123\ael_23012023.csv'.
+File name: 'C:\BOD-API\Span1\20230123\ael_23012023.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadExposureFile(String IndexFolderPath, String[] ExposureFolderPath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 1851
+
+[EXCEPTION] DownloadBSEExposureFile at 1/23/2023 12:34:19 PM
+System.Net.WebException: Could not find file 'C:\BOD_Files\EF230123'. ---> System.Net.WebException: Could not find file 'C:\BOD_Files\EF230123'. ---> System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\EF230123'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   at System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadBSEExposureFile(String IndexFolderPath, String[] ExposureFolderPath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2696
+
+[EXCEPTION] DownloadCDSpan nsccl_ix.20230123.s.spn.gz at 1/23/2023 12:34:43 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadCDSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2165
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:34:43 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2613
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:36:26 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 379
+
+[EXCEPTION] DownloadFOSecBanFile at 1/23/2023 12:36:40 PM
+System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.DirectoryInfo.Init(String path, Boolean checkHost)
+   at System.IO.DirectoryInfo..ctor(String path)
+   at BOD_Utility.Home.DownloadFOSecBanFile(String[] URL, String SavePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2951
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:38:04 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 379
+
+[EXCEPTION] DeleteOldSpanDirectories at 1/23/2023 12:38:45 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 379
+
+[EXCEPTION] DownloadBSEExposureFile at 1/23/2023 12:39:18 PM
+System.Net.WebException: Could not find file 'C:\BOD_Files\EF230123'. ---> System.Net.WebException: Could not find file 'C:\BOD_Files\EF230123'. ---> System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\EF230123'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   at System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadBSEExposureFile(String IndexFolderPath, String[] ExposureFolderPath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2699
+
+[EXCEPTION] DownloadCDSpan nsccl_ix.20230123.s.spn.gz at 1/23/2023 12:39:36 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadCDSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2168
+
+[EXCEPTION] DownloadSpan at 1/23/2023 12:39:42 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 1977
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:39:52 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2616
+
+[EXCEPTION] DownloadCDSpan nsccl_ix.20230123.i05.spn.gz at 1/23/2023 12:39:52 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadCDSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2168
+
+[EXCEPTION] DownloadviaFTP at 1/23/2023 12:39:57 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2102
+
+[EXCEPTION] DownloadSpan at 1/23/2023 12:40:07 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230123.s.spn'.
+File name: 'C:\BOD_Files\nsccl.20230123.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2004
+
+[EXCEPTION] DownloadCDSpan nsccl_ix.20230123.i04.spn.gz at 1/23/2023 12:40:07 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadCDSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2168
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:40:13 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2633
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:40:13 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_23012023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_23012023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2647
+
+[EXCEPTION] DownloadSpan at 1/23/2023 12:40:28 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 1977
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:40:34 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2616
+
+[EXCEPTION] DownloadviaFTP at 1/23/2023 12:40:43 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2102
+
+[EXCEPTION] DownloadSpan at 1/23/2023 12:40:53 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230123.i05.spn'.
+File name: 'C:\BOD_Files\nsccl.20230123.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2004
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:40:55 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2633
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:40:55 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_23012023_5.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_23012023_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2647
+
+[EXCEPTION] DownloadSpan at 1/23/2023 12:41:09 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 1977
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:41:18 PM
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 218.93.250.18:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2616
+
+[EXCEPTION] DownloadviaFTP at 1/23/2023 12:41:29 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaFTP(String SpanFileName, String TempSpanFilePath, String[] SpanFilePath, String SpanFileExactName) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2102
+
+[EXCEPTION] DownloadSpan at 1/23/2023 12:41:34 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\nsccl.20230123.i04.spn'.
+File name: 'C:\BOD_Files\nsccl.20230123.i04.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String[] SpanFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2004
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:41:39 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2633
+
+[EXCEPTION] DownloadVARExposure at 1/23/2023 12:41:39 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_23012023_4.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_23012023_4.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Jainam\BOD-Utility-CDS-API New\BOD-Utility\Home.cs:line 2647
+

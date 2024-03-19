@@ -1,0 +1,219 @@
+6/21/2022 10:43:14 AM,CM Trade Count: 1
+6/21/2022 10:43:14 AM,CM Trade Count: 2
+6/21/2022 10:43:14 AM,CM Trade Count: 3
+6/21/2022 10:43:14 AM,CM Trade Count: 4
+6/21/2022 10:43:14 AM,CM Trade Count: 5
+6/21/2022 10:43:14 AM,CM Trade Count: 6
+6/21/2022 10:43:14 AM,CM Trade Count: 7
+6/21/2022 10:43:14 AM,CM Trade Count: 8
+6/21/2022 10:43:14 AM,CM Trade Count: 9
+6/21/2022 10:43:14 AM,CM Trade Count: 10
+6/21/2022 10:43:14 AM,CM Trade Count: 11
+6/21/2022 10:43:14 AM,CM Trade Count: 12
+6/21/2022 10:43:14 AM,ReadCM Loop 0.02secs, Trades:12
+6/21/2022 10:43:14 AM,ReadBCECM Loop 0secs, Trades:12
+6/21/2022 10:43:14 AM,ReadBCECM Loop 0secs, Trades:12
+6/21/2022 10:43:14 AM,FO Trade Count: 1
+6/21/2022 10:43:14 AM,FO Trade Count: 2
+6/21/2022 10:43:14 AM,ReadFO Loop 0.01secs, Trades:14
+6/21/2022 10:43:14 AM,Trades Read in 0.04secs
+6/21/2022 10:43:14 AM,Total Trade Rows Sent,14, Status,True
+6/21/2022 10:44:31 AM,ReceiveResponseFromEngine : | UPDATE 
+6/21/2022 10:46:27 AM,FO Trade Count: 3
+6/21/2022 10:46:27 AM,ReadFO Loop 0secs, Trades:1
+6/21/2022 10:46:27 AM,ReadBCECM Loop 0secs, Trades:1
+6/21/2022 10:46:27 AM,Trades Read in 0secs
+6/21/2022 10:46:27 AM,Total Trade Rows Sent,1, Status,True
+6/21/2022 2:39:31 PM,Initialising Image.
+6/21/2022 2:39:31 PM,CM Trade Count: 13
+6/21/2022 2:39:31 PM,CM Trade Count: 14
+6/21/2022 2:39:31 PM,CM Trade Count: 15
+6/21/2022 2:39:31 PM,CM Trade Count: 16
+6/21/2022 2:39:31 PM,CM Trade Count: 17
+6/21/2022 2:39:31 PM,CM Trade Count: 18
+6/21/2022 2:39:31 PM,CM Trade Count: 19
+6/21/2022 2:39:31 PM,CM Trade Count: 20
+6/21/2022 2:39:31 PM,CM Trade Count: 21
+6/21/2022 2:39:31 PM,CM Trade Count: 22
+6/21/2022 2:39:31 PM,CM Trade Count: 23
+6/21/2022 2:39:31 PM,CM Trade Count: 24
+6/21/2022 2:39:31 PM,CM Trade Count: 25
+6/21/2022 2:39:31 PM,ReadCM Loop 0.01secs, Trades:13
+6/21/2022 2:39:31 PM,FO Trade Count: 4
+6/21/2022 2:39:31 PM,FO Trade Count: 5
+6/21/2022 2:39:31 PM,FO Trade Count: 6
+6/21/2022 2:39:31 PM,FO Trade Count: 7
+6/21/2022 2:39:31 PM,FO Trade Count: 8
+6/21/2022 2:39:31 PM,FO Trade Count: 9
+6/21/2022 2:39:31 PM,FO Trade Count: 10
+6/21/2022 2:39:31 PM,FO Trade Count: 11
+6/21/2022 2:39:31 PM,FO Trade Count: 12
+6/21/2022 2:39:31 PM,FO Trade Count: 13
+6/21/2022 2:39:31 PM,FO Trade Count: 14
+6/21/2022 2:39:31 PM,FO Trade Count: 15
+6/21/2022 2:39:31 PM,ReadFO Loop 0.01secs, Trades:25
+6/21/2022 2:39:31 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:31 PM,Trades Read in 0.01secs
+6/21/2022 2:39:31 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:32 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:32 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:32 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:32 PM,Trades Read in 0secs
+6/21/2022 2:39:32 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:33 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:33 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:33 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:33 PM,Trades Read in 0.11secs
+6/21/2022 2:39:33 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:34 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:35 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:35 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:35 PM,Trades Read in 0.16secs
+6/21/2022 2:39:35 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:35 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:35 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:35 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:35 PM,Trades Read in 0secs
+6/21/2022 2:39:35 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:35 PM,Image Initialised successfully
+6/21/2022 2:39:35 PM,Computing span for eod data TotalRows : 0
+6/21/2022 2:39:35 PM,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 12
+6/21/2022 2:39:35 PM,EOD Span Rows : 0
+6/21/2022 2:39:36 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:36 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:36 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:36 PM,Trades Read in 0secs
+6/21/2022 2:39:36 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:37 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:37 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:37 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:37 PM,Trades Read in 0secs
+6/21/2022 2:39:37 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:37 PM,Span Rows : 4
+6/21/2022 2:39:38 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:38 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:38 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:38 PM,Trades Read in 0secs
+6/21/2022 2:39:38 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:38 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:38 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:38 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:38 PM,Trades Read in 0secs
+6/21/2022 2:39:38 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:39 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:39 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:39 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:39 PM,Trades Read in 0secs
+6/21/2022 2:39:39 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:40 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:40 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:40 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:40 PM,Trades Read in 0secs
+6/21/2022 2:39:40 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:41 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:41 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:41 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:41 PM,Trades Read in 0secs
+6/21/2022 2:39:41 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:42 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:42 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:42 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:42 PM,Trades Read in 0secs
+6/21/2022 2:39:42 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:42 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:42 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:42 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:42 PM,Trades Read in 0secs
+6/21/2022 2:39:42 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:43 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:43 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:43 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:43 PM,Trades Read in 0secs
+6/21/2022 2:39:43 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:44 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:44 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:44 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:44 PM,Trades Read in 0.02secs
+6/21/2022 2:39:44 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:45 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:45 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:45 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:45 PM,Trades Read in 0secs
+6/21/2022 2:39:45 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 2:39:46 PM,ReadCM Loop 0secs, Trades:25
+6/21/2022 2:39:46 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 2:39:46 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 2:39:46 PM,Trades Read in 0secs
+6/21/2022 2:39:46 PM,Total Trade Rows Sent,25, Status,False
+6/21/2022 3:24:56 PM,Initialising Image.
+6/21/2022 3:24:56 PM,CM Trade Count: 1
+6/21/2022 3:24:56 PM,CM Trade Count: 2
+6/21/2022 3:24:56 PM,CM Trade Count: 3
+6/21/2022 3:24:56 PM,CM Trade Count: 4
+6/21/2022 3:24:56 PM,CM Trade Count: 5
+6/21/2022 3:24:56 PM,CM Trade Count: 6
+6/21/2022 3:24:56 PM,CM Trade Count: 7
+6/21/2022 3:24:56 PM,CM Trade Count: 8
+6/21/2022 3:24:56 PM,CM Trade Count: 9
+6/21/2022 3:24:56 PM,CM Trade Count: 10
+6/21/2022 3:24:56 PM,CM Trade Count: 11
+6/21/2022 3:24:56 PM,CM Trade Count: 12
+6/21/2022 3:24:56 PM,CM Trade Count: 13
+6/21/2022 3:24:56 PM,ReadCM Loop 0.01secs, Trades:13
+6/21/2022 3:24:56 PM,FO Trade Count: 1
+6/21/2022 3:24:56 PM,FO Trade Count: 2
+6/21/2022 3:24:56 PM,FO Trade Count: 3
+6/21/2022 3:24:56 PM,FO Trade Count: 4
+6/21/2022 3:24:56 PM,FO Trade Count: 5
+6/21/2022 3:24:56 PM,FO Trade Count: 6
+6/21/2022 3:24:56 PM,FO Trade Count: 7
+6/21/2022 3:24:56 PM,FO Trade Count: 8
+6/21/2022 3:24:56 PM,FO Trade Count: 9
+6/21/2022 3:24:56 PM,FO Trade Count: 10
+6/21/2022 3:24:56 PM,FO Trade Count: 11
+6/21/2022 3:24:56 PM,FO Trade Count: 12
+6/21/2022 3:24:56 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 3:24:56 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 3:24:56 PM,Trades Read in 0.04secs
+6/21/2022 3:24:57 PM,Total Trade Rows Sent,25, Status,True
+6/21/2022 3:25:14 PM,Image Initialised successfully
+6/21/2022 3:25:14 PM,Computing span for eod data TotalRows : 0
+6/21/2022 3:25:14 PM,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 12
+6/21/2022 3:25:14 PM,EOD Span Rows : 0
+6/21/2022 3:25:16 PM,Span Rows : 4
+6/21/2022 4:02:21 PM,Initialising Image.
+6/21/2022 4:02:22 PM,CM Trade Count: 1
+6/21/2022 4:02:22 PM,CM Trade Count: 2
+6/21/2022 4:02:22 PM,CM Trade Count: 3
+6/21/2022 4:02:22 PM,CM Trade Count: 4
+6/21/2022 4:02:22 PM,CM Trade Count: 5
+6/21/2022 4:02:22 PM,CM Trade Count: 6
+6/21/2022 4:02:22 PM,CM Trade Count: 7
+6/21/2022 4:02:22 PM,CM Trade Count: 8
+6/21/2022 4:02:22 PM,CM Trade Count: 9
+6/21/2022 4:02:22 PM,CM Trade Count: 10
+6/21/2022 4:02:22 PM,CM Trade Count: 11
+6/21/2022 4:02:22 PM,CM Trade Count: 12
+6/21/2022 4:02:22 PM,CM Trade Count: 13
+6/21/2022 4:02:22 PM,ReadCM Loop 0.01secs, Trades:13
+6/21/2022 4:02:22 PM,FO Trade Count: 1
+6/21/2022 4:02:22 PM,FO Trade Count: 2
+6/21/2022 4:02:22 PM,FO Trade Count: 3
+6/21/2022 4:02:22 PM,FO Trade Count: 4
+6/21/2022 4:02:22 PM,FO Trade Count: 5
+6/21/2022 4:02:22 PM,FO Trade Count: 6
+6/21/2022 4:02:22 PM,FO Trade Count: 7
+6/21/2022 4:02:22 PM,FO Trade Count: 8
+6/21/2022 4:02:22 PM,FO Trade Count: 9
+6/21/2022 4:02:22 PM,FO Trade Count: 10
+6/21/2022 4:02:22 PM,FO Trade Count: 11
+6/21/2022 4:02:22 PM,FO Trade Count: 12
+6/21/2022 4:02:22 PM,ReadFO Loop 0secs, Trades:25
+6/21/2022 4:02:22 PM,ReadBCECM Loop 0secs, Trades:25
+6/21/2022 4:02:22 PM,Trades Read in 0.05secs
+6/21/2022 4:02:22 PM,Total Trade Rows Sent,25, Status,True
+6/21/2022 4:02:38 PM,Image Initialised successfully
+6/21/2022 4:02:38 PM,Computing span for eod data TotalRows : 0
+6/21/2022 4:02:38 PM,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 12
+6/21/2022 4:02:38 PM,EOD Span Rows : 0
+6/21/2022 4:02:40 PM,Span Rows : 4

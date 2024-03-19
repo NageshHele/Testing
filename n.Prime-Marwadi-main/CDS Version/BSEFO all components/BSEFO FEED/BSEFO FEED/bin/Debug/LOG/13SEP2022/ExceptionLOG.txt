@@ -1,0 +1,20 @@
+[EXCEPTION] ReceiveReqeust at 9/13/2022 12:36:23 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 9/13/2022 2:12:57 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 9/13/2022 2:58:22 PM
+System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 150
+
+[EXCEPTION] ReceiveReqeust at 9/13/2022 3:42:00 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\SocketServer.cs:line 77
+

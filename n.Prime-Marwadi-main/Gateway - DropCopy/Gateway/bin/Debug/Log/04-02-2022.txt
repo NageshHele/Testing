@@ -1,0 +1,86 @@
+04-Feb-22 12:14:39 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+04-Feb-22 12:15:01 : Received HB Server : ID^n.ENGINE
+
+04-Feb-22 12:15:03 : Received Trade Server : ID^n.ENGINE
+
+04-Feb-22 12:15:04 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:04 : Received HB Server : SIGNAL^START
+
+04-Feb-22 12:17:04 : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BOD_Files\Span1\20220204'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Core-Logic\nProcess.cs:line 405
+
+04-Feb-22 12:17:05 : Received HB Server : ID^n.ENGINE
+
+04-Feb-22 12:17:18 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+04-Feb-22 12:17:18 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+04-Feb-22 12:17:19 : SendToEngine Trade System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Gateway.Connectors.EngineDataConnector.SendToEngineTrades(String prmValue) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineDataConnector.cs:line 273
+
+04-Feb-22 12:17:28 : Received HB Server : ID^n.ENGINE
+
+04-Feb-22 12:17:32 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:32 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:32 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:33 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:35 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:40 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:17:42 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+04-Feb-22 12:18:41 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+04-Feb-22 12:19:05 : Received HB Server : ID^n.ENGINE
+
+04-Feb-22 12:19:06 : Received Trade Server : ID^n.ENGINE
+
+04-Feb-22 12:19:06 : Received Span Server : ID^n.ENGINE
+
+04-Feb-22 12:19:19 : Received HB Server : ID^n.ENGINE
+
+04-Feb-22 12:19:19 : Received HB Server : SIGNAL^START
+
+04-Feb-22 12:38:48 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+04-Feb-22 12:38:48 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+04-Feb-22 12:38:48 : SendToEngine Span System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Gateway.Connectors.EngineDataConnector.SendToEngineSpan(String prmValue) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineDataConnector.cs:line 298
+

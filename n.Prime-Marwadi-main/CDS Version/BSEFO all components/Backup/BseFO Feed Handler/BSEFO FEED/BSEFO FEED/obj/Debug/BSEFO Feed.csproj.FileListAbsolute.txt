@@ -1,0 +1,205 @@
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\config.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\MCX Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\MCX Feed.exe
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\MCX Feed.pdb
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\NSEUtilitaire.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\RestSharp.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Json.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Memory.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.ValueTuple.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Buffers.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\NSEUtilitaire.pdb
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\RestSharp.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Json.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Memory.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.ValueTuple.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Buffers.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\BSEFO Feed.csproj.AssemblyReference.cache
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\BSEFO Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\BSEFO Feed.csproj.CoreCompileInputs.cache
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\BSEFO Feed.csproj.CopyComplete
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.exe
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.pdb
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\config.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\NSEUtilitaire.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\RestSharp.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Json.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Memory.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.ValueTuple.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Buffers.dll
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\NSEUtilitaire.pdb
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\RestSharp.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Json.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Memory.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.ValueTuple.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Buffers.xml
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.AssemblyReference.cache
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CoreCompileInputs.cache
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CopyComplete
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\BSEFO Feed.exe
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\bin\Debug\BSEFO Feed.pdb
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.exe
+C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.pdb
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.AssemblyReference.cache
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.exe.config
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.exe
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.pdb
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\config.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\BSEFO Feed.exe.config
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\BSEFO Feed.exe
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\BSEFO Feed.pdb
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\RestSharp.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Json.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Memory.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.ValueTuple.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Buffers.dll
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\NSEUtilitaire.pdb
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\RestSharp.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Json.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Memory.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.ValueTuple.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\bin\Debug\System.Buffers.xml
+C:\Users\nikhi\OneDrive\Desktop\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CopyComplete
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\config.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.exe
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.pdb
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\RestSharp.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Json.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Memory.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.ValueTuple.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Buffers.dll
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\NSEUtilitaire.pdb
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\RestSharp.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Json.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Memory.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.ValueTuple.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Buffers.xml
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.AssemblyReference.cache
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CoreCompileInputs.cache
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CopyComplete
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.exe
+C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.AssemblyReference.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CoreCompileInputs.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.exe
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\config.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.exe
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\RestSharp.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Json.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Memory.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.ValueTuple.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Buffers.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\NSEUtilitaire.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\RestSharp.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Json.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Memory.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.ValueTuple.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Buffers.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CopyComplete
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\config.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.exe
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\BSEFO Feed.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\RestSharp.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Json.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Memory.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.ValueTuple.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Buffers.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\NSEUtilitaire.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\RestSharp.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Json.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Memory.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.ValueTuple.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\bin\Debug\System.Buffers.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.AssemblyReference.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.exe.config
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CoreCompileInputs.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.csproj.CopyComplete
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.exe
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi-Omkar\CDS Version\BSEFO all components\bse fo feed new\BSEFO FEED\BSEFO FEED\obj\Debug\BSEFO Feed.pdb

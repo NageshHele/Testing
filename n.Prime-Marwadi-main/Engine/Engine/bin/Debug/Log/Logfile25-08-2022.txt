@@ -1,0 +1,3340 @@
+25-08-2022 15:34:46 : ObjFeed_eve_ConenctionMessage : FO Connecting to [192.168.29.142:8707] | Attempts : 1
+
+25-08-2022 15:34:46 : ObjFeed_eve_ConenctionMessage : FO Connected to [192.168.29.142:8707]
+
+25-08-2022 15:34:46 : ObjFeed_eve_ConenctionMessage : CM Connecting to [192.168.29.142:8706] | Attempts : 1
+
+25-08-2022 15:34:46 : ObjFeed_eve_ConenctionMessage : CM Connected to [192.168.29.142:8706]
+
+25-08-2022 15:34:47 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+25-08-2022 15:34:59 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+25-08-2022 15:36:19 : Received HB Server : ID^10E7C6B73B30
+
+25-08-2022 15:36:20 : Received HB Server : USER^prime|prime123
+
+25-08-2022 15:36:20 : Received HB Server : CLIENT^prime
+
+25-08-2022 15:36:20 : Received HB Server : LIMIT^prime
+
+25-08-2022 15:36:20 : Received HB Server : BAN^prime
+
+25-08-2022 15:36:27 : IP added to list PRIME|192.168.29.142:55502
+
+25-08-2022 15:36:27 : IP added to Span list PRIME|192.168.29.142:55503
+
+25-08-2022 15:36:28 : Username:- prime, ByteLength:- 3769892
+
+25-08-2022 15:36:29 : Username:- prime, ByteLength:- 3768704
+
+25-08-2022 15:36:30 : Username:- prime, ByteLength:- 3768421
+
+25-08-2022 15:36:31 : Username:- prime, ByteLength:- 3765738
+
+25-08-2022 15:36:32 : Username:- prime, ByteLength:- 3772116
+
+25-08-2022 15:36:34 : Username:- prime, ByteLength:- 3777512
+
+25-08-2022 15:36:35 : Username:- prime, ByteLength:- 3779189
+
+25-08-2022 15:36:35 : Username:- prime, ByteLength:- 3777602
+
+25-08-2022 15:36:36 : Username:- prime, ByteLength:- 3769622
+
+25-08-2022 15:36:37 : Username:- prime, ByteLength:- 3761860
+
+25-08-2022 15:36:39 : Username:- prime, ByteLength:- 3762395
+
+25-08-2022 15:36:39 : Username:- prime, ByteLength:- 3780760
+
+25-08-2022 15:36:40 : Username:- prime, ByteLength:- 3766439
+
+25-08-2022 15:36:42 : Username:- prime, ByteLength:- 3776951
+
+25-08-2022 15:36:43 : Username:- prime, ByteLength:- 3770251
+
+25-08-2022 15:36:44 : Username:- prime, ByteLength:- 3769992
+
+25-08-2022 15:36:45 : Username:- prime, ByteLength:- 3765423
+
+25-08-2022 15:36:46 : Username:- prime, ByteLength:- 3777990
+
+25-08-2022 15:36:47 : Username:- prime, ByteLength:- 3769852
+
+25-08-2022 15:36:48 : Username:- prime, ByteLength:- 3767237
+
+25-08-2022 15:36:49 : Username:- prime, ByteLength:- 3767523
+
+25-08-2022 15:36:50 : Username:- prime, ByteLength:- 3772049
+
+25-08-2022 15:36:50 : Username:- prime, ByteLength:- 3759842
+
+25-08-2022 15:36:51 : Username:- prime, ByteLength:- 3774522
+
+25-08-2022 15:36:52 : Username:- prime, ByteLength:- 3764074
+
+25-08-2022 15:36:53 : Username:- prime, ByteLength:- 3767345
+
+25-08-2022 15:36:54 : Username:- prime, ByteLength:- 3769647
+
+25-08-2022 15:36:55 : Username:- prime, ByteLength:- 3776043
+
+25-08-2022 15:36:56 : Username:- prime, ByteLength:- 3762922
+
+25-08-2022 15:36:57 : Username:- prime, ByteLength:- 3773881
+
+25-08-2022 15:36:58 : Username:- prime, ByteLength:- 3769105
+
+25-08-2022 15:36:59 : Username:- prime, ByteLength:- 3774041
+
+25-08-2022 15:37:00 : Username:- prime, ByteLength:- 3781661
+
+25-08-2022 15:37:01 : Username:- prime, ByteLength:- 3771574
+
+25-08-2022 15:37:01 : Username:- prime, ByteLength:- 3772555
+
+25-08-2022 15:37:02 : Username:- prime, ByteLength:- 3777083
+
+25-08-2022 15:37:03 : Username:- prime, ByteLength:- 3773974
+
+25-08-2022 15:37:04 : Username:- prime, ByteLength:- 3769686
+
+25-08-2022 15:37:05 : Username:- prime, ByteLength:- 3775746
+
+25-08-2022 15:37:06 : Username:- prime, ByteLength:- 3766730
+
+25-08-2022 15:37:07 : Username:- prime, ByteLength:- 3780069
+
+25-08-2022 15:37:08 : Username:- prime, ByteLength:- 3768601
+
+25-08-2022 15:37:09 : Username:- prime, ByteLength:- 3779939
+
+25-08-2022 15:37:10 : Username:- prime, ByteLength:- 3775163
+
+25-08-2022 15:37:11 : Username:- prime, ByteLength:- 3765678
+
+25-08-2022 15:37:11 : Username:- prime, ByteLength:- 3771162
+
+25-08-2022 15:37:12 : Username:- prime, ByteLength:- 3768282
+
+25-08-2022 15:37:13 : Username:- prime, ByteLength:- 3774789
+
+25-08-2022 15:37:14 : Username:- prime, ByteLength:- 3767951
+
+25-08-2022 15:37:15 : Username:- prime, ByteLength:- 3771869
+
+25-08-2022 15:37:16 : Username:- prime, ByteLength:- 3765554
+
+25-08-2022 15:37:17 : Username:- prime, ByteLength:- 3782473
+
+25-08-2022 15:37:18 : Username:- prime, ByteLength:- 3772901
+
+25-08-2022 15:37:19 : Username:- prime, ByteLength:- 3768788
+
+25-08-2022 15:37:20 : Username:- prime, ByteLength:- 3770970
+
+25-08-2022 15:37:21 : Username:- prime, ByteLength:- 3766305
+
+25-08-2022 15:37:22 : Username:- prime, ByteLength:- 3771487
+
+25-08-2022 15:37:24 : Username:- prime, ByteLength:- 3771103
+
+25-08-2022 15:37:25 : Username:- prime, ByteLength:- 3777939
+
+25-08-2022 15:37:26 : Username:- prime, ByteLength:- 3766766
+
+25-08-2022 15:37:27 : Username:- prime, ByteLength:- 3775335
+
+25-08-2022 15:37:28 : Username:- prime, ByteLength:- 3774198
+
+25-08-2022 15:37:29 : Username:- prime, ByteLength:- 3775104
+
+25-08-2022 15:37:30 : Username:- prime, ByteLength:- 3778214
+
+25-08-2022 15:37:32 : Username:- prime, ByteLength:- 3774289
+
+25-08-2022 15:37:34 : Username:- prime, ByteLength:- 3773276
+
+25-08-2022 15:37:35 : Username:- prime, ByteLength:- 3775671
+
+25-08-2022 15:37:38 : Username:- prime, ByteLength:- 3781933
+
+25-08-2022 15:37:39 : Username:- prime, ByteLength:- 3787297
+
+25-08-2022 15:37:40 : Username:- prime, ByteLength:- 3777234
+
+25-08-2022 15:37:41 : Username:- prime, ByteLength:- 3773550
+
+25-08-2022 15:37:43 : Username:- prime, ByteLength:- 3774685
+
+25-08-2022 15:37:44 : Username:- prime, ByteLength:- 3777125
+
+25-08-2022 15:37:45 : Username:- prime, ByteLength:- 3774708
+
+25-08-2022 15:37:46 : Username:- prime, ByteLength:- 3760784
+
+25-08-2022 15:37:47 : Username:- prime, ByteLength:- 3774348
+
+25-08-2022 15:37:49 : Username:- prime, ByteLength:- 3771035
+
+25-08-2022 15:37:50 : Username:- prime, ByteLength:- 3766057
+
+25-08-2022 15:37:51 : Username:- prime, ByteLength:- 3777285
+
+25-08-2022 15:37:51 : Username:- prime, ByteLength:- 3771224
+
+25-08-2022 15:37:53 : Username:- prime, ByteLength:- 3774691
+
+25-08-2022 15:37:54 : Username:- prime, ByteLength:- 3767099
+
+25-08-2022 15:37:55 : Username:- prime, ByteLength:- 3773780
+
+25-08-2022 15:37:56 : Username:- prime, ByteLength:- 3774268
+
+25-08-2022 15:37:57 : Username:- prime, ByteLength:- 3777403
+
+25-08-2022 15:37:59 : Username:- prime, ByteLength:- 3770134
+
+25-08-2022 15:38:00 : Username:- prime, ByteLength:- 3770964
+
+25-08-2022 15:38:01 : Username:- prime, ByteLength:- 3774486
+
+25-08-2022 15:38:02 : Username:- prime, ByteLength:- 3765207
+
+25-08-2022 15:38:03 : Username:- prime, ByteLength:- 3772383
+
+25-08-2022 15:38:04 : Username:- prime, ByteLength:- 3761601
+
+25-08-2022 15:38:05 : Username:- prime, ByteLength:- 3776162
+
+25-08-2022 15:38:06 : Username:- prime, ByteLength:- 3772734
+
+25-08-2022 15:38:07 : Username:- prime, ByteLength:- 3762056
+
+25-08-2022 15:38:08 : Username:- prime, ByteLength:- 3772106
+
+25-08-2022 15:38:09 : Username:- prime, ByteLength:- 3769306
+
+25-08-2022 15:38:10 : Username:- prime, ByteLength:- 3771201
+
+25-08-2022 15:38:11 : Username:- prime, ByteLength:- 3766831
+
+25-08-2022 15:38:12 : Username:- prime, ByteLength:- 3769141
+
+25-08-2022 15:38:13 : Username:- prime, ByteLength:- 3765664
+
+25-08-2022 15:38:14 : Username:- prime, ByteLength:- 3768222
+
+25-08-2022 15:38:15 : Username:- prime, ByteLength:- 3769387
+
+25-08-2022 15:38:16 : Username:- prime, ByteLength:- 3770689
+
+25-08-2022 15:38:16 : Username:- prime, ByteLength:- 3762311
+
+25-08-2022 15:38:17 : Username:- prime, ByteLength:- 3773848
+
+25-08-2022 15:38:19 : Username:- prime, ByteLength:- 3768786
+
+25-08-2022 15:38:20 : Username:- prime, ByteLength:- 3769870
+
+25-08-2022 15:38:20 : Username:- prime, ByteLength:- 3756570
+
+25-08-2022 15:38:21 : Username:- prime, ByteLength:- 3765884
+
+25-08-2022 15:38:23 : Username:- prime, ByteLength:- 3767434
+
+25-08-2022 15:38:24 : Username:- prime, ByteLength:- 3778030
+
+25-08-2022 15:38:25 : Username:- prime, ByteLength:- 3775300
+
+25-08-2022 15:38:26 : Username:- prime, ByteLength:- 3766465
+
+25-08-2022 15:38:27 : Username:- prime, ByteLength:- 3766683
+
+25-08-2022 15:38:27 : Username:- prime, ByteLength:- 3766359
+
+25-08-2022 15:38:28 : Username:- prime, ByteLength:- 3778354
+
+25-08-2022 15:38:29 : Username:- prime, ByteLength:- 3770918
+
+25-08-2022 15:38:30 : Username:- prime, ByteLength:- 3772211
+
+25-08-2022 15:38:31 : Username:- prime, ByteLength:- 3773539
+
+25-08-2022 15:38:32 : Username:- prime, ByteLength:- 3763626
+
+25-08-2022 15:38:33 : Username:- prime, ByteLength:- 3767686
+
+25-08-2022 15:38:34 : Username:- prime, ByteLength:- 3772461
+
+25-08-2022 15:38:34 : Username:- prime, ByteLength:- 3773656
+
+25-08-2022 15:38:36 : Username:- prime, ByteLength:- 3769063
+
+25-08-2022 15:38:37 : Username:- prime, ByteLength:- 3764774
+
+25-08-2022 15:38:38 : Username:- prime, ByteLength:- 3764279
+
+25-08-2022 15:38:39 : Username:- prime, ByteLength:- 3776173
+
+25-08-2022 15:38:40 : Username:- prime, ByteLength:- 3779421
+
+25-08-2022 15:38:41 : Username:- prime, ByteLength:- 3766726
+
+25-08-2022 15:38:43 : Username:- prime, ByteLength:- 3768339
+
+25-08-2022 15:38:44 : Username:- prime, ByteLength:- 3768710
+
+25-08-2022 15:38:46 : Username:- prime, ByteLength:- 3771575
+
+25-08-2022 15:38:47 : Username:- prime, ByteLength:- 3778978
+
+25-08-2022 15:38:48 : Username:- prime, ByteLength:- 3770762
+
+25-08-2022 15:38:50 : Username:- prime, ByteLength:- 3777295
+
+25-08-2022 15:38:51 : Username:- prime, ByteLength:- 3769308
+
+25-08-2022 15:38:53 : Username:- prime, ByteLength:- 3774870
+
+25-08-2022 15:38:55 : Username:- prime, ByteLength:- 3776735
+
+25-08-2022 15:38:56 : Username:- prime, ByteLength:- 3768808
+
+25-08-2022 15:38:58 : Username:- prime, ByteLength:- 3769462
+
+25-08-2022 15:38:59 : Username:- prime, ByteLength:- 3774613
+
+25-08-2022 15:39:01 : Username:- prime, ByteLength:- 3771637
+
+25-08-2022 15:39:01 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+25-08-2022 15:39:01 : ReceiveTradeResponse Received- 2794248
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+25-08-2022 15:39:01 : ReceiveSpanResponse Received- 362755
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+25-08-2022 15:39:01 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+25-08-2022 15:39:02 : Username:- prime, ByteLength:- 3780976
+
+25-08-2022 15:39:03 : Retrying 192.168.29.142:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+25-08-2022 15:39:03 : Retrying Gateway Span 192.168.29.142:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+25-08-2022 15:39:03 : Retrying 192.168.29.142:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+25-08-2022 15:39:03 : Retrying 192.168.29.142:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+25-08-2022 15:39:03 : Username:- prime, ByteLength:- 3767825
+
+25-08-2022 15:39:04 : EngineProcess_FormClosing
+
+25-08-2022 09:40:04 : ObjFeed_eve_ConenctionMessage : FO Connecting to [192.168.29.142:8707] | Attempts : 1
+
+25-08-2022 09:40:05 : ObjFeed_eve_ConenctionMessage : FO Connected to [192.168.29.142:8707]
+
+25-08-2022 09:40:05 : ObjFeed_eve_ConenctionMessage : CM Connecting to [192.168.29.142:8706] | Attempts : 1
+
+25-08-2022 09:40:05 : ObjFeed_eve_ConenctionMessage : CM Connected to [192.168.29.142:8706]
+
+25-08-2022 09:40:05 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+25-08-2022 09:40:16 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+25-08-2022 09:40:46 : Received HB Server : ID^10E7C6B73B30
+
+25-08-2022 09:40:46 : Received HB Server : USER^prime|prime123
+
+25-08-2022 09:40:46 : Received HB Server : CLIENT^prime
+
+25-08-2022 09:40:46 : Received HB Server : LIMIT^prime
+
+25-08-2022 09:40:46 : Received HB Server : BAN^prime
+
+25-08-2022 09:40:52 : IP added to list PRIME|192.168.29.142:55550
+
+25-08-2022 09:40:52 : IP added to Span list PRIME|192.168.29.142:55551
+
+25-08-2022 09:40:58 : Username:- prime, ByteLength:- 3119122
+
+25-08-2022 09:41:04 : Username:- prime, ByteLength:- 3406784
+
+25-08-2022 09:41:06 : Username:- prime, ByteLength:- 3573842
+
+25-08-2022 09:41:07 : Username:- prime, ByteLength:- 3565774
+
+25-08-2022 09:41:09 : Username:- prime, ByteLength:- 3577053
+
+25-08-2022 09:41:11 : Username:- prime, ByteLength:- 3553485
+
+25-08-2022 09:41:15 : Username:- prime, ByteLength:- 3775251
+
+25-08-2022 09:41:18 : Username:- prime, ByteLength:- 3787255
+
+25-08-2022 09:41:20 : Username:- prime, ByteLength:- 3999528
+
+25-08-2022 09:41:23 : Username:- prime, ByteLength:- 3943167
+
+25-08-2022 09:41:24 : Username:- prime, ByteLength:- 3941927
+
+25-08-2022 09:41:27 : Username:- prime, ByteLength:- 3940936
+
+25-08-2022 09:41:30 : Username:- prime, ByteLength:- 3943650
+
+25-08-2022 09:41:32 : Username:- prime, ByteLength:- 3942049
+
+25-08-2022 09:41:34 : Username:- prime, ByteLength:- 3947565
+
+25-08-2022 09:41:37 : Username:- prime, ByteLength:- 3945348
+
+25-08-2022 09:41:39 : Username:- prime, ByteLength:- 3955670
+
+25-08-2022 09:41:40 : Username:- prime, ByteLength:- 3960993
+
+25-08-2022 09:41:42 : Username:- prime, ByteLength:- 3943907
+
+25-08-2022 09:41:44 : Username:- prime, ByteLength:- 3943560
+
+25-08-2022 09:41:46 : Username:- prime, ByteLength:- 3955120
+
+25-08-2022 09:41:53 : Username:- prime, ByteLength:- 3957428
+
+25-08-2022 09:41:59 : Username:- prime, ByteLength:- 3949605
+
+25-08-2022 09:42:01 : Username:- prime, ByteLength:- 3937412
+
+25-08-2022 09:42:02 : Username:- prime, ByteLength:- 3927479
+
+25-08-2022 09:42:03 : Username:- prime, ByteLength:- 3956176
+
+25-08-2022 09:42:04 : Username:- prime, ByteLength:- 3934325
+
+25-08-2022 09:42:05 : Username:- prime, ByteLength:- 3949100
+
+25-08-2022 09:42:08 : Username:- prime, ByteLength:- 3949002
+
+25-08-2022 09:42:09 : Username:- prime, ByteLength:- 3950004
+
+25-08-2022 09:42:11 : Username:- prime, ByteLength:- 3947331
+
+25-08-2022 09:42:13 : Username:- prime, ByteLength:- 3948618
+
+25-08-2022 09:42:15 : Username:- prime, ByteLength:- 3948548
+
+25-08-2022 09:42:16 : Username:- prime, ByteLength:- 3949444
+
+25-08-2022 09:42:17 : Username:- prime, ByteLength:- 3938686
+
+25-08-2022 09:42:19 : Username:- prime, ByteLength:- 3944055
+
+25-08-2022 09:42:21 : Username:- prime, ByteLength:- 3932517
+
+25-08-2022 09:42:23 : Username:- prime, ByteLength:- 3947234
+
+25-08-2022 09:42:24 : Username:- prime, ByteLength:- 3948609
+
+25-08-2022 09:42:27 : Username:- prime, ByteLength:- 3949406
+
+25-08-2022 09:42:28 : Username:- prime, ByteLength:- 3925634
+
+25-08-2022 09:42:30 : Username:- prime, ByteLength:- 3949901
+
+25-08-2022 09:42:31 : Username:- prime, ByteLength:- 3935297
+
+25-08-2022 09:42:32 : Username:- prime, ByteLength:- 3929877
+
+25-08-2022 09:42:33 : Username:- prime, ByteLength:- 3941368
+
+25-08-2022 09:42:34 : Username:- prime, ByteLength:- 3938814
+
+25-08-2022 09:42:35 : Username:- prime, ByteLength:- 3947925
+
+25-08-2022 09:42:36 : Username:- prime, ByteLength:- 3947480
+
+25-08-2022 09:42:38 : Username:- prime, ByteLength:- 3941064
+
+25-08-2022 09:42:39 : Username:- prime, ByteLength:- 3957785
+
+25-08-2022 09:42:40 : Username:- prime, ByteLength:- 3950659
+
+25-08-2022 09:42:42 : Username:- prime, ByteLength:- 3945075
+
+25-08-2022 09:42:43 : Username:- prime, ByteLength:- 3946102
+
+25-08-2022 09:42:45 : Username:- prime, ByteLength:- 3916108
+
+25-08-2022 09:42:47 : Username:- prime, ByteLength:- 3952608
+
+25-08-2022 09:42:49 : Username:- prime, ByteLength:- 3951765
+
+25-08-2022 09:42:51 : Username:- prime, ByteLength:- 3931581
+
+25-08-2022 09:42:52 : Username:- prime, ByteLength:- 3952774
+
+25-08-2022 09:42:53 : Username:- prime, ByteLength:- 3946796
+
+25-08-2022 09:42:55 : Username:- prime, ByteLength:- 3942443
+
+25-08-2022 09:42:57 : Username:- prime, ByteLength:- 3955446
+
+25-08-2022 09:42:58 : Username:- prime, ByteLength:- 3944221
+
+25-08-2022 09:43:00 : Username:- prime, ByteLength:- 3940197
+
+25-08-2022 09:43:01 : Username:- prime, ByteLength:- 3928292
+
+25-08-2022 09:43:03 : Username:- prime, ByteLength:- 3936190
+
+25-08-2022 09:43:05 : Username:- prime, ByteLength:- 3948439
+
+25-08-2022 09:43:06 : Username:- prime, ByteLength:- 3925789
+
+25-08-2022 09:43:08 : Username:- prime, ByteLength:- 3959013
+
+25-08-2022 09:43:09 : Username:- prime, ByteLength:- 3952182
+
+25-08-2022 09:43:11 : Username:- prime, ByteLength:- 3954024
+
+25-08-2022 09:43:12 : Username:- prime, ByteLength:- 3940871
+
+25-08-2022 09:43:13 : Username:- prime, ByteLength:- 3939410
+
+25-08-2022 09:43:15 : Username:- prime, ByteLength:- 3947750
+
+25-08-2022 09:43:16 : Username:- prime, ByteLength:- 3959196
+
+25-08-2022 09:43:17 : Username:- prime, ByteLength:- 3952291
+
+25-08-2022 09:43:19 : Username:- prime, ByteLength:- 3944932
+
+25-08-2022 09:43:20 : Username:- prime, ByteLength:- 3955755
+
+25-08-2022 09:43:21 : Username:- prime, ByteLength:- 3964095
+
+25-08-2022 09:43:23 : Username:- prime, ByteLength:- 3949782
+
+25-08-2022 09:43:25 : Username:- prime, ByteLength:- 3938716
+
+25-08-2022 09:43:26 : Username:- prime, ByteLength:- 3948442
+
+25-08-2022 09:43:27 : Username:- prime, ByteLength:- 3953311
+
+25-08-2022 09:43:29 : Username:- prime, ByteLength:- 3957927
+
+25-08-2022 09:43:31 : Username:- prime, ByteLength:- 3950616
+
+25-08-2022 09:43:31 : Username:- prime, ByteLength:- 3930081
+
+25-08-2022 09:43:33 : Username:- prime, ByteLength:- 3948667
+
+25-08-2022 09:43:34 : Username:- prime, ByteLength:- 3932284
+
+25-08-2022 09:43:36 : Username:- prime, ByteLength:- 3949600
+
+25-08-2022 09:43:36 : Username:- prime, ByteLength:- 3957251
+
+25-08-2022 09:43:38 : Username:- prime, ByteLength:- 3950507
+
+25-08-2022 09:43:40 : Username:- prime, ByteLength:- 3957785
+
+25-08-2022 09:43:40 : Username:- prime, ByteLength:- 3935739
+
+25-08-2022 09:43:42 : Username:- prime, ByteLength:- 3948275
+
+25-08-2022 09:43:43 : Username:- prime, ByteLength:- 3938167
+
+25-08-2022 09:43:44 : Username:- prime, ByteLength:- 3951380
+
+25-08-2022 09:43:45 : Username:- prime, ByteLength:- 3952460
+
+25-08-2022 09:43:46 : Username:- prime, ByteLength:- 3944971
+
+25-08-2022 09:43:47 : Username:- prime, ByteLength:- 3952472
+
+25-08-2022 09:43:48 : Username:- prime, ByteLength:- 3944405
+
+25-08-2022 09:43:50 : Username:- prime, ByteLength:- 3951243
+
+25-08-2022 09:43:51 : Username:- prime, ByteLength:- 3943207
+
+25-08-2022 09:43:52 : Username:- prime, ByteLength:- 3954472
+
+25-08-2022 09:43:54 : Username:- prime, ByteLength:- 3941252
+
+25-08-2022 09:43:55 : Username:- prime, ByteLength:- 3945873
+
+25-08-2022 09:43:56 : Username:- prime, ByteLength:- 3951958
+
+25-08-2022 09:43:57 : Username:- prime, ByteLength:- 3946574
+
+25-08-2022 09:43:59 : Username:- prime, ByteLength:- 3935305
+
+25-08-2022 09:43:59 : Username:- prime, ByteLength:- 3934531
+
+25-08-2022 09:44:01 : Username:- prime, ByteLength:- 3948787
+
+25-08-2022 09:44:03 : Username:- prime, ByteLength:- 3949632
+
+25-08-2022 09:44:04 : Username:- prime, ByteLength:- 3946852
+
+25-08-2022 09:44:05 : Username:- prime, ByteLength:- 3943700
+
+25-08-2022 09:44:07 : Username:- prime, ByteLength:- 3949959
+
+25-08-2022 09:44:08 : Username:- prime, ByteLength:- 3947808
+
+25-08-2022 09:44:09 : Username:- prime, ByteLength:- 3952239
+
+25-08-2022 09:44:11 : Username:- prime, ByteLength:- 3936848
+
+25-08-2022 09:44:11 : ReceiveSpanResponse Received- 568002
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 147
+
+25-08-2022 09:44:11 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+25-08-2022 09:44:12 : Username:- prime, ByteLength:- 3934871
+
+25-08-2022 09:44:14 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:44:14 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:44:14 : Username:- prime, ByteLength:- 3944128
+
+25-08-2022 09:44:15 : Username:- prime, ByteLength:- 3950182
+
+25-08-2022 09:44:16 : Username:- prime, ByteLength:- 3928619
+
+25-08-2022 09:44:17 : Username:- prime, ByteLength:- 3935131
+
+25-08-2022 09:44:18 : Username:- prime, ByteLength:- 3945691
+
+25-08-2022 09:44:20 : Username:- prime, ByteLength:- 3937563
+
+25-08-2022 09:44:21 : Username:- prime, ByteLength:- 3940816
+
+25-08-2022 09:44:22 : Username:- prime, ByteLength:- 3939517
+
+25-08-2022 09:44:23 : Username:- prime, ByteLength:- 3925371
+
+25-08-2022 09:44:24 : Username:- prime, ByteLength:- 3941291
+
+25-08-2022 09:44:26 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:44:26 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:44:26 : Username:- prime, ByteLength:- 3944480
+
+25-08-2022 09:44:28 : Username:- prime, ByteLength:- 3953238
+
+25-08-2022 09:44:30 : Username:- prime, ByteLength:- 3948284
+
+25-08-2022 09:44:32 : Username:- prime, ByteLength:- 3947867
+
+25-08-2022 09:44:35 : Username:- prime, ByteLength:- 3951548
+
+25-08-2022 09:44:36 : Username:- prime, ByteLength:- 3963898
+
+25-08-2022 09:44:37 : Username:- prime, ByteLength:- 3939989
+
+25-08-2022 09:44:38 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:44:38 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:44:38 : Username:- prime, ByteLength:- 3919267
+
+25-08-2022 09:44:40 : Username:- prime, ByteLength:- 3935716
+
+25-08-2022 09:44:41 : Username:- prime, ByteLength:- 3958697
+
+25-08-2022 09:44:42 : Username:- prime, ByteLength:- 3918244
+
+25-08-2022 09:44:44 : Username:- prime, ByteLength:- 3955366
+
+25-08-2022 09:44:45 : Username:- prime, ByteLength:- 3928845
+
+25-08-2022 09:44:47 : Username:- prime, ByteLength:- 3943859
+
+25-08-2022 09:44:48 : Username:- prime, ByteLength:- 3948496
+
+25-08-2022 09:44:50 : Username:- prime, ByteLength:- 3942544
+
+25-08-2022 09:44:50 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:44:51 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:44:52 : Username:- prime, ByteLength:- 3934499
+
+25-08-2022 09:44:55 : Username:- prime, ByteLength:- 3952129
+
+25-08-2022 09:44:56 : Username:- prime, ByteLength:- 3957987
+
+25-08-2022 09:44:58 : Username:- prime, ByteLength:- 3938466
+
+25-08-2022 09:44:59 : Username:- prime, ByteLength:- 3944024
+
+25-08-2022 09:45:01 : Username:- prime, ByteLength:- 3947836
+
+25-08-2022 09:45:02 : Username:- prime, ByteLength:- 3937724
+
+25-08-2022 09:45:03 : Unable to connect to the nImageB Span Server. 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:45:03 : Unable to connect to the nImageB Server. 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:45:04 : Username:- prime, ByteLength:- 3951042
+
+25-08-2022 09:45:05 : Username:- prime, ByteLength:- 3953206
+
+25-08-2022 09:45:07 : Username:- prime, ByteLength:- 3949283
+
+25-08-2022 09:45:09 : Username:- prime, ByteLength:- 3949716
+
+25-08-2022 09:45:10 : Username:- prime, ByteLength:- 3942120
+
+25-08-2022 09:45:11 : Username:- prime, ByteLength:- 3948139
+
+25-08-2022 09:45:13 : Username:- prime, ByteLength:- 3947147
+
+25-08-2022 09:45:15 : Username:- prime, ByteLength:- 3942782
+
+25-08-2022 09:45:16 : Username:- prime, ByteLength:- 3947412
+
+25-08-2022 09:45:18 : Username:- prime, ByteLength:- 3938518
+
+25-08-2022 09:45:19 : Username:- prime, ByteLength:- 3954219
+
+25-08-2022 09:45:21 : Username:- prime, ByteLength:- 3951096
+
+25-08-2022 09:45:24 : Username:- prime, ByteLength:- 3957780
+
+25-08-2022 09:45:25 : Username:- prime, ByteLength:- 3943137
+
+25-08-2022 09:45:28 : Username:- prime, ByteLength:- 3948513
+
+25-08-2022 09:45:28 : Username:- prime, ByteLength:- 3947852
+
+25-08-2022 09:45:30 : Username:- prime, ByteLength:- 3942044
+
+25-08-2022 09:45:31 : Username:- prime, ByteLength:- 3952597
+
+25-08-2022 09:45:32 : Username:- prime, ByteLength:- 3951530
+
+25-08-2022 09:45:35 : Username:- prime, ByteLength:- 3952584
+
+25-08-2022 09:45:36 : Username:- prime, ByteLength:- 3950058
+
+25-08-2022 09:45:37 : Username:- prime, ByteLength:- 3941832
+
+25-08-2022 09:45:38 : Username:- prime, ByteLength:- 3950065
+
+25-08-2022 09:45:40 : Username:- prime, ByteLength:- 3954216
+
+25-08-2022 09:45:41 : Username:- prime, ByteLength:- 3935688
+
+25-08-2022 09:45:42 : Username:- prime, ByteLength:- 3953099
+
+25-08-2022 09:45:43 : Username:- prime, ByteLength:- 3944017
+
+25-08-2022 09:45:45 : Username:- prime, ByteLength:- 3938411
+
+25-08-2022 09:45:46 : Username:- prime, ByteLength:- 3941989
+
+25-08-2022 09:45:47 : Username:- prime, ByteLength:- 3944079
+
+25-08-2022 09:45:49 : Username:- prime, ByteLength:- 3935625
+
+25-08-2022 09:45:49 : Username:- prime, ByteLength:- 3926071
+
+25-08-2022 09:45:51 : Username:- prime, ByteLength:- 3954579
+
+25-08-2022 09:45:54 : Username:- prime, ByteLength:- 3953121
+
+25-08-2022 09:45:55 : Username:- prime, ByteLength:- 3943141
+
+25-08-2022 09:45:57 : Username:- prime, ByteLength:- 3947132
+
+25-08-2022 09:45:58 : Username:- prime, ByteLength:- 3949891
+
+25-08-2022 09:46:00 : Username:- prime, ByteLength:- 3937466
+
+25-08-2022 09:46:02 : Username:- prime, ByteLength:- 3939777
+
+25-08-2022 09:46:03 : Username:- prime, ByteLength:- 3940944
+
+25-08-2022 09:46:05 : Username:- prime, ByteLength:- 3949907
+
+25-08-2022 09:46:07 : Username:- prime, ByteLength:- 3952819
+
+25-08-2022 09:46:09 : Username:- prime, ByteLength:- 3947210
+
+25-08-2022 09:46:10 : Username:- prime, ByteLength:- 3948482
+
+25-08-2022 09:46:12 : Username:- prime, ByteLength:- 3940247
+
+25-08-2022 09:46:14 : Username:- prime, ByteLength:- 3940577
+
+25-08-2022 09:46:14 : Username:- prime, ByteLength:- 3938813
+
+25-08-2022 09:46:16 : Username:- prime, ByteLength:- 3957119
+
+25-08-2022 09:46:17 : Username:- prime, ByteLength:- 3959323
+
+25-08-2022 09:46:19 : Username:- prime, ByteLength:- 3949961
+
+25-08-2022 09:46:20 : Username:- prime, ByteLength:- 3947037
+
+25-08-2022 09:46:22 : Username:- prime, ByteLength:- 3949844
+
+25-08-2022 09:46:22 : Username:- prime, ByteLength:- 3945146
+
+25-08-2022 09:46:23 : Username:- prime, ByteLength:- 3944882
+
+25-08-2022 09:46:24 : Username:- prime, ByteLength:- 3952001
+
+25-08-2022 09:46:25 : Username:- prime, ByteLength:- 3921713
+
+25-08-2022 09:46:27 : Username:- prime, ByteLength:- 3942733
+
+25-08-2022 09:46:28 : Username:- prime, ByteLength:- 3943450
+
+25-08-2022 09:46:29 : Username:- prime, ByteLength:- 3949180
+
+25-08-2022 09:46:31 : Username:- prime, ByteLength:- 3941238
+
+25-08-2022 09:46:32 : Username:- prime, ByteLength:- 3920544
+
+25-08-2022 09:46:34 : Username:- prime, ByteLength:- 3946340
+
+25-08-2022 09:46:35 : Username:- prime, ByteLength:- 3953153
+
+25-08-2022 09:46:36 : Username:- prime, ByteLength:- 3940430
+
+25-08-2022 09:46:37 : Username:- prime, ByteLength:- 3951995
+
+25-08-2022 09:46:38 : Username:- prime, ByteLength:- 3950254
+
+25-08-2022 09:46:39 : Username:- prime, ByteLength:- 3951198
+
+25-08-2022 09:46:40 : Username:- prime, ByteLength:- 3915070
+
+25-08-2022 09:46:42 : Username:- prime, ByteLength:- 3925273
+
+25-08-2022 09:46:43 : Username:- prime, ByteLength:- 3944704
+
+25-08-2022 09:46:44 : Username:- prime, ByteLength:- 3947764
+
+25-08-2022 09:46:46 : Username:- prime, ByteLength:- 3941777
+
+25-08-2022 09:46:47 : Username:- prime, ByteLength:- 3935145
+
+25-08-2022 09:46:49 : Username:- prime, ByteLength:- 3947281
+
+25-08-2022 09:46:50 : Username:- prime, ByteLength:- 3936328
+
+25-08-2022 09:46:51 : Username:- prime, ByteLength:- 3935011
+
+25-08-2022 09:46:53 : Username:- prime, ByteLength:- 3942173
+
+25-08-2022 09:46:54 : Username:- prime, ByteLength:- 3945549
+
+25-08-2022 09:46:55 : Username:- prime, ByteLength:- 3959536
+
+25-08-2022 09:46:56 : Username:- prime, ByteLength:- 3946439
+
+25-08-2022 09:46:58 : Username:- prime, ByteLength:- 3948213
+
+25-08-2022 09:46:58 : Username:- prime, ByteLength:- 3945190
+
+25-08-2022 09:47:00 : Username:- prime, ByteLength:- 3955912
+
+25-08-2022 09:47:01 : Username:- prime, ByteLength:- 3957776
+
+25-08-2022 09:47:03 : Username:- prime, ByteLength:- 3932168
+
+25-08-2022 09:47:04 : Username:- prime, ByteLength:- 3942182
+
+25-08-2022 09:47:05 : Username:- prime, ByteLength:- 3952263
+
+25-08-2022 09:47:07 : Username:- prime, ByteLength:- 3951933
+
+25-08-2022 09:47:08 : Username:- prime, ByteLength:- 3945466
+
+25-08-2022 09:47:09 : Username:- prime, ByteLength:- 3959701
+
+25-08-2022 09:47:10 : Username:- prime, ByteLength:- 3965162
+
+25-08-2022 09:47:12 : Username:- prime, ByteLength:- 3949340
+
+25-08-2022 09:47:13 : Username:- prime, ByteLength:- 3958680
+
+25-08-2022 09:47:14 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 69
+
+25-08-2022 09:47:14 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 69
+
+25-08-2022 09:47:15 : Username:- prime, ByteLength:- 3958356
+
+25-08-2022 09:47:15 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 147
+
+25-08-2022 09:47:15 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 147
+
+25-08-2022 09:47:16 : Username:- prime, ByteLength:- 3959205
+
+25-08-2022 09:47:17 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:47:17 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:47:17 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:47:17 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:47:18 : Username:- prime, ByteLength:- 3953089
+
+25-08-2022 09:47:19 : Username:- prime, ByteLength:- 3952325
+
+25-08-2022 09:47:21 : Username:- prime, ByteLength:- 3949341
+
+25-08-2022 09:47:23 : Username:- prime, ByteLength:- 3937761
+
+25-08-2022 09:47:24 : Username:- prime, ByteLength:- 3941537
+
+25-08-2022 09:47:25 : Username:- prime, ByteLength:- 3936257
+
+25-08-2022 09:47:26 : Username:- prime, ByteLength:- 3949462
+
+25-08-2022 09:47:27 : Username:- prime, ByteLength:- 3952437
+
+25-08-2022 09:47:29 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:47:29 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:47:29 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:47:29 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:47:30 : Username:- prime, ByteLength:- 3928972
+
+25-08-2022 09:47:31 : Username:- prime, ByteLength:- 3946795
+
+25-08-2022 09:47:32 : Username:- prime, ByteLength:- 3922073
+
+25-08-2022 09:47:33 : Username:- prime, ByteLength:- 3947219
+
+25-08-2022 09:47:34 : Username:- prime, ByteLength:- 3941497
+
+25-08-2022 09:47:36 : Username:- prime, ByteLength:- 3948157
+
+25-08-2022 09:47:38 : Username:- prime, ByteLength:- 3941153
+
+25-08-2022 09:47:39 : Username:- prime, ByteLength:- 3944275
+
+25-08-2022 09:47:40 : Username:- prime, ByteLength:- 3956023
+
+25-08-2022 09:47:41 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:47:41 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 09:47:42 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:47:42 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 09:47:42 : Username:- prime, ByteLength:- 3951339
+
+25-08-2022 09:47:43 : Username:- prime, ByteLength:- 3941254
+
+25-08-2022 09:47:44 : Username:- prime, ByteLength:- 3943084
+
+25-08-2022 09:47:45 : Username:- prime, ByteLength:- 3939629
+
+25-08-2022 09:47:47 : Username:- prime, ByteLength:- 3956711
+
+25-08-2022 09:47:48 : Username:- prime, ByteLength:- 3940879
+
+25-08-2022 09:47:50 : Username:- prime, ByteLength:- 3947856
+
+25-08-2022 09:47:52 : Username:- prime, ByteLength:- 3957772
+
+25-08-2022 09:47:53 : Username:- prime, ByteLength:- 3958020
+
+25-08-2022 09:47:54 : Username:- prime, ByteLength:- 3948116
+
+25-08-2022 09:47:55 : Username:- prime, ByteLength:- 3956837
+
+25-08-2022 09:47:56 : Username:- prime, ByteLength:- 3944563
+
+25-08-2022 09:47:57 : Username:- prime, ByteLength:- 3958628
+
+25-08-2022 09:47:58 : Username:- prime, ByteLength:- 3951775
+
+25-08-2022 09:48:00 : Username:- prime, ByteLength:- 3949377
+
+25-08-2022 09:48:01 : Username:- prime, ByteLength:- 3957587
+
+25-08-2022 09:48:03 : Username:- prime, ByteLength:- 3931586
+
+25-08-2022 09:48:04 : Username:- prime, ByteLength:- 3945108
+
+25-08-2022 09:48:05 : Username:- prime, ByteLength:- 3939574
+
+25-08-2022 09:48:06 : Username:- prime, ByteLength:- 3931374
+
+25-08-2022 09:48:07 : Username:- prime, ByteLength:- 3925824
+
+25-08-2022 09:48:09 : Username:- prime, ByteLength:- 3943668
+
+25-08-2022 09:48:10 : Username:- prime, ByteLength:- 3947770
+
+25-08-2022 09:48:12 : Username:- prime, ByteLength:- 3953038
+
+25-08-2022 09:48:14 : Username:- prime, ByteLength:- 3959433
+
+25-08-2022 09:48:15 : Username:- prime, ByteLength:- 3949695
+
+25-08-2022 09:48:17 : Username:- prime, ByteLength:- 3936444
+
+25-08-2022 09:48:18 : Username:- prime, ByteLength:- 3951553
+
+25-08-2022 09:48:21 : Username:- prime, ByteLength:- 3943645
+
+25-08-2022 09:48:22 : Username:- prime, ByteLength:- 3943805
+
+25-08-2022 09:48:23 : Username:- prime, ByteLength:- 3937360
+
+25-08-2022 09:48:24 : Username:- prime, ByteLength:- 3947008
+
+25-08-2022 09:48:26 : Username:- prime, ByteLength:- 3950003
+
+25-08-2022 09:48:28 : Username:- prime, ByteLength:- 3930905
+
+25-08-2022 09:48:29 : Username:- prime, ByteLength:- 3922203
+
+25-08-2022 09:48:30 : Username:- prime, ByteLength:- 3947372
+
+25-08-2022 09:48:32 : Username:- prime, ByteLength:- 3932728
+
+25-08-2022 09:48:34 : Username:- prime, ByteLength:- 3938716
+
+25-08-2022 09:48:36 : Username:- prime, ByteLength:- 3932128
+
+25-08-2022 09:48:37 : Username:- prime, ByteLength:- 3939271
+
+25-08-2022 09:48:39 : Username:- prime, ByteLength:- 3940788
+
+25-08-2022 09:48:40 : Username:- prime, ByteLength:- 3946789
+
+25-08-2022 09:48:41 : Username:- prime, ByteLength:- 3942991
+
+25-08-2022 09:48:42 : Username:- prime, ByteLength:- 3937691
+
+25-08-2022 09:48:43 : Username:- prime, ByteLength:- 3949199
+
+25-08-2022 09:48:45 : Username:- prime, ByteLength:- 3959223
+
+25-08-2022 09:48:46 : Username:- prime, ByteLength:- 3953990
+
+25-08-2022 09:48:48 : Username:- prime, ByteLength:- 3940563
+
+25-08-2022 09:48:49 : Username:- prime, ByteLength:- 3949153
+
+25-08-2022 09:48:50 : Username:- prime, ByteLength:- 3962753
+
+25-08-2022 09:48:51 : Username:- prime, ByteLength:- 3941113
+
+25-08-2022 09:48:53 : Username:- prime, ByteLength:- 3948969
+
+25-08-2022 09:48:54 : Username:- prime, ByteLength:- 3952734
+
+25-08-2022 09:48:56 : Username:- prime, ByteLength:- 3939421
+
+25-08-2022 09:48:56 : Username:- prime, ByteLength:- 3943693
+
+25-08-2022 09:48:58 : Username:- prime, ByteLength:- 3942419
+
+25-08-2022 09:49:00 : Username:- prime, ByteLength:- 3956817
+
+25-08-2022 09:49:01 : Username:- prime, ByteLength:- 3945219
+
+25-08-2022 09:49:02 : Username:- prime, ByteLength:- 3934967
+
+25-08-2022 09:49:03 : Username:- prime, ByteLength:- 3945377
+
+25-08-2022 09:49:05 : Username:- prime, ByteLength:- 3960760
+
+25-08-2022 09:49:07 : Username:- prime, ByteLength:- 3943905
+
+25-08-2022 09:49:08 : Username:- prime, ByteLength:- 3949866
+
+25-08-2022 09:49:09 : Username:- prime, ByteLength:- 3938316
+
+25-08-2022 09:49:10 : Username:- prime, ByteLength:- 3955437
+
+25-08-2022 09:49:12 : Username:- prime, ByteLength:- 3939151
+
+25-08-2022 09:49:14 : Username:- prime, ByteLength:- 3928353
+
+25-08-2022 09:49:16 : Username:- prime, ByteLength:- 3935272
+
+25-08-2022 09:49:17 : Username:- prime, ByteLength:- 3949556
+
+25-08-2022 09:49:19 : Username:- prime, ByteLength:- 3953058
+
+25-08-2022 09:49:20 : Username:- prime, ByteLength:- 3948381
+
+25-08-2022 09:49:22 : Username:- prime, ByteLength:- 3950443
+
+25-08-2022 09:49:24 : Username:- prime, ByteLength:- 3956211
+
+25-08-2022 09:49:25 : Username:- prime, ByteLength:- 3947684
+
+25-08-2022 09:49:26 : Username:- prime, ByteLength:- 3957317
+
+25-08-2022 09:49:28 : Username:- prime, ByteLength:- 3950894
+
+25-08-2022 09:49:29 : Username:- prime, ByteLength:- 3949930
+
+25-08-2022 09:49:30 : Username:- prime, ByteLength:- 3932411
+
+25-08-2022 09:49:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:49:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:49:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:49:32 : Username:- prime, ByteLength:- 3938693
+
+25-08-2022 09:49:33 : Username:- prime, ByteLength:- 3948287
+
+25-08-2022 09:49:34 : Username:- prime, ByteLength:- 3960643
+
+25-08-2022 09:49:36 : Username:- prime, ByteLength:- 3936111
+
+25-08-2022 09:49:38 : Username:- prime, ByteLength:- 3946618
+
+25-08-2022 09:49:40 : Username:- prime, ByteLength:- 3932282
+
+25-08-2022 09:49:41 : Username:- prime, ByteLength:- 3923562
+
+25-08-2022 09:49:43 : Username:- prime, ByteLength:- 3951954
+
+25-08-2022 09:49:44 : Username:- prime, ByteLength:- 3955608
+
+25-08-2022 09:49:46 : Username:- prime, ByteLength:- 3953994
+
+25-08-2022 09:49:47 : Username:- prime, ByteLength:- 3935402
+
+25-08-2022 09:49:49 : Username:- prime, ByteLength:- 3956784
+
+25-08-2022 09:49:50 : Username:- prime, ByteLength:- 3955106
+
+25-08-2022 09:49:52 : Username:- prime, ByteLength:- 3950831
+
+25-08-2022 09:49:53 : Username:- prime, ByteLength:- 3947301
+
+25-08-2022 09:49:55 : Username:- prime, ByteLength:- 3949241
+
+25-08-2022 09:49:56 : Username:- prime, ByteLength:- 3945402
+
+25-08-2022 09:49:58 : Username:- prime, ByteLength:- 3945628
+
+25-08-2022 09:49:59 : Username:- prime, ByteLength:- 3942762
+
+25-08-2022 09:50:01 : Username:- prime, ByteLength:- 3960781
+
+25-08-2022 09:50:02 : Username:- prime, ByteLength:- 3932674
+
+25-08-2022 09:50:04 : Username:- prime, ByteLength:- 3938257
+
+25-08-2022 09:50:06 : Username:- prime, ByteLength:- 3945445
+
+25-08-2022 09:50:07 : Username:- prime, ByteLength:- 3937157
+
+25-08-2022 09:50:09 : Username:- prime, ByteLength:- 3928727
+
+25-08-2022 09:50:11 : Username:- prime, ByteLength:- 3948936
+
+25-08-2022 09:50:13 : Username:- prime, ByteLength:- 3946551
+
+25-08-2022 09:50:15 : Username:- prime, ByteLength:- 3947181
+
+25-08-2022 09:50:17 : Username:- prime, ByteLength:- 3953844
+
+25-08-2022 09:50:19 : Username:- prime, ByteLength:- 3944298
+
+25-08-2022 09:50:20 : Username:- prime, ByteLength:- 3950670
+
+25-08-2022 09:50:22 : Username:- prime, ByteLength:- 3958169
+
+25-08-2022 09:50:24 : Username:- prime, ByteLength:- 3942882
+
+25-08-2022 09:50:27 : Username:- prime, ByteLength:- 3938820
+
+25-08-2022 09:50:28 : Username:- prime, ByteLength:- 3949052
+
+25-08-2022 09:50:30 : Username:- prime, ByteLength:- 3945371
+
+25-08-2022 09:50:31 : Username:- prime, ByteLength:- 3952138
+
+25-08-2022 09:50:32 : Username:- prime, ByteLength:- 3956110
+
+25-08-2022 09:50:34 : Username:- prime, ByteLength:- 3944287
+
+25-08-2022 09:50:36 : Username:- prime, ByteLength:- 3949133
+
+25-08-2022 09:50:37 : Username:- prime, ByteLength:- 3960161
+
+25-08-2022 09:50:38 : Username:- prime, ByteLength:- 3930884
+
+25-08-2022 09:50:39 : Username:- prime, ByteLength:- 3930919
+
+25-08-2022 09:50:41 : Username:- prime, ByteLength:- 3937015
+
+25-08-2022 09:50:42 : Username:- prime, ByteLength:- 3938271
+
+25-08-2022 09:50:44 : Username:- prime, ByteLength:- 3949295
+
+25-08-2022 09:50:46 : Username:- prime, ByteLength:- 3940660
+
+25-08-2022 09:50:48 : Username:- prime, ByteLength:- 3952519
+
+25-08-2022 09:50:50 : Username:- prime, ByteLength:- 3942810
+
+25-08-2022 09:50:51 : Username:- prime, ByteLength:- 3931272
+
+25-08-2022 09:50:53 : Username:- prime, ByteLength:- 3936028
+
+25-08-2022 09:50:53 : Username:- prime, ByteLength:- 3944550
+
+25-08-2022 09:50:55 : Username:- prime, ByteLength:- 3953369
+
+25-08-2022 09:50:56 : Username:- prime, ByteLength:- 3938722
+
+25-08-2022 09:50:57 : Username:- prime, ByteLength:- 3942786
+
+25-08-2022 09:50:58 : Username:- prime, ByteLength:- 3953891
+
+25-08-2022 09:51:00 : Username:- prime, ByteLength:- 3943370
+
+25-08-2022 09:51:01 : Username:- prime, ByteLength:- 3935324
+
+25-08-2022 09:51:02 : Username:- prime, ByteLength:- 3945613
+
+25-08-2022 09:51:05 : Username:- prime, ByteLength:- 3958697
+
+25-08-2022 09:51:06 : Username:- prime, ByteLength:- 3958942
+
+25-08-2022 09:51:09 : Username:- prime, ByteLength:- 3944858
+
+25-08-2022 09:51:10 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:51:10 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:51:10 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:51:10 : Username:- prime, ByteLength:- 3913067
+
+25-08-2022 09:51:11 : Username:- prime, ByteLength:- 3948861
+
+25-08-2022 09:51:13 : Username:- prime, ByteLength:- 3946336
+
+25-08-2022 09:51:15 : Username:- prime, ByteLength:- 3955542
+
+25-08-2022 09:51:16 : Username:- prime, ByteLength:- 3949713
+
+25-08-2022 09:51:17 : Username:- prime, ByteLength:- 3955665
+
+25-08-2022 09:51:19 : Username:- prime, ByteLength:- 3955908
+
+25-08-2022 09:51:20 : Username:- prime, ByteLength:- 3938168
+
+25-08-2022 09:51:21 : Username:- prime, ByteLength:- 3952435
+
+25-08-2022 09:51:22 : Username:- prime, ByteLength:- 3953680
+
+25-08-2022 09:51:23 : Username:- prime, ByteLength:- 3961386
+
+25-08-2022 09:51:25 : Username:- prime, ByteLength:- 3953731
+
+25-08-2022 09:51:27 : Username:- prime, ByteLength:- 3946435
+
+25-08-2022 09:51:29 : Username:- prime, ByteLength:- 3947992
+
+25-08-2022 09:51:32 : Username:- prime, ByteLength:- 3958170
+
+25-08-2022 09:51:34 : Username:- prime, ByteLength:- 3948983
+
+25-08-2022 09:51:35 : Username:- prime, ByteLength:- 3939995
+
+25-08-2022 09:51:36 : Username:- prime, ByteLength:- 3944008
+
+25-08-2022 09:51:38 : Username:- prime, ByteLength:- 3944386
+
+25-08-2022 09:51:39 : Username:- prime, ByteLength:- 3922338
+
+25-08-2022 09:51:41 : Username:- prime, ByteLength:- 3951080
+
+25-08-2022 09:51:43 : Username:- prime, ByteLength:- 3929207
+
+25-08-2022 09:51:44 : Username:- prime, ByteLength:- 3950364
+
+25-08-2022 09:51:48 : Username:- prime, ByteLength:- 3938337
+
+25-08-2022 09:51:49 : Username:- prime, ByteLength:- 3936659
+
+25-08-2022 09:51:51 : Username:- prime, ByteLength:- 3941343
+
+25-08-2022 09:51:54 : Username:- prime, ByteLength:- 3940061
+
+25-08-2022 09:51:55 : Username:- prime, ByteLength:- 3934463
+
+25-08-2022 09:51:57 : Username:- prime, ByteLength:- 3935354
+
+25-08-2022 09:51:59 : Username:- prime, ByteLength:- 3957853
+
+25-08-2022 09:52:01 : Username:- prime, ByteLength:- 3926691
+
+25-08-2022 09:52:01 : Username:- prime, ByteLength:- 3937498
+
+25-08-2022 09:52:04 : Username:- prime, ByteLength:- 3941851
+
+25-08-2022 09:52:06 : Username:- prime, ByteLength:- 3941317
+
+25-08-2022 09:52:08 : Username:- prime, ByteLength:- 3948376
+
+25-08-2022 09:52:09 : Username:- prime, ByteLength:- 3953374
+
+25-08-2022 09:52:10 : Username:- prime, ByteLength:- 3954430
+
+25-08-2022 09:52:12 : Username:- prime, ByteLength:- 3955197
+
+25-08-2022 09:52:13 : Username:- prime, ByteLength:- 3931232
+
+25-08-2022 09:52:15 : Username:- prime, ByteLength:- 3936254
+
+25-08-2022 09:52:16 : Username:- prime, ByteLength:- 3951450
+
+25-08-2022 09:52:17 : Username:- prime, ByteLength:- 3936485
+
+25-08-2022 09:52:20 : Username:- prime, ByteLength:- 3949275
+
+25-08-2022 09:52:21 : Username:- prime, ByteLength:- 3937989
+
+25-08-2022 09:52:22 : Username:- prime, ByteLength:- 3945827
+
+25-08-2022 09:52:24 : Username:- prime, ByteLength:- 3960200
+
+25-08-2022 09:52:25 : Username:- prime, ByteLength:- 3952951
+
+25-08-2022 09:52:27 : Username:- prime, ByteLength:- 3944343
+
+25-08-2022 09:52:29 : Username:- prime, ByteLength:- 3949144
+
+25-08-2022 09:52:31 : Username:- prime, ByteLength:- 3955858
+
+25-08-2022 09:52:32 : Username:- prime, ByteLength:- 3959768
+
+25-08-2022 09:52:34 : Username:- prime, ByteLength:- 3943380
+
+25-08-2022 09:52:34 : Username:- prime, ByteLength:- 3956223
+
+25-08-2022 09:52:35 : Username:- prime, ByteLength:- 3947426
+
+25-08-2022 09:52:37 : Username:- prime, ByteLength:- 3942388
+
+25-08-2022 09:52:38 : Username:- prime, ByteLength:- 3952195
+
+25-08-2022 09:52:40 : Username:- prime, ByteLength:- 3937799
+
+25-08-2022 09:52:41 : Username:- prime, ByteLength:- 3937102
+
+25-08-2022 09:52:42 : Username:- prime, ByteLength:- 3951518
+
+25-08-2022 09:52:44 : Username:- prime, ByteLength:- 3941596
+
+25-08-2022 09:52:45 : Username:- prime, ByteLength:- 3943810
+
+25-08-2022 09:52:46 : Username:- prime, ByteLength:- 3942698
+
+25-08-2022 09:52:49 : Username:- prime, ByteLength:- 3930034
+
+25-08-2022 09:52:50 : Username:- prime, ByteLength:- 3950702
+
+25-08-2022 09:52:50 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:52:50 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:52:50 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:52:52 : Username:- prime, ByteLength:- 3944691
+
+25-08-2022 09:52:53 : Username:- prime, ByteLength:- 3940341
+
+25-08-2022 09:52:55 : Username:- prime, ByteLength:- 3937298
+
+25-08-2022 09:52:57 : Username:- prime, ByteLength:- 3943807
+
+25-08-2022 09:52:59 : Username:- prime, ByteLength:- 3932547
+
+25-08-2022 09:53:00 : Username:- prime, ByteLength:- 3944697
+
+25-08-2022 09:53:02 : Username:- prime, ByteLength:- 3943681
+
+25-08-2022 09:53:03 : Username:- prime, ByteLength:- 3951980
+
+25-08-2022 09:53:05 : Username:- prime, ByteLength:- 3940704
+
+25-08-2022 09:53:06 : Username:- prime, ByteLength:- 3950405
+
+25-08-2022 09:53:08 : Username:- prime, ByteLength:- 3949659
+
+25-08-2022 09:53:09 : Username:- prime, ByteLength:- 3944389
+
+25-08-2022 09:53:10 : Username:- prime, ByteLength:- 3951403
+
+25-08-2022 09:53:12 : Username:- prime, ByteLength:- 3933924
+
+25-08-2022 09:53:13 : Username:- prime, ByteLength:- 3927859
+
+25-08-2022 09:53:16 : Username:- prime, ByteLength:- 3928842
+
+25-08-2022 09:53:17 : Username:- prime, ByteLength:- 3940408
+
+25-08-2022 09:53:18 : Username:- prime, ByteLength:- 3937463
+
+25-08-2022 09:53:20 : Username:- prime, ByteLength:- 3946248
+
+25-08-2022 09:53:22 : Username:- prime, ByteLength:- 3944959
+
+25-08-2022 09:53:23 : Username:- prime, ByteLength:- 3945778
+
+25-08-2022 09:53:26 : Username:- prime, ByteLength:- 3937844
+
+25-08-2022 09:53:27 : Username:- prime, ByteLength:- 3934926
+
+25-08-2022 09:53:29 : Username:- prime, ByteLength:- 3939683
+
+25-08-2022 09:53:32 : Username:- prime, ByteLength:- 3938295
+
+25-08-2022 09:53:33 : Username:- prime, ByteLength:- 3959491
+
+25-08-2022 09:53:36 : Username:- prime, ByteLength:- 3945654
+
+25-08-2022 09:53:38 : Username:- prime, ByteLength:- 3948883
+
+25-08-2022 09:53:39 : Username:- prime, ByteLength:- 3955575
+
+25-08-2022 09:53:41 : Username:- prime, ByteLength:- 3925384
+
+25-08-2022 09:53:43 : Username:- prime, ByteLength:- 3940983
+
+25-08-2022 09:53:44 : Username:- prime, ByteLength:- 3942618
+
+25-08-2022 09:53:46 : Username:- prime, ByteLength:- 3939705
+
+25-08-2022 09:53:48 : Username:- prime, ByteLength:- 3963325
+
+25-08-2022 09:53:49 : Username:- prime, ByteLength:- 3936852
+
+25-08-2022 09:53:52 : Username:- prime, ByteLength:- 3941145
+
+25-08-2022 09:53:54 : Username:- prime, ByteLength:- 3936518
+
+25-08-2022 09:53:55 : Username:- prime, ByteLength:- 3949807
+
+25-08-2022 09:53:56 : Username:- prime, ByteLength:- 3953486
+
+25-08-2022 09:53:57 : Username:- prime, ByteLength:- 3960255
+
+25-08-2022 09:53:58 : Username:- prime, ByteLength:- 3948928
+
+25-08-2022 09:53:59 : Username:- prime, ByteLength:- 3951731
+
+25-08-2022 09:54:01 : Username:- prime, ByteLength:- 3948989
+
+25-08-2022 09:54:02 : Username:- prime, ByteLength:- 3952491
+
+25-08-2022 09:54:04 : Username:- prime, ByteLength:- 3938974
+
+25-08-2022 09:54:06 : Username:- prime, ByteLength:- 3931808
+
+25-08-2022 09:54:07 : Username:- prime, ByteLength:- 3940868
+
+25-08-2022 09:54:08 : Username:- prime, ByteLength:- 3948001
+
+25-08-2022 09:54:10 : Username:- prime, ByteLength:- 3954274
+
+25-08-2022 09:54:11 : Username:- prime, ByteLength:- 3956422
+
+25-08-2022 09:54:12 : Username:- prime, ByteLength:- 3957936
+
+25-08-2022 09:54:13 : Username:- prime, ByteLength:- 3965627
+
+25-08-2022 09:54:14 : Username:- prime, ByteLength:- 3945819
+
+25-08-2022 09:54:15 : Username:- prime, ByteLength:- 3948182
+
+25-08-2022 09:54:17 : Username:- prime, ByteLength:- 3943497
+
+25-08-2022 09:54:18 : Username:- prime, ByteLength:- 3946597
+
+25-08-2022 09:54:20 : Username:- prime, ByteLength:- 3958552
+
+25-08-2022 09:54:21 : Username:- prime, ByteLength:- 3959950
+
+25-08-2022 09:54:24 : Username:- prime, ByteLength:- 3945386
+
+25-08-2022 09:54:26 : Username:- prime, ByteLength:- 3956476
+
+25-08-2022 09:54:27 : Username:- prime, ByteLength:- 3955193
+
+25-08-2022 09:54:28 : Username:- prime, ByteLength:- 3948949
+
+25-08-2022 09:54:29 : Username:- prime, ByteLength:- 3939868
+
+25-08-2022 09:54:31 : Username:- prime, ByteLength:- 3950932
+
+25-08-2022 09:54:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:54:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:54:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:54:33 : Username:- prime, ByteLength:- 3950790
+
+25-08-2022 09:54:35 : Username:- prime, ByteLength:- 3934076
+
+25-08-2022 09:54:38 : Username:- prime, ByteLength:- 3954662
+
+25-08-2022 09:54:38 : Username:- prime, ByteLength:- 3951685
+
+25-08-2022 09:54:39 : Username:- prime, ByteLength:- 3923801
+
+25-08-2022 09:54:40 : Username:- prime, ByteLength:- 3945312
+
+25-08-2022 09:54:42 : Username:- prime, ByteLength:- 3952132
+
+25-08-2022 09:54:43 : Username:- prime, ByteLength:- 3938808
+
+25-08-2022 09:54:43 : Username:- prime, ByteLength:- 3951842
+
+25-08-2022 09:54:45 : Username:- prime, ByteLength:- 3929865
+
+25-08-2022 09:54:46 : Username:- prime, ByteLength:- 3956313
+
+25-08-2022 09:54:47 : Username:- prime, ByteLength:- 3954785
+
+25-08-2022 09:54:48 : Username:- prime, ByteLength:- 3960822
+
+25-08-2022 09:54:49 : Username:- prime, ByteLength:- 3959741
+
+25-08-2022 09:54:50 : Username:- prime, ByteLength:- 3947622
+
+25-08-2022 09:54:51 : Username:- prime, ByteLength:- 3949844
+
+25-08-2022 09:54:53 : Username:- prime, ByteLength:- 3957051
+
+25-08-2022 09:54:54 : Username:- prime, ByteLength:- 3940656
+
+25-08-2022 09:54:54 : Username:- prime, ByteLength:- 3956851
+
+25-08-2022 09:54:55 : Username:- prime, ByteLength:- 3949818
+
+25-08-2022 09:54:57 : Username:- prime, ByteLength:- 3923731
+
+25-08-2022 09:54:58 : Username:- prime, ByteLength:- 3949355
+
+25-08-2022 09:54:59 : Username:- prime, ByteLength:- 3952056
+
+25-08-2022 09:55:00 : Username:- prime, ByteLength:- 3941732
+
+25-08-2022 09:55:01 : Username:- prime, ByteLength:- 3957545
+
+25-08-2022 09:55:02 : Username:- prime, ByteLength:- 3956508
+
+25-08-2022 09:55:04 : Username:- prime, ByteLength:- 3963620
+
+25-08-2022 09:55:06 : Username:- prime, ByteLength:- 3947870
+
+25-08-2022 09:55:07 : Username:- prime, ByteLength:- 3929002
+
+25-08-2022 09:55:09 : Username:- prime, ByteLength:- 3954147
+
+25-08-2022 09:55:11 : Username:- prime, ByteLength:- 3945761
+
+25-08-2022 09:55:13 : Username:- prime, ByteLength:- 3951340
+
+25-08-2022 09:55:15 : Username:- prime, ByteLength:- 3958307
+
+25-08-2022 09:55:16 : Username:- prime, ByteLength:- 3943532
+
+25-08-2022 09:55:18 : Username:- prime, ByteLength:- 3948866
+
+25-08-2022 09:55:19 : Username:- prime, ByteLength:- 3939394
+
+25-08-2022 09:55:21 : Username:- prime, ByteLength:- 3936652
+
+25-08-2022 09:55:22 : Username:- prime, ByteLength:- 3928161
+
+25-08-2022 09:55:25 : Username:- prime, ByteLength:- 3953087
+
+25-08-2022 09:55:26 : Username:- prime, ByteLength:- 3954843
+
+25-08-2022 09:55:28 : Username:- prime, ByteLength:- 3950441
+
+25-08-2022 09:55:30 : Username:- prime, ByteLength:- 3950538
+
+25-08-2022 09:55:31 : Username:- prime, ByteLength:- 3935196
+
+25-08-2022 09:55:34 : Username:- prime, ByteLength:- 3941258
+
+25-08-2022 09:55:35 : Username:- prime, ByteLength:- 3954262
+
+25-08-2022 09:55:37 : Username:- prime, ByteLength:- 3949993
+
+25-08-2022 09:55:37 : Username:- prime, ByteLength:- 3961275
+
+25-08-2022 09:55:39 : Username:- prime, ByteLength:- 3946619
+
+25-08-2022 09:55:41 : Username:- prime, ByteLength:- 3940875
+
+25-08-2022 09:55:42 : Username:- prime, ByteLength:- 3946097
+
+25-08-2022 09:55:43 : Username:- prime, ByteLength:- 3952411
+
+25-08-2022 09:55:44 : Username:- prime, ByteLength:- 3952785
+
+25-08-2022 09:55:46 : Username:- prime, ByteLength:- 3950538
+
+25-08-2022 09:55:47 : Username:- prime, ByteLength:- 3935670
+
+25-08-2022 09:55:48 : Username:- prime, ByteLength:- 3927906
+
+25-08-2022 09:55:49 : Username:- prime, ByteLength:- 3946432
+
+25-08-2022 09:55:50 : Username:- prime, ByteLength:- 3937502
+
+25-08-2022 09:55:51 : Username:- prime, ByteLength:- 3939896
+
+25-08-2022 09:55:53 : Username:- prime, ByteLength:- 3951944
+
+25-08-2022 09:55:55 : Username:- prime, ByteLength:- 3949318
+
+25-08-2022 09:55:56 : Username:- prime, ByteLength:- 3946067
+
+25-08-2022 09:55:58 : Username:- prime, ByteLength:- 3955349
+
+25-08-2022 09:55:59 : Username:- prime, ByteLength:- 3965357
+
+25-08-2022 09:56:01 : Username:- prime, ByteLength:- 3951691
+
+25-08-2022 09:56:03 : Username:- prime, ByteLength:- 3938395
+
+25-08-2022 09:56:04 : Username:- prime, ByteLength:- 3952881
+
+25-08-2022 09:56:04 : Username:- prime, ByteLength:- 3950845
+
+25-08-2022 09:56:06 : Username:- prime, ByteLength:- 3945934
+
+25-08-2022 09:56:08 : Username:- prime, ByteLength:- 3956621
+
+25-08-2022 09:56:10 : Username:- prime, ByteLength:- 3941362
+
+25-08-2022 09:56:10 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:56:10 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:56:10 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:56:11 : Username:- prime, ByteLength:- 3950210
+
+25-08-2022 09:56:12 : Username:- prime, ByteLength:- 3947404
+
+25-08-2022 09:56:14 : Username:- prime, ByteLength:- 3954289
+
+25-08-2022 09:56:15 : Username:- prime, ByteLength:- 3960577
+
+25-08-2022 09:56:17 : Username:- prime, ByteLength:- 3946584
+
+25-08-2022 09:56:18 : Username:- prime, ByteLength:- 3936924
+
+25-08-2022 09:56:20 : Username:- prime, ByteLength:- 3942575
+
+25-08-2022 09:56:22 : Username:- prime, ByteLength:- 3957075
+
+25-08-2022 09:56:24 : Username:- prime, ByteLength:- 3948526
+
+25-08-2022 09:56:25 : Username:- prime, ByteLength:- 3942652
+
+25-08-2022 09:56:26 : Username:- prime, ByteLength:- 3943399
+
+25-08-2022 09:56:28 : Username:- prime, ByteLength:- 3953284
+
+25-08-2022 09:56:30 : Username:- prime, ByteLength:- 3945104
+
+25-08-2022 09:56:33 : Username:- prime, ByteLength:- 3947430
+
+25-08-2022 09:56:35 : Username:- prime, ByteLength:- 3944393
+
+25-08-2022 09:56:35 : Username:- prime, ByteLength:- 3958116
+
+25-08-2022 09:56:37 : Username:- prime, ByteLength:- 3960452
+
+25-08-2022 09:56:38 : Username:- prime, ByteLength:- 3951100
+
+25-08-2022 09:56:39 : Username:- prime, ByteLength:- 3958228
+
+25-08-2022 09:56:41 : Username:- prime, ByteLength:- 3952457
+
+25-08-2022 09:56:44 : Username:- prime, ByteLength:- 3952762
+
+25-08-2022 09:56:45 : Username:- prime, ByteLength:- 3959185
+
+25-08-2022 09:56:47 : Username:- prime, ByteLength:- 3947091
+
+25-08-2022 09:56:48 : Username:- prime, ByteLength:- 3950653
+
+25-08-2022 09:56:50 : Username:- prime, ByteLength:- 3945877
+
+25-08-2022 09:56:50 : Username:- prime, ByteLength:- 3949048
+
+25-08-2022 09:56:52 : Username:- prime, ByteLength:- 3954373
+
+25-08-2022 09:56:53 : Username:- prime, ByteLength:- 3932981
+
+25-08-2022 09:56:54 : Username:- prime, ByteLength:- 3948182
+
+25-08-2022 09:56:55 : Username:- prime, ByteLength:- 3949336
+
+25-08-2022 09:56:57 : Username:- prime, ByteLength:- 3951424
+
+25-08-2022 09:56:59 : Username:- prime, ByteLength:- 3933849
+
+25-08-2022 09:57:00 : Username:- prime, ByteLength:- 3943615
+
+25-08-2022 09:57:01 : Username:- prime, ByteLength:- 3959509
+
+25-08-2022 09:57:03 : Username:- prime, ByteLength:- 3925298
+
+25-08-2022 09:57:04 : Username:- prime, ByteLength:- 3953360
+
+25-08-2022 09:57:06 : Username:- prime, ByteLength:- 3925568
+
+25-08-2022 09:57:08 : Username:- prime, ByteLength:- 3946828
+
+25-08-2022 09:57:09 : Username:- prime, ByteLength:- 3931778
+
+25-08-2022 09:57:10 : Username:- prime, ByteLength:- 3954582
+
+25-08-2022 09:57:11 : Username:- prime, ByteLength:- 3945366
+
+25-08-2022 09:57:12 : Username:- prime, ByteLength:- 3949660
+
+25-08-2022 09:57:13 : Username:- prime, ByteLength:- 3935919
+
+25-08-2022 09:57:15 : Username:- prime, ByteLength:- 3931658
+
+25-08-2022 09:57:16 : Username:- prime, ByteLength:- 3944230
+
+25-08-2022 09:57:18 : Username:- prime, ByteLength:- 3942608
+
+25-08-2022 09:57:19 : Username:- prime, ByteLength:- 3940348
+
+25-08-2022 09:57:20 : Username:- prime, ByteLength:- 3945442
+
+25-08-2022 09:57:22 : Username:- prime, ByteLength:- 3951815
+
+25-08-2022 09:57:23 : Username:- prime, ByteLength:- 3941431
+
+25-08-2022 09:57:25 : Username:- prime, ByteLength:- 3950201
+
+25-08-2022 09:57:26 : Username:- prime, ByteLength:- 3947908
+
+25-08-2022 09:57:27 : Username:- prime, ByteLength:- 3937475
+
+25-08-2022 09:57:30 : Username:- prime, ByteLength:- 3943121
+
+25-08-2022 09:57:32 : Username:- prime, ByteLength:- 3958203
+
+25-08-2022 09:57:33 : Username:- prime, ByteLength:- 3967638
+
+25-08-2022 09:57:34 : Username:- prime, ByteLength:- 3921974
+
+25-08-2022 09:57:35 : Username:- prime, ByteLength:- 3938446
+
+25-08-2022 09:57:37 : Username:- prime, ByteLength:- 3944757
+
+25-08-2022 09:57:39 : Username:- prime, ByteLength:- 3952695
+
+25-08-2022 09:57:41 : Username:- prime, ByteLength:- 3944349
+
+25-08-2022 09:57:42 : Username:- prime, ByteLength:- 3953303
+
+25-08-2022 09:57:43 : Username:- prime, ByteLength:- 3943975
+
+25-08-2022 09:57:45 : Username:- prime, ByteLength:- 3947111
+
+25-08-2022 09:57:47 : Username:- prime, ByteLength:- 3934114
+
+25-08-2022 09:57:48 : Username:- prime, ByteLength:- 3944731
+
+25-08-2022 09:57:49 : Username:- prime, ByteLength:- 3953423
+
+25-08-2022 09:57:50 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:57:50 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:57:50 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:57:51 : Username:- prime, ByteLength:- 3947925
+
+25-08-2022 09:57:52 : Username:- prime, ByteLength:- 3935943
+
+25-08-2022 09:57:54 : Username:- prime, ByteLength:- 3940668
+
+25-08-2022 09:57:55 : Username:- prime, ByteLength:- 3954634
+
+25-08-2022 09:57:57 : Username:- prime, ByteLength:- 3945277
+
+25-08-2022 09:57:59 : Username:- prime, ByteLength:- 3945328
+
+25-08-2022 09:58:00 : Username:- prime, ByteLength:- 3947783
+
+25-08-2022 09:58:02 : Username:- prime, ByteLength:- 3955229
+
+25-08-2022 09:58:03 : Username:- prime, ByteLength:- 3942788
+
+25-08-2022 09:58:05 : Username:- prime, ByteLength:- 3945219
+
+25-08-2022 09:58:06 : Username:- prime, ByteLength:- 3959089
+
+25-08-2022 09:58:07 : Username:- prime, ByteLength:- 3955636
+
+25-08-2022 09:58:08 : Username:- prime, ByteLength:- 3957636
+
+25-08-2022 09:58:10 : Username:- prime, ByteLength:- 3942733
+
+25-08-2022 09:58:11 : Username:- prime, ByteLength:- 3940833
+
+25-08-2022 09:58:12 : Username:- prime, ByteLength:- 3920483
+
+25-08-2022 09:58:14 : Username:- prime, ByteLength:- 3942476
+
+25-08-2022 09:58:16 : Username:- prime, ByteLength:- 3949009
+
+25-08-2022 09:58:18 : Username:- prime, ByteLength:- 3958190
+
+25-08-2022 09:58:19 : Username:- prime, ByteLength:- 3939429
+
+25-08-2022 09:58:20 : Username:- prime, ByteLength:- 3960079
+
+25-08-2022 09:58:22 : Username:- prime, ByteLength:- 3954257
+
+25-08-2022 09:58:22 : Username:- prime, ByteLength:- 3964699
+
+25-08-2022 09:58:24 : Username:- prime, ByteLength:- 3942133
+
+25-08-2022 09:58:25 : Username:- prime, ByteLength:- 3934562
+
+25-08-2022 09:58:28 : Username:- prime, ByteLength:- 3936239
+
+25-08-2022 09:58:29 : Username:- prime, ByteLength:- 3945008
+
+25-08-2022 09:58:31 : Username:- prime, ByteLength:- 3957975
+
+25-08-2022 09:58:33 : Username:- prime, ByteLength:- 3969477
+
+25-08-2022 09:58:35 : Username:- prime, ByteLength:- 3961806
+
+25-08-2022 09:58:35 : Username:- prime, ByteLength:- 3960694
+
+25-08-2022 09:58:37 : Username:- prime, ByteLength:- 3953597
+
+25-08-2022 09:58:39 : Username:- prime, ByteLength:- 3945361
+
+25-08-2022 09:58:41 : Username:- prime, ByteLength:- 3950250
+
+25-08-2022 09:58:43 : Username:- prime, ByteLength:- 3942601
+
+25-08-2022 09:58:45 : Username:- prime, ByteLength:- 3950591
+
+25-08-2022 09:58:45 : Username:- prime, ByteLength:- 3937446
+
+25-08-2022 09:58:47 : Username:- prime, ByteLength:- 3944511
+
+25-08-2022 09:58:49 : Username:- prime, ByteLength:- 3946101
+
+25-08-2022 09:58:49 : Username:- prime, ByteLength:- 3933539
+
+25-08-2022 09:58:51 : Username:- prime, ByteLength:- 3953093
+
+25-08-2022 09:58:53 : Username:- prime, ByteLength:- 3949906
+
+25-08-2022 09:58:55 : Username:- prime, ByteLength:- 3953501
+
+25-08-2022 09:58:56 : Username:- prime, ByteLength:- 3950246
+
+25-08-2022 09:58:58 : Username:- prime, ByteLength:- 3946851
+
+25-08-2022 09:59:00 : Username:- prime, ByteLength:- 3929975
+
+25-08-2022 09:59:01 : Username:- prime, ByteLength:- 3951214
+
+25-08-2022 09:59:02 : Username:- prime, ByteLength:- 3950487
+
+25-08-2022 09:59:04 : Username:- prime, ByteLength:- 3936391
+
+25-08-2022 09:59:05 : Username:- prime, ByteLength:- 3941786
+
+25-08-2022 09:59:06 : Username:- prime, ByteLength:- 3934423
+
+25-08-2022 09:59:07 : Username:- prime, ByteLength:- 3956011
+
+25-08-2022 09:59:09 : Username:- prime, ByteLength:- 3935121
+
+25-08-2022 09:59:10 : Username:- prime, ByteLength:- 3953075
+
+25-08-2022 09:59:11 : Username:- prime, ByteLength:- 3948851
+
+25-08-2022 09:59:13 : Username:- prime, ByteLength:- 3936579
+
+25-08-2022 09:59:15 : Username:- prime, ByteLength:- 3944292
+
+25-08-2022 09:59:16 : Username:- prime, ByteLength:- 3933600
+
+25-08-2022 09:59:18 : Username:- prime, ByteLength:- 3953085
+
+25-08-2022 09:59:18 : Username:- prime, ByteLength:- 3959760
+
+25-08-2022 09:59:20 : Username:- prime, ByteLength:- 3927960
+
+25-08-2022 09:59:21 : Username:- prime, ByteLength:- 3955021
+
+25-08-2022 09:59:22 : Username:- prime, ByteLength:- 3937652
+
+25-08-2022 09:59:23 : Username:- prime, ByteLength:- 3951514
+
+25-08-2022 09:59:25 : Username:- prime, ByteLength:- 3945188
+
+25-08-2022 09:59:27 : Username:- prime, ByteLength:- 3953687
+
+25-08-2022 09:59:28 : Username:- prime, ByteLength:- 3942944
+
+25-08-2022 09:59:29 : Username:- prime, ByteLength:- 3945727
+
+25-08-2022 09:59:30 : Username:- prime, ByteLength:- 3938407
+
+25-08-2022 09:59:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:59:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:59:31 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 09:59:32 : Username:- prime, ByteLength:- 3936723
+
+25-08-2022 09:59:34 : Username:- prime, ByteLength:- 3940583
+
+25-08-2022 09:59:35 : Username:- prime, ByteLength:- 3970797
+
+25-08-2022 09:59:37 : Username:- prime, ByteLength:- 3939524
+
+25-08-2022 09:59:39 : Username:- prime, ByteLength:- 3939752
+
+25-08-2022 09:59:40 : Username:- prime, ByteLength:- 3952160
+
+25-08-2022 09:59:42 : Username:- prime, ByteLength:- 3954028
+
+25-08-2022 09:59:42 : Username:- prime, ByteLength:- 3957309
+
+25-08-2022 09:59:45 : Username:- prime, ByteLength:- 3942910
+
+25-08-2022 09:59:46 : Username:- prime, ByteLength:- 3935400
+
+25-08-2022 09:59:48 : Username:- prime, ByteLength:- 3935860
+
+25-08-2022 09:59:50 : Username:- prime, ByteLength:- 3937085
+
+25-08-2022 09:59:51 : Username:- prime, ByteLength:- 3944915
+
+25-08-2022 09:59:52 : Username:- prime, ByteLength:- 3935105
+
+25-08-2022 09:59:54 : Username:- prime, ByteLength:- 3934885
+
+25-08-2022 09:59:56 : Username:- prime, ByteLength:- 3936515
+
+25-08-2022 09:59:58 : Username:- prime, ByteLength:- 3924772
+
+25-08-2022 09:59:59 : Username:- prime, ByteLength:- 3942684
+
+25-08-2022 10:00:01 : Username:- prime, ByteLength:- 3940486
+
+25-08-2022 10:00:02 : Username:- prime, ByteLength:- 3944596
+
+25-08-2022 10:00:04 : Username:- prime, ByteLength:- 3943339
+
+25-08-2022 10:00:06 : Username:- prime, ByteLength:- 3956784
+
+25-08-2022 10:00:07 : Username:- prime, ByteLength:- 3955785
+
+25-08-2022 10:00:08 : Username:- prime, ByteLength:- 3944106
+
+25-08-2022 10:00:10 : Username:- prime, ByteLength:- 3929956
+
+25-08-2022 10:00:12 : Username:- prime, ByteLength:- 3946741
+
+25-08-2022 10:00:13 : Username:- prime, ByteLength:- 3928433
+
+25-08-2022 10:00:15 : Username:- prime, ByteLength:- 3937178
+
+25-08-2022 10:00:17 : Username:- prime, ByteLength:- 3932435
+
+25-08-2022 10:00:17 : Username:- prime, ByteLength:- 3954507
+
+25-08-2022 10:00:19 : Username:- prime, ByteLength:- 3950199
+
+25-08-2022 10:00:20 : Username:- prime, ByteLength:- 3953526
+
+25-08-2022 10:00:21 : Username:- prime, ByteLength:- 3964925
+
+25-08-2022 10:00:23 : Username:- prime, ByteLength:- 3944022
+
+25-08-2022 10:00:25 : Username:- prime, ByteLength:- 3943610
+
+25-08-2022 10:00:27 : Username:- prime, ByteLength:- 3956405
+
+25-08-2022 10:00:29 : Username:- prime, ByteLength:- 3962629
+
+25-08-2022 10:00:30 : Username:- prime, ByteLength:- 3941565
+
+25-08-2022 10:00:32 : Username:- prime, ByteLength:- 3946255
+
+25-08-2022 10:00:34 : Username:- prime, ByteLength:- 3957023
+
+25-08-2022 10:00:36 : Username:- prime, ByteLength:- 3945230
+
+25-08-2022 10:00:38 : Username:- prime, ByteLength:- 3956554
+
+25-08-2022 10:00:40 : Username:- prime, ByteLength:- 3934874
+
+25-08-2022 10:00:41 : Username:- prime, ByteLength:- 3951586
+
+25-08-2022 10:00:43 : Username:- prime, ByteLength:- 3935649
+
+25-08-2022 10:00:45 : Username:- prime, ByteLength:- 3944184
+
+25-08-2022 10:00:46 : Username:- prime, ByteLength:- 3947300
+
+25-08-2022 10:00:47 : Username:- prime, ByteLength:- 3936814
+
+25-08-2022 10:00:48 : Username:- prime, ByteLength:- 3940198
+
+25-08-2022 10:00:50 : Username:- prime, ByteLength:- 3951294
+
+25-08-2022 10:00:51 : Username:- prime, ByteLength:- 3956679
+
+25-08-2022 10:00:52 : Username:- prime, ByteLength:- 3939751
+
+25-08-2022 10:00:54 : Username:- prime, ByteLength:- 3942800
+
+25-08-2022 10:00:55 : Username:- prime, ByteLength:- 3934778
+
+25-08-2022 10:00:56 : Username:- prime, ByteLength:- 3942736
+
+25-08-2022 10:00:57 : Username:- prime, ByteLength:- 3939245
+
+25-08-2022 10:00:59 : Username:- prime, ByteLength:- 3959204
+
+25-08-2022 10:00:59 : Username:- prime, ByteLength:- 3948302
+
+25-08-2022 10:01:01 : Username:- prime, ByteLength:- 3953072
+
+25-08-2022 10:01:03 : Username:- prime, ByteLength:- 3955447
+
+25-08-2022 10:01:05 : Username:- prime, ByteLength:- 3941812
+
+25-08-2022 10:01:06 : Username:- prime, ByteLength:- 3960485
+
+25-08-2022 10:01:08 : Username:- prime, ByteLength:- 3946610
+
+25-08-2022 10:01:09 : Username:- prime, ByteLength:- 3942247
+
+25-08-2022 10:01:10 : Username:- prime, ByteLength:- 3966751
+
+25-08-2022 10:01:11 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:01:11 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:01:11 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:01:11 : Username:- prime, ByteLength:- 3949017
+
+25-08-2022 10:01:13 : Username:- prime, ByteLength:- 3935025
+
+25-08-2022 10:01:14 : Username:- prime, ByteLength:- 3947040
+
+25-08-2022 10:01:15 : Username:- prime, ByteLength:- 3930270
+
+25-08-2022 10:01:16 : Username:- prime, ByteLength:- 3957594
+
+25-08-2022 10:01:17 : Username:- prime, ByteLength:- 3954334
+
+25-08-2022 10:01:20 : Username:- prime, ByteLength:- 3947165
+
+25-08-2022 10:01:21 : Username:- prime, ByteLength:- 3959300
+
+25-08-2022 10:01:23 : Username:- prime, ByteLength:- 3958018
+
+25-08-2022 10:01:25 : Username:- prime, ByteLength:- 3936183
+
+25-08-2022 10:01:26 : Username:- prime, ByteLength:- 3939558
+
+25-08-2022 10:01:28 : Username:- prime, ByteLength:- 3956130
+
+25-08-2022 10:01:30 : Username:- prime, ByteLength:- 3948237
+
+25-08-2022 10:01:31 : Username:- prime, ByteLength:- 3943573
+
+25-08-2022 10:01:32 : Username:- prime, ByteLength:- 3940728
+
+25-08-2022 10:01:33 : Username:- prime, ByteLength:- 3949231
+
+25-08-2022 10:01:35 : Username:- prime, ByteLength:- 3955476
+
+25-08-2022 10:01:36 : Username:- prime, ByteLength:- 3947469
+
+25-08-2022 10:01:38 : Username:- prime, ByteLength:- 3955918
+
+25-08-2022 10:01:40 : Username:- prime, ByteLength:- 3946628
+
+25-08-2022 10:01:41 : Username:- prime, ByteLength:- 3953613
+
+25-08-2022 10:01:43 : Username:- prime, ByteLength:- 3964255
+
+25-08-2022 10:01:45 : Username:- prime, ByteLength:- 3943098
+
+25-08-2022 10:01:46 : Username:- prime, ByteLength:- 3935928
+
+25-08-2022 10:01:48 : Username:- prime, ByteLength:- 3942183
+
+25-08-2022 10:01:48 : Username:- prime, ByteLength:- 3954132
+
+25-08-2022 10:01:51 : Username:- prime, ByteLength:- 3957483
+
+25-08-2022 10:01:52 : Username:- prime, ByteLength:- 3948851
+
+25-08-2022 10:01:53 : Username:- prime, ByteLength:- 3937206
+
+25-08-2022 10:01:55 : Username:- prime, ByteLength:- 3949213
+
+25-08-2022 10:01:56 : Username:- prime, ByteLength:- 3943136
+
+25-08-2022 10:01:59 : Username:- prime, ByteLength:- 3940103
+
+25-08-2022 10:02:01 : Username:- prime, ByteLength:- 3946873
+
+25-08-2022 10:02:02 : Username:- prime, ByteLength:- 3947978
+
+25-08-2022 10:02:04 : Username:- prime, ByteLength:- 3939680
+
+25-08-2022 10:02:06 : Username:- prime, ByteLength:- 3956694
+
+25-08-2022 10:02:07 : Username:- prime, ByteLength:- 3956340
+
+25-08-2022 10:02:08 : Username:- prime, ByteLength:- 3950903
+
+25-08-2022 10:02:10 : Username:- prime, ByteLength:- 3950447
+
+25-08-2022 10:02:11 : Username:- prime, ByteLength:- 3954082
+
+25-08-2022 10:02:12 : Username:- prime, ByteLength:- 3915612
+
+25-08-2022 10:02:14 : Username:- prime, ByteLength:- 3952407
+
+25-08-2022 10:02:16 : Username:- prime, ByteLength:- 3934968
+
+25-08-2022 10:02:17 : Username:- prime, ByteLength:- 3947147
+
+25-08-2022 10:02:18 : Username:- prime, ByteLength:- 3953460
+
+25-08-2022 10:02:20 : Username:- prime, ByteLength:- 3951231
+
+25-08-2022 10:02:23 : Username:- prime, ByteLength:- 3945965
+
+25-08-2022 10:02:25 : Username:- prime, ByteLength:- 3930613
+
+25-08-2022 10:02:27 : Username:- prime, ByteLength:- 3957941
+
+25-08-2022 10:02:29 : Username:- prime, ByteLength:- 3952057
+
+25-08-2022 10:02:31 : Username:- prime, ByteLength:- 3950406
+
+25-08-2022 10:02:33 : Username:- prime, ByteLength:- 3952927
+
+25-08-2022 10:02:33 : Username:- prime, ByteLength:- 3953923
+
+25-08-2022 10:02:35 : Username:- prime, ByteLength:- 3940611
+
+25-08-2022 10:02:37 : Username:- prime, ByteLength:- 3955907
+
+25-08-2022 10:02:39 : Username:- prime, ByteLength:- 3945406
+
+25-08-2022 10:02:40 : Username:- prime, ByteLength:- 3937553
+
+25-08-2022 10:02:41 : Username:- prime, ByteLength:- 3952506
+
+25-08-2022 10:02:42 : Username:- prime, ByteLength:- 3948462
+
+25-08-2022 10:02:43 : Username:- prime, ByteLength:- 3956245
+
+25-08-2022 10:02:44 : Username:- prime, ByteLength:- 3926441
+
+25-08-2022 10:02:46 : Username:- prime, ByteLength:- 3950092
+
+25-08-2022 10:02:48 : Username:- prime, ByteLength:- 3939481
+
+25-08-2022 10:02:49 : Username:- prime, ByteLength:- 3934978
+
+25-08-2022 10:02:50 : Username:- prime, ByteLength:- 3951788
+
+25-08-2022 10:02:51 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:02:51 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:02:51 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:02:52 : Username:- prime, ByteLength:- 3962665
+
+25-08-2022 10:02:53 : Username:- prime, ByteLength:- 3955763
+
+25-08-2022 10:02:56 : Username:- prime, ByteLength:- 3943746
+
+25-08-2022 10:02:58 : Username:- prime, ByteLength:- 3947644
+
+25-08-2022 10:02:59 : Username:- prime, ByteLength:- 3962912
+
+25-08-2022 10:03:00 : Username:- prime, ByteLength:- 3960228
+
+25-08-2022 10:03:02 : Username:- prime, ByteLength:- 3946929
+
+25-08-2022 10:03:04 : Username:- prime, ByteLength:- 3936096
+
+25-08-2022 10:03:06 : Username:- prime, ByteLength:- 3951233
+
+25-08-2022 10:03:07 : Username:- prime, ByteLength:- 3957801
+
+25-08-2022 10:03:09 : Username:- prime, ByteLength:- 3953753
+
+25-08-2022 10:03:11 : Username:- prime, ByteLength:- 3959618
+
+25-08-2022 10:03:12 : Username:- prime, ByteLength:- 3916393
+
+25-08-2022 10:03:13 : Username:- prime, ByteLength:- 3940263
+
+25-08-2022 10:03:15 : Username:- prime, ByteLength:- 3947371
+
+25-08-2022 10:03:16 : Username:- prime, ByteLength:- 3946214
+
+25-08-2022 10:03:18 : Username:- prime, ByteLength:- 3950216
+
+25-08-2022 10:03:19 : Username:- prime, ByteLength:- 3946398
+
+25-08-2022 10:03:20 : Username:- prime, ByteLength:- 3954523
+
+25-08-2022 10:03:22 : Username:- prime, ByteLength:- 3956733
+
+25-08-2022 10:03:24 : Username:- prime, ByteLength:- 3955521
+
+25-08-2022 10:03:26 : Username:- prime, ByteLength:- 3948893
+
+25-08-2022 10:03:27 : Username:- prime, ByteLength:- 3947170
+
+25-08-2022 10:03:29 : Username:- prime, ByteLength:- 3937568
+
+25-08-2022 10:03:30 : Username:- prime, ByteLength:- 3940871
+
+25-08-2022 10:03:32 : Username:- prime, ByteLength:- 3955477
+
+25-08-2022 10:03:34 : Username:- prime, ByteLength:- 3933107
+
+25-08-2022 10:03:35 : Username:- prime, ByteLength:- 3946333
+
+25-08-2022 10:03:36 : Username:- prime, ByteLength:- 3949422
+
+25-08-2022 10:03:37 : Username:- prime, ByteLength:- 3937310
+
+25-08-2022 10:03:39 : Username:- prime, ByteLength:- 3947154
+
+25-08-2022 10:03:40 : Username:- prime, ByteLength:- 3953738
+
+25-08-2022 10:03:42 : Username:- prime, ByteLength:- 3953165
+
+25-08-2022 10:03:43 : Username:- prime, ByteLength:- 3941907
+
+25-08-2022 10:03:45 : Username:- prime, ByteLength:- 3949630
+
+25-08-2022 10:03:46 : Username:- prime, ByteLength:- 3957672
+
+25-08-2022 10:03:48 : Username:- prime, ByteLength:- 3946140
+
+25-08-2022 10:03:50 : Username:- prime, ByteLength:- 3948069
+
+25-08-2022 10:03:51 : Username:- prime, ByteLength:- 3947443
+
+25-08-2022 10:03:52 : Username:- prime, ByteLength:- 3952366
+
+25-08-2022 10:03:54 : Username:- prime, ByteLength:- 3960518
+
+25-08-2022 10:03:56 : Username:- prime, ByteLength:- 3947025
+
+25-08-2022 10:03:56 : Username:- prime, ByteLength:- 3954876
+
+25-08-2022 10:03:58 : Username:- prime, ByteLength:- 3957389
+
+25-08-2022 10:03:59 : Username:- prime, ByteLength:- 3940134
+
+25-08-2022 10:04:00 : Username:- prime, ByteLength:- 3932256
+
+25-08-2022 10:04:02 : Username:- prime, ByteLength:- 3938829
+
+25-08-2022 10:04:02 : Username:- prime, ByteLength:- 3946920
+
+25-08-2022 10:04:03 : Username:- prime, ByteLength:- 3936358
+
+25-08-2022 10:04:05 : Username:- prime, ByteLength:- 3939315
+
+25-08-2022 10:04:07 : Username:- prime, ByteLength:- 3950087
+
+25-08-2022 10:04:09 : Username:- prime, ByteLength:- 3957432
+
+25-08-2022 10:04:10 : Username:- prime, ByteLength:- 3951005
+
+25-08-2022 10:04:12 : Username:- prime, ByteLength:- 3941616
+
+25-08-2022 10:04:13 : Username:- prime, ByteLength:- 3933549
+
+25-08-2022 10:04:15 : Username:- prime, ByteLength:- 3950150
+
+25-08-2022 10:04:17 : Username:- prime, ByteLength:- 3924945
+
+25-08-2022 10:04:18 : Username:- prime, ByteLength:- 3948750
+
+25-08-2022 10:04:19 : Username:- prime, ByteLength:- 3929750
+
+25-08-2022 10:04:20 : Username:- prime, ByteLength:- 3946713
+
+25-08-2022 10:04:21 : Username:- prime, ByteLength:- 3953510
+
+25-08-2022 10:04:22 : Username:- prime, ByteLength:- 3957730
+
+25-08-2022 10:04:24 : Username:- prime, ByteLength:- 3956396
+
+25-08-2022 10:04:26 : Username:- prime, ByteLength:- 3936971
+
+25-08-2022 10:04:27 : Username:- prime, ByteLength:- 3958173
+
+25-08-2022 10:04:29 : Username:- prime, ByteLength:- 3957516
+
+25-08-2022 10:04:29 : Username:- prime, ByteLength:- 3947209
+
+25-08-2022 10:04:32 : Username:- prime, ByteLength:- 3945285
+
+25-08-2022 10:04:32 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:04:32 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:04:32 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:04:33 : Username:- prime, ByteLength:- 3948816
+
+25-08-2022 10:04:34 : Username:- prime, ByteLength:- 3935653
+
+25-08-2022 10:04:35 : Username:- prime, ByteLength:- 3958892
+
+25-08-2022 10:04:36 : Username:- prime, ByteLength:- 3949442
+
+25-08-2022 10:04:37 : Username:- prime, ByteLength:- 3957518
+
+25-08-2022 10:04:39 : Username:- prime, ByteLength:- 3947374
+
+25-08-2022 10:04:41 : Username:- prime, ByteLength:- 3948583
+
+25-08-2022 10:04:42 : Username:- prime, ByteLength:- 3952843
+
+25-08-2022 10:04:43 : Username:- prime, ByteLength:- 3936741
+
+25-08-2022 10:04:45 : Username:- prime, ByteLength:- 3960093
+
+25-08-2022 10:04:46 : Username:- prime, ByteLength:- 3929127
+
+25-08-2022 10:04:47 : Username:- prime, ByteLength:- 3943289
+
+25-08-2022 10:04:48 : Username:- prime, ByteLength:- 3953396
+
+25-08-2022 10:04:50 : Username:- prime, ByteLength:- 3954868
+
+25-08-2022 10:04:51 : Username:- prime, ByteLength:- 3947070
+
+25-08-2022 10:04:53 : Username:- prime, ByteLength:- 3958914
+
+25-08-2022 10:04:54 : Username:- prime, ByteLength:- 3943315
+
+25-08-2022 10:04:56 : Username:- prime, ByteLength:- 3946141
+
+25-08-2022 10:04:58 : Username:- prime, ByteLength:- 3935156
+
+25-08-2022 10:04:59 : Username:- prime, ByteLength:- 3957927
+
+25-08-2022 10:05:01 : Username:- prime, ByteLength:- 3957933
+
+25-08-2022 10:05:02 : Username:- prime, ByteLength:- 3958021
+
+25-08-2022 10:05:04 : Username:- prime, ByteLength:- 3938382
+
+25-08-2022 10:05:05 : Username:- prime, ByteLength:- 3946730
+
+25-08-2022 10:05:06 : Username:- prime, ByteLength:- 3952485
+
+25-08-2022 10:05:07 : Username:- prime, ByteLength:- 3956062
+
+25-08-2022 10:05:09 : Username:- prime, ByteLength:- 3948306
+
+25-08-2022 10:05:11 : Username:- prime, ByteLength:- 3938673
+
+25-08-2022 10:05:13 : Username:- prime, ByteLength:- 3954534
+
+25-08-2022 10:05:14 : Username:- prime, ByteLength:- 3953774
+
+25-08-2022 10:05:15 : Username:- prime, ByteLength:- 3962236
+
+25-08-2022 10:05:17 : Username:- prime, ByteLength:- 3943305
+
+25-08-2022 10:05:18 : Username:- prime, ByteLength:- 3944519
+
+25-08-2022 10:05:19 : Username:- prime, ByteLength:- 3941783
+
+25-08-2022 10:05:20 : Username:- prime, ByteLength:- 3939733
+
+25-08-2022 10:05:21 : Username:- prime, ByteLength:- 3954267
+
+25-08-2022 10:05:23 : Username:- prime, ByteLength:- 3955574
+
+25-08-2022 10:05:24 : Username:- prime, ByteLength:- 3952352
+
+25-08-2022 10:05:26 : Username:- prime, ByteLength:- 3948517
+
+25-08-2022 10:05:27 : Username:- prime, ByteLength:- 3943230
+
+25-08-2022 10:05:28 : Username:- prime, ByteLength:- 3935239
+
+25-08-2022 10:05:29 : Username:- prime, ByteLength:- 3950703
+
+25-08-2022 10:05:31 : Username:- prime, ByteLength:- 3950563
+
+25-08-2022 10:05:33 : Username:- prime, ByteLength:- 3935127
+
+25-08-2022 10:05:35 : Username:- prime, ByteLength:- 3939868
+
+25-08-2022 10:05:37 : Username:- prime, ByteLength:- 3942970
+
+25-08-2022 10:05:38 : Username:- prime, ByteLength:- 3953296
+
+25-08-2022 10:05:39 : Username:- prime, ByteLength:- 3953265
+
+25-08-2022 10:05:40 : Username:- prime, ByteLength:- 3949043
+
+25-08-2022 10:05:42 : Username:- prime, ByteLength:- 3938372
+
+25-08-2022 10:05:44 : Username:- prime, ByteLength:- 3940090
+
+25-08-2022 10:05:45 : Username:- prime, ByteLength:- 3937742
+
+25-08-2022 10:05:47 : Username:- prime, ByteLength:- 3954053
+
+25-08-2022 10:05:48 : Username:- prime, ByteLength:- 3953262
+
+25-08-2022 10:05:50 : Username:- prime, ByteLength:- 3941425
+
+25-08-2022 10:05:51 : Username:- prime, ByteLength:- 3925594
+
+25-08-2022 10:05:53 : Username:- prime, ByteLength:- 3944030
+
+25-08-2022 10:05:54 : Username:- prime, ByteLength:- 3950188
+
+25-08-2022 10:05:55 : Username:- prime, ByteLength:- 3945960
+
+25-08-2022 10:05:57 : Username:- prime, ByteLength:- 3942159
+
+25-08-2022 10:05:58 : Username:- prime, ByteLength:- 3946605
+
+25-08-2022 10:06:00 : Username:- prime, ByteLength:- 3943235
+
+25-08-2022 10:06:01 : Username:- prime, ByteLength:- 3947520
+
+25-08-2022 10:06:03 : Username:- prime, ByteLength:- 3944856
+
+25-08-2022 10:06:04 : Username:- prime, ByteLength:- 3952413
+
+25-08-2022 10:06:06 : Username:- prime, ByteLength:- 3950572
+
+25-08-2022 10:06:07 : Username:- prime, ByteLength:- 3951292
+
+25-08-2022 10:06:09 : Username:- prime, ByteLength:- 3960582
+
+25-08-2022 10:06:10 : Username:- prime, ByteLength:- 3947872
+
+25-08-2022 10:06:11 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:06:11 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:06:11 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:06:12 : Username:- prime, ByteLength:- 3952030
+
+25-08-2022 10:06:13 : Username:- prime, ByteLength:- 3934371
+
+25-08-2022 10:06:14 : Username:- prime, ByteLength:- 3951536
+
+25-08-2022 10:06:15 : Username:- prime, ByteLength:- 3964607
+
+25-08-2022 10:06:17 : Username:- prime, ByteLength:- 3935711
+
+25-08-2022 10:06:18 : Username:- prime, ByteLength:- 3955139
+
+25-08-2022 10:06:20 : Username:- prime, ByteLength:- 3947250
+
+25-08-2022 10:06:21 : Username:- prime, ByteLength:- 3950267
+
+25-08-2022 10:06:21 : Username:- prime, ByteLength:- 3938308
+
+25-08-2022 10:06:23 : Username:- prime, ByteLength:- 3949783
+
+25-08-2022 10:06:24 : Username:- prime, ByteLength:- 3953332
+
+25-08-2022 10:06:26 : Username:- prime, ByteLength:- 3941302
+
+25-08-2022 10:06:28 : Username:- prime, ByteLength:- 3957462
+
+25-08-2022 10:06:29 : Username:- prime, ByteLength:- 3962948
+
+25-08-2022 10:06:32 : Username:- prime, ByteLength:- 3946175
+
+25-08-2022 10:06:33 : Username:- prime, ByteLength:- 3962669
+
+25-08-2022 10:06:34 : Username:- prime, ByteLength:- 3954475
+
+25-08-2022 10:06:35 : Username:- prime, ByteLength:- 3955641
+
+25-08-2022 10:06:36 : Username:- prime, ByteLength:- 3949226
+
+25-08-2022 10:06:38 : Username:- prime, ByteLength:- 3959415
+
+25-08-2022 10:06:39 : Username:- prime, ByteLength:- 3950513
+
+25-08-2022 10:06:40 : Username:- prime, ByteLength:- 3963535
+
+25-08-2022 10:06:41 : Username:- prime, ByteLength:- 3957473
+
+25-08-2022 10:06:42 : Username:- prime, ByteLength:- 3957756
+
+25-08-2022 10:06:45 : Username:- prime, ByteLength:- 3964848
+
+25-08-2022 10:06:46 : Username:- prime, ByteLength:- 3956627
+
+25-08-2022 10:06:48 : Username:- prime, ByteLength:- 3955560
+
+25-08-2022 10:06:49 : Username:- prime, ByteLength:- 3928790
+
+25-08-2022 10:06:51 : Username:- prime, ByteLength:- 3952847
+
+25-08-2022 10:06:52 : Username:- prime, ByteLength:- 3958956
+
+25-08-2022 10:06:53 : Username:- prime, ByteLength:- 3926094
+
+25-08-2022 10:06:55 : Username:- prime, ByteLength:- 3954259
+
+25-08-2022 10:06:56 : Username:- prime, ByteLength:- 3947194
+
+25-08-2022 10:06:57 : Username:- prime, ByteLength:- 3948604
+
+25-08-2022 10:06:59 : Username:- prime, ByteLength:- 3951024
+
+25-08-2022 10:07:00 : Username:- prime, ByteLength:- 3954207
+
+25-08-2022 10:07:02 : Username:- prime, ByteLength:- 3933136
+
+25-08-2022 10:07:03 : Username:- prime, ByteLength:- 3934000
+
+25-08-2022 10:07:04 : Username:- prime, ByteLength:- 3953899
+
+25-08-2022 10:07:06 : Username:- prime, ByteLength:- 3926035
+
+25-08-2022 10:07:07 : Username:- prime, ByteLength:- 3946977
+
+25-08-2022 10:07:08 : Username:- prime, ByteLength:- 3953394
+
+25-08-2022 10:07:09 : Username:- prime, ByteLength:- 3946223
+
+25-08-2022 10:07:11 : Username:- prime, ByteLength:- 3937703
+
+25-08-2022 10:07:12 : Username:- prime, ByteLength:- 3945315
+
+25-08-2022 10:07:13 : Username:- prime, ByteLength:- 3950041
+
+25-08-2022 10:07:15 : Username:- prime, ByteLength:- 3954975
+
+25-08-2022 10:07:16 : Username:- prime, ByteLength:- 3958835
+
+25-08-2022 10:07:18 : Username:- prime, ByteLength:- 3952012
+
+25-08-2022 10:07:19 : Username:- prime, ByteLength:- 3941259
+
+25-08-2022 10:07:21 : Username:- prime, ByteLength:- 3942204
+
+25-08-2022 10:07:22 : Username:- prime, ByteLength:- 3934983
+
+25-08-2022 10:07:23 : Username:- prime, ByteLength:- 3951212
+
+25-08-2022 10:07:24 : Username:- prime, ByteLength:- 3950933
+
+25-08-2022 10:07:26 : Username:- prime, ByteLength:- 3953559
+
+25-08-2022 10:07:29 : Username:- prime, ByteLength:- 3960079
+
+25-08-2022 10:07:30 : Username:- prime, ByteLength:- 3951025
+
+25-08-2022 10:07:31 : Username:- prime, ByteLength:- 3961054
+
+25-08-2022 10:07:33 : Username:- prime, ByteLength:- 3944581
+
+25-08-2022 10:07:34 : Username:- prime, ByteLength:- 3946113
+
+25-08-2022 10:07:36 : Username:- prime, ByteLength:- 3948162
+
+25-08-2022 10:07:38 : Username:- prime, ByteLength:- 3952078
+
+25-08-2022 10:07:39 : Username:- prime, ByteLength:- 3950211
+
+25-08-2022 10:07:40 : Username:- prime, ByteLength:- 3951387
+
+25-08-2022 10:07:42 : Username:- prime, ByteLength:- 3951169
+
+25-08-2022 10:07:43 : Username:- prime, ByteLength:- 3950355
+
+25-08-2022 10:07:44 : Username:- prime, ByteLength:- 3946843
+
+25-08-2022 10:07:46 : Username:- prime, ByteLength:- 3948240
+
+25-08-2022 10:07:47 : Username:- prime, ByteLength:- 3959552
+
+25-08-2022 10:07:49 : Username:- prime, ByteLength:- 3952845
+
+25-08-2022 10:07:51 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:07:51 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:07:51 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:07:51 : Username:- prime, ByteLength:- 3951127
+
+25-08-2022 10:07:52 : Username:- prime, ByteLength:- 3949013
+
+25-08-2022 10:07:54 : Username:- prime, ByteLength:- 3961575
+
+25-08-2022 10:07:56 : Username:- prime, ByteLength:- 3942801
+
+25-08-2022 10:07:57 : Username:- prime, ByteLength:- 3942119
+
+25-08-2022 10:07:59 : Username:- prime, ByteLength:- 3955215
+
+25-08-2022 10:08:00 : Username:- prime, ByteLength:- 3948065
+
+25-08-2022 10:08:02 : Username:- prime, ByteLength:- 3945574
+
+25-08-2022 10:08:03 : Username:- prime, ByteLength:- 3954586
+
+25-08-2022 10:08:04 : Username:- prime, ByteLength:- 3961181
+
+25-08-2022 10:08:05 : Username:- prime, ByteLength:- 3940062
+
+25-08-2022 10:08:06 : Username:- prime, ByteLength:- 3952006
+
+25-08-2022 10:08:08 : Username:- prime, ByteLength:- 3948864
+
+25-08-2022 10:08:09 : Username:- prime, ByteLength:- 3953603
+
+25-08-2022 10:08:11 : Username:- prime, ByteLength:- 3949690
+
+25-08-2022 10:08:12 : Username:- prime, ByteLength:- 3943347
+
+25-08-2022 10:08:14 : Username:- prime, ByteLength:- 3948203
+
+25-08-2022 10:08:16 : Username:- prime, ByteLength:- 3954045
+
+25-08-2022 10:08:16 : Username:- prime, ByteLength:- 3928992
+
+25-08-2022 10:08:17 : Username:- prime, ByteLength:- 3952570
+
+25-08-2022 10:08:19 : Username:- prime, ByteLength:- 3947009
+
+25-08-2022 10:08:21 : Username:- prime, ByteLength:- 3952057
+
+25-08-2022 10:08:23 : Username:- prime, ByteLength:- 3954315
+
+25-08-2022 10:08:24 : Username:- prime, ByteLength:- 3952241
+
+25-08-2022 10:08:26 : Username:- prime, ByteLength:- 3941435
+
+25-08-2022 10:08:27 : Username:- prime, ByteLength:- 3948417
+
+25-08-2022 10:08:29 : Username:- prime, ByteLength:- 3957930
+
+25-08-2022 10:08:30 : Username:- prime, ByteLength:- 3950209
+
+25-08-2022 10:08:31 : Username:- prime, ByteLength:- 3935595
+
+25-08-2022 10:08:32 : Username:- prime, ByteLength:- 3941623
+
+25-08-2022 10:08:34 : Username:- prime, ByteLength:- 3955799
+
+25-08-2022 10:08:36 : Username:- prime, ByteLength:- 3948727
+
+25-08-2022 10:08:37 : Username:- prime, ByteLength:- 3948304
+
+25-08-2022 10:08:39 : Username:- prime, ByteLength:- 3955856
+
+25-08-2022 10:08:41 : Username:- prime, ByteLength:- 3956025
+
+25-08-2022 10:08:42 : Username:- prime, ByteLength:- 3953838
+
+25-08-2022 10:08:44 : Username:- prime, ByteLength:- 3942970
+
+25-08-2022 10:08:46 : Username:- prime, ByteLength:- 3955097
+
+25-08-2022 10:08:47 : Username:- prime, ByteLength:- 3944702
+
+25-08-2022 10:08:49 : Username:- prime, ByteLength:- 3937946
+
+25-08-2022 10:08:51 : Username:- prime, ByteLength:- 3951166
+
+25-08-2022 10:08:52 : Username:- prime, ByteLength:- 3935178
+
+25-08-2022 10:08:54 : Username:- prime, ByteLength:- 3954653
+
+25-08-2022 10:08:55 : Username:- prime, ByteLength:- 3944666
+
+25-08-2022 10:08:57 : Username:- prime, ByteLength:- 3942606
+
+25-08-2022 10:08:58 : Username:- prime, ByteLength:- 3942926
+
+25-08-2022 10:08:59 : Username:- prime, ByteLength:- 3950129
+
+25-08-2022 10:09:01 : Username:- prime, ByteLength:- 3950054
+
+25-08-2022 10:09:03 : Username:- prime, ByteLength:- 3952070
+
+25-08-2022 10:09:04 : Username:- prime, ByteLength:- 3927256
+
+25-08-2022 10:09:06 : Username:- prime, ByteLength:- 3939192
+
+25-08-2022 10:09:07 : Username:- prime, ByteLength:- 3947097
+
+25-08-2022 10:09:08 : Username:- prime, ByteLength:- 3948909
+
+25-08-2022 10:09:15 : SendTradeData Removed prime _ System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Engine.PrimeDataConnector.SendTradeToPrime(String Username, Dictionary`2 dict_AllPositions) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\PrimeDataConnector.cs:line 479
+
+25-08-2022 10:09:17 : SendSpanToPrime Removed prime _ System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Engine.PrimeDataConnector.SendSpanToPrime(String Username) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\PrimeDataConnector.cs:line 513
+
+25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 1140602
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 1140602
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 1140602
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+tors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connec25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+tors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:18 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+25-08-2022 10:09:20 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:20 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:20 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:20 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:20 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:20 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:20 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:20 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:20 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:21 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:21 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:21 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:30 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): An invalid argument was supplied 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:30 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): An invalid argument was supplied 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:30 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): An invalid argument was supplied 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:32 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:32 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:32 : Retrying 192.168.29.142:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+25-08-2022 10:09:33 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:33 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:33 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:33 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:33 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:33 : Retrying nImageB Span 192.168.29.142:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.142:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+25-08-2022 10:09:36 : ObjFeed_eve_ConenctionMessage EX : CM Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.ReceiveCMResponse(Socket soc_Sender, String SocketKey)
+
+25-08-2022 10:09:36 : ObjFeed_eve_ConenctionMessage : CM Connecting to [192.168.29.142:8706] | Attempts : 1
+
+25-08-2022 10:09:36 : ObjFeed_eve_ConenctionMessage EX : FO Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.ReceiveFOResponse(Socket soc_Sender, String SocketKey)
+
+25-08-2022 10:09:36 : ObjFeed_eve_ConenctionMessage : FO Connecting to [192.168.29.142:8707] | Attempts : 1
+
+25-08-2022 10:09:38 : ObjFeed_eve_ConenctionMessage : CM Retrying [192.168.29.142:8706]
+
+25-08-2022 10:09:38 : ObjFeed_eve_ConenctionMessage : CM Retrying [192.168.29.142:8706]
+
+25-08-2022 10:09:38 : ObjFeed_eve_ConenctionMessage : FO Retrying [192.168.29.142:8707]
+
+25-08-2022 10:09:42 : EngineProcess_FormClosing
+

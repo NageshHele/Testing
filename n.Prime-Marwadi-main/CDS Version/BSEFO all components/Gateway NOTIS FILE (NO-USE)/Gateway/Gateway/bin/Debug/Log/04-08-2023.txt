@@ -1,0 +1,40 @@
+8/4/2023 10:00:15 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 10:11:21 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 12:58:56 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 1:25:31 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 2:56:11 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+8/4/2023 2:59:28 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+8/4/2023 2:59:29 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+8/4/2023 2:59:45 PM : Received HB Server : ID^n.ENGINE
+
+8/4/2023 2:59:45 PM : Received HB Server : SIGNAL^START
+
+8/4/2023 2:59:46 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230804'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway CDS\Gateway\Gateway\Core-Logic\nProcess.cs:line 600
+

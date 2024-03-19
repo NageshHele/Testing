@@ -1,0 +1,126 @@
+[EXCEPTION] ClientInfo Received for : 100 at 08-09-2022 13:08:31
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit at 08-09-2022 13:08:33
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : CLIENT15,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : CLIENT16,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : CLIENT17,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : DEALER10,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : DEALER11,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : DEALER12,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : MUMBAI,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : KOLKATA,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : PUNE,10000,10000,2000 at 08-09-2022 13:08:33
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] Waiting for Position data.. at 08-09-2022 13:08:40
+
+
+[EXCEPTION] Waiting for Span data.. at 08-09-2022 13:08:40
+
+
+[EXCEPTION] ClientInfo Received for : 103 at 08-09-2022 13:15:12
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit at 08-09-2022 13:15:13
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : CLIENT15,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : CLIENT16,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : CLIENT17,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : DEALER10,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : DEALER11,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : DEALER12,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : MUMBAI,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : KOLKATA,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ReadLimitFile : PUNE,10000,10000,2000 at 08-09-2022 13:15:13
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] Waiting for Position data.. at 08-09-2022 13:15:19
+
+
+[EXCEPTION] Waiting for Span data.. at 08-09-2022 13:15:19
+
+
+[EXCEPTION] ClientInfo Received for : 103 at 08-09-2022 13:23:02
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit at 08-09-2022 13:23:37
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] ClientInfo Received for : 103 at 08-09-2022 13:24:52
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit at 08-09-2022 13:25:03
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in D:\GitHUB\n.Prime-Marwadi\Prime\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] Waiting for Position data.. at 08-09-2022 13:25:27
+
+
+[EXCEPTION] Waiting for Span data.. at 08-09-2022 13:25:27
+
+

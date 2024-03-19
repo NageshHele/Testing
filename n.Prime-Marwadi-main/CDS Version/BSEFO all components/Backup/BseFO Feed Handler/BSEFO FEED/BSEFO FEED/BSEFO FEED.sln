@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSEFO Feed", "BSEFO Feed.csproj", "{42330811-D117-40CD-88E5-27305C4D4479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42330811-D117-40CD-88E5-27305C4D4479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42330811-D117-40CD-88E5-27305C4D4479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42330811-D117-40CD-88E5-27305C4D4479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42330811-D117-40CD-88E5-27305C4D4479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22782D92-D180-4308-A615-77AA405E91A0}
+	EndGlobalSection
+EndGlobal

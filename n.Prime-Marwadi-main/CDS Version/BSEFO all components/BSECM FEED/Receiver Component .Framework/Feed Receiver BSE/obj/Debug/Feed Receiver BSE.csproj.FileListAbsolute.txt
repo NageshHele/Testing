@@ -1,0 +1,590 @@
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\config.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe.config
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.pdb
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Data.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\Ionic.Zip.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\NerveLog.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\NSEUtilitaire.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Office.v20.2.Core.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Data.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\NerveLog.pdb
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\NerveLog.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\NSEUtilitaire.pdb
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\DevExpress.Office.v20.2.Core.xml
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.Properties.Resources.resources
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.UI.Main.resources
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.GenerateResource.cache
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe.licenses
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CoreCompileInputs.cache
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CopyComplete
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe
+E:\Feed-Receiver\Feed Receiver BSE\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\config.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe.config
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NSEUtilitaire.pdb
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.AssemblyReference.cache
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.Properties.Resources.resources
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.UI.Main.resources
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.GenerateResource.cache
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe.licenses
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CoreCompileInputs.cache
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CopyComplete
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe
+D:\Snehadri Nerve\Snehadri-New-BODUtility\Feed-Receiver-master\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\config.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe.config
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.pdb
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NSEUtilitaire.pdb
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.AssemblyReference.cache
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.Properties.Resources.resources
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.UI.Main.resources
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.GenerateResource.cache
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe.licenses
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CopyComplete
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\config.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe.config
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.pdb
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NSEUtilitaire.pdb
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.AssemblyReference.cache
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.Properties.Resources.resources
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.UI.Main.resources
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.GenerateResource.cache
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe.licenses
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CopyComplete
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Axis\UAT Testing\BSE - FEED\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.AssemblyReference.cache
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.Properties.Resources.resources
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.UI.Main.resources
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.GenerateResource.cache
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe.licenses
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\config.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe.config
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NSEUtilitaire.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Feed Receiver BSECM\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CopyComplete
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\config.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe.config
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\Feed Receiver BSE.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NerveLog.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\NSEUtilitaire.pdb
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.AssemblyReference.cache
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.Properties.Resources.resources
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed_Receiver_BSE.UI.Main.resources
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.GenerateResource.cache
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe.licenses
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.csproj.CopyComplete
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.exe
+C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSECM FEED\Receiver Component .Framework\Feed Receiver BSE\obj\Debug\Feed Receiver BSE.pdb

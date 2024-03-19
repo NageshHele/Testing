@@ -1,0 +1,103 @@
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe.config
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\bin\Debug\NerveLog.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\bin\Debug\NSEUtilitaire.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.exe
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.pdb
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe.config
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.pdb
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\bin\Debug\NerveLog.dll
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\bin\Debug\NSEUtilitaire.dll
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.exe
+D:\AkshayNerve\Prime-Jainam-Akshay\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.pdb
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\bin\Debug\MCX Feed.exe.config
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\bin\Debug\MCX Feed.exe
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\bin\Debug\MCX Feed.pdb
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\bin\Debug\NerveLog.dll
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\bin\Debug\NSEUtilitaire.dll
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.exe
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.pdb
+D:\AkshayNerve\n.Prime-Pace\n.Prime-MCX\MCX Feed\bin\Debug\NSEUtilitaire.pdb
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\bin\Debug\MCX Feed.exe.config
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\bin\Debug\MCX Feed.exe
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\bin\Debug\MCX Feed.pdb
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\bin\Debug\NerveLog.dll
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\bin\Debug\NSEUtilitaire.dll
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\bin\Debug\NSEUtilitaire.pdb
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.exe
+D:\AkshayNerve\n.Prime-Jainam\n.Prime-MCX\MCX Feed\obj\Debug\MCX Feed.pdb
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe.config
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.pdb
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\n.LicenseValidator.dll
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\NerveLog.dll
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\NSEUtilitaire.dll
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\NSEUtilitaire.pdb
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.exe
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.pdb
+C:\Github\n.Prime-MOFSL-latest\n.Prime MCX\MCX Feed\bin\Debug\config.xml
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.exe
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.pdb
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\config.xml
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe.config
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.exe
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\MCX Feed.pdb
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\n.LicenseValidator.dll
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\NerveLog.dll
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\NSEUtilitaire.dll
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\bin\Debug\NSEUtilitaire.pdb
+C:\Github\n.Prime-MOFSL-23JUN2023\n.Prime MCX\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.csproj.AssemblyReference.cache
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.csproj.CoreCompileInputs.cache
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.exe
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.pdb
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\config.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\MCX Feed.exe.config
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\MCX Feed.exe
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\MCX Feed.pdb
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\NSEUtilitaire.pdb
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.csproj.CopyComplete
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\NSEUtilitaire.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\RestSharp.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Json.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Memory.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.ValueTuple.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Buffers.dll
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\NSEUtilitaire.dll.config
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\RestSharp.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Json.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Memory.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.ValueTuple.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\bin\Debug\System.Buffers.xml
+C:\Users\omkar\OneDrive\Desktop\MCX Feed\obj\Debug\MCX Feed.exe.config

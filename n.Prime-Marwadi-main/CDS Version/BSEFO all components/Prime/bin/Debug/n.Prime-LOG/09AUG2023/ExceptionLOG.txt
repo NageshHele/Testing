@@ -1,0 +1,1775 @@
+[EXCEPTION] Retrying 192.168.0.104, 13300 at 8/9/2023 10:35:12 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.0.104:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Retrying 192.168.0.104, 13300 at 8/9/2023 10:35:43 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.0.104:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] ClientInfo Received for : 20052 at 8/9/2023 10:39:01 AM
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankniftyExpoLimit,NiftyExpoLimit at 8/9/2023 10:39:06 AM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Helper\CollectionHelper.cs:line 664
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:39:11 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:39:11 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 6 at 8/9/2023 10:40:06 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:40:11 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:40:11 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:40:12 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:40:12 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:41:07 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:41:12 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:41:12 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:41:13 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:41:13 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:42:09 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:42:13 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:42:13 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:42:14 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:42:14 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:43:10 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:43:14 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:43:15 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:43:15 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:43:16 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:44:11 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:44:16 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:44:16 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:44:17 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:44:17 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:45:12 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:45:17 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:45:17 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:45:18 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:45:18 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:46:13 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:46:18 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:46:18 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:46:19 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:46:19 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:47:14 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:47:19 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:47:19 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:47:20 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:47:20 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:48:15 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:48:20 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:48:20 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:48:21 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:48:21 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:49:16 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:49:21 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:49:21 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:49:22 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:49:22 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:50:17 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:50:22 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:50:22 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:50:23 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:50:23 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:51:18 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:51:23 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:51:23 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:51:24 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:51:24 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:52:19 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:52:24 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:52:24 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:52:25 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:52:25 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:53:20 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:53:25 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:53:25 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:53:26 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:53:26 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:54:21 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:54:26 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:54:26 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:54:27 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:54:27 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:55:22 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:55:27 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:55:27 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:55:28 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:55:28 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:56:23 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:56:28 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:56:28 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:56:29 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:56:29 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:57:24 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:57:29 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:57:29 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:57:30 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:57:30 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:58:25 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:58:30 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:58:30 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:58:31 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:58:31 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 10:59:26 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 10:59:31 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 10:59:31 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 10:59:32 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 10:59:32 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:00:27 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:00:32 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:00:32 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:00:33 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:00:33 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:01:29 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:01:33 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:01:33 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:01:34 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:01:34 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:02:30 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:02:34 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:02:34 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:02:35 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:02:35 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:03:31 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:03:35 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:03:35 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:03:36 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:03:36 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:04:32 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:04:36 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:04:36 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:04:37 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:04:37 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:05:33 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:05:37 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:05:38 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:05:38 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:05:39 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:06:34 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:06:38 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:06:39 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:06:39 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:06:40 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:07:35 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:07:39 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:07:40 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:07:40 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:07:41 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:08:36 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:08:40 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:08:41 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:08:41 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:08:42 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:09:37 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:09:41 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:09:42 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:09:42 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:09:43 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:10:38 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:10:43 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:10:43 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:10:44 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:10:44 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:11:39 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:11:44 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:11:44 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:11:45 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:11:45 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:12:40 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:12:45 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:12:45 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:12:46 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:12:46 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:13:41 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:13:46 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:13:46 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:13:47 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:13:47 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:14:42 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:14:47 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:14:47 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:14:48 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:14:48 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:15:43 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:15:48 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:15:48 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:15:49 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:15:49 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:16:44 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:16:49 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:16:49 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:16:50 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:16:50 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:17:45 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:17:50 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:17:50 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:17:51 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:17:51 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:18:46 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:18:51 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:18:51 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:18:52 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:18:52 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:19:47 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:19:52 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:19:52 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:19:53 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:19:53 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:20:49 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:20:53 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:20:53 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:20:54 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:20:54 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:21:50 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:21:54 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:21:54 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:21:55 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:21:55 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:22:51 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:22:55 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:22:55 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:22:56 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:22:56 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:23:52 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:23:56 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:23:56 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:23:57 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:23:57 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:24:53 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:24:57 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:24:57 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:24:58 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:24:58 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:25:54 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:25:58 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:25:58 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:25:59 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:25:59 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:26:55 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:27:00 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:27:00 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:27:01 AM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:27:01 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:27:56 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:28:01 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:28:01 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:28:02 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:28:02 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:28:57 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:29:02 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:29:02 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:29:03 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:29:03 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:29:58 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:30:03 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:30:03 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:30:04 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:30:04 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:30:59 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:31:04 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:31:04 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Waiting for Span data.. at 8/9/2023 11:31:05 AM
+
+
+[EXCEPTION] Waiting for Position data.. at 8/9/2023 11:31:05 AM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 0 at 8/9/2023 11:31:11 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 74
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/9/2023 11:31:11 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/9/2023 11:31:11 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 195
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:31:14 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:31:14 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:31:14 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:31:26 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:31:26 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:31:26 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:31:38 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:31:38 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:31:38 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:31:50 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:31:50 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:31:50 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:32:02 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:32:02 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:32:02 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:32:14 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:32:14 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:32:14 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:32:26 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:32:26 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:32:26 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:32:38 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:32:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:32:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:32:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:32:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:32:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:33:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:33:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:33:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:33:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:33:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:33:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:33:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:33:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:33:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:33:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:33:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:33:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:33:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:33:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:33:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:34:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:34:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:34:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:34:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:34:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:34:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:34:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:34:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:34:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:34:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:34:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:34:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:34:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:34:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:34:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:35:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:35:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:35:03 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:35:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:35:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:35:15 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:35:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:35:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:35:27 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:35:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:35:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:35:39 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/9/2023 11:35:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/9/2023 11:35:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/9/2023 11:35:51 AM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+

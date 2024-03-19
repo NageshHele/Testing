@@ -1,0 +1,82 @@
+[EXCEPTION] Retrying 192.168.29.77, 13300 at 24-08-2022 10:59:14
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.29.77:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Retrying 192.168.29.77, 13300 at 24-08-2022 11:00:37
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.29.77:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Retrying 192.168.29.77, 13300 at 24-08-2022 11:01:08
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.29.77:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] Failed to connect 192.168.29.77, 13300 at 24-08-2022 11:02:54
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.29.77:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 232
+
+[EXCEPTION] ClientInfo Received for : 7999 at 24-08-2022 11:03:07
+
+
+[EXCEPTION] Waiting for Position data.. at 24-08-2022 11:03:10
+
+
+[EXCEPTION] Waiting for Span data.. at 24-08-2022 11:03:10
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 24-08-2022 11:15:35
+
+
+[EXCEPTION] Waiting for Position data.. at 24-08-2022 11:15:39
+
+
+[EXCEPTION] Waiting for Span data.. at 24-08-2022 11:15:39
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 24-08-2022 11:35:58
+
+
+[EXCEPTION] Waiting for Position data.. at 24-08-2022 11:36:05
+
+
+[EXCEPTION] Waiting for Span data.. at 24-08-2022 11:36:05
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 24-08-2022 11:52:27
+
+
+[EXCEPTION] Waiting for Position data.. at 24-08-2022 11:52:30
+
+
+[EXCEPTION] Waiting for Span data.. at 24-08-2022 11:52:30
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 24-08-2022 12:03:01
+
+
+[EXCEPTION] Waiting for Position data.. at 24-08-2022 12:03:04
+
+
+[EXCEPTION] Waiting for Span data.. at 24-08-2022 12:03:04
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 24-08-2022 12:24:26
+
+
+[EXCEPTION] Waiting for Position data.. at 24-08-2022 12:24:29
+
+
+[EXCEPTION] Waiting for Span data.. at 24-08-2022 12:24:29
+
+

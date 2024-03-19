@@ -1,0 +1,23 @@
+9/4/2023 6:31:32 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway NOTIS DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+9/4/2023 6:31:36 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+9/4/2023 6:31:37 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+9/4/2023 6:31:53 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway NOTIS DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+9/4/2023 6:32:01 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+9/4/2023 6:32:01 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+9/4/2023 6:32:33 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Gateway NOTIS DB\Gateway CDS\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+

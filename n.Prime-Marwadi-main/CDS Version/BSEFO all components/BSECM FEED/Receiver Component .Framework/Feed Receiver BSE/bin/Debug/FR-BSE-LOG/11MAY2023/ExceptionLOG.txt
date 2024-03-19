@@ -1,0 +1,38 @@
+[EXCEPTION] SetFormText at 5/11/2023 12:24:41 PM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Feed_Receiver_BSE.Helper.CollectionHelper.GetFromConfig(String Table, String ColumnName, Int32 RowNum) in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\Helper\CollectionHelper.cs:line 77
+   at Feed_Receiver_BSE.UI.Main.SetFormText() in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\UI\Main.cs:line 65
+
+[EXCEPTION] ReadBhavcopy at 5/11/2023 12:24:42 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\Bhavcopy\BSECM'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadBhavcopy() in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 44
+
+[EXCEPTION] StartUDPReceive at 5/11/2023 12:24:59 PM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Feed_Receiver_BSE.Helper.CollectionHelper.GetFromConfig(String Table, String ColumnName, Int32 RowNum) in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\Helper\CollectionHelper.cs:line 77
+   at Feed_Receiver_BSE.Core_Logic.SocketReceiver.StartUDPReceive() in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\Core-Logic\SocketReceiver.cs:line 62
+
+[EXCEPTION] SetFormText at 5/11/2023 12:26:33 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\Bhavcopy\BSECM'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at Feed_Receiver_BSE.UI.Main.SetFormText() in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\UI\Main.cs:line 71
+
+[EXCEPTION] ReadBhavcopy at 5/11/2023 12:26:34 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\Bhavcopy\BSECM'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at Feed_Receiver_BSE.Helper.ReadFiles.ReadBhavcopy() in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\Helper\ReadFiles.cs:line 44
+
+[EXCEPTION] ReceiveReqeust at 5/11/2023 12:49:22 PM
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Feed_Receiver_BSE.Core_Logic.SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Github\n.Prime-Miscellaneous\Feed-Receiver-master\Feed Receiver BSE\Receiver Component .Framework\Feed Receiver BSE\Core-Logic\SocketServer.cs:line 113
+

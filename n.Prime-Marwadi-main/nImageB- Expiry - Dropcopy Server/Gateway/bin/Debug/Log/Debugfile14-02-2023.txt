@@ -1,0 +1,23 @@
+14-02-2023 15:54:01,Initialising Image.
+14-02-2023 15:57:01,Initialising Image.
+14-02-2023 16:22:38,Initialising Image.
+14-02-2023 16:25:59,Initialising Image.
+14-02-2023 16:26:25,FO Trade Count: 1
+14-02-2023 16:26:25,FO Trade Count: 2
+14-02-2023 16:26:25,FO Trade Count: 3
+14-02-2023 16:26:25,FO Trade Count: 4
+14-02-2023 16:26:25,FO Trade Count: 5
+14-02-2023 16:26:25,FO Trade Count: 6
+14-02-2023 16:26:25,FO Trade Count: 7
+14-02-2023 16:26:25,ReadFO Loop 15.84secs, Trades:7
+14-02-2023 16:26:25,Trades Read in 15.86secs
+14-02-2023 16:31:34,Initialising Image.
+14-02-2023 16:31:47,FO Trade Count: 1
+14-02-2023 16:31:47,FO Trade Count: 2
+14-02-2023 16:31:47,FO Trade Count: 3
+14-02-2023 16:31:47,FO Trade Count: 4
+14-02-2023 16:31:47,FO Trade Count: 5
+14-02-2023 16:31:47,FO Trade Count: 6
+14-02-2023 16:31:47,FO Trade Count: 7
+14-02-2023 16:31:47,ReadFO Loop 0.01secs, Trades:7
+14-02-2023 16:31:47,Trades Read in 0.07secs

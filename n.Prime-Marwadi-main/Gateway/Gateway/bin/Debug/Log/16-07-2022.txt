@@ -1,0 +1,92 @@
+16-07-2022 12:26:46 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.41:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+16-07-2022 12:26:51 : ReadBSEMappingFile : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Gateway.nProcess.ReadBSEMappingFile() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 326
+
+16-07-2022 12:27:07 : Received HB Server : ID^n.ENGINE
+
+16-07-2022 12:27:08 : Received Trade Server : ID^n.ENGINE
+
+16-07-2022 12:27:09 : Received Span Server : ID^n.ENGINE
+
+16-07-2022 12:27:39 : Received HB Server : SIGNAL^UPDATE
+
+16-07-2022 12:27:53 : Received HB Server : ID^n.ENGINE
+
+16-07-2022 12:27:53 : Received HB Server : SIGNAL^START
+
+16-07-2022 12:27:53 : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BOD_Files\20220716'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 458
+
+16-07-2022 12:33:17 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.41:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+16-07-2022 12:33:21 : ReadBSEMappingFile : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Gateway.nProcess.ReadBSEMappingFile() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 326
+
+16-07-2022 12:33:42 : Received HB Server : ID^n.ENGINE
+
+16-07-2022 12:33:44 : Received Trade Server : ID^n.ENGINE
+
+16-07-2022 12:33:45 : Received Span Server : ID^n.ENGINE
+
+16-07-2022 12:34:29 : Received HB Server : SIGNAL^START
+
+16-07-2022 12:34:29 : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BOD_Files\20220716'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 458
+
+16-07-2022 12:36:11 : Received HB Server : ID^n.ENGINE
+
+16-07-2022 12:38:27 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.1.41:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+16-07-2022 12:38:33 : ReadBSEMappingFile : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Gateway.nProcess.ReadBSEMappingFile() in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 326
+
+16-07-2022 12:38:46 : Received HB Server : ID^n.ENGINE
+
+16-07-2022 12:38:52 : Received Trade Server : ID^n.ENGINE
+
+16-07-2022 12:38:56 : Received Span Server : ID^n.ENGINE
+
+16-07-2022 12:39:09 : Received HB Server : SIGNAL^UPDATE
+
+16-07-2022 12:39:10 : Received HB Server : ID^n.ENGINE
+
+16-07-2022 12:39:10 : Received HB Server : SIGNAL^START
+
+16-07-2022 12:39:10 : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BOD_Files\20220716'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Core-Logic\nProcess.cs:line 458
+
+16-07-2022 12:46:37 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+16-07-2022 12:46:37 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+

@@ -1,0 +1,22 @@
+[EXCEPTION] DeleteOldSpanDirectories at 5/22/2023 3:27:02 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+
+[EXCEPTION] DownloadExchangeFiles - Contract at 5/22/2023 3:27:24 PM
+System.Net.WebException: Unable to connect to the remote server
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadContractFile() in C:\Github\n.Prime-Marwadi\BOD-Utility-API\BOD-Utility\Home.cs:line 471
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/22/2023 4:29:48 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi\BOD-Utility-API\BOD-Utility\Home.cs:line 390
+

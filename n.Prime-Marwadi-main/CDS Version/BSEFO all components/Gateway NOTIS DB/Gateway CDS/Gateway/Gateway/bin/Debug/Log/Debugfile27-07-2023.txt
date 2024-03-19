@@ -1,0 +1,63 @@
+27-07-2023 16:40:28,ReadBSEFO Loop 0.02secs, Trades:6
+27-07-2023 16:40:28,ReadFO Loop 0secs, Trades:6
+27-07-2023 16:40:28,ReadFO Loop 0secs, Trades:6
+27-07-2023 16:40:28,Trades Read in 0.09secs
+27-07-2023 16:40:29,Total Trade Rows Sent,6, Status,True
+27-07-2023 16:40:33,Initialising Image.
+27-07-2023 16:40:34,Initialising CDS Image.
+27-07-2023 16:40:50,Image Initialised successfully
+27-07-2023 16:40:50,Computing span for eod data TotalRows : 1
+27-07-2023 16:40:50,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 6
+27-07-2023 16:40:50,EOD Span Rows : 1
+27-07-2023 16:40:52,Span Rows : 1
+27-07-2023 16:58:28,ReadBSEFO Loop 0secs, Trades:4
+27-07-2023 16:58:28,ReadFO Loop 0secs, Trades:4
+27-07-2023 16:58:28,ReadFO Loop 0secs, Trades:4
+27-07-2023 16:58:28,Span Rows : 1
+27-07-2023 16:58:28,Trades Read in 0.04secs
+27-07-2023 16:58:28,Total Trade Rows Sent,4, Status,True
+27-07-2023 17:02:01,ReadBSEFO Loop 0.01secs, Trades:10
+27-07-2023 17:02:01,ReadFO Loop 0secs, Trades:10
+27-07-2023 17:02:01,Trades Read in 0.06secs
+27-07-2023 17:02:01,Total Trade Rows Sent,10, Status,True
+27-07-2023 17:02:06,Initialising Image.
+27-07-2023 17:02:07,Initialising CDS Image.
+27-07-2023 17:02:21,Image Initialised successfully
+27-07-2023 17:02:21,Computing span for eod data TotalRows : 1
+27-07-2023 17:02:21,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 10
+27-07-2023 17:02:21,EOD Span Rows : 1
+27-07-2023 17:02:23,Span Rows : 1
+27-07-2023 17:15:15,ReadBSEFO Loop 0secs, Trades:10
+27-07-2023 17:15:15,ReadFO Loop 0secs, Trades:10
+27-07-2023 17:15:15,Trades Read in 0.05secs
+27-07-2023 17:15:15,Total Trade Rows Sent,10, Status,True
+27-07-2023 17:15:19,Initialising Image.
+27-07-2023 17:15:20,Initialising CDS Image.
+27-07-2023 17:15:29,Image Initialised successfully
+27-07-2023 17:15:29,Computing span for eod data TotalRows : 1
+27-07-2023 17:15:29,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 10
+27-07-2023 17:15:29,EOD Span Rows : 1
+27-07-2023 17:15:31,Span Rows : 1
+27-07-2023 18:46:45,ReadBSEFO Loop 0.4secs, Trades:10
+27-07-2023 18:46:45,Trades Read in 2.42secs
+27-07-2023 18:46:47,Total Trade Rows Sent,10, Status,True
+27-07-2023 18:46:52,Initialising Image.
+27-07-2023 18:46:53,Initialising CDS Image.
+27-07-2023 18:47:27,Image Initialised successfully
+27-07-2023 18:47:27,Computing span for eod data TotalRows : 1
+27-07-2023 18:47:27,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 10
+27-07-2023 18:47:27,EOD Span Rows : 1
+27-07-2023 18:47:29,Span Rows : 1
+27-07-2023 20:54:44,ReadBSEFO Loop 0.02secs, Trades:10
+27-07-2023 20:54:44,ReadFO Loop 0secs, Trades:10
+27-07-2023 20:54:44,ReadBCECM Loop 0secs, Trades:10
+27-07-2023 20:54:44,ReadCM Loop 0secs, Trades:10
+27-07-2023 20:54:44,Trades Read in 1.12secs
+27-07-2023 20:54:45,Total Trade Rows Sent,10, Status,True
+27-07-2023 20:54:59,Initialising Image.
+27-07-2023 20:55:00,Initialising CDS Image.
+27-07-2023 20:55:42,Image Initialised successfully
+27-07-2023 20:55:42,Computing span for eod data TotalRows : 1
+27-07-2023 20:55:42,Span for EOD data computed successfully , SpanComputeStart True, Intraday scrip count 10
+27-07-2023 20:55:42,EOD Span Rows : 1
+27-07-2023 20:55:44,Span Rows : 1

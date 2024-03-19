@@ -1,0 +1,176 @@
+7/28/2023 8:12:23 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+7/28/2023 8:14:50 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:14:50 PM : Received Trade Server : ID^n.ENGINE
+
+7/28/2023 8:14:51 PM : Received Span Server : ID^n.ENGINE
+
+7/28/2023 8:15:35 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:15:35 PM : Received HB Server : SIGNAL^START
+
+7/28/2023 8:15:36 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230728'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\nProcess.cs:line 405
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,38444,O,OPTIDX,52996,BANKNIFTY,7/27/2023,46700,CE,2,15,100,8760,8760,400066000000000,1.60E+15,516000004,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,38444,O,OPTIDX,53128,BANKNIFTY,7/27/2023,47100,CE,2,15,50,8760,8760,400066000000000,1.60E+15,516000007,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,38444,F,FUTIDX,42697,NIFTY,7/27/2023,-1,XX,2,50,19875,8760,8760,400066000000000,1.90E+15,774000008,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,38444,O,OPTIDX,53135,BANKNIFTY,7/27/2023,47200,CE,2,15,42,8760,8760,400066000000000,1.50E+15,430000006,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,38444,O,OPTIDX,53141,BANKNIFTY,7/27/2023,47400,CE,2,60,25,8760,8760,400066000000000,1.50E+15,430000018,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,39655,O,OPTSTK,154402,SBIN,7/27/2023,610,CE,2,1500,6.5,8760,8760,400066000000000,2.40E+15,952000005,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,891,O,OPTSTK,119902,HCLTECH,8/31/2023,1100,PE,1,700,21.9,8760,8760,201010000000000,2.40E+15,952000006,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,891,O,OPTSTK,84741,HCLTECH,7/27/2023,1100,PE,1,700,8.35,8760,8760,201010000000000,2.40E+15,952000009,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,891,O,OPTSTK,84741,HCLTECH,7/27/2023,1100,PE,1,700,8.25,8760,8760,201010000000000,2.40E+15,952000010,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,891,O,OPTSTK,84741,HCLTECH,7/27/2023,1100,PE,1,700,8.25,8760,8760,201010000000000,2.40E+15,952000011,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,891,O,OPTSTK,84741,HCLTECH,7/27/2023,1100,PE,1,700,8.25,8760,8760,201010000000000,2.40E+15,952000012,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,37920,O,OPTSTK,84741,HCLTECH,7/27/2023,1100,PE,1,700,8.2,8760,8760,201010000000000,2.40E+15,952000013,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,37920,O,OPTSTK,84741,HCLTECH,7/27/2023,1100,PE,1,1400,7.1,8760,8760,201010000000000,2.40E+15,952000014,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:15:47 PM : ReadFO Loop : NFO,8760,38444,O,OPTSTK,154598,SHREECEM,7/27/2023,28000,CE,1,350,3.05,8760,8760,400066000000000,2.40E+15,952000018,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:16:28 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+7/28/2023 8:16:40 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:16:41 PM : Received Span Server : ID^n.ENGINE
+
+7/28/2023 8:16:41 PM : Received Trade Server : ID^n.ENGINE
+
+7/28/2023 8:17:12 PM : Received HB Server : SIGNAL^STOP
+
+7/28/2023 8:17:14 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:17:14 PM : Received HB Server : SIGNAL^START
+
+7/28/2023 8:17:15 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230728'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\nProcess.cs:line 405
+
+7/28/2023 8:17:48 PM : ReadFO Loop : NFO,8760,38444,O,OPTIDX,52996,BANKNIFTY,7/27/2023,46700,CE,2,15,100,8760,8760,400066000000000,1.60E+15,516000004,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:18:57 PM : ReadFO Loop : NFO,8760,38444,O,OPTIDX,53128,BANKNIFTY,7/27/2023,47100,CE,2,15,50,8760,8760,400066000000000,1.60E+15,516000007,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:19:57 PM : ReadFO Loop : NFO,8760,38444,F,FUTIDX,42697,NIFTY,7/27/2023,-1,XX,2,50,19875,8760,8760,400066000000000,1.90E+15,774000008,AABCM5192K,1374398100,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\CTradeProcess.cs:line 288
+
+7/28/2023 8:21:32 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+7/28/2023 8:21:38 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:21:48 PM : Received HB Server : SIGNAL^STOP
+
+7/28/2023 8:21:48 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:21:49 PM : Received HB Server : SIGNAL^START
+
+7/28/2023 8:21:50 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230728'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\nProcess.cs:line 405
+
+7/28/2023 8:23:23 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+7/28/2023 8:23:29 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:23:33 PM : Received HB Server : SIGNAL^STOP
+
+7/28/2023 8:23:34 PM : Received HB Server : ID^n.ENGINE
+
+7/28/2023 8:23:35 PM : Received HB Server : SIGNAL^START
+
+7/28/2023 8:23:35 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\20230728'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Core-Logic\nProcess.cs:line 405
+
+7/28/2023 8:36:48 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\Gateway - DropCopy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+

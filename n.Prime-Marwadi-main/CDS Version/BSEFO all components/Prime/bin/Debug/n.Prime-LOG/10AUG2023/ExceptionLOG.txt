@@ -1,0 +1,1764 @@
+[EXCEPTION] ClientInfo Received for : 0 at 8/10/2023 3:56:50 PM
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankniftyExpoLimit,NiftyExpoLimit at 8/10/2023 3:56:52 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Helper\CollectionHelper.cs:line 664
+
+[EXCEPTION] Waiting for Position data.. at 8/10/2023 3:56:58 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/10/2023 3:56:58 PM
+
+
+[EXCEPTION] ClientInfo Received for : 20052 at 8/10/2023 3:57:53 PM
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankniftyExpoLimit,NiftyExpoLimit at 8/10/2023 3:57:54 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Helper\CollectionHelper.cs:line 664
+
+[EXCEPTION] Waiting for Position data.. at 8/10/2023 3:58:00 PM
+
+
+[EXCEPTION] Waiting for Span data.. at 8/10/2023 3:58:00 PM
+
+
+[EXCEPTION] ReceiveResponseHB Received- 65 at 8/10/2023 3:58:36 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 181
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 8/10/2023 3:58:36 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 224
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 8/10/2023 3:58:36 PM
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 349
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:58:39 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:58:39 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:58:39 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:58:51 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:58:51 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:58:51 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:59:03 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:59:03 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:59:03 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:59:15 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:59:15 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:59:15 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:59:27 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:59:27 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:59:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:59:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:59:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:59:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 3:59:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 3:59:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 3:59:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:00:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:00:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:00:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:00:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:00:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:00:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:00:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:00:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:00:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:00:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:00:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:00:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:00:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:00:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:00:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:01:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:01:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:01:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:01:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:01:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:01:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:01:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:01:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:01:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:01:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:01:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:01:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:01:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:01:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:01:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:02:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:02:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:02:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:02:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:02:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:02:16 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:02:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:02:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:02:28 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:02:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:02:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:02:40 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:02:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:02:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:02:52 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:03:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:03:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:03:04 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:03:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:03:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:03:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:03:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:03:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:03:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:03:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:03:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:03:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:03:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:03:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:03:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:04:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:04:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:04:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:04:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:04:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:04:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:04:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:04:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:04:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:04:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:04:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:04:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:04:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:04:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:04:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:05:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:05:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:05:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:05:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:05:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:05:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:05:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:05:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:05:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:05:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:05:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:05:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:05:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:05:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:05:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:06:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:06:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:06:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:06:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:06:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:06:17 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:06:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:06:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:06:29 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:06:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:06:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:06:41 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:06:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:06:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:06:53 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:07:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:07:05 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:07:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:07:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:07:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:07:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:07:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:07:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:07:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:07:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:07:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:07:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:07:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:07:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:07:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:08:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:08:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:08:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:08:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:08:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:08:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:08:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:08:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:08:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:08:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:08:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:08:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:08:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:08:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:08:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:09:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:09:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:09:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:09:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:09:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:09:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:09:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:09:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:09:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:09:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:09:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:09:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:09:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:09:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:09:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:10:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:10:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:10:06 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:10:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:10:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:10:18 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:10:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:10:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:10:30 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:10:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:10:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:10:42 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:10:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:10:54 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:10:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:11:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:11:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:11:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:11:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:11:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:11:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:11:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:11:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:11:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:11:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:11:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:11:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:11:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:11:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:11:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:12:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:12:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:12:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:12:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:12:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:12:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:12:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:12:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:12:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:12:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:12:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:12:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:12:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:12:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:12:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:13:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:13:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:13:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:13:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:13:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:13:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:13:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:13:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:13:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:13:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:13:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:13:43 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:13:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:13:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:13:55 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:14:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:14:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:14:07 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:14:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:14:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:14:19 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:14:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:14:31 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:14:32 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:14:44 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:14:44 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:14:44 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+
+[EXCEPTION] Retrying 127.0.0.1, 13300 at 8/10/2023 4:14:56 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13300
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineHBConnector.ConnectToEngine(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineHBConnector.cs:line 236
+
+[EXCEPTION] Span Retrying 127.0.0.1, 13200 at 8/10/2023 4:14:56 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13200
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineSpan(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 63
+
+[EXCEPTION] Trade Retrying 127.0.0.1, 13100 at 8/10/2023 4:14:56 PM
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Prime.EngineDataConnector.ConnectToEngineData(IPAddress _IP, Int32 _PORT, String Username) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 122
+

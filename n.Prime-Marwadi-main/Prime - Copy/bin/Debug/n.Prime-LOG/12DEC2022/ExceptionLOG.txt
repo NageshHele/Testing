@@ -1,0 +1,30 @@
+[EXCEPTION] HB Connection Attempt: 0 at 12-12-2022 11:41:01
+
+
+[EXCEPTION] ClientInfo Received for : 2018 at 12-12-2022 11:41:05
+
+
+[EXCEPTION] ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit at 12-12-2022 11:41:07
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Prime - Copy\Helper\CollectionHelper.cs:line 624
+
+[EXCEPTION] Trade Connection Attempt: 0 at 12-12-2022 11:41:11
+
+
+[EXCEPTION] Connected to Trade Engine.... at 12-12-2022 11:41:11
+
+
+[EXCEPTION] Span Connection Attempt: 0 at 12-12-2022 11:41:11
+
+
+[EXCEPTION] Waiting for Position data.. at 12-12-2022 11:41:11
+
+
+[EXCEPTION] Connected to Span Engine.... at 12-12-2022 11:41:11
+
+
+[EXCEPTION] Waiting for Span data.. at 12-12-2022 11:41:11
+
+

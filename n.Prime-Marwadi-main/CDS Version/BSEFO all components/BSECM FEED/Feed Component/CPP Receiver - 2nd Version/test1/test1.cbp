@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BSE_DEED" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BSE_FEED" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add option="-fpermissive" />
+					<Add directory="C:/Users/bcastdev/Downloads/boost/boost_1_74_0/boost_1_74_0" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libstdc++" />
+					<Add option="-lws2_32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BSE_FEED" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Setting/BseFeed.ini" />
+		<Unit filename="include/EpollSocket.hpp" />
+		<Unit filename="include/ProcessFeed.hpp" />
+		<Unit filename="include/Setting.hpp" />
+		<Unit filename="include/Structures.hpp" />
+		<Unit filename="include/UdpSokcet.hpp" />
+		<Unit filename="include/wepoll.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/EpollSocket.cpp" />
+		<Unit filename="src/ProcessFeed.cpp" />
+		<Unit filename="src/Setting.cpp" />
+		<Unit filename="src/UdpSokcet.cpp" />
+		<Unit filename="src/wepoll.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

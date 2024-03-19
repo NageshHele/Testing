@@ -1,0 +1,35 @@
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:35:29
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:35:59
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:36:26
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:37:12
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:37:34
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+

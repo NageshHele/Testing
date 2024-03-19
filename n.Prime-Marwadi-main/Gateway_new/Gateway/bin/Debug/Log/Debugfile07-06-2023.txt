@@ -1,0 +1,20 @@
+6/7/2023 2:56:33 PM,ReadFO Skipped : NSEFO|_OALINDIA23APR177.25PE^NSEFO|COALINDIA|29JUN2023|177.25|PE
+6/7/2023 2:56:33 PM,ReadFO Loop 0.02secs, Trades:15
+6/7/2023 2:56:39 PM,Trades Read in 5.75secs
+6/7/2023 2:56:39 PM,Total Trade Rows Sent,15, Status,False
+6/7/2023 3:19:13 PM,ReadFO Skipped : NSEFO|_OALINDIA23APR177.25PE^NSEFO|COALINDIA|29JUN2023|177.25|PE
+6/7/2023 3:19:13 PM,ReadFO Loop 0.2secs, Trades:15
+6/7/2023 3:19:13 PM,Trades Read in 0.35secs
+6/7/2023 3:19:13 PM,Total Trade Rows Sent,15, Status,True
+6/7/2023 3:30:06 PM,ReadFO Loop 0.06secs, Trades:2
+6/7/2023 3:30:06 PM,Trades Read in 0.07secs
+6/7/2023 3:30:06 PM,Total Trade Rows Sent,2, Status,True
+6/7/2023 3:31:31 PM,ReadFO Loop 0.02secs, Trades:1
+6/7/2023 3:31:31 PM,Trades Read in 0.03secs
+6/7/2023 3:31:31 PM,Total Trade Rows Sent,1, Status,True
+6/7/2023 3:32:02 PM,ReadFO Loop 0.01secs, Trades:1
+6/7/2023 3:32:02 PM,Trades Read in 0.01secs
+6/7/2023 3:32:02 PM,Total Trade Rows Sent,1, Status,True
+6/7/2023 3:32:21 PM,ReadFO Loop 0.01secs, Trades:1
+6/7/2023 3:32:21 PM,Trades Read in 0.01secs
+6/7/2023 3:32:21 PM,Total Trade Rows Sent,1, Status,True

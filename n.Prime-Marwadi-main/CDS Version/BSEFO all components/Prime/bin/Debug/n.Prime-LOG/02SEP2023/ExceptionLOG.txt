@@ -1,0 +1,33 @@
+[EXCEPTION] => ClientInfo Received for : 20052 at 9/2/2023 10:57:03 AM
+
+
+[EXCEPTION] => ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankniftyExpoLimit,NiftyExpoLimit at 9/2/2023 10:57:04 AM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Prime.Helper.CollectionHelper.ReadLimitFile() in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Helper\CollectionHelper.cs:line 664
+
+[EXCEPTION] => Waiting for Position data.. at 9/2/2023 10:57:15 AM
+
+
+[EXCEPTION] => Waiting for Span data.. at 9/2/2023 10:57:15 AM
+
+
+[EXCEPTION] => ReceivePrimeResponse Span Received- 0 at 9/2/2023 10:58:15 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] => Waiting for Span data.. at 9/2/2023 10:58:16 AM
+
+
+[EXCEPTION] => ReceivePrimeResponse Span Received- 0 at 9/2/2023 10:59:16 AM
+System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\Prime\Connectors\EngineDataConnector.cs:line 297
+
+[EXCEPTION] => Waiting for Span data.. at 9/2/2023 10:59:17 AM
+
+

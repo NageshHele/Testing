@@ -1,0 +1,13 @@
+[DEBUG] 4/18/2022 6:52:13 PM => Server Setup Success on 8704 Port.
+[DEBUG] 4/18/2022 6:53:25 PM => Server Setup Success on 8704 Port.
+[DEBUG] 4/18/2022 6:53:27 PM => Receiver Setup Success on 6000 Port.
+[DEBUG] 4/18/2022 9:32:59 PM => Server Setup Success on 8704 Port.
+[DEBUG] 4/18/2022 9:32:59 PM => Receiver Setup Success on 6000 Port.
+[DEBUG] 4/18/2022 9:37:02 PM => Received Text: CONNECT^N.ENGINE^<EOF>
+[DEBUG] 4/18/2022 9:37:02 PM => Server Setup Success on 8704 Port.
+[DEBUG] 4/18/2022 9:37:25 PM => Receiver Setup Success on 6000 Port.
+[DEBUG] 4/18/2022 9:40:51 PM => Server Setup Success on 8704 Port.
+[DEBUG] 4/18/2022 9:40:51 PM => Receiver Setup Success on 6000 Port.
+[DEBUG] 4/18/2022 9:41:42 PM => Received Text: CONNECT^N.ENGINE^<EOF>
+[DEBUG] 4/18/2022 9:54:29 PM => Received Text: CONNECT^N.ENGINE^<EOF>
+[DEBUG] 4/18/2022 9:56:48 PM => Received Text: CONNECT^N.ENGINE^<EOF>

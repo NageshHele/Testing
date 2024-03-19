@@ -1,0 +1,57 @@
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:35:29
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:35:59
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:36:26
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:37:12
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 12:37:34
+System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive() in C:\Users\omkar\OneDrive\Desktop\BSEFO FEED\UDPSocketReceiver.cs:line 57
+
+[EXCEPTION] StartUDPReceive at 28-07-2023 19:16:58
+System.Net.Sockets.SocketException (0x80004005): The requested address is not valid in its context
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(IPEndPoint localEP)
+   at UDPSocketReceiver.StartUDPReceive(NerveLogger logger) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\UDPSocketReceiver.cs:line 71
+
+[EXCEPTION] ReceiveReqeust at 28-07-2023 19:40:58
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 28-07-2023 20:09:32
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+
+[EXCEPTION] ReceiveReqeust at 28-07-2023 20:15:11
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at SocketServer.ReceiveReqeust(IAsyncResult AR) in C:\Users\omkar\OneDrive\Desktop\bse fo feed new\BSEFO FEED\BSEFO FEED\SocketServer.cs:line 77
+

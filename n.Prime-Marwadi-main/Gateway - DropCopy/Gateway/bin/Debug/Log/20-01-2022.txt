@@ -1,0 +1,25 @@
+20-Jan-22 13:27:41 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+20-Jan-22 13:28:22 : Received HB Server : ID^n.ENGINE
+
+20-Jan-22 13:28:23 : Received Trade Server : ID^n.ENGINE
+
+20-Jan-22 13:28:25 : Received Span Server : ID^n.ENGINE
+
+20-Jan-22 13:28:39 : Received HB Server : ID^n.ENGINE
+
+20-Jan-22 13:28:39 : Received HB Server : SIGNAL^START
+
+20-Jan-22 13:47:12 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+20-Jan-22 13:47:12 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+

@@ -1,0 +1,339 @@
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:25:59 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:25:59 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:25:59 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:25:59 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DecompressGZAndDelete at 4/29/2022 12:27:27 PM
+System.IO.FileNotFoundException: Could not find file 'D:\LossMarginFile\ICCL_EDXELM290422.zip.gz'.
+File name: 'D:\LossMarginFile\ICCL_EDXELM290422.zip.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1981
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:29:15 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:29:15 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:29:15 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:29:15 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DecompressGZAndDelete at 4/29/2022 12:30:02 PM
+System.IO.FileNotFoundException: Could not find file 'D:\LossMarginFile\ICCL_EDXELM290422.zip.zip'.
+File name: 'D:\LossMarginFile\ICCL_EDXELM290422.zip.zip'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1981
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:31:31 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:31:31 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:31:31 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:31:31 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:33:22 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:33:22 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:33:22 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:33:22 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DecompressGZAndDelete at 4/29/2022 12:34:17 PM
+System.IO.InvalidDataException: The magic number in GZip header is not correct. Make sure you are passing in a GZip stream.
+   at System.IO.Compression.GZipDecoder.ReadHeader(InputBuffer input)
+   at System.IO.Compression.Inflater.Decode()
+   at System.IO.Compression.Inflater.Inflate(Byte[] bytes, Int32 offset, Int32 length)
+   at System.IO.Compression.DeflateStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Compression.GZipStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Stream.InternalCopyTo(Stream destination, Int32 bufferSize)
+   at System.IO.Stream.CopyTo(Stream destination)
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1991
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:34:41 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:34:41 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:34:42 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:34:42 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:36:12 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:36:12 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:36:12 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:36:12 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:38:30 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:38:30 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:38:30 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:38:30 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:40:06 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:40:06 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:40:06 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:40:06 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DecompressGZAndDelete at 4/29/2022 12:40:54 PM
+System.IO.InvalidDataException: The magic number in GZip header is not correct. Make sure you are passing in a GZip stream.
+   at System.IO.Compression.GZipDecoder.ReadHeader(InputBuffer input)
+   at System.IO.Compression.Inflater.Decode()
+   at System.IO.Compression.Inflater.Inflate(Byte[] bytes, Int32 offset, Int32 length)
+   at System.IO.Compression.DeflateStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Compression.GZipStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Stream.InternalCopyTo(Stream destination, Int32 bufferSize)
+   at System.IO.Stream.CopyTo(Stream destination)
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1991
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:44:37 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:44:37 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:44:37 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:44:37 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 12:45:14 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 12:45:14 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 12:45:14 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 12:45:14 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+
+[EXCEPTION] DecompressGZAndDelete at 4/29/2022 12:45:53 PM
+System.IO.InvalidDataException: The magic number in GZip header is not correct. Make sure you are passing in a GZip stream.
+   at System.IO.Compression.GZipDecoder.ReadHeader(InputBuffer input)
+   at System.IO.Compression.Inflater.Decode()
+   at System.IO.Compression.Inflater.Inflate(Byte[] bytes, Int32 offset, Int32 length)
+   at System.IO.Compression.DeflateStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Compression.GZipStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Stream.InternalCopyTo(Stream destination, Int32 bufferSize)
+   at System.IO.Stream.CopyTo(Stream destination)
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 1991
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 4/29/2022 3:06:37 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 4/29/2022 3:06:37 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VaRMargin at 4/29/2022 3:06:37 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 292
+
+[EXCEPTION] DeleteOldSpanDirectories at 4/29/2022 3:06:37 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\nikhil github\n.Prime-Marwadi-Nikhil\Prime-Marwadi\Prime-ProtoCompressor\BOD-Utility with convertor\BOD-Utility\Home.cs:line 302
+

@@ -1,0 +1,514 @@
+[DEBUG] 4/28/2023 2:18:56 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:20:23 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:20:28 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:20:28 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:46 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"timestamp":"2023-04-28T08:52:51.228+00:00","status":404,"message":null,"responseCode":["925"],"responseDesc":"error","version":"1"}
+[DEBUG] 4/28/2023 2:22:47 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:47 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:22:47 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:47 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:22:47 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:47 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:22:47 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:47 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:22:47 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:47 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:47 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:22:53 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:22:53 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:22:53 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:22:53 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:22:53 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:22:53 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"{\"timestamp\":\"2023-04-28T08:52:57.724+00:00\",\"status\":404,\"message\":null,\"responseCode\":[\"925\"],\"responseDesc\":\"error\",\"version\":\"1\"}","Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api/ABC//common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:23:34 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:23:34 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:23:34 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:23:35 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"{\"timestamp\":\"2023-04-28T08:53:39.713+00:00\",\"status\":404,\"message\":null,\"responseCode\":[\"925\"],\"responseDesc\":\"error\",\"version\":\"1\"}","Filename":"C_VAR1_28042023_5.DAT","URL":"https://www.connect2nse.com/extranet-api/ABC//common/file/download/1.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_5.DAT"}
+[DEBUG] 4/28/2023 2:25:38 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:25:38 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:25:38 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:25:38 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:25:38 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:25:38 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:25:38 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:38 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:25:40 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:25:40 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:25:40 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:25:40 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:40 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:25:41 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:25:42 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:26:24 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:26:24 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:26:24 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:26:27 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:26:27 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:26:27 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:27:20 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:27:41 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:27:41 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:27:41 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:28:14 PM => Download span  nsccl.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:28:14 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_5.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_5.DAT"}
+[DEBUG] 4/28/2023 2:29:03 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:29:03 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:29:03 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:29:08 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:29:08 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:29:08 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:29:10 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_4.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_4.DAT"}
+[DEBUG] 4/28/2023 2:29:22 PM => Download CDSspan  nsccl_ix.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:29:40 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:29:40 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:29:40 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:29:55 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:29:55 PM => [VaRExposure] Outside IF Index : 3 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:29:55 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_3.DAT
+[DEBUG] 4/28/2023 2:30:50 PM => Download span  nsccl.20230428.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i04.spn.gz"}
+[DEBUG] 4/28/2023 2:32:25 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:32:25 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:25 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:32:25 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:25 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:32:25 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:25 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:32:25 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:25 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:32:25 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:25 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:25 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:32:27 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:32:27 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:32:27 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:32:27 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:32:27 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:32:27 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:34:05 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:34:05 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:34:10 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:34:26 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:34:26 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:34:26 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:34:37 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:34:37 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:34:37 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:34:51 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:34:51 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:34:51 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:36:06 PM => Download CDSspan  nsccl_ix.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:36:22 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:36:22 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:36:22 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:36:34 PM => Download span  nsccl.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:36:42 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_5.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_5.DAT"}
+[DEBUG] 4/28/2023 2:37:21 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:37:21 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:37:21 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:37:41 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:37:41 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:37:41 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:37:41 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_4.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_4.DAT"}
+[DEBUG] 4/28/2023 2:38:02 PM => Download CDSspan  nsccl_ix.20230428.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i04.spn.gz"}
+[DEBUG] 4/28/2023 2:38:06 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:38:06 PM => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 2
+[DEBUG] 4/28/2023 2:38:23 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:38:23 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:38:23 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:39:06 PM => Download span  nsccl.20230428.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i04.spn.gz"}
+[DEBUG] 4/28/2023 2:40:03 PM => Download CDSspan  nsccl_ix.20230428.i03.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i03.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i03.spn.gz"}
+[DEBUG] 4/28/2023 2:40:20 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:40:20 PM => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:40:20 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 2:40:20 PM => Download CDSspan  nsccl_ix.20230428.i02.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.i02.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i02.spn.gz"}
+[DEBUG] 4/28/2023 2:40:23 PM => Downloaded SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:40:23 PM => After Slice Index : 0 FOSpanFileExtensions Count : 2
+[DEBUG] 4/28/2023 2:40:23 PM => --------------------------------------------------------------------------------
+[DEBUG] 4/28/2023 2:40:41 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 2:40:41 PM => Outside IF Index : 5 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:40:41 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i01.spn.gz
+[DEBUG] 4/28/2023 2:41:31 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:41:31 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:31 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:41:31 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:31 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:41:31 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:31 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:41:32 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:32 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:41:48 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:41:48 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:41:48 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:41:48 PM => Download span  nsccl.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:42:04 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:42:04 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:42:04 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:42:04 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:42:04 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:42:04 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:42:04 PM => Download span  nsccl.20230428.i03.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.i03.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i03.spn.gz"}
+[DEBUG] 4/28/2023 2:42:24 PM => Downloaded SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:42:24 PM => After Slice Index : 0 FOSpanFileExtensions Count : 3
+[DEBUG] 4/28/2023 2:42:24 PM => --------------------------------------------------------------------------------
+[DEBUG] 4/28/2023 2:43:12 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:43:12 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:43:27 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:43:27 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:43:27 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:43:42 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:43:42 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:43:42 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:43:54 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_5.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_5.DAT"}
+[DEBUG] 4/28/2023 2:44:39 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:44:39 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:44:39 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:45:07 PM => Download CDSspan  nsccl_ix.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:46:15 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:46:15 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:15 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:46:15 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:15 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:46:17 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:46:17 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:46:17 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:46:17 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:46:17 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:17 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:46:18 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:18 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:20 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:46:40 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:46:40 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:46:40 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:47:58 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:48:20 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:48:20 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:48:20 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:20 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:48:29 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_5.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_5.DAT"}
+[DEBUG] 4/28/2023 2:48:29 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:48:29 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:29 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:48:58 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 4/28/2023 2:48:58 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:48:58 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:58 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:59 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:59 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:48:59 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:48:59 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:49:00 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:49:01 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:49:01 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:49:01 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:49:01 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:49:15 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:49:15 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:49:15 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:52:33 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : 
+[DEBUG] 4/28/2023 2:52:34 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:52:34 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:52:34 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 2:52:34 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 2:52:34 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 2:52:34 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:52:34 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:34 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 2:52:36 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:36 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:36 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_6.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_6.DAT"}
+[DEBUG] 4/28/2023 2:52:36 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:52:36 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:52:36 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:36 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:52:38 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 2:52:53 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 2:52:53 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:53 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:52:53 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":"","Filename":"C_VAR1_28042023_5.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_5.DAT"}
+[DEBUG] 4/28/2023 2:52:54 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 2:52:54 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:52:54 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:53:08 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 2:53:08 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:53:08 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:54:18 PM => Download CDSspan  nsccl_ix.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:54:18 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:54:18 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:54:18 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:54:18 PM => Download CDSspan  nsccl_ix.20230428.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i04.spn.gz"}
+[DEBUG] 4/28/2023 2:54:18 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:54:18 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:54:18 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:54:45 PM => Download span  nsccl.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 2:54:48 PM => DownloadOTMScripFile API Response: {"ResponseStatus":0,"Message":null,"Filename":"C_VAR1_28042023_4.DAT","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CM&folderPath=/varrate&filename=C_VAR1_28042023_4.DAT"}
+[DEBUG] 4/28/2023 2:55:02 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 2:55:02 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:55:02 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:55:02 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 2:55:02 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:55:02 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:55:02 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:55:02 PM => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:55:02 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 2:55:10 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 2:55:10 PM => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 2
+[DEBUG] 4/28/2023 2:55:11 PM => Download span  nsccl.20230428.i02.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl.20230428.i02.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.i02.spn.gz"}
+[DEBUG] 4/28/2023 2:55:30 PM => Downloaded SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 2:55:30 PM => After Slice Index : 0 FOSpanFileExtensions Count : 4
+[DEBUG] 4/28/2023 2:55:30 PM => --------------------------------------------------------------------------------
+[DEBUG] 4/28/2023 2:55:58 PM => Download CDSspan  nsccl_ix.20230428.i03.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i03.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i03.spn.gz"}
+[DEBUG] 4/28/2023 2:55:58 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 2:55:58 PM => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 2:55:58 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 3:03:06 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : 
+[DEBUG] 4/28/2023 3:03:06 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:06 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 3:03:06 PM => Downloding Var File : C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 3:03:06 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:09 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 3:03:10 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:10 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:03:17 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:17 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:03:17 PM => Downloding span : nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:03:17 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:17 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:17 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 3:03:20 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 3:03:20 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 3:03:20 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 3:03:20 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 3:03:20 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:03:20 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:04:05 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 3:04:05 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:04:05 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 3:04:05 PM => Downloding Var File : C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 3:04:51 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 3:04:51 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:04:51 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 3:04:51 PM => Downloding Var File : C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 3:05:08 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 3:05:08 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:05:08 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:05:08 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:05:13 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 3:05:37 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:05:38 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:05:38 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:05:38 PM => Downloding span : nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:06:56 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 3:06:56 PM => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 2
+[DEBUG] 4/28/2023 3:06:56 PM => Download CDSspan  nsccl_ix.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 3:06:56 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:06:56 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:06:56 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 3:14:12 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : 
+[DEBUG] 4/28/2023 3:14:13 PM => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:13 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-FINAL.spn
+[DEBUG] 4/28/2023 3:14:13 PM => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:13 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 3:14:13 PM => Downloding Var File : C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-04.spn
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Downloding span : nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Download CDSspan  nsccl_ix.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-03.spn
+[DEBUG] 4/28/2023 3:14:19 PM => Download CDSspan  nsccl_ix.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i05.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i05.spn.gz"}
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-02.spn
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-01.spn
+[DEBUG] 4/28/2023 3:14:19 PM => Download CDSspan  nsccl_ix.20230428.i04.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i04.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i04.spn.gz"}
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => SpanFileName Before : C:\BOD_Files\BSERISK20230428-00.spn
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => Download CDSspan  nsccl_ix.20230428.i03.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i03.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i03.spn.gz"}
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Download CDSspan  nsccl_ix.20230428.i02.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i02.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i02.spn.gz"}
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Outside IF Index : 5 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName Before : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i01.spn.gz
+[DEBUG] 4/28/2023 3:14:19 PM => Download CDSspan  nsccl_ix.20230428.i01.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl_ix.20230428.i01.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=CD&folderPath=/Parameter&filename=nsccl_ix.20230428.i01.spn.gz"}
+[DEBUG] 4/28/2023 3:14:19 PM => CDSpanFileName After : ftp://ftp.connect22nse.com/CDSCommon/Parameter/nsccl_ix.20230428.i01.spn.gz
+[DEBUG] 4/28/2023 3:14:39 PM => Download span  nsccl.20230428.s.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":null,"Filename":"nsccl.20230428.s.spn.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/Parameter&filename=nsccl.20230428.s.spn.gz"}
+[DEBUG] 4/28/2023 3:14:54 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_6.DAT
+[DEBUG] 4/28/2023 3:14:54 PM => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:54 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 3:14:54 PM => Downloding Var File : C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 3:14:55 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.s.spn.gz
+[DEBUG] 4/28/2023 3:14:55 PM => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:14:55 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:14:55 PM => Downloding span : nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:15:15 PM => Download span  nsccl.20230428.i05.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"","URL":""}
+[DEBUG] 4/28/2023 3:15:29 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_5.DAT
+[DEBUG] 4/28/2023 3:15:29 PM => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:15:29 PM => [VaRExposure] VaRFileName Before : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 3:15:29 PM => Downloding Var File : C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 3:15:31 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i05.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:15:31 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i04.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:15:31 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i03.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:15:31 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Download Failed SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i02.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Outside IF Index : 5 SpanFileExtensions Count : 6
+[DEBUG] 4/28/2023 3:15:31 PM => Attempted SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i01.spn.gz
+[DEBUG] 4/28/2023 3:15:31 PM => Downloding span : nsccl.20230428.i01.spn.gz
+[DEBUG] 4/28/2023 3:15:57 PM => Download span  nsccl.20230428.i01.spn.gz | API RESPONSE :  {"ResponseStatus":0,"Message":"","Filename":"","URL":""}
+[DEBUG] 4/28/2023 3:16:04 PM => [VaRExposure] VaRFileName After : ftp://ftp.connect22nse.com/Common/VARRate/C_VAR1_28042023_4.DAT
+[DEBUG] 4/28/2023 3:16:04 PM => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 2
+[DEBUG] 4/28/2023 3:16:16 PM => Downloaded SpanFileName : ftp://ftp.connect22nse.com/FaoCommon/Parameter/nsccl.20230428.i01.spn.gz
+[DEBUG] 4/28/2023 3:16:16 PM => After Slice Index : 0 FOSpanFileExtensions Count : 5
+[DEBUG] 4/28/2023 3:16:16 PM => --------------------------------------------------------------------------------

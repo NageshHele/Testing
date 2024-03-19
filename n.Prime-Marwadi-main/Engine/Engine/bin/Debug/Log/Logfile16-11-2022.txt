@@ -1,0 +1,2389 @@
+16-11-2022 13:42:23 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 13:42:23 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+16-11-2022 13:42:23 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 13:42:23 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+16-11-2022 13:42:23 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+16-11-2022 13:42:33 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+16-11-2022 13:42:48 : EngineProcess_FormClosing
+
+16-11-2022 13:43:49 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 13:43:50 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+16-11-2022 13:43:50 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 13:43:50 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+16-11-2022 13:43:50 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+16-11-2022 13:44:01 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+16-11-2022 13:44:43 : Received HB Server : ID^3203C83D4C2D
+
+16-11-2022 13:44:44 : Received HB Server : USER^prime|prime123|5.3.3.3
+
+16-11-2022 13:44:49 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.PrimeHBConnector.ReceiveCallback(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\PrimeHBConnector.cs:line 284
+
+16-11-2022 13:44:51 : EngineProcess_FormClosing
+
+16-11-2022 13:45:49 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 13:45:49 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+16-11-2022 13:45:49 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 13:45:49 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+16-11-2022 13:45:49 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+16-11-2022 13:45:59 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+16-11-2022 13:46:51 : Received HB Server : ID^3203C83D4C2D
+
+16-11-2022 13:46:52 : Received HB Server : USER^prime|prime123|5.3.3.3
+
+16-11-2022 13:46:52 : Received HB Server : CLIENT^prime
+
+16-11-2022 13:46:52 : Received HB Server : BAN^prime
+
+16-11-2022 13:46:58 : IP added to list PRIME|127.0.0.1:57368
+
+16-11-2022 13:46:58 : IP added to Span list PRIME|127.0.0.1:57369
+
+16-11-2022 13:47:02 : Username:- prime, ByteLength:- 36017
+
+16-11-2022 13:47:02 : Username:- prime, ByteLength:- 36143
+
+16-11-2022 13:47:03 : Username:- prime, ByteLength:- 36147
+
+16-11-2022 13:47:04 : Username:- prime, ByteLength:- 36161
+
+16-11-2022 13:47:05 : Username:- prime, ByteLength:- 36288
+
+16-11-2022 13:47:06 : Username:- prime, ByteLength:- 36165
+
+16-11-2022 13:47:06 : Username:- prime, ByteLength:- 35995
+
+16-11-2022 13:47:07 : Username:- prime, ByteLength:- 36086
+
+16-11-2022 13:47:08 : Username:- prime, ByteLength:- 36545
+
+16-11-2022 13:47:09 : Username:- prime, ByteLength:- 36191
+
+16-11-2022 13:47:10 : Username:- prime, ByteLength:- 36124
+
+16-11-2022 13:47:11 : Username:- prime, ByteLength:- 36046
+
+16-11-2022 13:47:11 : Username:- prime, ByteLength:- 36261
+
+16-11-2022 13:47:12 : Username:- prime, ByteLength:- 36520
+
+16-11-2022 13:47:13 : Username:- prime, ByteLength:- 36331
+
+16-11-2022 13:47:14 : Username:- prime, ByteLength:- 36186
+
+16-11-2022 13:47:15 : Username:- prime, ByteLength:- 36046
+
+16-11-2022 13:47:16 : Username:- prime, ByteLength:- 36077
+
+16-11-2022 13:47:16 : Username:- prime, ByteLength:- 36732
+
+16-11-2022 13:47:17 : Username:- prime, ByteLength:- 36161
+
+16-11-2022 13:47:18 : Username:- prime, ByteLength:- 36815
+
+16-11-2022 13:47:19 : Username:- prime, ByteLength:- 36369
+
+16-11-2022 13:47:20 : Username:- prime, ByteLength:- 36372
+
+16-11-2022 13:47:20 : Username:- prime, ByteLength:- 35998
+
+16-11-2022 13:47:21 : Username:- prime, ByteLength:- 36006
+
+16-11-2022 13:47:22 : Username:- prime, ByteLength:- 36174
+
+16-11-2022 13:47:23 : Username:- prime, ByteLength:- 36194
+
+16-11-2022 13:47:23 : Username:- prime, ByteLength:- 36325
+
+16-11-2022 13:47:24 : Username:- prime, ByteLength:- 36346
+
+16-11-2022 13:47:25 : Username:- prime, ByteLength:- 36287
+
+16-11-2022 13:47:26 : Username:- prime, ByteLength:- 36131
+
+16-11-2022 13:47:27 : Username:- prime, ByteLength:- 36491
+
+16-11-2022 13:47:28 : Username:- prime, ByteLength:- 36200
+
+16-11-2022 13:47:28 : Username:- prime, ByteLength:- 36181
+
+16-11-2022 13:47:29 : Username:- prime, ByteLength:- 36267
+
+16-11-2022 13:47:30 : Username:- prime, ByteLength:- 36132
+
+16-11-2022 13:47:31 : Username:- prime, ByteLength:- 36026
+
+16-11-2022 13:47:32 : Username:- prime, ByteLength:- 36106
+
+16-11-2022 13:47:32 : Username:- prime, ByteLength:- 36151
+
+16-11-2022 13:47:33 : Username:- prime, ByteLength:- 36171
+
+16-11-2022 13:47:34 : Username:- prime, ByteLength:- 36284
+
+16-11-2022 13:47:35 : Username:- prime, ByteLength:- 36398
+
+16-11-2022 13:47:36 : Username:- prime, ByteLength:- 36950
+
+16-11-2022 13:47:36 : Username:- prime, ByteLength:- 35927
+
+16-11-2022 13:47:37 : Username:- prime, ByteLength:- 35990
+
+16-11-2022 13:47:38 : Username:- prime, ByteLength:- 36054
+
+16-11-2022 13:47:39 : Username:- prime, ByteLength:- 36078
+
+16-11-2022 13:47:40 : Username:- prime, ByteLength:- 36163
+
+16-11-2022 13:47:40 : Username:- prime, ByteLength:- 36055
+
+16-11-2022 13:47:41 : Username:- prime, ByteLength:- 36628
+
+16-11-2022 13:47:42 : Username:- prime, ByteLength:- 36150
+
+16-11-2022 13:47:43 : Username:- prime, ByteLength:- 36432
+
+16-11-2022 13:47:44 : Username:- prime, ByteLength:- 36303
+
+16-11-2022 13:47:45 : Username:- prime, ByteLength:- 35945
+
+16-11-2022 13:47:45 : Username:- prime, ByteLength:- 36301
+
+16-11-2022 13:47:46 : Username:- prime, ByteLength:- 36214
+
+16-11-2022 13:47:47 : Username:- prime, ByteLength:- 36565
+
+16-11-2022 13:47:48 : Username:- prime, ByteLength:- 36270
+
+16-11-2022 13:47:49 : Username:- prime, ByteLength:- 35926
+
+16-11-2022 13:47:49 : Username:- prime, ByteLength:- 36154
+
+16-11-2022 13:47:50 : Username:- prime, ByteLength:- 36246
+
+16-11-2022 13:47:51 : Username:- prime, ByteLength:- 36344
+
+16-11-2022 13:47:52 : Username:- prime, ByteLength:- 36033
+
+16-11-2022 13:47:53 : Username:- prime, ByteLength:- 36025
+
+16-11-2022 13:47:53 : Username:- prime, ByteLength:- 36211
+
+16-11-2022 13:47:54 : Username:- prime, ByteLength:- 35999
+
+16-11-2022 13:47:55 : Username:- prime, ByteLength:- 35966
+
+16-11-2022 13:47:56 : Username:- prime, ByteLength:- 35976
+
+16-11-2022 13:47:57 : Username:- prime, ByteLength:- 36186
+
+16-11-2022 13:47:57 : Username:- prime, ByteLength:- 36856
+
+16-11-2022 13:47:58 : Username:- prime, ByteLength:- 36155
+
+16-11-2022 13:47:59 : Username:- prime, ByteLength:- 36290
+
+16-11-2022 13:48:00 : Username:- prime, ByteLength:- 36138
+
+16-11-2022 13:48:01 : Username:- prime, ByteLength:- 36038
+
+16-11-2022 13:48:02 : Username:- prime, ByteLength:- 36132
+
+16-11-2022 13:48:02 : Username:- prime, ByteLength:- 36108
+
+16-11-2022 13:48:03 : Username:- prime, ByteLength:- 36249
+
+16-11-2022 13:48:04 : Username:- prime, ByteLength:- 36350
+
+16-11-2022 13:48:05 : Username:- prime, ByteLength:- 36311
+
+16-11-2022 13:48:06 : Username:- prime, ByteLength:- 36372
+
+16-11-2022 13:48:06 : Username:- prime, ByteLength:- 36770
+
+16-11-2022 13:48:07 : Username:- prime, ByteLength:- 36061
+
+16-11-2022 13:48:08 : Username:- prime, ByteLength:- 35865
+
+16-11-2022 13:48:09 : Username:- prime, ByteLength:- 36136
+
+16-11-2022 13:48:10 : Username:- prime, ByteLength:- 36326
+
+16-11-2022 13:48:16 : Username:- prime, ByteLength:- 36117
+
+16-11-2022 13:48:20 : Username:- prime, ByteLength:- 35979
+
+16-11-2022 13:48:25 : Username:- prime, ByteLength:- 36386
+
+16-11-2022 13:48:30 : Username:- prime, ByteLength:- 36263
+
+16-11-2022 13:48:31 : Username:- prime, ByteLength:- 36218
+
+16-11-2022 13:48:31 : Username:- prime, ByteLength:- 36322
+
+16-11-2022 13:48:32 : Username:- prime, ByteLength:- 36245
+
+16-11-2022 13:48:33 : Username:- prime, ByteLength:- 36655
+
+16-11-2022 13:48:34 : Username:- prime, ByteLength:- 36307
+
+16-11-2022 13:48:35 : Username:- prime, ByteLength:- 37015
+
+16-11-2022 13:48:35 : Username:- prime, ByteLength:- 35989
+
+16-11-2022 13:48:36 : Username:- prime, ByteLength:- 36035
+
+16-11-2022 13:48:37 : Username:- prime, ByteLength:- 36067
+
+16-11-2022 13:48:38 : Username:- prime, ByteLength:- 36475
+
+16-11-2022 13:48:39 : Username:- prime, ByteLength:- 36444
+
+16-11-2022 13:48:40 : Username:- prime, ByteLength:- 36689
+
+16-11-2022 13:48:41 : Username:- prime, ByteLength:- 36288
+
+16-11-2022 13:48:41 : Username:- prime, ByteLength:- 36159
+
+16-11-2022 13:48:42 : Username:- prime, ByteLength:- 36284
+
+16-11-2022 13:48:43 : Username:- prime, ByteLength:- 36060
+
+16-11-2022 13:48:44 : Username:- prime, ByteLength:- 36274
+
+16-11-2022 13:48:45 : Username:- prime, ByteLength:- 36134
+
+16-11-2022 13:48:45 : Username:- prime, ByteLength:- 36310
+
+16-11-2022 13:48:53 : Username:- prime, ByteLength:- 36134
+
+16-11-2022 13:48:53 : Username:- prime, ByteLength:- 35983
+
+16-11-2022 13:48:54 : Username:- prime, ByteLength:- 36077
+
+16-11-2022 13:48:55 : Username:- prime, ByteLength:- 35974
+
+16-11-2022 13:48:56 : Username:- prime, ByteLength:- 36166
+
+16-11-2022 13:48:57 : Username:- prime, ByteLength:- 36245
+
+16-11-2022 13:48:57 : Username:- prime, ByteLength:- 36203
+
+16-11-2022 13:48:58 : Username:- prime, ByteLength:- 36176
+
+16-11-2022 13:48:59 : Username:- prime, ByteLength:- 36029
+
+16-11-2022 13:49:00 : Username:- prime, ByteLength:- 36231
+
+16-11-2022 13:49:01 : Username:- prime, ByteLength:- 35914
+
+16-11-2022 13:49:01 : Username:- prime, ByteLength:- 36632
+
+16-11-2022 13:49:02 : Username:- prime, ByteLength:- 36151
+
+16-11-2022 13:49:03 : Username:- prime, ByteLength:- 36237
+
+16-11-2022 13:49:04 : Username:- prime, ByteLength:- 36012
+
+16-11-2022 13:49:05 : Username:- prime, ByteLength:- 36134
+
+16-11-2022 13:49:06 : Username:- prime, ByteLength:- 36233
+
+16-11-2022 13:49:06 : Username:- prime, ByteLength:- 36263
+
+16-11-2022 13:49:07 : Username:- prime, ByteLength:- 36344
+
+16-11-2022 13:49:08 : Username:- prime, ByteLength:- 36117
+
+16-11-2022 13:49:09 : Username:- prime, ByteLength:- 36097
+
+16-11-2022 13:49:10 : Username:- prime, ByteLength:- 36192
+
+16-11-2022 13:49:10 : Username:- prime, ByteLength:- 36136
+
+16-11-2022 13:49:11 : Username:- prime, ByteLength:- 36310
+
+16-11-2022 13:49:12 : Username:- prime, ByteLength:- 36280
+
+16-11-2022 13:49:13 : Username:- prime, ByteLength:- 36138
+
+16-11-2022 13:49:14 : Username:- prime, ByteLength:- 36118
+
+16-11-2022 13:49:14 : Username:- prime, ByteLength:- 36176
+
+16-11-2022 13:49:15 : Username:- prime, ByteLength:- 36052
+
+16-11-2022 13:49:16 : Username:- prime, ByteLength:- 36590
+
+16-11-2022 13:49:17 : Username:- prime, ByteLength:- 36179
+
+16-11-2022 13:49:18 : Username:- prime, ByteLength:- 36212
+
+16-11-2022 13:49:18 : Username:- prime, ByteLength:- 37002
+
+16-11-2022 13:49:19 : Username:- prime, ByteLength:- 36089
+
+16-11-2022 13:49:20 : Username:- prime, ByteLength:- 36259
+
+16-11-2022 13:49:21 : Username:- prime, ByteLength:- 36442
+
+16-11-2022 13:49:22 : Username:- prime, ByteLength:- 36299
+
+16-11-2022 13:49:23 : Username:- prime, ByteLength:- 36116
+
+16-11-2022 13:49:23 : Username:- prime, ByteLength:- 36143
+
+16-11-2022 13:49:24 : Username:- prime, ByteLength:- 36253
+
+16-11-2022 13:49:25 : Username:- prime, ByteLength:- 36823
+
+16-11-2022 13:49:26 : Username:- prime, ByteLength:- 35789
+
+16-11-2022 13:49:27 : Username:- prime, ByteLength:- 36030
+
+16-11-2022 13:49:27 : Username:- prime, ByteLength:- 36131
+
+16-11-2022 13:49:28 : Username:- prime, ByteLength:- 36025
+
+16-11-2022 13:49:29 : Username:- prime, ByteLength:- 36296
+
+16-11-2022 13:49:30 : Username:- prime, ByteLength:- 35940
+
+16-11-2022 13:49:31 : Username:- prime, ByteLength:- 36148
+
+16-11-2022 13:49:31 : Username:- prime, ByteLength:- 36088
+
+16-11-2022 13:49:32 : Username:- prime, ByteLength:- 36244
+
+16-11-2022 13:49:33 : Username:- prime, ByteLength:- 36744
+
+16-11-2022 13:49:34 : Username:- prime, ByteLength:- 36264
+
+16-11-2022 13:49:35 : Username:- prime, ByteLength:- 36005
+
+16-11-2022 13:49:35 : Username:- prime, ByteLength:- 36835
+
+16-11-2022 13:49:36 : Username:- prime, ByteLength:- 36230
+
+16-11-2022 13:49:37 : Username:- prime, ByteLength:- 36301
+
+16-11-2022 13:49:38 : Username:- prime, ByteLength:- 36029
+
+16-11-2022 13:49:39 : Username:- prime, ByteLength:- 36174
+
+16-11-2022 13:49:39 : Username:- prime, ByteLength:- 36215
+
+16-11-2022 13:49:40 : Username:- prime, ByteLength:- 36262
+
+16-11-2022 13:49:41 : Username:- prime, ByteLength:- 36652
+
+16-11-2022 13:49:42 : Username:- prime, ByteLength:- 36053
+
+16-11-2022 13:49:43 : Username:- prime, ByteLength:- 36037
+
+16-11-2022 13:49:44 : Username:- prime, ByteLength:- 36487
+
+16-11-2022 13:49:44 : Username:- prime, ByteLength:- 36106
+
+16-11-2022 13:49:45 : Username:- prime, ByteLength:- 36117
+
+16-11-2022 13:49:46 : Username:- prime, ByteLength:- 36169
+
+16-11-2022 13:49:47 : Username:- prime, ByteLength:- 36213
+
+16-11-2022 13:49:48 : Username:- prime, ByteLength:- 36304
+
+16-11-2022 13:49:48 : Username:- prime, ByteLength:- 36080
+
+16-11-2022 13:49:49 : Username:- prime, ByteLength:- 36551
+
+16-11-2022 13:49:50 : Username:- prime, ByteLength:- 36263
+
+16-11-2022 13:49:51 : Username:- prime, ByteLength:- 36302
+
+16-11-2022 13:49:52 : Username:- prime, ByteLength:- 36288
+
+16-11-2022 13:49:52 : Username:- prime, ByteLength:- 35928
+
+16-11-2022 13:49:53 : Username:- prime, ByteLength:- 36023
+
+16-11-2022 13:49:54 : Username:- prime, ByteLength:- 36443
+
+16-11-2022 13:49:55 : Username:- prime, ByteLength:- 36220
+
+16-11-2022 13:49:56 : Username:- prime, ByteLength:- 36333
+
+16-11-2022 13:49:56 : Username:- prime, ByteLength:- 36271
+
+16-11-2022 13:49:57 : Username:- prime, ByteLength:- 36159
+
+16-11-2022 13:49:58 : Username:- prime, ByteLength:- 36320
+
+16-11-2022 13:49:59 : Username:- prime, ByteLength:- 36295
+
+16-11-2022 13:50:00 : Username:- prime, ByteLength:- 36210
+
+16-11-2022 13:50:01 : Username:- prime, ByteLength:- 36780
+
+16-11-2022 13:50:01 : Username:- prime, ByteLength:- 36512
+
+16-11-2022 13:50:02 : Username:- prime, ByteLength:- 36558
+
+16-11-2022 13:50:03 : Username:- prime, ByteLength:- 36226
+
+16-11-2022 13:50:04 : Username:- prime, ByteLength:- 36293
+
+16-11-2022 13:50:05 : Username:- prime, ByteLength:- 36077
+
+16-11-2022 13:50:05 : Username:- prime, ByteLength:- 36339
+
+16-11-2022 13:50:06 : Username:- prime, ByteLength:- 36103
+
+16-11-2022 13:50:07 : Username:- prime, ByteLength:- 36161
+
+16-11-2022 13:50:08 : Username:- prime, ByteLength:- 36763
+
+16-11-2022 13:50:09 : Username:- prime, ByteLength:- 36189
+
+16-11-2022 13:50:09 : Username:- prime, ByteLength:- 36130
+
+16-11-2022 13:50:10 : Username:- prime, ByteLength:- 36051
+
+16-11-2022 13:50:11 : Username:- prime, ByteLength:- 36270
+
+16-11-2022 13:50:12 : Username:- prime, ByteLength:- 36126
+
+16-11-2022 13:50:13 : Username:- prime, ByteLength:- 36532
+
+16-11-2022 13:50:13 : Username:- prime, ByteLength:- 35945
+
+16-11-2022 13:50:14 : Username:- prime, ByteLength:- 36183
+
+16-11-2022 13:50:15 : Username:- prime, ByteLength:- 36211
+
+16-11-2022 13:50:15 : ReceiveSpanResponse Received- 4057
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+16-11-2022 13:50:15 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+16-11-2022 13:50:16 : Username:- prime, ByteLength:- 36369
+
+16-11-2022 13:50:17 : Username:- prime, ByteLength:- 36278
+
+16-11-2022 13:50:17 : Retrying 127.0.0.1:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+16-11-2022 13:50:17 : Retrying nImageB Span 127.0.0.1:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+16-11-2022 13:50:18 : Username:- prime, ByteLength:- 36125
+
+16-11-2022 13:50:18 : Username:- prime, ByteLength:- 36236
+
+16-11-2022 13:50:19 : SendTradeData Removed prime _ System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Engine.PrimeDataConnector.SendTradeToPrime(String Username, Dictionary`2 dict_AllPositions) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\PrimeDataConnector.cs:line 479
+
+16-11-2022 13:50:28 : EngineProcess_FormClosing
+
+16-11-2022 14:56:10 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 14:56:13 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+16-11-2022 14:56:13 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 14:56:16 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+16-11-2022 14:56:17 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+16-11-2022 14:56:35 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+16-11-2022 14:58:51 : Received HB Server : ID^3203C83D4C2D
+
+16-11-2022 14:58:52 : Received HB Server : USER^prime|prime123|5.3.3.3
+
+16-11-2022 14:58:52 : Received HB Server : CLIENT^prime
+
+16-11-2022 14:58:54 : Received HB Server : BAN^prime
+
+16-11-2022 14:59:40 : IP added to list PRIME|127.0.0.1:58105
+
+16-11-2022 14:59:40 : IP added to Span list PRIME|127.0.0.1:58106
+
+16-11-2022 14:59:47 : Username:- prime, ByteLength:- 35059
+
+16-11-2022 14:59:48 : Username:- prime, ByteLength:- 35175
+
+16-11-2022 14:59:49 : Username:- prime, ByteLength:- 35141
+
+16-11-2022 14:59:50 : Username:- prime, ByteLength:- 35130
+
+16-11-2022 14:59:50 : Username:- prime, ByteLength:- 35168
+
+16-11-2022 14:59:51 : Username:- prime, ByteLength:- 35569
+
+16-11-2022 14:59:52 : Username:- prime, ByteLength:- 35166
+
+16-11-2022 14:59:53 : Username:- prime, ByteLength:- 35139
+
+16-11-2022 14:59:54 : Username:- prime, ByteLength:- 35332
+
+16-11-2022 14:59:55 : Username:- prime, ByteLength:- 35109
+
+16-11-2022 14:59:55 : Username:- prime, ByteLength:- 35231
+
+16-11-2022 14:59:56 : Username:- prime, ByteLength:- 35350
+
+16-11-2022 14:59:57 : Username:- prime, ByteLength:- 35281
+
+16-11-2022 14:59:58 : Username:- prime, ByteLength:- 35162
+
+16-11-2022 14:59:59 : Username:- prime, ByteLength:- 35223
+
+16-11-2022 14:59:59 : Username:- prime, ByteLength:- 35453
+
+16-11-2022 15:00:00 : Username:- prime, ByteLength:- 34995
+
+16-11-2022 15:00:01 : Username:- prime, ByteLength:- 35239
+
+16-11-2022 15:00:02 : Username:- prime, ByteLength:- 35231
+
+16-11-2022 15:00:03 : Username:- prime, ByteLength:- 35318
+
+16-11-2022 15:00:03 : Username:- prime, ByteLength:- 35081
+
+16-11-2022 15:00:04 : Username:- prime, ByteLength:- 35047
+
+16-11-2022 15:00:05 : Username:- prime, ByteLength:- 35059
+
+16-11-2022 15:00:06 : Username:- prime, ByteLength:- 35144
+
+16-11-2022 15:00:07 : Username:- prime, ByteLength:- 35345
+
+16-11-2022 15:00:07 : Username:- prime, ByteLength:- 35177
+
+16-11-2022 15:00:08 : Username:- prime, ByteLength:- 35021
+
+16-11-2022 15:00:09 : Username:- prime, ByteLength:- 35110
+
+16-11-2022 15:00:10 : Username:- prime, ByteLength:- 35175
+
+16-11-2022 15:00:11 : Username:- prime, ByteLength:- 35081
+
+16-11-2022 15:00:12 : Username:- prime, ByteLength:- 35409
+
+16-11-2022 15:00:12 : Username:- prime, ByteLength:- 34891
+
+16-11-2022 15:00:13 : Username:- prime, ByteLength:- 35247
+
+16-11-2022 15:00:14 : Username:- prime, ByteLength:- 35240
+
+16-11-2022 15:00:15 : Username:- prime, ByteLength:- 35296
+
+16-11-2022 15:00:16 : Username:- prime, ByteLength:- 35351
+
+16-11-2022 15:00:16 : Username:- prime, ByteLength:- 35583
+
+16-11-2022 15:00:17 : Username:- prime, ByteLength:- 35017
+
+16-11-2022 15:00:18 : Username:- prime, ByteLength:- 35227
+
+16-11-2022 15:00:19 : Username:- prime, ByteLength:- 35107
+
+16-11-2022 15:00:20 : Username:- prime, ByteLength:- 35221
+
+16-11-2022 15:00:20 : Username:- prime, ByteLength:- 34922
+
+16-11-2022 15:00:21 : Username:- prime, ByteLength:- 35444
+
+16-11-2022 15:00:22 : Username:- prime, ByteLength:- 35318
+
+16-11-2022 15:00:23 : Username:- prime, ByteLength:- 35087
+
+16-11-2022 15:00:24 : Username:- prime, ByteLength:- 35196
+
+16-11-2022 15:00:25 : Username:- prime, ByteLength:- 35146
+
+16-11-2022 15:00:25 : Username:- prime, ByteLength:- 35402
+
+16-11-2022 15:00:26 : Username:- prime, ByteLength:- 35191
+
+16-11-2022 15:00:27 : Username:- prime, ByteLength:- 35196
+
+16-11-2022 15:00:28 : Username:- prime, ByteLength:- 35179
+
+16-11-2022 15:00:29 : Username:- prime, ByteLength:- 35102
+
+16-11-2022 15:00:29 : Username:- prime, ByteLength:- 34972
+
+16-11-2022 15:00:30 : Username:- prime, ByteLength:- 35245
+
+16-11-2022 15:00:31 : Username:- prime, ByteLength:- 35018
+
+16-11-2022 15:00:32 : Username:- prime, ByteLength:- 35162
+
+16-11-2022 15:00:33 : Username:- prime, ByteLength:- 35188
+
+16-11-2022 15:00:33 : Username:- prime, ByteLength:- 35191
+
+16-11-2022 15:00:34 : Username:- prime, ByteLength:- 35132
+
+16-11-2022 15:00:35 : Username:- prime, ByteLength:- 35168
+
+16-11-2022 15:00:36 : Username:- prime, ByteLength:- 35509
+
+16-11-2022 15:00:37 : Username:- prime, ByteLength:- 35124
+
+16-11-2022 15:00:37 : Username:- prime, ByteLength:- 35073
+
+16-11-2022 15:00:38 : Username:- prime, ByteLength:- 35013
+
+16-11-2022 15:00:40 : Username:- prime, ByteLength:- 35122
+
+16-11-2022 15:00:40 : Username:- prime, ByteLength:- 35348
+
+16-11-2022 15:00:41 : Username:- prime, ByteLength:- 35193
+
+16-11-2022 15:00:42 : Username:- prime, ByteLength:- 35339
+
+16-11-2022 15:00:43 : Username:- prime, ByteLength:- 35068
+
+16-11-2022 15:00:44 : Username:- prime, ByteLength:- 35126
+
+16-11-2022 15:00:44 : Username:- prime, ByteLength:- 35039
+
+16-11-2022 15:00:45 : Username:- prime, ByteLength:- 35461
+
+16-11-2022 15:00:46 : Username:- prime, ByteLength:- 35392
+
+16-11-2022 15:00:47 : Username:- prime, ByteLength:- 35368
+
+16-11-2022 15:00:48 : Username:- prime, ByteLength:- 35261
+
+16-11-2022 15:00:48 : Username:- prime, ByteLength:- 35221
+
+16-11-2022 15:00:49 : Username:- prime, ByteLength:- 35220
+
+16-11-2022 15:00:50 : Username:- prime, ByteLength:- 35232
+
+16-11-2022 15:00:51 : Username:- prime, ByteLength:- 35331
+
+16-11-2022 15:00:52 : Username:- prime, ByteLength:- 35342
+
+16-11-2022 15:00:53 : Username:- prime, ByteLength:- 35255
+
+16-11-2022 15:00:54 : Username:- prime, ByteLength:- 35106
+
+16-11-2022 15:00:54 : Username:- prime, ByteLength:- 35471
+
+16-11-2022 15:00:55 : Username:- prime, ByteLength:- 35135
+
+16-11-2022 15:00:56 : Username:- prime, ByteLength:- 35072
+
+16-11-2022 15:00:57 : Username:- prime, ByteLength:- 35062
+
+16-11-2022 15:00:58 : Username:- prime, ByteLength:- 35526
+
+16-11-2022 15:00:58 : Username:- prime, ByteLength:- 35338
+
+16-11-2022 15:00:59 : Username:- prime, ByteLength:- 35457
+
+16-11-2022 15:01:00 : Username:- prime, ByteLength:- 35112
+
+16-11-2022 15:01:01 : Username:- prime, ByteLength:- 35037
+
+16-11-2022 15:01:02 : Username:- prime, ByteLength:- 35057
+
+16-11-2022 15:01:02 : Username:- prime, ByteLength:- 35162
+
+16-11-2022 15:01:03 : Username:- prime, ByteLength:- 35059
+
+16-11-2022 15:01:04 : Username:- prime, ByteLength:- 35420
+
+16-11-2022 15:01:05 : Username:- prime, ByteLength:- 35230
+
+16-11-2022 15:01:06 : Username:- prime, ByteLength:- 35405
+
+16-11-2022 15:01:07 : Username:- prime, ByteLength:- 35028
+
+16-11-2022 15:01:08 : Username:- prime, ByteLength:- 35258
+
+16-11-2022 15:01:08 : Username:- prime, ByteLength:- 35328
+
+16-11-2022 15:01:09 : Username:- prime, ByteLength:- 34968
+
+16-11-2022 15:01:10 : Username:- prime, ByteLength:- 35394
+
+16-11-2022 15:01:11 : Username:- prime, ByteLength:- 35411
+
+16-11-2022 15:01:12 : Username:- prime, ByteLength:- 35273
+
+16-11-2022 15:01:12 : Username:- prime, ByteLength:- 35191
+
+16-11-2022 15:01:13 : Username:- prime, ByteLength:- 35127
+
+16-11-2022 15:01:14 : Username:- prime, ByteLength:- 35176
+
+16-11-2022 15:01:15 : Username:- prime, ByteLength:- 35181
+
+16-11-2022 15:01:15 : Username:- prime, ByteLength:- 35006
+
+16-11-2022 15:01:16 : Username:- prime, ByteLength:- 35127
+
+16-11-2022 15:01:17 : Username:- prime, ByteLength:- 35281
+
+16-11-2022 15:01:18 : Username:- prime, ByteLength:- 35171
+
+16-11-2022 15:01:19 : Username:- prime, ByteLength:- 35573
+
+16-11-2022 15:01:20 : Username:- prime, ByteLength:- 35509
+
+16-11-2022 15:01:21 : Username:- prime, ByteLength:- 35284
+
+16-11-2022 15:01:22 : Username:- prime, ByteLength:- 35364
+
+16-11-2022 15:01:22 : Username:- prime, ByteLength:- 35036
+
+16-11-2022 15:01:23 : Username:- prime, ByteLength:- 35150
+
+16-11-2022 15:01:24 : Username:- prime, ByteLength:- 35479
+
+16-11-2022 15:01:25 : Username:- prime, ByteLength:- 34982
+
+16-11-2022 15:01:25 : Username:- prime, ByteLength:- 35570
+
+16-11-2022 15:01:26 : Username:- prime, ByteLength:- 35183
+
+16-11-2022 15:01:27 : Username:- prime, ByteLength:- 35361
+
+16-11-2022 15:01:28 : Username:- prime, ByteLength:- 34988
+
+16-11-2022 15:01:29 : Username:- prime, ByteLength:- 35223
+
+16-11-2022 15:01:29 : Username:- prime, ByteLength:- 35051
+
+16-11-2022 15:01:30 : Username:- prime, ByteLength:- 35126
+
+16-11-2022 15:01:31 : Username:- prime, ByteLength:- 35082
+
+16-11-2022 15:01:32 : Username:- prime, ByteLength:- 35193
+
+16-11-2022 15:01:32 : Mapping updated for user prime, Mapped client-A705,GROUP1,GROUP100,A04,A05,A12,A13,A16,A20,A24,A26,CLIENT1000,CLIENT1001,CLIENT1002,CLIENT1006,CLIENT1008,CLIENT1013,CLIENT1016,CLIENT1018,CLIENT102,CLIENT1022,CLIENT1023,CLIENT1026,CLIENT1027,CLIENT1029,CLIENT1030,CLIENT1037,CLIENT1043,CLIENT1046,CLIENT1052,CLIENT1056,CLIENT1059,CLIENT1066,CLIENT1072,CLIENT1076,CLIENT1077,CLIENT108,CLIENT1083,CLIENT1087,CLIENT1088,CLIENT1094,CLIENT1095,CLIENT1096,CLIENT1098,CLIENT1106,CLIENT1110,CLIENT1111,CLIENT1112,CLIENT1115,CLIENT1117,CLIENT1118,CLIENT1119,CLIENT1123,CLIENT1124,CLIENT1125,CLIENT113,CLIENT1133,CLIENT114,CLIENT1142,CLIENT1144,CLIENT1145,CLIENT1147,CLIENT115,CLIENT1151,CLIENT1153,CLIENT1164,CLIENT118,CLIENT1189,CLIENT1190,CLIENT1196,CLIENT12,CLIENT1209,CLIENT1211,CLIENT1216,CLIENT1222,CLIENT123,CLIENT1230,CLIENT1232,CLIENT1234,CLIENT1235,CLIENT1239,CLIENT1241,CLIENT1244,CLIENT1246,CLIENT1247,CLIENT1248,CLIENT125,CLIENT1255,CLIENT1261,CLIENT1264,CLIENT1265,CLIENT1269,CLIENT1275,CLIENT128,CLIENT1282,CLIENT1283,CLIENT1289,CLIENT1294,CLIENT1299,CLIENT13,CLIENT1300,CLIENT1303,CLIENT1304,CLIENT1306,CLIENT1307,CLIENT1312,CLIENT1314,CLIENT1315,CLIENT1323,CLIENT133,CLIENT1335,CLIENT1336,CLIENT1337,CLIENT1346,CLIENT1349,CLIENT135,CLIENT1366,CLIENT1368,CLIENT1373,CLIENT1375,CLIENT1380,CLIENT1381,CLIENT1382,CLIENT1386,CLIENT1388,CLIENT1389,CLIENT139,CLIENT1393,CLIENT1399,CLIENT1404,CLIENT1405,CLIENT1407,CLIENT143,CLIENT1431,CLIENT1438,CLIENT1445,CLIENT145,CLIENT1451,CLIENT1455,CLIENT1456,CLIENT1467,CLIENT1468,CLIENT147,CLIENT1470,CLIENT1471,CLIENT1473,CLIENT1483,CLIENT1488,CLIENT1494,CLIENT1495,CLIENT1496,CLIENT1497,CLIENT1498,CLIENT1500,CLIENT1508,CLIENT1513,CLIENT1515,CLIENT1520,CLIENT1522,CLIENT1525,CLIENT1528,CLIENT1535,CLIENT1536,CLIENT1537,CLIENT1559,CLIENT156,CLIENT1560,CLIENT157,CLIENT1583,CLIENT1584,CLIENT1587,CLIENT1592,CLIENT1596,CLIENT16,CLIENT1600,CLIENT1604,CLIENT1608,CLIENT1613,CLIENT1615,CLIENT1619,CLIENT162,CLIENT1620,CLIENT1627,CLIENT1630,CLIENT1636,CLIENT1644,CLIENT1647,CLIENT1648,CLIENT165,CLIENT1650,CLIENT1659,CLIENT1663,CLIENT1667,CLIENT167,CLIENT1670,CLIENT1671,CLIENT1682,CLIENT1689,CLIENT169,CLIENT1711,CLIENT1718,CLIENT1722,CLIENT1723,CLIENT1728,CLIENT1730,CLIENT1731,CLIENT1733,CLIENT1739,CLIENT1745,CLIENT175,CLIENT1754,CLIENT1759,CLIENT1763,CLIENT1764,CLIENT177,CLIENT1773,CLIENT1782,CLIENT1788,CLIENT1789,CLIENT1792,CLIENT1793,CLIENT1795,CLIENT1808,CLIENT1812,CLIENT1827,CLIENT1831,CLIENT1833,CLIENT1838,CLIENT184,CLIENT1841,CLIENT1845,CLIENT1851,CLIENT1856,CLIENT1860,CLIENT1862,CLIENT1867,CLIENT1873,CLIENT1875,CLIENT1878,CLIENT1884,CLIENT1889,CLIENT1891,CLIENT1895,CLIENT1905,CLIENT1907,CLIENT1909,CLIENT1910,CLIENT1915,CLIENT1918,CLIENT1924,CLIENT193,CLIENT1930,CLIENT1932,CLIENT1938,CLIENT1939,CLIENT1944,CLIENT1945,CLIENT1948,CLIENT1949,CLIENT1950,CLIENT1955,CLIENT1959,CLIENT1961,CLIENT1962,CLIENT1965,CLIENT1967,CLIENT1970,CLIENT1971,CLIENT1973,CLIENT1975,CLIENT1977,CLIENT1981,CLIENT1987,CLIENT1992,CLIENT1999,CLIENT20,CLIENT200,CLIENT2007,CLIENT2008,CLIENT201,CLIENT2026,CLIENT2031,CLIENT2034,CLIENT2037,CLIENT2042,CLIENT2043,CLIENT206,CLIENT2070,CLIENT208,CLIENT2086,CLIENT2096,CLIENT2099,CLIENT210,CLIENT2106,CLIENT2107,CLIENT2110,CLIENT2111,CLIENT2113,CLIENT2115,CLIENT2118,CLIENT2123,CLIENT2126,CLIENT213,CLIENT2134,CLIENT2137,CLIENT2138,CLIENT2139,CLIENT2141,CLIENT2142,CLIENT2145,CLIENT2146,CLIENT2147,CLIENT2148,CLIENT215,CLIENT2155,CLIENT216,CLIENT2166,CLIENT2167,CLIENT2168,CLIENT2172,CLIENT2174,CLIENT2175,CLIENT218,CLIENT2180,CLIENT2181,CLIENT2182,CLIENT219,CLIENT2191,CLIENT2196,CLIENT2199,CLIENT2202,CLIENT2204,CLIENT2208,CLIENT2211,CLIENT2212,CLIENT2214,CLIENT2215,CLIENT2217,CLIENT2223,CLIENT2225,CLIENT2226,CLIENT2228,CLIENT2232,CLIENT2235,CLIENT224,CLIENT2240,CLIENT2243,CLIENT2244,CLIENT2246,CLIENT2250,CLIENT2251,CLIENT2254,CLIENT2255,CLIENT2257,CLIENT2260,CLIENT2265,CLIENT2270,CLIENT2272,CLIENT2275,CLIENT2279,CLIENT2280,CLIENT2284,CLIENT229,CLIENT2299,CLIENT2306,CLIENT2309,CLIENT2311,CLIENT2312,CLIENT2313,CLIENT2319,CLIENT2326,CLIENT2331,CLIENT2332,CLIENT2334,CLIENT2338,CLIENT2341,CLIENT2348,CLIENT2350,CLIENT2357,CLIENT2359,CLIENT236,CLIENT2369,CLIENT237,CLIENT2370,CLIENT2375,CLIENT2377,CLIENT2378,CLIENT2383,CLIENT2386,CLIENT2391,CLIENT2395,CLIENT24,CLIENT2407,CLIENT2412,CLIENT2421,CLIENT2423,CLIENT2424,CLIENT2433,CLIENT2434,CLIENT2435,CLIENT2436,CLIENT2441,CLIENT2443,CLIENT2445,CLIENT2446,CLIENT2451,CLIENT2461,CLIENT2464,CLIENT2465,CLIENT2474,CLIENT2476,CLIENT2478,CLIENT2479,CLIENT2486,CLIENT249,CLIENT2497,CLIENT2498,CLIENT2501,CLIENT2502,CLIENT2507,CLIENT251,CLIENT2512,CLIENT2517,CLIENT2518,CLIENT2520,CLIENT2522,CLIENT2524,CLIENT2529,CLIENT253,CLIENT2532,CLIENT2538,CLIENT2540,CLIENT2543,CLIENT2547,CLIENT2548,CLIENT2551,CLIENT2552,CLIENT2555,CLIENT256,CLIENT2562,CLIENT2569,CLIENT257,CLIENT2571,CLIENT2572,CLIENT2573,CLIENT2575,CLIENT2576,CLIENT2577,CLIENT2583,CLIENT2585,CLIENT259,CLIENT2593,CLIENT26,CLIENT2600,CLIENT2602,CLIENT2604,CLIENT2605,CLIENT2607,CLIENT2608,CLIENT2614,CLIENT2615,CLIENT2617,CLIENT262,CLIENT2621,CLIENT2627,CLIENT2633,CLIENT2635,CLIENT2636,CLIENT2637,CLIENT2638,CLIENT2646,CLIENT2648,CLIENT2653,CLIENT2655,CLIENT2669,CLIENT2681,CLIENT269,CLIENT2694,CLIENT2696,CLIENT2698,CLIENT2703,CLIENT271,CLIENT2711,CLIENT2712,CLIENT2714,CLIENT2716,CLIENT2718,CLIENT2721,CLIENT2725,CLIENT2731,CLIENT2734,CLIENT2735,CLIENT2741,CLIENT2742,CLIENT2744,CLIENT2748,CLIENT2753,CLIENT2754,CLIENT2756,CLIENT2757,CLIENT2761,CLIENT2764,CLIENT2765,CLIENT2769,CLIENT2772,CLIENT2778,CLIENT2779,CLIENT2781,CLIENT2784,CLIENT2785,CLIENT279,CLIENT2792,CLIENT2795,CLIENT2802,CLIENT2803,CLIENT2805,CLIENT2812,CLIENT2819,CLIENT282,CLIENT2824,CLIENT2826,CLIENT2833,CLIENT2838,CLIENT2839,CLIENT2843,CLIENT2844,CLIENT2854,CLIENT2857,CLIENT2859,CLIENT2860,CLIENT2861,CLIENT2862,CLIENT2866,CLIENT2869,CLIENT2870,CLIENT2872,CLIENT2883,CLIENT2888,CLIENT2890,CLIENT2893,CLIENT2897,CLIENT2902,CLIENT2905,CLIENT2906,CLIENT291,CLIENT2918,CLIENT2919,CLIENT2920,CLIENT2921,CLIENT2927,CLIENT2930,CLIENT2934,CLIENT2936,CLIENT294,CLIENT2940,CLIENT2942,CLIENT2946,CLIENT2947,CLIENT2949,CLIENT2950,CLIENT2952,CLIENT2953,CLIENT2958,CLIENT2959,CLIENT2960,CLIENT2961,CLIENT2963,CLIENT2967,CLIENT2968,CLIENT2969,CLIENT2971,CLIENT2973,CLIENT2974,CLIENT2978,CLIENT298,CLIENT2988,CLIENT299,CLIENT2997,CLIENT3003,CLIENT3005,CLIENT3006,CLIENT3008,CLIENT3013,CLIENT3018,CLIENT302,CLIENT3020,CLIENT3022,CLIENT3024,CLIENT3025,CLIENT3029,CLIENT3033,CLIENT304,CLIENT3044,CLIENT3046,CLIENT3048,CLIENT3051,CLIENT3057,CLIENT3058,CLIENT3062,CLIENT3063,CLIENT3067,CLIENT3071,CLIENT3081,CLIENT3086,CLIENT3090,CLIENT3093,CLIENT3100,CLIENT3101,CLIENT3104,CLIENT3119,CLIENT3128,CLIENT3139,CLIENT3143,CLIENT3155,CLIENT3163,CLIENT3166,CLIENT3167,CLIENT3168,CLIENT3179,CLIENT3182,CLIENT3183,CLIENT3185,CLIENT3186,CLIENT3187,CLIENT3189,CLIENT319,CLIENT3199,CLIENT3200,CLIENT3201,CLIENT3205,CLIENT3206,CLIENT3214,CLIENT3217,CLIENT3221,CLIENT3223,CLIENT3229,CLIENT3234,CLIENT3235,CLIENT3238,CLIENT3255,CLIENT3264,CLIENT3266,CLIENT3269,CLIENT3271,CLIENT328,CLIENT3282,CLIENT3284,CLIENT3289,CLIENT3292,CLIENT3297,CLIENT3299,CLIENT33,CLIENT3302,CLIENT3317,CLIENT3318,CLIENT3322,CLIENT3324,CLIENT3326,CLIENT3329,CLIENT3330,CLIENT3332,CLIENT3341,CLIENT3350,CLIENT3353,CLIENT336,CLIENT3361,CLIENT3362,CLIENT3372,CLIENT3376,CLIENT3377,CLIENT3380,CLIENT3384,CLIENT3387,CLIENT339,CLIENT3392,CLIENT3393,CLIENT3396,CLIENT3397,CLIENT3398,CLIENT3399,CLIENT3401,CLIENT3402,CLIENT3403,CLIENT3408,CLIENT3409,CLIENT3412,CLIENT3415,CLIENT3427,CLIENT3428,CLIENT3431,CLIENT3434,CLIENT3435,CLIENT3444,CLIENT3450,CLIENT3456,CLIENT347,CLIENT3471,CLIENT3472,CLIENT3477,CLIENT3488,CLIENT3491,CLIENT3494,CLIENT3495,CLIENT3496,CLIENT3497,CLIENT350,CLIENT3500,CLIENT3504,CLIENT3507,CLIENT3511,CLIENT3514,CLIENT3515,CLIENT3516,CLIENT3517,CLIENT3519,CLIENT3521,CLIENT3527,CLIENT3536,CLIENT3537,CLIENT3549,CLIENT3551,CLIENT3554,CLIENT3555,CLIENT356,CLIENT3563,CLIENT3567,CLIENT3580,CLIENT3583,CLIENT3590,CLIENT3597,CLIENT360,CLIENT3600,CLIENT3601,CLIENT3603,CLIENT3605,CLIENT3607,CLIENT3613,CLIENT3616,CLIENT362,CLIENT3621,CLIENT3632,CLIENT3635,CLIENT3637,CLIENT3647,CLIENT3653,CLIENT3655,CLIENT3656,CLIENT3661,CLIENT3664,CLIENT3675,CLIENT3677,CLIENT3679,CLIENT3682,CLIENT3686,CLIENT3688,CLIENT3689,CLIENT3691,CLIENT3693,CLIENT3694,CLIENT37,CLIENT370,CLIENT3701,CLIENT3703,CLIENT3706,CLIENT371,CLIENT3711,CLIENT3714,CLIENT3729,CLIENT3733,CLIENT3736,CLIENT3737,CLIENT3739,CLIENT374,CLIENT3743,CLIENT3746,CLIENT3747,CLIENT3748,CLIENT3752,CLIENT3753,CLIENT3755,CLIENT3759,CLIENT3760,CLIENT3762,CLIENT3768,CLIENT377,CLIENT3776,CLIENT3777,CLIENT3778,CLIENT3780,CLIENT3781,CLIENT3789,CLIENT3795,CLIENT3797,CLIENT38,CLIENT380,CLIENT3802,CLIENT3807,CLIENT3808,CLIENT3814,CLIENT3815,CLIENT3818,CLIENT3820,CLIENT3825,CLIENT3827,CLIENT3828,CLIENT3830,CLIENT3831,CLIENT3833,CLIENT3836,CLIENT3837,CLIENT3844,CLIENT3845,CLIENT3846,CLIENT385,CLIENT3850,CLIENT3853,CLIENT3857,CLIENT3866,CLIENT3867,CLIENT3869,CLIENT3874,CLIENT3876,CLIENT3877,CLIENT388,CLIENT3891,CLIENT3892,CLIENT3894,CLIENT3897,CLIENT3898,CLIENT3900,CLIENT3901,CLIENT3902,CLIENT3906,CLIENT3912,CLIENT3927,CLIENT393,CLIENT3931,CLIENT3932,CLIENT3939,CLIENT394,CLIENT3940,CLIENT3944,CLIENT3951,CLIENT3953,CLIENT3954,CLIENT3956,CLIENT3970,CLIENT3981,CLIENT3983,CLIENT3988,CLIENT3989,CLIENT3991,CLIENT3997,CLIENT4,CLIENT400,CLIENT4003,CLIENT4004,CLIENT4006,CLIENT4014,CLIENT402,CLIENT4025,CLIENT4026,CLIENT4027,CLIENT403,CLIENT4033,CLIENT4036,CLIENT4045,CLIENT4047,CLIENT405,CLIENT4050,CLIENT4051,CLIENT4055,CLIENT4057,CLIENT4059,CLIENT4060,CLIENT4064,CLIENT4069,CLIENT4071,CLIENT4072,CLIENT4075,CLIENT4076,CLIENT4077,CLIENT4079,CLIENT4081,CLIENT409,CLIENT4091,CLIENT41,CLIENT4100,CLIENT4102,CLIENT411,CLIENT4121,CLIENT413,CLIENT4137,CLIENT414,CLIENT4150,CLIENT4153,CLIENT4155,CLIENT4159,CLIENT4164,CLIENT4179,CLIENT4180,CLIENT4187,CLIENT4188,CLIENT4191,CLIENT4192,CLIENT4194,CLIENT4197,CLIENT42,CLIENT4202,CLIENT4209,CLIENT421,CLIENT4212,CLIENT4214,CLIENT4218,CLIENT4224,CLIENT4226,CLIENT4227,CLIENT4230,CLIENT4250,CLIENT4251,CLIENT4257,CLIENT4259,CLIENT4261,CLIENT4264,CLIENT4266,CLIENT4269,CLIENT4271,CLIENT4274,CLIENT4276,CLIENT4277,CLIENT428,CLIENT4285,CLIENT4295,CLIENT4303,CLIENT4305,CLIENT4306,CLIENT4314,CLIENT4315,CLIENT4319,CLIENT4320,CLIENT4322,CLIENT4325,CLIENT4326,CLIENT433,CLIENT4330,CLIENT4334,CLIENT4336,CLIENT4341,CLIENT4343,CLIENT4345,CLIENT4346,CLIENT4354,CLIENT4355,CLIENT4357,CLIENT436,CLIENT4369,CLIENT4370,CLIENT4372,CLIENT4375,CLIENT4376,CLIENT4377,CLIENT4380,CLIENT4383,CLIENT4384,CLIENT4385,CLIENT4390,CLIENT4394,CLIENT4399,CLIENT44,CLIENT4402,CLIENT4403,CLIENT4408,CLIENT4409,CLIENT4416,CLIENT4417,CLIENT4420,CLIENT4424,CLIENT4425,CLIENT4426,CLIENT443,CLIENT4433,CLIENT4434,CLIENT4443,CLIENT4444,CLIENT4445,CLIENT4446,CLIENT4448,CLIENT4453,CLIENT4454,CLIENT4458,CLIENT4460,CLIENT4474,CLIENT4476,CLIENT4478,CLIENT448,CLIENT4480,CLIENT4482,CLIENT4484,CLIENT4490,CLIENT4493,CLIENT4503,CLIENT4505,CLIENT4507,CLIENT4508,CLIENT4510,CLIENT4511,CLIENT4514,CLIENT4517,CLIENT4521,CLIENT4526,CLIENT4528,CLIENT453,CLIENT4536,CLIENT4537,CLIENT4538,CLIENT4542,CLIENT4547,CLIENT4549,CLIENT4550,CLIENT4552,CLIENT4558,CLIENT4560,CLIENT4564,CLIENT4567,CLIENT4571,CLIENT4577,CLIENT4578,CLIENT4587,CLIENT4589,CLIENT459,CLIENT4591,CLIENT461,CLIENT4610,CLIENT4615,CLIENT4616,CLIENT4617,CLIENT4619,CLIENT4621,CLIENT4622,CLIENT4623,CLIENT4625,CLIENT4631,CLIENT4633,CLIENT4636,CLIENT464,CLIENT4644,CLIENT4645,CLIENT4658,CLIENT4661,CLIENT4662,CLIENT4668,CLIENT4670,CLIENT4671,CLIENT4672,CLIENT4673,CLIENT4678,CLIENT4679,CLIENT4684,CLIENT4685,CLIENT4690,CLIENT4693,CLIENT4698,CLIENT4703,CLIENT4705,CLIENT4707,CLIENT4709,CLIENT471,CLIENT4711,CLIENT4714,CLIENT4715,CLIENT4717,CLIENT472,CLIENT4722,CLIENT4729,CLIENT4730,CLIENT4731,CLIENT4736,CLIENT4737,CLIENT4742,CLIENT4744,CLIENT4746,CLIENT4748,CLIENT4758,CLIENT4759,CLIENT4769,CLIENT4770,CLIENT4775,CLIENT4792,CLIENT4797,CLIENT4800,CLIENT4802,CLIENT4809,CLIENT4815,CLIENT4817,CLIENT4819,CLIENT4820,CLIENT4821,CLIENT4822,CLIENT4828,CLIENT4831,CLIENT4833,CLIENT4837,CLIENT4838,CLIENT4840,CLIENT4843,CLIENT4849,CLIENT4850,CLIENT4853,CLIENT4857,CLIENT4858,CLIENT486,CLIENT4860,CLIENT4865,CLIENT487,CLIENT4872,CLIENT4874,CLIENT4883,CLIENT4887,CLIENT4891,CLIENT4892,CLIENT4897,CLIENT4899,CLIENT4900,CLIENT4902,CLIENT4908,CLIENT491,CLIENT4910,CLIENT492,CLIENT4921,CLIENT4922,CLIENT4928,CLIENT4929,CLIENT4934,CLIENT4937,CLIENT4941,CLIENT4942,CLIENT4949,CLIENT4950,CLIENT4951,CLIENT4962,CLIENT4967,CLIENT4969,CLIENT497,CLIENT4972,CLIENT4973,CLIENT4976,CLIENT4978,CLIENT4980,CLIENT4981,CLIENT4984,CLIENT4986,CLIENT4988,CLIENT4990,CLIENT4991,CLIENT4997,CLIENT4999,CLIENT5,CLIENT5011,CLIENT5013,CLIENT5019,CLIENT5022,CLIENT5023,CLIENT5024,CLIENT5026,CLIENT5028,CLIENT5042,CLIENT5056,CLIENT5059,CLIENT5069,CLIENT507,CLIENT5072,CLIENT5073,CLIENT5079,CLIENT5084,CLIENT509,CLIENT5093,CLIENT5095,CLIENT5096,CLIENT510,CLIENT5102,CLIENT5107,CLIENT5109,CLIENT5110,CLIENT5120,CLIENT5125,CLIENT5132,CLIENT5135,CLIENT5137,CLIENT5151,CLIENT5158,CLIENT5166,CLIENT5167,CLIENT5168,CLIENT5176,CLIENT5179,CLIENT5181,CLIENT5188,CLIENT5192,CLIENT5196,CLIENT52,CLIENT520,CLIENT5200,CLIENT5202,CLIENT5205,CLIENT5211,CLIENT5212,CLIENT5214,CLIENT5216,CLIENT522,CLIENT5221,CLIENT5222,CLIENT5226,CLIENT5229,CLIENT5234,CLIENT5237,CLIENT5240,CLIENT5241,CLIENT5242,CLIENT5245,CLIENT5250,CLIENT5251,CLIENT526,CLIENT5260,CLIENT5270,CLIENT5271,CLIENT5276,CLIENT5282,CLIENT5283,CLIENT5286,CLIENT5289,CLIENT529,CLIENT5291,CLIENT5297,CLIENT530,CLIENT5305,CLIENT5307,CLIENT5309,CLIENT5311,CLIENT5312,CLIENT5318,CLIENT532,CLIENT5321,CLIENT5325,CLIENT5327,CLIENT5328,CLIENT5330,CLIENT5332,CLIENT5333,CLIENT5337,CLIENT534,CLIENT5340,CLIENT5342,CLIENT5346,CLIENT5347,CLIENT5349,CLIENT5352,CLIENT5353,CLIENT5357,CLIENT5362,CLIENT5363,CLIENT5366,CLIENT5368,CLIENT5369,CLIENT5372,CLIENT538,CLIENT5380,CLIENT5381,CLIENT5384,CLIENT5389,CLIENT5394,CLIENT5397,CLIENT5401,CLIENT541,CLIENT5416,CLIENT5417,CLIENT5418,CLIENT5420,CLIENT5421,CLIENT5423,CLIENT543,CLIENT5430,CLIENT5433,CLIENT5442,CLIENT5447,CLIENT5448,CLIENT545,CLIENT5452,CLIENT5453,CLIENT5454,CLIENT5459,CLIENT5468,CLIENT5470,CLIENT5476,CLIENT5480,CLIENT5484,CLIENT5490,CLIENT5492,CLIENT5495,CLIENT5502,CLIENT551,CLIENT5511,CLIENT5518,CLIENT552,CLIENT5521,CLIENT5523,CLIENT5537,CLIENT5542,CLIENT5544,CLIENT5549,CLIENT555,CLIENT5554,CLIENT5557,CLIENT5560,CLIENT5563,CLIENT5567,CLIENT5576,CLIENT5583,CLIENT5584,CLIENT5587,CLIENT5589,CLIENT559,CLIENT5597,CLIENT5598,CLIENT5603,CLIENT5605,CLIENT5607,CLIENT5608,CLIENT5611,CLIENT5612,CLIENT5614,CLIENT5625,CLIENT5627,CLIENT5629,CLIENT5633,CLIENT564,CLIENT5652,CLIENT5657,CLIENT5660,CLIENT5673,CLIENT5678,CLIENT5679,CLIENT5681,CLIENT5687,CLIENT5692,CLIENT5697,CLIENT5698,CLIENT57,CLIENT5702,CLIENT5703,CLIENT5705,CLIENT5706,CLIENT5707,CLIENT571,CLIENT5712,CLIENT5715,CLIENT5721,CLIENT5723,CLIENT573,CLIENT5733,CLIENT5736,CLIENT574,CLIENT5744,CLIENT575,CLIENT5750,CLIENT5755,CLIENT5757,CLIENT5758,CLIENT5760,CLIENT5769,CLIENT5770,CLIENT5771,CLIENT5773,CLIENT5778,CLIENT5779,CLIENT5781,CLIENT5784,CLIENT5785,CLIENT5792,CLIENT5794,CLIENT5799,CLIENT580,CLIENT5800,CLIENT5805,CLIENT5806,CLIENT5812,CLIENT5813,CLIENT5814,CLIENT5816,CLIENT5818,CLIENT582,CLIENT5820,CLIENT5823,CLIENT5825,CLIENT5828,CLIENT5833,CLIENT5834,CLIENT5835,CLIENT5839,CLIENT5849,CLIENT585,CLIENT5850,CLIENT5853,CLIENT5856,CLIENT5860,CLIENT5866,CLIENT5868,CLIENT5873,CLIENT5874,CLIENT5880,CLIENT5888,CLIENT5893,CLIENT5894,CLIENT5895,CLIENT5903,CLIENT5909,CLIENT5915,CLIENT5916,CLIENT5921,CLIENT5928,CLIENT5929,CLIENT593,CLIENT5932,CLIENT5933,CLIENT5934,CLIENT5935,CLIENT5936,CLIENT5944,CLIENT5956,CLIENT5957,CLIENT5958,CLIENT5969,CLIENT5973,CLIENT598,CLIENT5981,CLIENT5983,CLIENT5984,CLIENT5986,CLIENT599,CLIENT5990,CLIENT5995,CLIENT5997,CLIENT6005,CLIENT6006,CLIENT6007,CLIENT6010,CLIENT6011,CLIENT6014,CLIENT6016,CLIENT6019,CLIENT602,CLIENT6023,CLIENT6024,CLIENT6025,CLIENT6033,CLIENT6034,CLIENT6039,CLIENT6042,CLIENT6050,CLIENT6064,CLIENT607,CLIENT6079,CLIENT6085,CLIENT6087,CLIENT6090,CLIENT6092,CLIENT6094,CLIENT6096,CLIENT6104,CLIENT6110,CLIENT6114,CLIENT6120,CLIENT6126,CLIENT6129,CLIENT6131,CLIENT6136,CLIENT6137,CLIENT614,CLIENT6144,CLIENT6149,CLIENT615,CLIENT6150,CLIENT6152,CLIENT6157,CLIENT6161,CLIENT6162,CLIENT6164,CLIENT6165,CLIENT6167,CLIENT617,CLIENT6179,CLIENT618,CLIENT6182,CLIENT6186,CLIENT6187,CLIENT6188,CLIENT6189,CLIENT6197,CLIENT6199,CLIENT6202,CLIENT6203,CLIENT6208,CLIENT6210,CLIENT6213,CLIENT6214,CLIENT6216,CLIENT6219,CLIENT6225,CLIENT6227,CLIENT6229,CLIENT6230,CLIENT6233,CLIENT6236,CLIENT6237,CLIENT6238,CLIENT624,CLIENT6244,CLIENT6254,CLIENT6256,CLIENT626,CLIENT6263,CLIENT627,CLIENT6271,CLIENT6274,CLIENT6276,CLIENT6280,CLIENT6288,CLIENT6289,CLIENT6295,CLIENT63,CLIENT6300,CLIENT6301,CLIENT6302,CLIENT6303,CLIENT6304,CLIENT6306,CLIENT6314,CLIENT6318,CLIENT6323,CLIENT6328,CLIENT6329,CLIENT6331,CLIENT6336,CLIENT6338,CLIENT6341,CLIENT6345,CLIENT6346,CLIENT635,CLIENT6354,CLIENT6359,CLIENT6360,CLIENT6361,CLIENT6364,CLIENT637,CLIENT6370,CLIENT6375,CLIENT6384,CLIENT6385,CLIENT6387,CLIENT6391,CLIENT6392,CLIENT6395,CLIENT6398,CLIENT6399,CLIENT6400,CLIENT6403,CLIENT6406,CLIENT6407,CLIENT6412,CLIENT6415,CLIENT6422,CLIENT6440,CLIENT645,CLIENT6453,CLIENT6454,CLIENT6455,CLIENT6456,CLIENT6457,CLIENT6460,CLIENT6462,CLIENT6479,CLIENT648,CLIENT6484,CLIENT6486,CLIENT6487,CLIENT649,CLIENT6493,CLIENT6496,CLIENT6498,CLIENT65,CLIENT6525,CLIENT6529,CLIENT653,CLIENT6533,CLIENT6534,CLIENT6537,CLIENT6544,CLIENT6546,CLIENT6553,CLIENT6558,CLIENT6567,CLIENT6568,CLIENT6569,CLIENT6572,CLIENT6575,CLIENT6580,CLIENT6581,CLIENT6583,CLIENT6586,CLIENT6588,CLIENT6592,CLIENT6593,CLIENT6594,CLIENT6595,CLIENT6597,CLIENT660,CLIENT6603,CLIENT6604,CLIENT6607,CLIENT6612,CLIENT6613,CLIENT6618,CLIENT6622,CLIENT663,CLIENT6633,CLIENT6634,CLIENT6641,CLIENT6644,CLIENT6645,CLIENT6647,CLIENT6649,CLIENT6651,CLIENT6652,CLIENT6653,CLIENT6654,CLIENT6655,CLIENT6662,CLIENT6667,CLIENT6669,CLIENT6670,CLIENT6673,CLIENT6676,CLIENT668,CLIENT6685,CLIENT6689,CLIENT6691,CLIENT6692,CLIENT6694,CLIENT6697,CLIENT6698,CLIENT67,CLIENT6701,CLIENT6702,CLIENT6704,CLIENT671,CLIENT6710,CLIENT6711,CLIENT6716,CLIENT6719,CLIENT672,CLIENT6721,CLIENT6725,CLIENT6727,CLIENT6728,CLIENT6729,CLIENT6736,CLIENT6742,CLIENT6743,CLIENT6757,CLIENT6759,CLIENT6760,CLIENT6763,CLIENT6764,CLIENT6771,CLIENT6775,CLIENT6777,CLIENT6778,CLIENT6785,CLIENT679,CLIENT6796,CLIENT6797,CLIENT680,CLIENT6803,CLIENT6812,CLIENT6815,CLIENT6817,CLIENT6820,CLIENT6824,CLIENT6829,CLIENT6830,CLIENT6835,CLIENT6843,CLIENT6844,CLIENT685,CLIENT6863,CLIENT6871,CLIENT6874,CLIENT6876,CLIENT6879,CLIENT6881,CLIENT6885,CLIENT6886,CLIENT6889,CLIENT6891,CLIENT6894,CLIENT6895,CLIENT69,CLIENT6901,CLIENT6903,CLIENT6909,CLIENT691,CLIENT6919,CLIENT6929,CLIENT6936,CLIENT6939,CLIENT694,CLIENT6941,CLIENT6950,CLIENT6951,CLIENT6952,CLIENT6956,CLIENT6957,CLIENT6958,CLIENT696,CLIENT6962,CLIENT6964,CLIENT6968,CLIENT6971,CLIENT6977,CLIENT6978,CLIENT6979,CLIENT698,CLIENT6980,CLIENT6984,CLIENT6987,CLIENT6991,CLIENT6996,CLIENT6997,CLIENT6999,CLIENT7005,CLIENT7008,CLIENT7010,CLIENT7013,CLIENT7014,CLIENT7022,CLIENT7024,CLIENT7025,CLIENT7031,CLIENT7033,CLIENT7034,CLIENT7036,CLIENT7044,CLIENT7046,CLIENT7048,CLIENT7053,CLIENT7058,CLIENT7059,CLIENT706,CLIENT7063,CLIENT7065,CLIENT7074,CLIENT7076,CLIENT7080,CLIENT7084,CLIENT7089,CLIENT7091,CLIENT7093,CLIENT7099,CLIENT71,CLIENT710,CLIENT7101,CLIENT7108,CLIENT7109,CLIENT7111,CLIENT7114,CLIENT7131,CLIENT7132,CLIENT7136,CLIENT7143,CLIENT7144,CLIENT7148,CLIENT7150,CLIENT7159,CLIENT7169,CLIENT7174,CLIENT7179,CLIENT718,CLIENT7191,CLIENT7197,CLIENT72,CLIENT7209,CLIENT7212,CLIENT7230,CLIENT7239,CLIENT724,CLIENT7244,CLIENT7246,CLIENT7252,CLIENT7257,CLIENT7258,CLIENT7264,CLIENT7265,CLIENT7268,CLIENT7272,CLIENT7279,CLIENT7286,CLIENT7289,CLIENT7297,CLIENT7299,CLIENT7300,CLIENT7302,CLIENT7309,CLIENT7314,CLIENT7317,CLIENT7322,CLIENT7326,CLIENT7332,CLIENT7334,CLIENT7335,CLIENT7337,CLIENT7338,CLIENT7342,CLIENT7349,CLIENT7350,CLIENT7353,CLIENT7356,CLIENT7357,CLIENT7358,CLIENT7365,CLIENT7369,CLIENT739,CLIENT7391,CLIENT7395,CLIENT740,CLIENT7408,CLIENT7415,CLIENT7424,CLIENT7425,CLIENT7427,CLIENT7431,CLIENT7433,CLIENT7435,CLIENT7436,CLIENT7438,CLIENT744,CLIENT7440,CLIENT7444,CLIENT7455,CLIENT7456,CLIENT7469,CLIENT7477,CLIENT748,CLIENT7483,CLIENT7486,CLIENT7492,CLIENT750,CLIENT7507,CLIENT7508,CLIENT7509,CLIENT7510,CLIENT7511,CLIENT7518,CLIENT7519,CLIENT7522,CLIENT7524,CLIENT7525,CLIENT7529,CLIENT7541,CLIENT7542,CLIENT7543,CLIENT7548,CLIENT7554,CLIENT7557,CLIENT7559,CLIENT7563,CLIENT7576,CLIENT7577,CLIENT758,CLIENT7586,CLIENT759,CLIENT7590,CLIENT7591,CLIENT7597,CLIENT7598,CLIENT7603,CLIENT7605,CLIENT7617,CLIENT7621,CLIENT7622,CLIENT7629,CLIENT7638,CLIENT7639,CLIENT7641,CLIENT7649,CLIENT7651,CLIENT7652,CLIENT7659,CLIENT7660,CLIENT7662,CLIENT7668,CLIENT7669,CLIENT7672,CLIENT7674,CLIENT7679,CLIENT768,CLIENT7681,CLIENT7682,CLIENT7687,CLIENT769,CLIENT7692,CLIENT7696,CLIENT77,CLIENT7705,CLIENT7706,CLIENT7710,CLIENT7712,CLIENT7715,CLIENT7719,CLIENT7723,CLIENT7726,CLIENT7729,CLIENT7733,CLIENT7734,CLIENT7735,CLIENT7739,CLIENT7746,CLIENT775,CLIENT7760,CLIENT7766,CLIENT7767,CLIENT7768,CLIENT7773,CLIENT7783,CLIENT7787,CLIENT7794,CLIENT7797,CLIENT7798,CLIENT7799,CLIENT7804,CLIENT7805,CLIENT7812,CLIENT7813,CLIENT7819,CLIENT782,CLIENT7823,CLIENT7824,CLIENT7834,CLIENT7837,CLIENT7838,CLIENT7841,CLIENT7843,CLIENT7850,CLIENT7852,CLIENT7854,CLIENT7856,CLIENT7860,CLIENT7868,CLIENT787,CLIENT7870,CLIENT7882,CLIENT7888,CLIENT7889,CLIENT790,CLIENT7914,CLIENT7920,CLIENT7924,CLIENT7925,CLIENT7926,CLIENT7928,CLIENT7929,CLIENT7939,CLIENT7945,CLIENT7946,CLIENT7947,CLIENT795,CLIENT796,CLIENT7966,CLIENT7977,CLIENT798,CLIENT7984,CLIENT7986,CLIENT7988,CLIENT7991,CLIENT805,CLIENT811,CLIENT815,CLIENT822,CLIENT823,CLIENT824,CLIENT827,CLIENT833,CLIENT834,CLIENT842,CLIENT845,CLIENT848,CLIENT85,CLIENT852,CLIENT859,CLIENT863,CLIENT87,CLIENT870,CLIENT873,CLIENT879,CLIENT883,CLIENT884,CLIENT89,CLIENT890,CLIENT891,CLIENT897,CLIENT900,CLIENT901,CLIENT905,CLIENT907,CLIENT908,CLIENT912,CLIENT914,CLIENT915,CLIENT918,CLIENT919,CLIENT92,CLIENT928,CLIENT933,CLIENT937,CLIENT939,CLIENT941,CLIENT943,CLIENT946,CLIENT950,CLIENT954,CLIENT955,CLIENT958,CLIENT961,CLIENT962,CLIENT965,CLIENT969,CLIENT970,CLIENT973,CLIENT977,CLIENT985,CLIENT990,CLIENT992,CLIENT996,A02,A03,A08,A23,A25,A27,CLIENT1005,CLIENT1007,CLIENT1009,CLIENT1014,CLIENT1015,CLIENT1017,CLIENT1020,CLIENT1021,CLIENT1024,CLIENT1033,CLIENT1040,CLIENT1047,CLIENT1048,CLIENT1054,CLIENT1057,CLIENT1061,CLIENT1063,CLIENT1064,CLIENT1071,CLIENT1078,CLIENT1084,CLIENT1097,CLIENT1104,CLIENT1108,CLIENT1114,CLIENT1121,CLIENT1127,CLIENT1132,CLIENT1135,CLIENT1136,CLIENT1137,CLIENT1141,CLIENT1149,CLIENT1152,CLIENT1156,CLIENT1159,CLIENT1160,CLIENT1165,CLIENT1167,CLIENT1169,CLIENT1174,CLIENT1177,CLIENT1178,CLIENT1179,CLIENT1183,CLIENT1184,CLIENT1188,CLIENT1195,CLIENT1197,CLIENT120,CLIENT1205,CLIENT121,CLIENT1210,CLIENT1217,CLIENT1219,CLIENT1224,CLIENT1226,CLIENT1228,CLIENT1229,CLIENT1231,CLIENT1236,CLIENT124,CLIENT1240,CLIENT1245,CLIENT1249,CLIENT1250,CLIENT1253,CLIENT1254,CLIENT1258,CLIENT126,CLIENT1260,CLIENT1266,CLIENT1267,CLIENT1274,CLIENT1279,CLIENT1281,CLIENT1284,CLIENT129,CLIENT1295,CLIENT1296,CLIENT1297,CLIENT1302,CLIENT1308,CLIENT1309,CLIENT1311,CLIENT1313,CLIENT1316,CLIENT1326,CLIENT1329,CLIENT1332,CLIENT1334,CLIENT1338,CLIENT134,CLIENT1345,CLIENT1350,CLIENT1356,CLIENT1362,CLIENT1363,CLIENT1369,CLIENT1370,CLIENT1371,CLIENT1374,CLIENT1376,CLIENT1378,CLIENT1384,CLIENT1385,CLIENT1394,CLIENT1395,CLIENT1406,CLIENT141,CLIENT1412,CLIENT1413,CLIENT1418,CLIENT142,CLIENT1423,CLIENT1429,CLIENT1433,CLIENT1434,CLIENT1439,CLIENT144,CLIENT1440,CLIENT1441,CLIENT1442,CLIENT1458,CLIENT1460,CLIENT1462,CLIENT1466,CLIENT1469,CLIENT1477,CLIENT1480,CLIENT1489,CLIENT1491,CLIENT1499,CLIENT1506,CLIENT151,CLIENT1514,CLIENT1516,CLIENT1527,CLIENT153,CLIENT1532,CLIENT1538,CLIENT1539,CLIENT154,CLIENT1541,CLIENT1543,CLIENT1545,CLIENT1549,CLIENT155,CLIENT1552,CLIENT1553,CLIENT1554,CLIENT1558,CLIENT1561,CLIENT1564,CLIENT1565,CLIENT1567,CLIENT1570,CLIENT1571,CLIENT1572,CLIENT1576,CLIENT1578,CLIENT1579,CLIENT158,CLIENT1581,CLIENT1585,CLIENT1589,CLIENT1591,CLIENT1594,CLIENT1597,CLIENT1598,CLIENT160,CLIENT1601,CLIENT1602,CLIENT1603,CLIENT161,CLIENT1610,CLIENT1624,CLIENT1625,CLIENT1629,CLIENT1631,CLIENT1635,CLIENT1638,CLIENT164,CLIENT1642,CLIENT1643,CLIENT1658,CLIENT166,CLIENT1660,CLIENT1665,CLIENT1666,CLIENT1669,CLIENT1673,CLIENT1674,CLIENT1675,CLIENT1683,CLIENT1684,CLIENT1687,CLIENT1688,CLIENT1695,CLIENT170,CLIENT1702,CLIENT1705,CLIENT1706,CLIENT1708,CLIENT1710,CLIENT1712,CLIENT1714,CLIENT1721,CLIENT1727,CLIENT1729,CLIENT173,CLIENT1732,CLIENT1734,CLIENT1735,CLIENT174,CLIENT1740,CLIENT1741,CLIENT1742,CLIENT1746,CLIENT1748,CLIENT1751,CLIENT1753,CLIENT1757,CLIENT176,CLIENT1761,CLIENT1765,CLIENT1767,CLIENT1769,CLIENT1774,CLIENT1776,CLIENT1783,CLIENT1787,CLIENT179,CLIENT1791,CLIENT1794,CLIENT1797,CLIENT180,CLIENT1800,CLIENT1801,CLIENT1802,CLIENT1803,CLIENT1805,CLIENT181,CLIENT1810,CLIENT1815,CLIENT1819,CLIENT182,CLIENT1822,CLIENT1825,CLIENT1835,CLIENT1842,CLIENT1849,CLIENT1864,CLIENT1869,CLIENT1881,CLIENT1886,CLIENT1887,CLIENT189,CLIENT1892,CLIENT1896,CLIENT190,CLIENT1902,CLIENT1906,CLIENT1908,CLIENT1916,CLIENT1920,CLIENT1928,CLIENT1931,CLIENT1935,CLIENT1936,CLIENT1937,CLIENT1942,CLIENT1946,CLIENT1953,CLIENT1956,CLIENT1964,CLIENT1974,CLIENT1979,CLIENT1985,CLIENT199,CLIENT1990,CLIENT1993,CLIENT2,CLIENT2000,CLIENT2001,CLIENT2002,CLIENT2004,CLIENT2005,CLIENT2011,CLIENT2012,CLIENT2013,CLIENT2019,CLIENT2028,CLIENT2030,CLIENT2038,CLIENT2045,CLIENT2049,CLIENT2050,CLIENT2051,CLIENT2052,CLIENT2058,CLIENT2060,CLIENT2061,CLIENT2064,CLIENT2069,CLIENT207,CLIENT2072,CLIENT2073,CLIENT2075,CLIENT2080,CLIENT2083,CLIENT2085,CLIENT2087,CLIENT2088,CLIENT2091,CLIENT2108,CLIENT2109,CLIENT211,CLIENT2119,CLIENT2131,CLIENT2132,CLIENT2136,CLIENT2143,CLIENT2150,CLIENT2151,CLIENT2154,CLIENT2158,CLIENT2161,CLIENT2162,CLIENT2169,CLIENT2173,CLIENT2183,CLIENT2185,CLIENT2189,CLIENT2190,CLIENT2193,CLIENT2194,CLIENT2195,CLIENT2200,CLIENT2201,CLIENT2210,CLIENT222,CLIENT2220,CLIENT2221,CLIENT2224,CLIENT2230,CLIENT2236,CLIENT2237,CLIENT2238,CLIENT2241,CLIENT2245,CLIENT2247,CLIENT2248,CLIENT2252,CLIENT2253,CLIENT2259,CLIENT226,CLIENT2263,CLIENT2266,CLIENT2268,CLIENT2269,CLIENT2278,CLIENT2286,CLIENT2291,CLIENT2293,CLIENT2295,CLIENT23,CLIENT2300,CLIENT2302,CLIENT2303,CLIENT2314,CLIENT2316,CLIENT2317,CLIENT2328,CLIENT2335,CLIENT2339,CLIENT2342,CLIENT2346,CLIENT2349,CLIENT2352,CLIENT2354,CLIENT2356,CLIENT2363,CLIENT2366,CLIENT2368,CLIENT2372,CLIENT2373,CLIENT238,CLIENT2387,CLIENT2388,CLIENT2389,CLIENT239,CLIENT2390,CLIENT2392,CLIENT2393,CLIENT2397,CLIENT2399,CLIENT2403,CLIENT2406,CLIENT2408,CLIENT241,CLIENT2410,CLIENT2411,CLIENT2413,CLIENT2419,CLIENT2425,CLIENT2427,CLIENT2439,CLIENT244,CLIENT2440,CLIENT2442,CLIENT2444,CLIENT2447,CLIENT2449,CLIENT245,CLIENT2456,CLIENT246,CLIENT2467,CLIENT2468,CLIENT2471,CLIENT2472,CLIENT2480,CLIENT2487,CLIENT2488,CLIENT2491,CLIENT2493,CLIENT2495,CLIENT2499,CLIENT25,CLIENT2503,CLIENT2509,CLIENT2514,CLIENT2515,CLIENT2527,CLIENT2528,CLIENT2531,CLIENT2539,CLIENT2541,CLIENT2544,CLIENT255,CLIENT2554,CLIENT2556,CLIENT2558,CLIENT2559,CLIENT2567,CLIENT2568,CLIENT2580,CLIENT2582,CLIENT2584,CLIENT2586,CLIENT2591,CLIENT2595,CLIENT2597,CLIENT2601,CLIENT2603,CLIENT2606,CLIENT2610,CLIENT2611,CLIENT2612,CLIENT263,CLIENT2639,CLIENT2641,CLIENT2643,CLIENT2645,CLIENT2654,CLIENT2661,CLIENT2664,CLIENT2668,CLIENT267,CLIENT2670,CLIENT2672,CLIENT2674,CLIENT2675,CLIENT2676,CLIENT2682,CLIENT2683,CLIENT2685,CLIENT2686,CLIENT2697,CLIENT2699,CLIENT27,CLIENT270,CLIENT2705,CLIENT2707,CLIENT2709,CLIENT2713,CLIENT2719,CLIENT272,CLIENT2726,CLIENT2737,CLIENT2747,CLIENT276,CLIENT2760,CLIENT2766,CLIENT2770,CLIENT2776,CLIENT2783,CLIENT2790,CLIENT2793,CLIENT2796,CLIENT2799,CLIENT280,CLIENT2801,CLIENT2807,CLIENT2814,CLIENT2815,CLIENT2820,CLIENT2823,CLIENT2828,CLIENT2830,CLIENT2834,CLIENT2835,CLIENT2836,CLIENT2842,CLIENT2847,CLIENT2848,CLIENT2852,CLIENT2855,CLIENT2858,CLIENT286,CLIENT2863,CLIENT2865,CLIENT2867,CLIENT2884,CLIENT2886,CLIENT2887,CLIENT2889,CLIENT289,CLIENT2894,CLIENT2903,CLIENT2908,CLIENT2909,CLIENT2914,CLIENT2917,CLIENT2924,CLIENT2926,CLIENT2929,CLIENT293,CLIENT2932,CLIENT2939,CLIENT2945,CLIENT295,CLIENT2956,CLIENT2962,CLIENT2964,CLIENT2976,CLIENT2979,CLIENT2981,CLIENT2984,CLIENT2990,CLIENT2995,CLIENT2999,CLIENT3,CLIENT3001,CLIENT3002,CLIENT3007,CLIENT301,CLIENT3021,CLIENT3030,CLIENT3031,CLIENT3032,CLIENT3036,CLIENT3039,CLIENT3041,CLIENT3052,CLIENT3064,CLIENT3069,CLIENT3072,CLIENT3074,CLIENT3077,CLIENT3080,CLIENT3089,CLIENT3091,CLIENT310,CLIENT311,CLIENT3116,CLIENT3117,CLIENT3121,CLIENT3123,CLIENT3130,CLIENT3131,CLIENT3135,CLIENT3147,CLIENT3149,CLIENT3150,CLIENT3151,CLIENT3152,CLIENT3157,CLIENT3160,CLIENT3169,CLIENT3170,CLIENT3174,CLIENT3175,CLIENT3181,CLIENT3193,CLIENT320,CLIENT3204,CLIENT321,CLIENT3211,CLIENT3215,CLIENT3226,CLIENT3228,CLIENT3240,CLIENT3243,CLIENT325,CLIENT3250,CLIENT3267,CLIENT327,CLIENT3272,CLIENT3275,CLIENT3277,CLIENT3280,CLIENT329,CLIENT3290,CLIENT3294,CLIENT3296,CLIENT330,CLIENT3305,CLIENT3308,CLIENT3309,CLIENT3312,CLIENT3314,CLIENT3315,CLIENT3321,CLIENT3325,CLIENT3338,CLIENT3340,CLIENT3343,CLIENT3349,CLIENT335,CLIENT3351,CLIENT3352,CLIENT3364,CLIENT3373,CLIENT3374,CLIENT3379,CLIENT3386,CLIENT3388,CLIENT3390,CLIENT34,CLIENT340,CLIENT3400,CLIENT3407,CLIENT342,CLIENT3420,CLIENT3422,CLIENT3424,CLIENT3425,CLIENT3432,CLIENT3439,CLIENT344,CLIENT3441,CLIENT3442,CLIENT3447,CLIENT3451,CLIENT3460,CLIENT3463,CLIENT3464,CLIENT3474,CLIENT3475,CLIENT3489,CLIENT349,CLIENT3490,CLIENT3493,CLIENT3498,CLIENT3499,CLIENT3501,CLIENT3505,CLIENT3508,CLIENT351,CLIENT3510,CLIENT3512,CLIENT3513,CLIENT352,CLIENT353,CLIENT3540,CLIENT3544,CLIENT3545,CLIENT3548,CLIENT355,CLIENT3550,CLIENT3557,CLIENT3558,CLIENT3562,CLIENT3564,CLIENT3570,CLIENT3571,CLIENT3577,CLIENT358,CLIENT3586,CLIENT3593,CLIENT3594,CLIENT3602,CLIENT3609,CLIENT3615,CLIENT3622,CLIENT3629,CLIENT3633,CLIENT3638,CLIENT364,CLIENT3640,CLIENT3644,CLIENT3646,CLIENT3649,CLIENT3651,CLIENT3654,CLIENT3659,CLIENT3662,CLIENT3668,CLIENT367,CLIENT3671,CLIENT3672,CLIENT3673,CLIENT368,CLIENT3680,CLIENT3687,CLIENT3690,CLIENT3696,CLIENT3697,CLIENT3700,CLIENT3709,CLIENT3712,CLIENT3715,CLIENT3716,CLIENT3718,CLIENT3731,CLIENT3738,CLIENT3745,CLIENT3756,CLIENT376,CLIENT3765,CLIENT3767,CLIENT3770,CLIENT3771,CLIENT3773,CLIENT3774,CLIENT378,CLIENT3785,CLIENT379,CLIENT3794,CLIENT3799,CLIENT3805,CLIENT3810,CLIENT3813,CLIENT3816,CLIENT3823,CLIENT3829,CLIENT3835,CLIENT3838,CLIENT3852,CLIENT3854,CLIENT3856,CLIENT3858,CLIENT3862,CLIENT3870,CLIENT3871,CLIENT3878,CLIENT3880,CLIENT3890,CLIENT3895,CLIENT390,CLIENT3904,CLIENT3908,CLIENT3911,CLIENT3916,CLIENT3919,CLIENT3922,CLIENT3923,CLIENT3925,CLIENT3926,CLIENT3930,CLIENT3935,CLIENT3941,CLIENT3943,CLIENT3945,CLIENT3946,CLIENT3948,CLIENT3950,CLIENT3958,CLIENT3959,CLIENT3961,CLIENT3962,CLIENT3966,CLIENT3967,CLIENT3968,CLIENT3969,CLIENT3972,CLIENT3976,CLIENT3977,CLIENT398,CLIENT3980,CLIENT3985,CLIENT3987,CLIENT3996,CLIENT40,CLIENT4000,CLIENT4001,CLIENT4002,CLIENT4007,CLIENT4017,CLIENT4019,CLIENT4020,CLIENT4021,CLIENT4023,CLIENT4028,CLIENT4031,CLIENT4035,CLIENT4038,CLIENT4039,CLIENT4049,CLIENT4052,CLIENT4054,CLIENT4058,CLIENT4061,CLIENT4062,CLIENT4063,CLIENT4065,CLIENT4066,CLIENT4068,CLIENT408,CLIENT4083,CLIENT4086,CLIENT4087,CLIENT4093,CLIENT4094,CLIENT4096,CLIENT410,CLIENT4101,CLIENT4105,CLIENT4106,CLIENT4110,CLIENT4112,CLIENT4115,CLIENT4117,CLIENT4120,CLIENT4133,CLIENT4134,CLIENT4135,CLIENT4136,CLIENT4143,CLIENT4147,CLIENT4149,CLIENT4151,CLIENT4152,CLIENT4157,CLIENT4158,CLIENT416,CLIENT4162,CLIENT4166,CLIENT4167,CLIENT417,CLIENT4170,CLIENT4174,CLIENT418,CLIENT4181,CLIENT4182,CLIENT4189,CLIENT4195,CLIENT4203,CLIENT4204,CLIENT4205,CLIENT4210,CLIENT4211,CLIENT4216,CLIENT422,CLIENT4220,CLIENT4221,CLIENT4222,CLIENT4223,CLIENT4225,CLIENT4229,CLIENT4232,CLIENT4234,CLIENT4235,CLIENT4237,CLIENT4241,CLIENT4242,CLIENT4243,CLIENT4244,CLIENT4246,CLIENT4252,CLIENT4258,CLIENT4260,CLIENT4267,CLIENT4268,CLIENT4272,CLIENT4275,CLIENT4278,CLIENT4280,CLIENT4282,CLIENT4284,CLIENT4288,CLIENT4292,CLIENT4294,CLIENT430,CLIENT4301,CLIENT4304,CLIENT4328,CLIENT4329,CLIENT4335,CLIENT4337,CLIENT4339,CLIENT4340,CLIENT4344,CLIENT4350,CLIENT4351,CLIENT4352,CLIENT4356,CLIENT4359,CLIENT4360,CLIENT4361,CLIENT4365,CLIENT4366,CLIENT4367,CLIENT4382,CLIENT4387,CLIENT4389,CLIENT4391,CLIENT4393,CLIENT4395,CLIENT4397,CLIENT4406,CLIENT441,CLIENT4410,CLIENT4411,CLIENT4412,CLIENT4413,CLIENT4414,CLIENT4421,CLIENT4435,CLIENT444,CLIENT4442,CLIENT4457,CLIENT446,CLIENT4462,CLIENT4469,CLIENT4470,CLIENT4475,CLIENT4479,CLIENT4481,CLIENT4483,CLIENT4485,CLIENT4488,CLIENT4489,CLIENT450,CLIENT4500,CLIENT4504,CLIENT4506,CLIENT4519,CLIENT4520,CLIENT4523,CLIENT4524,CLIENT4532,CLIENT4534,CLIENT4535,CLIENT4539,CLIENT454,CLIENT4540,CLIENT4545,CLIENT4546,CLIENT4548,CLIENT455,CLIENT4555,CLIENT4556,CLIENT4557,CLIENT4562,CLIENT457,CLIENT4572,CLIENT4574,CLIENT4576,CLIENT4579,CLIENT4581,CLIENT4583,CLIENT4585,CLIENT4588,CLIENT4590,CLIENT4592,CLIENT4594,CLIENT4599,CLIENT4601,CLIENT4602,CLIENT4604,CLIENT4605,CLIENT4608,CLIENT4611,CLIENT4612,CLIENT4630,CLIENT4635,CLIENT4637,CLIENT4638,CLIENT4648,CLIENT4659,CLIENT466,CLIENT4665,CLIENT4669,CLIENT4676,CLIENT4683,CLIENT4686,CLIENT4687,CLIENT4692,CLIENT4697,CLIENT4700,CLIENT4701,CLIENT4708,CLIENT4713,CLIENT4716,CLIENT4720,CLIENT4724,CLIENT4727,CLIENT4733,CLIENT4735,CLIENT4739,CLIENT4740,CLIENT4745,CLIENT4747,CLIENT4753,CLIENT476,CLIENT4762,CLIENT4763,CLIENT4764,CLIENT4766,CLIENT477,CLIENT4772,CLIENT4777,CLIENT4779,CLIENT4782,CLIENT4785,CLIENT479,CLIENT4796,CLIENT48,CLIENT4803,CLIENT4805,CLIENT4807,CLIENT481,CLIENT4811,CLIENT4812,CLIENT4823,CLIENT4824,CLIENT4829,CLIENT483,CLIENT4834,CLIENT4835,CLIENT4846,CLIENT4848,CLIENT4852,CLIENT4855,CLIENT4862,CLIENT4864,CLIENT4867,CLIENT4876,CLIENT4877,CLIENT4881,CLIENT4884,CLIENT4889,CLIENT489,CLIENT4895,CLIENT4896,CLIENT490,CLIENT4901,CLIENT4909,CLIENT4913,CLIENT4914,CLIENT4916,CLIENT4917,CLIENT4920,CLIENT4924,CLIENT4931,CLIENT494,CLIENT4940,CLIENT4943,CLIENT4948,CLIENT4953,CLIENT4955,CLIENT4959,CLIENT4963,CLIENT498,CLIENT4983,CLIENT4994,CLIENT4996,CLIENT500,CLIENT5000,CLIENT5006,CLIENT5014,CLIENT5016,CLIENT5018,CLIENT5021,CLIENT5029,CLIENT5030,CLIENT5031,CLIENT5032,CLIENT5033,CLIENT5045,CLIENT5046,CLIENT5054,CLIENT5055,CLIENT5063,CLIENT5064,CLIENT5065,CLIENT5070,CLIENT5075,CLIENT5076,CLIENT5077,CLIENT508,CLIENT5082,CLIENT5088,CLIENT5089,CLIENT5091,CLIENT5092,CLIENT5099,CLIENT5108,CLIENT511,CLIENT5112,CLIENT5115,CLIENT5117,CLIENT5121,CLIENT5127,CLIENT5128,CLIENT5133,CLIENT5138,CLIENT5139,CLIENT5140,CLIENT5143,CLIENT5144,CLIENT5146,CLIENT515,CLIENT5155,CLIENT5156,CLIENT516,CLIENT5160,CLIENT5172,CLIENT5173,CLIENT5175,CLIENT518,CLIENT5184,CLIENT5186,CLIENT5187,CLIENT519,CLIENT5194,CLIENT5204,CLIENT5207,CLIENT5208,CLIENT5213,CLIENT5215,CLIENT5217,CLIENT5219,CLIENT5224,CLIENT5225,CLIENT5228,CLIENT5230,CLIENT5231,CLIENT5236,CLIENT5244,CLIENT5249,CLIENT5252,CLIENT5255,CLIENT5259,CLIENT5261,CLIENT5262,CLIENT5263,CLIENT5264,CLIENT5266,CLIENT527,CLIENT5274,CLIENT5284,CLIENT5287,CLIENT5290,CLIENT5301,CLIENT5303,CLIENT5310,CLIENT5316,CLIENT5322,CLIENT533,CLIENT5331,CLIENT5336,CLIENT5341,CLIENT5345,CLIENT5348,CLIENT535,CLIENT5356,CLIENT5364,CLIENT5365,CLIENT5367,CLIENT537,CLIENT5375,CLIENT5376,CLIENT5383,CLIENT5387,CLIENT539,CLIENT5391,CLIENT5392,CLIENT540,CLIENT5400,CLIENT5402,CLIENT5403,CLIENT5405,CLIENT5407,CLIENT5408,CLIENT5409,CLIENT5426,CLIENT5431,CLIENT5435,CLIENT5440,CLIENT5441,CLIENT5445,CLIENT5455,CLIENT5456,CLIENT5457,CLIENT5460,CLIENT5461,CLIENT5464,CLIENT5466,CLIENT5469,CLIENT5472,CLIENT5486,CLIENT5488,CLIENT5489,CLIENT549,CLIENT5497,CLIENT5498,CLIENT5499,CLIENT5500,CLIENT5506,CLIENT5509,CLIENT5514,CLIENT5517,CLIENT5520,CLIENT5522,CLIENT553,CLIENT5530,CLIENT5534,CLIENT5543,CLIENT5545,CLIENT5546,CLIENT5556,CLIENT5559,CLIENT5562,CLIENT5564,CLIENT5568,CLIENT557,CLIENT5577,CLIENT5578,CLIENT5579,CLIENT558,CLIENT5581,CLIENT5582,CLIENT5601,CLIENT5602,CLIENT5606,CLIENT5613,CLIENT5618,CLIENT5620,CLIENT5626,CLIENT563,CLIENT5630,CLIENT5631,CLIENT5632,CLIENT5636,CLIENT5638,CLIENT5639,CLIENT5642,CLIENT5643,CLIENT5649,CLIENT5650,CLIENT5651,CLIENT5654,CLIENT5655,CLIENT5661,CLIENT5663,CLIENT5667,CLIENT5671,CLIENT5672,CLIENT5674,CLIENT5677,CLIENT5680,CLIENT5685,CLIENT569,CLIENT5691,CLIENT5694,CLIENT5696,CLIENT5699,CLIENT5719,CLIENT5720,CLIENT5724,CLIENT5726,CLIENT5734,CLIENT5738,CLIENT5740,CLIENT5743,CLIENT5745,CLIENT5748,CLIENT5754,CLIENT5759,CLIENT5762,CLIENT5764,CLIENT5765,CLIENT5766,CLIENT5767,CLIENT577,CLIENT5774,CLIENT5777,CLIENT578,CLIENT5780,CLIENT5786,CLIENT5791,CLIENT5793,CLIENT5797,CLIENT5798,CLIENT58,CLIENT5801,CLIENT5802,CLIENT5803,CLIENT5811,CLIENT5815,CLIENT5819,CLIENT5826,CLIENT5832,CLIENT5838,CLIENT5840,CLIENT5842,CLIENT5845,CLIENT5846,CLIENT5847,CLIENT5848,CLIENT5852,CLIENT5854,CLIENT5857,CLIENT5863,CLIENT5864,CLIENT5867,CLIENT5869,CLIENT5877,CLIENT5878,CLIENT5881,CLIENT5883,CLIENT5886,CLIENT5887,CLIENT589,CLIENT5890,CLIENT5896,CLIENT5897,CLIENT5898,CLIENT5901,CLIENT5902,CLIENT5905,CLIENT5906,CLIENT5908,CLIENT5912,CLIENT592,CLIENT5922,CLIENT5924,CLIENT5925,CLIENT5926,CLIENT5930,CLIENT5942,CLIENT5943,CLIENT5947,CLIENT5948,CLIENT5949,CLIENT5950,CLIENT5954,CLIENT5960,CLIENT5963,CLIENT5965,CLIENT5967,CLIENT5970,CLIENT5974,CLIENT5977,CLIENT5991,CLIENT5993,CLIENT5996,CLIENT60,CLIENT6001,CLIENT6004,CLIENT601,CLIENT6013,CLIENT603,CLIENT6036,CLIENT6037,CLIENT6041,CLIENT6043,CLIENT6045,CLIENT6049,CLIENT6059,CLIENT6060,CLIENT6063,CLIENT6065,CLIENT6068,CLIENT6070,CLIENT6072,CLIENT6074,CLIENT6075,CLIENT6078,CLIENT608,CLIENT6081,CLIENT6082,CLIENT6086,CLIENT6098,CLIENT610,CLIENT6101,CLIENT6103,CLIENT6105,CLIENT6111,CLIENT6115,CLIENT6119,CLIENT612,CLIENT6132,CLIENT6134,CLIENT6135,CLIENT6143,CLIENT6146,CLIENT6151,CLIENT6153,CLIENT6155,CLIENT6160,CLIENT6166,CLIENT6170,CLIENT6172,CLIENT6176,CLIENT6184,CLIENT6185,CLIENT619,CLIENT6191,CLIENT6193,CLIENT6194,CLIENT6198,CLIENT620,CLIENT6201,CLIENT6206,CLIENT6212,CLIENT6220,CLIENT6221,CLIENT6222,CLIENT6224,CLIENT6226,CLIENT623,CLIENT6240,CLIENT6242,CLIENT6245,CLIENT6246,CLIENT6251,CLIENT6253,CLIENT6261,CLIENT6262,CLIENT6266,CLIENT6267,CLIENT6273,CLIENT6279,CLIENT628,CLIENT6284,CLIENT6286,CLIENT6287,CLIENT6294,CLIENT6296,CLIENT6297,CLIENT6298,CLIENT632,CLIENT6321,CLIENT6322,CLIENT6324,CLIENT6325,CLIENT6327,CLIENT6335,CLIENT6350,CLIENT6357,CLIENT6366,CLIENT6368,CLIENT6371,CLIENT6374,CLIENT6379,CLIENT638,CLIENT6380,CLIENT6381,CLIENT6393,CLIENT6397,CLIENT6405,CLIENT6409,CLIENT6411,CLIENT6419,CLIENT6420,CLIENT6421,CLIENT6425,CLIENT6426,CLIENT6428,CLIENT6429,CLIENT643,CLIENT6434,CLIENT6438,CLIENT644,CLIENT6446,CLIENT6463,CLIENT6465,CLIENT6469,CLIENT6473,CLIENT6478,CLIENT6480,CLIENT6482,CLIENT6492,CLIENT650,CLIENT6500,CLIENT6502,CLIENT6504,CLIENT6506,CLIENT6514,CLIENT6516,CLIENT6519,CLIENT6520,CLIENT6523,CLIENT6531,CLIENT6539,CLIENT6543,CLIENT655,CLIENT6550,CLIENT6552,CLIENT6554,CLIENT6556,CLIENT6557,CLIENT6560,CLIENT6562,CLIENT6564,CLIENT6566,CLIENT6573,CLIENT6576,CLIENT6579,CLIENT6582,CLIENT659,CLIENT6596,CLIENT6598,CLIENT66,CLIENT6600,CLIENT6601,CLIENT6608,CLIENT6615,CLIENT6625,CLIENT6627,CLIENT6628,CLIENT6631,CLIENT6637,CLIENT6638,CLIENT6639,CLIENT664,CLIENT6640,CLIENT6656,CLIENT6660,CLIENT6668,CLIENT6674,CLIENT6684,CLIENT6686,CLIENT6688,CLIENT669,CLIENT6696,CLIENT6705,CLIENT6707,CLIENT6709,CLIENT6714,CLIENT6720,CLIENT6723,CLIENT673,CLIENT6731,CLIENT6733,CLIENT6734,CLIENT6737,CLIENT6739,CLIENT6741,CLIENT6744,CLIENT6747,CLIENT6753,CLIENT6756,CLIENT676,CLIENT6762,CLIENT6772,CLIENT6776,CLIENT678,CLIENT6781,CLIENT6784,CLIENT6787,CLIENT6791,CLIENT6794,CLIENT6798,CLIENT6800,CLIENT6804,CLIENT6807,CLIENT681,CLIENT6819,CLIENT682,CLIENT6822,CLIENT6823,CLIENT6826,CLIENT6828,CLIENT6831,CLIENT6838,CLIENT684,CLIENT6840,CLIENT6845,CLIENT6846,CLIENT6847,CLIENT6851,CLIENT6853,CLIENT6858,CLIENT6861,CLIENT6862,CLIENT6868,CLIENT687,CLIENT6873,CLIENT6880,CLIENT6882,CLIENT6888,CLIENT6898,CLIENT690,CLIENT6902,CLIENT6904,CLIENT6907,CLIENT6912,CLIENT6913,CLIENT6916,CLIENT6921,CLIENT6922,CLIENT6923,CLIENT6924,CLIENT6927,CLIENT693,CLIENT6930,CLIENT6932,CLIENT6934,CLIENT6935,CLIENT6937,CLIENT6944,CLIENT6945,CLIENT6947,CLIENT6948,CLIENT6949,CLIENT6954,CLIENT6960,CLIENT6961,CLIENT6965,CLIENT6966,CLIENT6972,CLIENT6981,CLIENT6982,CLIENT6983,CLIENT7000,CLIENT7001,CLIENT7007,CLIENT7011,CLIENT7012,CLIENT7015,CLIENT7016,CLIENT7021,CLIENT7023,CLIENT7028,CLIENT7029,CLIENT7039,CLIENT7042,CLIENT7050,CLIENT7055,CLIENT7057,CLIENT7061,CLIENT7062,CLIENT7067,CLIENT7068,CLIENT7070,CLIENT7072,CLIENT709,CLIENT7090,CLIENT7096,CLIENT7097,CLIENT7106,CLIENT7107,CLIENT711,CLIENT7110,CLIENT7113,CLIENT7115,CLIENT7118,CLIENT7121,CLIENT7123,CLIENT7124,CLIENT7126,CLIENT7130,CLIENT7134,CLIENT7135,CLIENT7138,CLIENT714,CLIENT7141,CLIENT7146,CLIENT7152,CLIENT7157,CLIENT7158,CLIENT7165,CLIENT7166,CLIENT7168,CLIENT717,CLIENT7170,CLIENT7171,CLIENT7183,CLIENT7188,CLIENT7192,CLIENT7194,CLIENT7198,CLIENT720,CLIENT7203,CLIENT7206,CLIENT721,CLIENT7211,CLIENT7216,CLIENT7218,CLIENT7219,CLIENT722,CLIENT7226,CLIENT7227,CLIENT7229,CLIENT723,CLIENT7241,CLIENT7242,CLIENT7243,CLIENT7251,CLIENT7253,CLIENT7254,CLIENT7259,CLIENT7261,CLIENT7262,CLIENT7263,CLIENT7269,CLIENT7270,CLIENT7277,CLIENT728,CLIENT7283,CLIENT729,CLIENT7293,CLIENT7294,CLIENT7296,CLIENT73,CLIENT7305,CLIENT7306,CLIENT7311,CLIENT7312,CLIENT7313,CLIENT7315,CLIENT7320,CLIENT7321,CLIENT7323,CLIENT7328,CLIENT7329,CLIENT7330,CLIENT7341,CLIENT7351,CLIENT7352,CLIENT7360,CLIENT7366,CLIENT7368,CLIENT7372,CLIENT7373,CLIENT7374,CLIENT7375,CLIENT7377,CLIENT738,CLIENT7380,CLIENT7381,CLIENT7383,CLIENT7384,CLIENT7385,CLIENT7387,CLIENT7388,CLIENT7389,CLIENT7390,CLIENT7392,CLIENT7393,CLIENT7398,CLIENT7400,CLIENT7401,CLIENT7405,CLIENT7406,CLIENT7407,CLIENT741,CLIENT7416,CLIENT7418,CLIENT7421,CLIENT7423,CLIENT7429,CLIENT7432,CLIENT7439,CLIENT7441,CLIENT7442,CLIENT745,CLIENT7451,CLIENT7452,CLIENT7454,CLIENT746,CLIENT7461,CLIENT7464,CLIENT7468,CLIENT747,CLIENT7470,CLIENT7473,CLIENT7476,CLIENT7478,CLIENT7481,CLIENT749,CLIENT7490,CLIENT7498,CLIENT75,CLIENT7500,CLIENT7501,CLIENT7505,CLIENT7512,CLIENT7534,CLIENT7535,CLIENT7537,CLIENT7546,CLIENT7549,CLIENT755,CLIENT7550,CLIENT7551,CLIENT7564,CLIENT7566,CLIENT7569,CLIENT7572,CLIENT7574,CLIENT7578,CLIENT7581,CLIENT7594,CLIENT7599,CLIENT760,CLIENT7600,CLIENT7602,CLIENT7606,CLIENT7607,CLIENT7608,CLIENT761,CLIENT7614,CLIENT7616,CLIENT7618,CLIENT7626,CLIENT7628,CLIENT7630,CLIENT7631,CLIENT7632,CLIENT7633,CLIENT7635,CLIENT7636,CLIENT7644,CLIENT7647,CLIENT765,CLIENT7663,CLIENT7664,CLIENT767,CLIENT7670,CLIENT7673,CLIENT7686,CLIENT7689,CLIENT7693,CLIENT7694,CLIENT7695,CLIENT7697,CLIENT770,CLIENT7700,CLIENT7709,CLIENT771,CLIENT7711,CLIENT772,CLIENT7728,CLIENT773,CLIENT7732,CLIENT7744,CLIENT7747,CLIENT7749,CLIENT7751,CLIENT7758,CLIENT7759,CLIENT7761,CLIENT7772,CLIENT7776,CLIENT7777,CLIENT7779,CLIENT7782,CLIENT7786,CLIENT7789,CLIENT7791,CLIENT7795,CLIENT7796,CLIENT78,CLIENT7801,CLIENT7802,CLIENT7803,CLIENT7806,CLIENT7808,CLIENT781,CLIENT7811,CLIENT7816,CLIENT7818,CLIENT7820,CLIENT7821,CLIENT7822,CLIENT7825,CLIENT7826,CLIENT7828,CLIENT783,CLIENT7831,CLIENT7832,CLIENT784,CLIENT785,CLIENT7853,CLIENT7855,CLIENT786,CLIENT7862,CLIENT7864,CLIENT7866,CLIENT7867,CLIENT7875,CLIENT7878,CLIENT788,CLIENT7885,CLIENT7887,CLIENT789,CLIENT7891,CLIENT7893,CLIENT7897,CLIENT7899,CLIENT7900,CLIENT791,CLIENT7912,CLIENT7915,CLIENT7919,CLIENT7921,CLIENT7922,CLIENT7923,CLIENT7933,CLIENT7936,CLIENT7938,CLIENT7941,CLIENT7948,CLIENT7950,CLIENT7954,CLIENT7955,CLIENT7956,CLIENT7961,CLIENT7964,CLIENT7965,CLIENT7967,CLIENT797,CLIENT7970,CLIENT7971,CLIENT7972,CLIENT7979,CLIENT7980,CLIENT7981,CLIENT7982,CLIENT7987,CLIENT7990,CLIENT7992,CLIENT7994,CLIENT7995,CLIENT8,CLIENT801,CLIENT802,CLIENT803,CLIENT804,CLIENT808,CLIENT812,CLIENT813,CLIENT82,CLIENT820,CLIENT825,CLIENT830,CLIENT835,CLIENT836,CLIENT838,CLIENT84,CLIENT846,CLIENT856,CLIENT860,CLIENT862,CLIENT865,CLIENT866,CLIENT867,CLIENT868,CLIENT880,CLIENT882,CLIENT887,CLIENT893,CLIENT894,CLIENT895,CLIENT898,CLIENT902,CLIENT906,CLIENT921,CLIENT925,CLIENT927,CLIENT930,CLIENT934,CLIENT935,CLIENT936,CLIENT938,CLIENT942,CLIENT944,CLIENT945,CLIENT947,CLIENT948,CLIENT949,CLIENT951,CLIENT952,CLIENT953,CLIENT967,CLIENT968,CLIENT97,CLIENT976,CLIENT979,CLIENT982,CLIENT987,CLIENT988,CLIENT99,CLIENT998,A01,A10,A14,A28,A29,A30,CLIENT1,CLIENT10,CLIENT100,CLIENT1003,CLIENT1004,CLIENT1012,CLIENT1028,CLIENT103,CLIENT1031,CLIENT1034,CLIENT1038,CLIENT1039,CLIENT104,CLIENT1042,CLIENT1045,CLIENT105,CLIENT1058,CLIENT1060,CLIENT1065,CLIENT1067,CLIENT1068,CLIENT1070,CLIENT1073,CLIENT1085,CLIENT1091,CLIENT1092,CLIENT1099,CLIENT1100,CLIENT1116,CLIENT1122,CLIENT1128,CLIENT1134,CLIENT1139,CLIENT1143,CLIENT1148,CLIENT1150,CLIENT1155,CLIENT116,CLIENT1162,CLIENT1168,CLIENT1171,CLIENT1172,CLIENT1173,CLIENT1176,CLIENT1180,CLIENT1187,CLIENT119,CLIENT1191,CLIENT1192,CLIENT1194,CLIENT1198,CLIENT1200,CLIENT1201,CLIENT1203,CLIENT1215,CLIENT1221,CLIENT1223,CLIENT1225,CLIENT1233,CLIENT1237,CLIENT1243,CLIENT1257,CLIENT1259,CLIENT1270,CLIENT1278,CLIENT1280,CLIENT1285,CLIENT1288,CLIENT1290,CLIENT1292,CLIENT1293,CLIENT1298,CLIENT130,CLIENT1310,CLIENT1318,CLIENT1320,CLIENT1327,CLIENT1333,CLIENT1340,CLIENT1342,CLIENT1343,CLIENT1347,CLIENT1348,CLIENT1354,CLIENT1355,CLIENT1357,CLIENT1358,CLIENT1359,CLIENT1360,CLIENT1361,CLIENT1367,CLIENT1377,CLIENT1379,CLIENT138,CLIENT1392,CLIENT1396,CLIENT1397,CLIENT14,CLIENT140,CLIENT1400,CLIENT1401,CLIENT1402,CLIENT1403,CLIENT1408,CLIENT1410,CLIENT1415,CLIENT1416,CLIENT1419,CLIENT1421,CLIENT1424,CLIENT1430,CLIENT1436,CLIENT1443,CLIENT1446,CLIENT1447,CLIENT1448,CLIENT1452,CLIENT1453,CLIENT1454,CLIENT1457,CLIENT1459,CLIENT1461,CLIENT1463,CLIENT1464,CLIENT1465,CLIENT1474,CLIENT1476,CLIENT1479,CLIENT148,CLIENT1481,CLIENT1482,CLIENT1487,CLIENT149,CLIENT1492,CLIENT150,CLIENT1501,CLIENT1502,CLIENT1503,CLIENT1507,CLIENT1517,CLIENT152,CLIENT1524,CLIENT1534,CLIENT1540,CLIENT1542,CLIENT1546,CLIENT1548,CLIENT1555,CLIENT1556,CLIENT1562,CLIENT1563,CLIENT1566,CLIENT1568,CLIENT1569,CLIENT1574,CLIENT1580,CLIENT1586,CLIENT1588,CLIENT1590,CLIENT1593,CLIENT1595,CLIENT1599,CLIENT1605,CLIENT1606,CLIENT1609,CLIENT1614,CLIENT1616,CLIENT1617,CLIENT1621,CLIENT1623,CLIENT1626,CLIENT1628,CLIENT1634,CLIENT1639,CLIENT1646,CLIENT1649,CLIENT1653,CLIENT1655,CLIENT1662,CLIENT1672,CLIENT1676,CLIENT1679,CLIENT1681,CLIENT1685,CLIENT1686,CLIENT1691,CLIENT1692,CLIENT1693,CLIENT1694,CLIENT1696,CLIENT1697,CLIENT1698,CLIENT1700,CLIENT1704,CLIENT1707,CLIENT1717,CLIENT1719,CLIENT172,CLIENT1724,CLIENT1726,CLIENT1736,CLIENT1737,CLIENT1743,CLIENT1750,CLIENT1752,CLIENT1755,CLIENT1758,CLIENT1770,CLIENT1771,CLIENT1777,CLIENT1778,CLIENT1780,CLIENT1790,CLIENT1796,CLIENT1799,CLIENT1804,CLIENT1806,CLIENT1809,CLIENT1811,CLIENT1814,CLIENT1816,CLIENT1818,CLIENT1826,CLIENT1829,CLIENT183,CLIENT1830,CLIENT1834,CLIENT1836,CLIENT1839,CLIENT1840,CLIENT1846,CLIENT1847,CLIENT1848,CLIENT185,CLIENT1858,CLIENT1859,CLIENT186,CLIENT1861,CLIENT1865,CLIENT1868,CLIENT1882,CLIENT1885,CLIENT1888,CLIENT1890,CLIENT1893,CLIENT1899,CLIENT1900,CLIENT1903,CLIENT1911,CLIENT1917,CLIENT1922,CLIENT1923,CLIENT1926,CLIENT1927,CLIENT1934,CLIENT1940,CLIENT1941,CLIENT195,CLIENT1954,CLIENT1958,CLIENT196,CLIENT1960,CLIENT1963,CLIENT1968,CLIENT1969,CLIENT197,CLIENT1972,CLIENT1976,CLIENT1978,CLIENT1982,CLIENT1983,CLIENT1986,CLIENT1988,CLIENT1991,CLIENT1998,CLIENT2003,CLIENT2006,CLIENT2009,CLIENT2010,CLIENT2014,CLIENT2015,CLIENT2016,CLIENT2017,CLIENT202,CLIENT2024,CLIENT2025,CLIENT2027,CLIENT203,CLIENT2035,CLIENT204,CLIENT2041,CLIENT2044,CLIENT2046,CLIENT2053,CLIENT2054,CLIENT2063,CLIENT2065,CLIENT2068,CLIENT2074,CLIENT2078,CLIENT2079,CLIENT2081,CLIENT2084,CLIENT2089,CLIENT209,CLIENT2094,CLIENT2100,CLIENT2102,CLIENT2104,CLIENT2112,CLIENT2116,CLIENT212,CLIENT2122,CLIENT2124,CLIENT2130,CLIENT2133,CLIENT2135,CLIENT214,CLIENT2140,CLIENT2156,CLIENT2157,CLIENT217,CLIENT2177,CLIENT2178,CLIENT2184,CLIENT2188,CLIENT2197,CLIENT2198,CLIENT2206,CLIENT2209,CLIENT2216,CLIENT2218,CLIENT2219,CLIENT223,CLIENT2231,CLIENT2249,CLIENT225,CLIENT2256,CLIENT2264,CLIENT2267,CLIENT227,CLIENT2271,CLIENT228,CLIENT2285,CLIENT2290,CLIENT2292,CLIENT2296,CLIENT2307,CLIENT2310,CLIENT2315,CLIENT2318,CLIENT232,CLIENT2321,CLIENT2323,CLIENT2329,CLIENT233,CLIENT2333,CLIENT2337,CLIENT234,CLIENT2340,CLIENT2344,CLIENT2345,CLIENT235,CLIENT2351,CLIENT2358,CLIENT2361,CLIENT2362,CLIENT2364,CLIENT2365,CLIENT2376,CLIENT2379,CLIENT2380,CLIENT2381,CLIENT2384,CLIENT2385,CLIENT2396,CLIENT2398,CLIENT2400,CLIENT2402,CLIENT2404,CLIENT2405,CLIENT2409,CLIENT2414,CLIENT2415,CLIENT2420,CLIENT243,CLIENT2430,CLIENT2431,CLIENT2432,CLIENT2438,CLIENT2450,CLIENT2452,CLIENT2453,CLIENT2455,CLIENT2458,CLIENT2459,CLIENT2462,CLIENT2463,CLIENT2475,CLIENT248,CLIENT2483,CLIENT2484,CLIENT2492,CLIENT2494,CLIENT250,CLIENT2500,CLIENT2505,CLIENT2508,CLIENT2511,CLIENT2513,CLIENT2516,CLIENT2519,CLIENT252,CLIENT2523,CLIENT2525,CLIENT2534,CLIENT2535,CLIENT2545,CLIENT2546,CLIENT2549,CLIENT2553,CLIENT2564,CLIENT2566,CLIENT2578,CLIENT2579,CLIENT258,CLIENT2588,CLIENT2590,CLIENT2592,CLIENT2594,CLIENT2596,CLIENT2598,CLIENT260,CLIENT2609,CLIENT261,CLIENT2616,CLIENT2620,CLIENT2623,CLIENT2625,CLIENT2628,CLIENT2629,CLIENT2630,CLIENT2632,CLIENT2649,CLIENT265,CLIENT2651,CLIENT2656,CLIENT2659,CLIENT2660,CLIENT2662,CLIENT2663,CLIENT2665,CLIENT2667,CLIENT2673,CLIENT2679,CLIENT2691,CLIENT2692,CLIENT2702,CLIENT2704,CLIENT2706,CLIENT2715,CLIENT2717,CLIENT2720,CLIENT2724,CLIENT2727,CLIENT2728,CLIENT2729,CLIENT2730,CLIENT2736,CLIENT2739,CLIENT274,CLIENT2743,CLIENT2746,CLIENT2749,CLIENT275,CLIENT2751,CLIENT2752,CLIENT2758,CLIENT2763,CLIENT2767,CLIENT2768,CLIENT2773,CLIENT2774,CLIENT2775,CLIENT2777,CLIENT278,CLIENT2780,CLIENT2789,CLIENT2794,CLIENT28,CLIENT2804,CLIENT2816,CLIENT2818,CLIENT2821,CLIENT2825,CLIENT2831,CLIENT284,CLIENT2840,CLIENT2845,CLIENT2849,CLIENT2850,CLIENT2856,CLIENT2864,CLIENT2868,CLIENT2873,CLIENT2876,CLIENT2878,CLIENT2879,CLIENT2891,CLIENT2895,CLIENT29,CLIENT2900,CLIENT2901,CLIENT2904,CLIENT2912,CLIENT2915,CLIENT2916,CLIENT292,CLIENT2922,CLIENT2923,CLIENT2925,CLIENT2928,CLIENT2931,CLIENT2935,CLIENT2937,CLIENT2938,CLIENT2944,CLIENT2951,CLIENT296,CLIENT2965,CLIENT2970,CLIENT2975,CLIENT2980,CLIENT2982,CLIENT2985,CLIENT2986,CLIENT2987,CLIENT2989,CLIENT2991,CLIENT2992,CLIENT2993,CLIENT2994,CLIENT2996,CLIENT2998,CLIENT30,CLIENT300,CLIENT3004,CLIENT3009,CLIENT3010,CLIENT3014,CLIENT3023,CLIENT3026,CLIENT3027,CLIENT3028,CLIENT3035,CLIENT3038,CLIENT3045,CLIENT3054,CLIENT3055,CLIENT3056,CLIENT3059,CLIENT3060,CLIENT3061,CLIENT3065,CLIENT3068,CLIENT3078,CLIENT3079,CLIENT308,CLIENT3082,CLIENT3084,CLIENT3085,CLIENT3087,CLIENT3088,CLIENT309,CLIENT3095,CLIENT3096,CLIENT3102,CLIENT3111,CLIENT3112,CLIENT3113,CLIENT3114,CLIENT3120,CLIENT3122,CLIENT3124,CLIENT3125,CLIENT3126,CLIENT3127,CLIENT3141,CLIENT3148,CLIENT3154,CLIENT3158,CLIENT316,CLIENT3161,CLIENT317,CLIENT3171,CLIENT3172,CLIENT3176,CLIENT3188,CLIENT3191,CLIENT3192,CLIENT3195,CLIENT3198,CLIENT32,CLIENT3202,CLIENT3203,CLIENT3207,CLIENT3208,CLIENT3209,CLIENT3210,CLIENT3216,CLIENT3218,CLIENT322,CLIENT3222,CLIENT3227,CLIENT323,CLIENT3230,CLIENT3232,CLIENT324,CLIENT3244,CLIENT3245,CLIENT3248,CLIENT3252,CLIENT3254,CLIENT3257,CLIENT3259,CLIENT3262,CLIENT3270,CLIENT3274,CLIENT3276,CLIENT3278,CLIENT3279,CLIENT3283,CLIENT3286,CLIENT3288,CLIENT3291,CLIENT3293,CLIENT3298,CLIENT3301,CLIENT3303,CLIENT3304,CLIENT3306,CLIENT331,CLIENT3311,CLIENT3313,CLIENT3319,CLIENT3320,CLIENT3331,CLIENT3337,CLIENT3342,CLIENT3344,CLIENT3346,CLIENT3348,CLIENT3354,CLIENT3355,CLIENT3357,CLIENT3359,CLIENT3360,CLIENT3363,CLIENT3365,CLIENT3366,CLIENT3367,CLIENT3369,CLIENT337,CLIENT3370,CLIENT3371,CLIENT3378,CLIENT3381,CLIENT3382,CLIENT3383,CLIENT3389,CLIENT3391,CLIENT3394,CLIENT3395,CLIENT3406,CLIENT341,CLIENT3414,CLIENT3416,CLIENT3423,CLIENT3426,CLIENT343,CLIENT3433,CLIENT3436,CLIENT3437,CLIENT3440,CLIENT3443,CLIENT3446,CLIENT3448,CLIENT3449,CLIENT345,CLIENT3452,CLIENT3453,CLIENT346,CLIENT3461,CLIENT3462,CLIENT3467,CLIENT3470,CLIENT3478,CLIENT3481,CLIENT3483,CLIENT3485,CLIENT3486,CLIENT35,CLIENT3506,CLIENT3509,CLIENT3518,CLIENT3520,CLIENT3526,CLIENT3529,CLIENT3530,CLIENT3533,CLIENT3538,CLIENT3543,CLIENT3552,CLIENT3553,CLIENT3559,CLIENT3566,CLIENT3568,CLIENT3569,CLIENT3576,CLIENT3579,CLIENT3584,CLIENT3587,CLIENT3596,CLIENT3598,CLIENT3599,CLIENT36,CLIENT3606,CLIENT3611,CLIENT3614,CLIENT3617,CLIENT3618,CLIENT3619,CLIENT3620,CLIENT3624,CLIENT3625,CLIENT3626,CLIENT3627,CLIENT363,CLIENT3630,CLIENT3631,CLIENT3636,CLIENT3639,CLIENT3641,CLIENT3643,CLIENT3652,CLIENT3658,CLIENT366,CLIENT3665,CLIENT3666,CLIENT3667,CLIENT3674,CLIENT3676,CLIENT3684,CLIENT3685,CLIENT3692,CLIENT3695,CLIENT3704,CLIENT3705,CLIENT3707,CLIENT3710,CLIENT3720,CLIENT3721,CLIENT3723,CLIENT3724,CLIENT3727,CLIENT3728,CLIENT3732,CLIENT3735,CLIENT3740,CLIENT3744,CLIENT3750,CLIENT3754,CLIENT3757,CLIENT3758,CLIENT3764,CLIENT3772,CLIENT3779,CLIENT3782,CLIENT3786,CLIENT3787,CLIENT3788,CLIENT3790,CLIENT3791,CLIENT3792,CLIENT3793,CLIENT3798,CLIENT3803,CLIENT3804,CLIENT3806,CLIENT3811,CLIENT3817,CLIENT3819,CLIENT382,CLIENT3821,CLIENT3824,CLIENT3832,CLIENT3839,CLIENT384,CLIENT3841,CLIENT3842,CLIENT3847,CLIENT3848,CLIENT3849,CLIENT3851,CLIENT3855,CLIENT386,CLIENT3865,CLIENT3872,CLIENT3873,CLIENT3879,CLIENT3881,CLIENT3882,CLIENT3884,CLIENT3887,CLIENT3889,CLIENT389,CLIENT3896,CLIENT39,CLIENT391,CLIENT3914,CLIENT3915,CLIENT3917,CLIENT3918,CLIENT392,CLIENT3921,CLIENT3934,CLIENT3938,CLIENT3942,CLIENT3947,CLIENT395,CLIENT3960,CLIENT3963,CLIENT3964,CLIENT3971,CLIENT3973,CLIENT3974,CLIENT3975,CLIENT3978,CLIENT3979,CLIENT3986,CLIENT399,CLIENT3990,CLIENT3993,CLIENT3994,CLIENT3999,CLIENT4009,CLIENT401,CLIENT4010,CLIENT4012,CLIENT4015,CLIENT4022,CLIENT4030,CLIENT4034,CLIENT404,CLIENT4040,CLIENT4041,CLIENT4042,CLIENT4043,CLIENT4048,CLIENT4053,CLIENT406,CLIENT4067,CLIENT407,CLIENT4080,CLIENT4082,CLIENT4085,CLIENT4090,CLIENT4095,CLIENT4097,CLIENT4098,CLIENT4099,CLIENT4104,CLIENT4109,CLIENT4113,CLIENT4118,CLIENT412,CLIENT4124,CLIENT4126,CLIENT4129,CLIENT4131,CLIENT4140,CLIENT4142,CLIENT4144,CLIENT415,CLIENT4154,CLIENT4161,CLIENT4163,CLIENT4168,CLIENT4177,CLIENT4178,CLIENT4183,CLIENT4185,CLIENT4186,CLIENT419,CLIENT4198,CLIENT420,CLIENT4207,CLIENT4213,CLIENT4236,CLIENT4238,CLIENT4239,CLIENT424,CLIENT4245,CLIENT4249,CLIENT4254,CLIENT4265,CLIENT4270,CLIENT4273,CLIENT4279,CLIENT4281,CLIENT4283,CLIENT4287,CLIENT4293,CLIENT4296,CLIENT4298,CLIENT4300,CLIENT4302,CLIENT4309,CLIENT431,CLIENT4317,CLIENT4324,CLIENT4331,CLIENT4338,CLIENT434,CLIENT4347,CLIENT4349,CLIENT435,CLIENT4364,CLIENT437,CLIENT4371,CLIENT4373,CLIENT4379,CLIENT438,CLIENT4381,CLIENT4386,CLIENT439,CLIENT4396,CLIENT4398,CLIENT4404,CLIENT4422,CLIENT4428,CLIENT4429,CLIENT4432,CLIENT4437,CLIENT4438,CLIENT4439,CLIENT4449,CLIENT445,CLIENT4450,CLIENT4451,CLIENT4452,CLIENT4456,CLIENT4461,CLIENT4464,CLIENT4465,CLIENT4467,CLIENT4468,CLIENT447,CLIENT4471,CLIENT4472,CLIENT4473,CLIENT4486,CLIENT4491,CLIENT4494,CLIENT4495,CLIENT4497,CLIENT4498,CLIENT4499,CLIENT45,CLIENT4502,CLIENT451,CLIENT4512,CLIENT4522,CLIENT4531,CLIENT4533,CLIENT4541,CLIENT4543,CLIENT4544,CLIENT4553,CLIENT4554,CLIENT456,CLIENT4561,CLIENT4563,CLIENT4565,CLIENT4580,CLIENT4593,CLIENT4596,CLIENT4597,CLIENT4598,CLIENT460,CLIENT4600,CLIENT4603,CLIENT4607,CLIENT4614,CLIENT4628,CLIENT4640,CLIENT4641,CLIENT4643,CLIENT4647,CLIENT4649,CLIENT4651,CLIENT4654,CLIENT4655,CLIENT4656,CLIENT4657,CLIENT4660,CLIENT4664,CLIENT4667,CLIENT4674,CLIENT4675,CLIENT4680,CLIENT4681,CLIENT4689,CLIENT4691,CLIENT4694,CLIENT4696,CLIENT47,CLIENT470,CLIENT4702,CLIENT4704,CLIENT4710,CLIENT4725,CLIENT4741,CLIENT4749,CLIENT475,CLIENT4750,CLIENT4755,CLIENT4756,CLIENT4760,CLIENT4765,CLIENT4767,CLIENT4768,CLIENT4771,CLIENT4781,CLIENT4783,CLIENT4784,CLIENT4786,CLIENT4787,CLIENT4789,CLIENT4791,CLIENT4804,CLIENT4806,CLIENT4814,CLIENT4826,CLIENT4839,CLIENT484,CLIENT4841,CLIENT4845,CLIENT4847,CLIENT4851,CLIENT4868,CLIENT4869,CLIENT4870,CLIENT4873,CLIENT4878,CLIENT4880,CLIENT4885,CLIENT4888,CLIENT4890,CLIENT4893,CLIENT4894,CLIENT4905,CLIENT4906,CLIENT4912,CLIENT4923,CLIENT4925,CLIENT4932,CLIENT4935,CLIENT4936,CLIENT4938,CLIENT4944,CLIENT4946,CLIENT4952,CLIENT4956,CLIENT4958,CLIENT496,CLIENT4966,CLIENT4968,CLIENT4970,CLIENT4971,CLIENT4975,CLIENT4987,CLIENT499,CLIENT4992,CLIENT4993,CLIENT4995,CLIENT50,CLIENT5002,CLIENT5003,CLIENT5004,CLIENT5007,CLIENT5008,CLIENT5009,CLIENT501,CLIENT5010,CLIENT5027,CLIENT503,CLIENT5034,CLIENT5035,CLIENT5037,CLIENT5039,CLIENT504,CLIENT5041,CLIENT5044,CLIENT5047,CLIENT5048,CLIENT5049,CLIENT505,CLIENT5050,CLIENT5051,CLIENT5057,CLIENT5058,CLIENT5074,CLIENT5078,CLIENT5080,CLIENT5081,CLIENT5083,CLIENT5086,CLIENT5090,CLIENT5098,CLIENT51,CLIENT5100,CLIENT5103,CLIENT5104,CLIENT5113,CLIENT5114,CLIENT5116,CLIENT5118,CLIENT512,CLIENT5122,CLIENT5124,CLIENT5129,CLIENT513,CLIENT5130,CLIENT5131,CLIENT514,CLIENT5142,CLIENT5148,CLIENT5150,CLIENT5152,CLIENT5154,CLIENT5157,CLIENT5161,CLIENT5165,CLIENT517,CLIENT5170,CLIENT5177,CLIENT5178,CLIENT5189,CLIENT5191,CLIENT5193,CLIENT5201,CLIENT5209,CLIENT521,CLIENT5210,CLIENT5220,CLIENT5223,CLIENT5235,CLIENT5239,CLIENT524,CLIENT5246,CLIENT525,CLIENT5254,CLIENT5256,CLIENT5257,CLIENT5265,CLIENT5267,CLIENT5268,CLIENT5269,CLIENT5272,CLIENT5273,CLIENT5275,CLIENT5277,CLIENT5278,CLIENT5279,CLIENT5281,CLIENT5285,CLIENT5288,CLIENT5292,CLIENT5294,CLIENT53,CLIENT5302,CLIENT5304,CLIENT5306,CLIENT5308,CLIENT531,CLIENT5313,CLIENT5314,CLIENT5317,CLIENT5320,CLIENT5323,CLIENT5324,CLIENT5329,CLIENT5335,CLIENT5339,CLIENT5343,CLIENT5351,CLIENT5354,CLIENT5359,CLIENT536,CLIENT5360,CLIENT5371,CLIENT5379,CLIENT5386,CLIENT5388,CLIENT5390,CLIENT5393,CLIENT5395,CLIENT5396,CLIENT5398,CLIENT5404,CLIENT5411,CLIENT5412,CLIENT5413,CLIENT5414,CLIENT5419,CLIENT5424,CLIENT5425,CLIENT5429,CLIENT5432,CLIENT5434,CLIENT544,CLIENT5443,CLIENT5444,CLIENT5449,CLIENT5451,CLIENT546,CLIENT5462,CLIENT5465,CLIENT5467,CLIENT547,CLIENT5471,CLIENT5473,CLIENT5474,CLIENT5477,CLIENT5479,CLIENT548,CLIENT5481,CLIENT5483,CLIENT5485,CLIENT5487,CLIENT55,CLIENT5501,CLIENT5505,CLIENT5508,CLIENT5510,CLIENT5513,CLIENT5516,CLIENT5524,CLIENT5525,CLIENT5526,CLIENT5529,CLIENT5532,CLIENT5535,CLIENT5536,CLIENT5540,CLIENT5547,CLIENT5548,CLIENT5551,CLIENT5552,CLIENT5553,CLIENT5555,CLIENT5558,CLIENT5566,CLIENT5570,CLIENT5572,CLIENT5573,CLIENT5574,CLIENT5580,CLIENT5586,CLIENT5590,CLIENT5591,CLIENT5592,CLIENT5593,CLIENT5596,CLIENT5599,CLIENT560,CLIENT5609,CLIENT561,CLIENT5610,CLIENT5617,CLIENT562,CLIENT5622,CLIENT5623,CLIENT5624,CLIENT5635,CLIENT5637,CLIENT5640,CLIENT5641,CLIENT5644,CLIENT5645,CLIENT5647,CLIENT5653,CLIENT5658,CLIENT566,CLIENT5662,CLIENT5664,CLIENT5665,CLIENT5668,CLIENT567,CLIENT5676,CLIENT568,CLIENT5682,CLIENT5686,CLIENT5695,CLIENT5704,CLIENT5708,CLIENT5711,CLIENT5713,CLIENT5714,CLIENT5722,CLIENT5725,CLIENT5730,CLIENT5732,CLIENT5741,CLIENT5746,CLIENT5747,CLIENT5749,CLIENT5751,CLIENT5752,CLIENT5756,CLIENT5761,CLIENT5768,CLIENT5776,CLIENT5783,CLIENT5789,CLIENT579,CLIENT5790,CLIENT5796,CLIENT5804,CLIENT5809,CLIENT581,CLIENT5822,CLIENT5829,CLIENT583,CLIENT5830,CLIENT5831,CLIENT5837,CLIENT584,CLIENT5843,CLIENT5855,CLIENT5859,CLIENT586,CLIENT5861,CLIENT5865,CLIENT5870,CLIENT5872,CLIENT5875,CLIENT5879,CLIENT5882,CLIENT5891,CLIENT5899,CLIENT590,CLIENT5900,CLIENT5904,CLIENT5907,CLIENT591,CLIENT5913,CLIENT5917,CLIENT5918,CLIENT5920,CLIENT5923,CLIENT5939,CLIENT5940,CLIENT5945,CLIENT5946,CLIENT5955,CLIENT5959,CLIENT5962,CLIENT5968,CLIENT597,CLIENT5971,CLIENT5978,CLIENT5987,CLIENT5989,CLIENT5994,CLIENT6003,CLIENT6008,CLIENT6009,CLIENT6012,CLIENT6015,CLIENT6018,CLIENT6020,CLIENT6021,CLIENT6027,CLIENT6029,CLIENT6030,CLIENT6032,CLIENT6035,CLIENT604,CLIENT6047,CLIENT6048,CLIENT6051,CLIENT6054,CLIENT6055,CLIENT6058,CLIENT606,CLIENT6061,CLIENT6062,CLIENT6066,CLIENT6069,CLIENT6073,CLIENT6077,CLIENT6080,CLIENT6084,CLIENT6088,CLIENT6095,CLIENT61,CLIENT6102,CLIENT6106,CLIENT6107,CLIENT6108,CLIENT6109,CLIENT6112,CLIENT6116,CLIENT6122,CLIENT6124,CLIENT6128,CLIENT6130,CLIENT6139,CLIENT6142,CLIENT6147,CLIENT6159,CLIENT6168,CLIENT6171,CLIENT6173,CLIENT6174,CLIENT6175,CLIENT6177,CLIENT6180,CLIENT6190,CLIENT6192,CLIENT62,CLIENT6209,CLIENT6211,CLIENT6217,CLIENT6228,CLIENT6231,CLIENT6232,CLIENT6234,CLIENT6235,CLIENT6239,CLIENT6241,CLIENT6247,CLIENT6248,CLIENT625,CLIENT6252,CLIENT6255,CLIENT6257,CLIENT6260,CLIENT6264,CLIENT6272,CLIENT6282,CLIENT629,CLIENT6290,CLIENT6292,CLIENT6293,CLIENT6299,CLIENT630,CLIENT6307,CLIENT6308,CLIENT6309,CLIENT631,CLIENT6310,CLIENT6311,CLIENT633,CLIENT6330,CLIENT6332,CLIENT6333,CLIENT6334,CLIENT6339,CLIENT6344,CLIENT6349,CLIENT6352,CLIENT6353,CLIENT6362,CLIENT6363,CLIENT6367,CLIENT6373,CLIENT6376,CLIENT6378,CLIENT6390,CLIENT6394,CLIENT6396,CLIENT64,CLIENT6404,CLIENT6408,CLIENT6410,CLIENT6416,CLIENT642,CLIENT6424,CLIENT6430,CLIENT6431,CLIENT6433,CLIENT6444,CLIENT6445,CLIENT6447,CLIENT6448,CLIENT6450,CLIENT6452,CLIENT6459,CLIENT646,CLIENT6461,CLIENT6466,CLIENT6467,CLIENT6468,CLIENT6470,CLIENT6474,CLIENT6475,CLIENT6476,CLIENT6477,CLIENT6483,CLIENT6489,CLIENT6495,CLIENT6497,CLIENT6499,CLIENT6503,CLIENT6507,CLIENT6508,CLIENT6509,CLIENT6510,CLIENT6511,CLIENT6515,CLIENT6517,CLIENT6518,CLIENT6521,CLIENT6524,CLIENT6528,CLIENT6530,CLIENT6532,CLIENT6535,CLIENT6538,CLIENT6540,CLIENT6541,CLIENT6542,CLIENT6545,CLIENT6549,CLIENT6559,CLIENT6565,CLIENT6571,CLIENT6577,CLIENT6578,CLIENT658,CLIENT6589,CLIENT6590,CLIENT6599,CLIENT6609,CLIENT661,CLIENT6610,CLIENT6617,CLIENT6619,CLIENT6621,CLIENT6623,CLIENT6624,CLIENT6632,CLIENT6636,CLIENT6642,CLIENT6648,CLIENT6650,CLIENT6657,CLIENT6658,CLIENT666,CLIENT6665,CLIENT6666,CLIENT6671,CLIENT6672,CLIENT6677,CLIENT6680,CLIENT6683,CLIENT6687,CLIENT6690,CLIENT6693,CLIENT6695,CLIENT670,CLIENT6715,CLIENT6717,CLIENT6718,CLIENT6724,CLIENT6726,CLIENT6730,CLIENT6732,CLIENT6738,CLIENT674,CLIENT6740,CLIENT6746,CLIENT6748,CLIENT6752,CLIENT6758,CLIENT6769,CLIENT6770,CLIENT6773,CLIENT6774,CLIENT6782,CLIENT6783,CLIENT6788,CLIENT6789,CLIENT6790,CLIENT6799,CLIENT6811,CLIENT6814,CLIENT6816,CLIENT6821,CLIENT6825,CLIENT6827,CLIENT683,CLIENT6836,CLIENT6837,CLIENT6839,CLIENT6842,CLIENT6848,CLIENT6849,CLIENT6850,CLIENT6852,CLIENT6854,CLIENT6865,CLIENT6867,CLIENT6869,CLIENT6870,CLIENT6875,CLIENT6877,CLIENT6878,CLIENT6884,CLIENT6890,CLIENT6892,CLIENT6896,CLIENT6897,CLIENT6906,CLIENT6908,CLIENT6911,CLIENT6914,CLIENT6920,CLIENT6925,CLIENT6926,CLIENT6928,CLIENT6931,CLIENT6938,CLIENT6942,CLIENT6943,CLIENT695,CLIENT6953,CLIENT6963,CLIENT6967,CLIENT6969,CLIENT697,CLIENT6974,CLIENT6985,CLIENT699,CLIENT6990,CLIENT6992,CLIENT6995,CLIENT6998,CLIENT70,CLIENT700,CLIENT7002,CLIENT7009,CLIENT7018,CLIENT7027,CLIENT7032,CLIENT7037,CLIENT704,CLIENT7041,CLIENT7043,CLIENT7045,CLIENT7047,CLIENT705,CLIENT7051,CLIENT7054,CLIENT7056,CLIENT7060,CLIENT7069,CLIENT7073,CLIENT7075,CLIENT7077,CLIENT7078,CLIENT7081,CLIENT7085,CLIENT7086,CLIENT7087,CLIENT7095,CLIENT7102,CLIENT7103,CLIENT7104,CLIENT7105,CLIENT7119,CLIENT7122,CLIENT7125,CLIENT7127,CLIENT7129,CLIENT713,CLIENT7133,CLIENT7137,CLIENT7139,CLIENT7140,CLIENT7142,CLIENT7145,CLIENT7147,CLIENT7153,CLIENT7154,CLIENT7155,CLIENT716,CLIENT7160,CLIENT7162,CLIENT7167,CLIENT7172,CLIENT7178,CLIENT7180,CLIENT719,CLIENT7193,CLIENT7200,CLIENT7202,CLIENT7208,CLIENT7213,CLIENT7217,CLIENT7220,CLIENT7222,CLIENT7224,CLIENT7225,CLIENT7232,CLIENT7236,CLIENT7237,CLIENT7238,CLIENT7249,CLIENT7256,CLIENT726,CLIENT7267,CLIENT7273,CLIENT7275,CLIENT7276,CLIENT7280,CLIENT7281,CLIENT7282,CLIENT7287,CLIENT7288,CLIENT7290,CLIENT7295,CLIENT7298,CLIENT7304,CLIENT7310,CLIENT7319,CLIENT734,CLIENT7340,CLIENT7344,CLIENT7345,CLIENT7348,CLIENT735,CLIENT7363,CLIENT7367,CLIENT737,CLIENT7376,CLIENT7379,CLIENT7382,CLIENT7386,CLIENT7394,CLIENT7397,CLIENT7402,CLIENT7404,CLIENT7410,CLIENT7412,CLIENT7413,CLIENT7417,CLIENT7422,CLIENT743,CLIENT7430,CLIENT7434,CLIENT7443,CLIENT7448,CLIENT7457,CLIENT7460,CLIENT7465,CLIENT7466,CLIENT7467,CLIENT7475,CLIENT7479,CLIENT7480,CLIENT7485,CLIENT7489,CLIENT7491,CLIENT7493,CLIENT7502,CLIENT7503,CLIENT7513,CLIENT7514,CLIENT7515,CLIENT7527,CLIENT7531,CLIENT7538,CLIENT754,CLIENT7545,CLIENT7547,CLIENT7553,CLIENT7555,CLIENT7556,CLIENT7560,CLIENT7561,CLIENT7562,CLIENT7565,CLIENT7568,CLIENT757,CLIENT7571,CLIENT7573,CLIENT7579,CLIENT7582,CLIENT7583,CLIENT7587,CLIENT7592,CLIENT7595,CLIENT7609,CLIENT7611,CLIENT7613,CLIENT7615,CLIENT7619,CLIENT762,CLIENT7620,CLIENT7624,CLIENT7627,CLIENT763,CLIENT7634,CLIENT7637,CLIENT764,CLIENT7642,CLIENT7643,CLIENT7645,CLIENT7646,CLIENT7650,CLIENT7653,CLIENT7655,CLIENT7657,CLIENT766,CLIENT7666,CLIENT7677,CLIENT7680,CLIENT7683,CLIENT7685,CLIENT7688,CLIENT7690,CLIENT7698,CLIENT7702,CLIENT7708,CLIENT7714,CLIENT7720,CLIENT7721,CLIENT7722,CLIENT7724,CLIENT7725,CLIENT7737,CLIENT774,CLIENT7740,CLIENT7742,CLIENT7743,CLIENT7745,CLIENT7750,CLIENT7752,CLIENT7753,CLIENT7754,CLIENT7756,CLIENT7757,CLIENT7764,CLIENT7765,CLIENT7770,CLIENT7771,CLIENT7774,CLIENT778,CLIENT7785,CLIENT7792,CLIENT7793,CLIENT780,CLIENT7800,CLIENT7807,CLIENT7815,CLIENT7829,CLIENT7835,CLIENT7836,CLIENT7840,CLIENT7845,CLIENT7846,CLIENT7847,CLIENT7849,CLIENT7851,CLIENT7857,CLIENT7858,CLIENT7865,CLIENT7869,CLIENT7871,CLIENT7873,CLIENT7877,CLIENT7884,CLIENT7886,CLIENT7890,CLIENT79,CLIENT7901,CLIENT7902,CLIENT7903,CLIENT7907,CLIENT7917,CLIENT7918,CLIENT792,CLIENT7927,CLIENT793,CLIENT7931,CLIENT7934,CLIENT7935,CLIENT7940,CLIENT7942,CLIENT7943,CLIENT7944,CLIENT7949,CLIENT7951,CLIENT7957,CLIENT7958,CLIENT7962,CLIENT7968,CLIENT7973,CLIENT7983,CLIENT7985,CLIENT7989,CLIENT7998,CLIENT7999,CLIENT806,CLIENT81,CLIENT816,CLIENT817,CLIENT818,CLIENT819,CLIENT821,CLIENT828,CLIENT829,CLIENT831,CLIENT839,CLIENT847,CLIENT851,CLIENT854,CLIENT855,CLIENT857,CLIENT858,CLIENT864,CLIENT869,CLIENT872,CLIENT877,CLIENT878,CLIENT88,CLIENT881,CLIENT892,CLIENT896,CLIENT899,CLIENT903,CLIENT91,CLIENT913,CLIENT916,CLIENT917,CLIENT923,CLIENT924,CLIENT926,CLIENT93,CLIENT932,CLIENT94,CLIENT940,CLIENT956,CLIENT960,CLIENT963,CLIENT966,CLIENT972,CLIENT974,CLIENT978,CLIENT98,CLIENT980,CLIENT981,CLIENT989,CLIENT991,CLIENT993,CLIENT999,A06,A07,A09,A11,A15,A17,A18,A19,A21,A22,CLIENT101,CLIENT1010,CLIENT1011,CLIENT1019,CLIENT1025,CLIENT1032,CLIENT1035,CLIENT1036,CLIENT1041,CLIENT1044,CLIENT1049,CLIENT1050,CLIENT1051,CLIENT1053,CLIENT1055,CLIENT106,CLIENT1062,CLIENT1069,CLIENT107,CLIENT1074,CLIENT1075,CLIENT1079,CLIENT1080,CLIENT1081,CLIENT1082,CLIENT1086,CLIENT1089,CLIENT109,CLIENT1090,CLIENT1093,CLIENT11,CLIENT110,CLIENT1101,CLIENT1102,CLIENT1103,CLIENT1105,CLIENT1107,CLIENT1109,CLIENT111,CLIENT1113,CLIENT112,CLIENT1120,CLIENT1126,CLIENT1129,CLIENT1130,CLIENT1131,CLIENT1138,CLIENT1140,CLIENT1146,CLIENT1154,CLIENT1157,CLIENT1158,CLIENT1161,CLIENT1163,CLIENT1166,CLIENT117,CLIENT1170,CLIENT1175,CLIENT1181,CLIENT1182,CLIENT1185,CLIENT1186,CLIENT1193,CLIENT1199,CLIENT1202,CLIENT1204,CLIENT1206,CLIENT1207,CLIENT1208,CLIENT1212,CLIENT1213,CLIENT1214,CLIENT1218,CLIENT122,CLIENT1220,CLIENT1227,CLIENT1238,CLIENT1242,CLIENT1251,CLIENT1252,CLIENT1256,CLIENT1262,CLIENT1263,CLIENT1268,CLIENT127,CLIENT1271,CLIENT1272,CLIENT1273,CLIENT1276,CLIENT1277,CLIENT1286,CLIENT1287,CLIENT1291,CLIENT1301,CLIENT1305,CLIENT131,CLIENT1317,CLIENT1319,CLIENT132,CLIENT1321,CLIENT1322,CLIENT1324,CLIENT1325,CLIENT1328,CLIENT1330,CLIENT1331,CLIENT1339,CLIENT1341,CLIENT1344,CLIENT1351,CLIENT1352,CLIENT1353,CLIENT136,CLIENT1364,CLIENT1365,CLIENT137,CLIENT1372,CLIENT1383,CLIENT1387,CLIENT1390,CLIENT1391,CLIENT1398,CLIENT1409,CLIENT1411,CLIENT1414,CLIENT1417,CLIENT1420,CLIENT1422,CLIENT1425,CLIENT1426,CLIENT1427,CLIENT1428,CLIENT1432,CLIENT1435,CLIENT1437,CLIENT1444,CLIENT1449,CLIENT1450,CLIENT146,CLIENT1472,CLIENT1475,CLIENT1478,CLIENT1484,CLIENT1485,CLIENT1486,CLIENT1490,CLIENT1493,CLIENT15,CLIENT1504,CLIENT1505,CLIENT1509,CLIENT1510,CLIENT1511,CLIENT1512,CLIENT1518,CLIENT1519,CLIENT1521,CLIENT1523,CLIENT1526,CLIENT1529,CLIENT1530,CLIENT1531,CLIENT1533,CLIENT1544,CLIENT1547,CLIENT1550,CLIENT1551,CLIENT1557,CLIENT1573,CLIENT1575,CLIENT1577,CLIENT1582,CLIENT159,CLIENT1607,CLIENT1611,CLIENT1612,CLIENT1618,CLIENT1622,CLIENT163,CLIENT1632,CLIENT1633,CLIENT1637,CLIENT1640,CLIENT1641,CLIENT1645,CLIENT1651,CLIENT1652,CLIENT1654,CLIENT1656,CLIENT1657,CLIENT1661,CLIENT1664,CLIENT1668,CLIENT1677,CLIENT1678,CLIENT168,CLIENT1680,CLIENT1690,CLIENT1699,CLIENT17,CLIENT1701,CLIENT1703,CLIENT1709,CLIENT171,CLIENT1713,CLIENT1715,CLIENT1716,CLIENT1720,CLIENT1725,CLIENT1738,CLIENT1744,CLIENT1747,CLIENT1749,CLIENT1756,CLIENT1760,CLIENT1762,CLIENT1766,CLIENT1768,CLIENT1772,CLIENT1775,CLIENT1779,CLIENT178,CLIENT1781,CLIENT1784,CLIENT1785,CLIENT1786,CLIENT1798,CLIENT18,CLIENT1807,CLIENT1813,CLIENT1817,CLIENT1820,CLIENT1821,CLIENT1823,CLIENT1824,CLIENT1828,CLIENT1832,CLIENT1837,CLIENT1843,CLIENT1844,CLIENT1850,CLIENT1852,CLIENT1853,CLIENT1854,CLIENT1855,CLIENT1857,CLIENT1863,CLIENT1866,CLIENT187,CLIENT1870,CLIENT1871,CLIENT1872,CLIENT1874,CLIENT1876,CLIENT1877,CLIENT1879,CLIENT188,CLIENT1880,CLIENT1883,CLIENT1894,CLIENT1897,CLIENT1898,CLIENT19,CLIENT1901,CLIENT1904,CLIENT191,CLIENT1912,CLIENT1913,CLIENT1914,CLIENT1919,CLIENT192,CLIENT1921,CLIENT1925,CLIENT1929,CLIENT1933,CLIENT194,CLIENT1943,CLIENT1947,CLIENT1951,CLIENT1952,CLIENT1957,CLIENT1966,CLIENT198,CLIENT1980,CLIENT1984,CLIENT1989,CLIENT1994,CLIENT1995,CLIENT1996,CLIENT1997,CLIENT2018,CLIENT2020,CLIENT2021,CLIENT2022,CLIENT2023,CLIENT2029,CLIENT2032,CLIENT2033,CLIENT2036,CLIENT2039,CLIENT2040,CLIENT2047,CLIENT2048,CLIENT205,CLIENT2055,CLIENT2056,CLIENT2057,CLIENT2059,CLIENT2062,CLIENT2066,CLIENT2067,CLIENT2071,CLIENT2076,CLIENT2077,CLIENT2082,CLIENT2090,CLIENT2092,CLIENT2093,CLIENT2095,CLIENT2097,CLIENT2098,CLIENT21,CLIENT2101,CLIENT2103,CLIENT2105,CLIENT2114,CLIENT2117,CLIENT2120,CLIENT2121,CLIENT2125,CLIENT2127,CLIENT2128,CLIENT2129,CLIENT2144,CLIENT2149,CLIENT2152,CLIENT2153,CLIENT2159,CLIENT2160,CLIENT2163,CLIENT2164,CLIENT2165,CLIENT2170,CLIENT2171,CLIENT2176,CLIENT2179,CLIENT2186,CLIENT2187,CLIENT2192,CLIENT22,CLIENT220,CLIENT2203,CLIENT2205,CLIENT2207,CLIENT221,CLIENT2213,CLIENT2222,CLIENT2227,CLIENT2229,CLIENT2233,CLIENT2234,CLIENT2239,CLIENT2242,CLIENT2258,CLIENT2261,CLIENT2262,CLIENT2273,CLIENT2274,CLIENT2276,CLIENT2277,CLIENT2281,CLIENT2282,CLIENT2283,CLIENT2287,CLIENT2288,CLIENT2289,CLIENT2294,CLIENT2297,CLIENT2298,CLIENT230,CLIENT2301,CLIENT2304,CLIENT2305,CLIENT2308,CLIENT231,CLIENT2320,CLIENT2322,CLIENT2324,CLIENT2325,CLIENT2327,CLIENT2330,CLIENT2336,CLIENT2343,CLIENT2347,CLIENT2353,CLIENT2355,CLIENT2360,CLIENT2367,CLIENT2371,CLIENT2374,CLIENT2382,CLIENT2394,CLIENT240,CLIENT2401,CLIENT2416,CLIENT2417,CLIENT2418,CLIENT242,CLIENT2422,CLIENT2426,CLIENT2428,CLIENT2429,CLIENT2437,CLIENT2448,CLIENT2454,CLIENT2457,CLIENT2460,CLIENT2466,CLIENT2469,CLIENT247,CLIENT2470,CLIENT2473,CLIENT2477,CLIENT2481,CLIENT2482,CLIENT2485,CLIENT2489,CLIENT2490,CLIENT2496,CLIENT2504,CLIENT2506,CLIENT2510,CLIENT2521,CLIENT2526,CLIENT2530,CLIENT2533,CLIENT2536,CLIENT2537,CLIENT254,CLIENT2542,CLIENT2550,CLIENT2557,CLIENT2560,CLIENT2561,CLIENT2563,CLIENT2565,CLIENT2570,CLIENT2574,CLIENT2581,CLIENT2587,CLIENT2589,CLIENT2599,CLIENT2613,CLIENT2618,CLIENT2619,CLIENT2622,CLIENT2624,CLIENT2626,CLIENT2631,CLIENT2634,CLIENT264,CLIENT2640,CLIENT2642,CLIENT2644,CLIENT2647,CLIENT2650,CLIENT2652,CLIENT2657,CLIENT2658,CLIENT266,CLIENT2666,CLIENT2671,CLIENT2677,CLIENT2678,CLIENT268,CLIENT2680,CLIENT2684,CLIENT2687,CLIENT2688,CLIENT2689,CLIENT2690,CLIENT2693,CLIENT2695,CLIENT2700,CLIENT2701,CLIENT2708,CLIENT2710,CLIENT2722,CLIENT2723,CLIENT273,CLIENT2732,CLIENT2733,CLIENT2738,CLIENT2740,CLIENT2745,CLIENT2750,CLIENT2755,CLIENT2759,CLIENT2762,CLIENT277,CLIENT2771,CLIENT2782,CLIENT2786,CLIENT2787,CLIENT2788,CLIENT2791,CLIENT2797,CLIENT2798,CLIENT2800,CLIENT2806,CLIENT2808,CLIENT2809,CLIENT281,CLIENT2810,CLIENT2811,CLIENT2813,CLIENT2817,CLIENT2822,CLIENT2827,CLIENT2829,CLIENT283,CLIENT2832,CLIENT2837,CLIENT2841,CLIENT2846,CLIENT285,CLIENT2851,CLIENT2853,CLIENT287,CLIENT2871,CLIENT2874,CLIENT2875,CLIENT2877,CLIENT288,CLIENT2880,CLIENT2881,CLIENT2882,CLIENT2885,CLIENT2892,CLIENT2896,CLIENT2898,CLIENT2899,CLIENT290,CLIENT2907,CLIENT2910,CLIENT2911,CLIENT2913,CLIENT2933,CLIENT2941,CLIENT2943,CLIENT2948,CLIENT2954,CLIENT2955,CLIENT2957,CLIENT2966,CLIENT297,CLIENT2972,CLIENT2977,CLIENT2983,CLIENT3000,CLIENT3011,CLIENT3012,CLIENT3015,CLIENT3016,CLIENT3017,CLIENT3019,CLIENT303,CLIENT3034,CLIENT3037,CLIENT3040,CLIENT3042,CLIENT3043,CLIENT3047,CLIENT3049,CLIENT305,CLIENT3050,CLIENT3053,CLIENT306,CLIENT3066,CLIENT307,CLIENT3070,CLIENT3073,CLIENT3075,CLIENT3076,CLIENT3083,CLIENT3092,CLIENT3094,CLIENT3097,CLIENT3098,CLIENT3099,CLIENT31,CLIENT3103,CLIENT3105,CLIENT3106,CLIENT3107,CLIENT3108,CLIENT3109,CLIENT3110,CLIENT3115,CLIENT3118,CLIENT312,CLIENT3129,CLIENT313,CLIENT3132,CLIENT3133,CLIENT3134,CLIENT3136,CLIENT3137,CLIENT3138,CLIENT314,CLIENT3140,CLIENT3142,CLIENT3144,CLIENT3145,CLIENT3146,CLIENT315,CLIENT3153,CLIENT3156,CLIENT3159,CLIENT3162,CLIENT3164,CLIENT3165,CLIENT3173,CLIENT3177,CLIENT3178,CLIENT318,CLIENT3180,CLIENT3184,CLIENT3190,CLIENT3194,CLIENT3196,CLIENT3197,CLIENT3212,CLIENT3213,CLIENT3219,CLIENT3220,CLIENT3224,CLIENT3225,CLIENT3231,CLIENT3233,CLIENT3236,CLIENT3237,CLIENT3239,CLIENT3241,CLIENT3242,CLIENT3246,CLIENT3247,CLIENT3249,CLIENT3251,CLIENT3253,CLIENT3256,CLIENT3258,CLIENT326,CLIENT3260,CLIENT3261,CLIENT3263,CLIENT3265,CLIENT3268,CLIENT3273,CLIENT3281,CLIENT3285,CLIENT3287,CLIENT3295,CLIENT3300,CLIENT3307,CLIENT3310,CLIENT3316,CLIENT332,CLIENT3323,CLIENT3327,CLIENT3328,CLIENT333,CLIENT3333,CLIENT3334,CLIENT3335,CLIENT3336,CLIENT3339,CLIENT334,CLIENT3345,CLIENT3347,CLIENT3356,CLIENT3358,CLIENT3368,CLIENT3375,CLIENT338,CLIENT3385,CLIENT3404,CLIENT3405,CLIENT3410,CLIENT3411,CLIENT3413,CLIENT3417,CLIENT3418,CLIENT3419,CLIENT3421,CLIENT3429,CLIENT3430,CLIENT3438,CLIENT3445,CLIENT3454,CLIENT3455,CLIENT3457,CLIENT3458,CLIENT3459,CLIENT3465,CLIENT3466,CLIENT3468,CLIENT3469,CLIENT3473,CLIENT3476,CLIENT3479,CLIENT348,CLIENT3480,CLIENT3482,CLIENT3484,CLIENT3487,CLIENT3492,CLIENT3502,CLIENT3503,CLIENT3522,CLIENT3523,CLIENT3524,CLIENT3525,CLIENT3528,CLIENT3531,CLIENT3532,CLIENT3534,CLIENT3535,CLIENT3539,CLIENT354,CLIENT3541,CLIENT3542,CLIENT3546,CLIENT3547,CLIENT3556,CLIENT3560,CLIENT3561,CLIENT3565,CLIENT357,CLIENT3572,CLIENT3573,CLIENT3574,CLIENT3575,CLIENT3578,CLIENT3581,CLIENT3582,CLIENT3585,CLIENT3588,CLIENT3589,CLIENT359,CLIENT3591,CLIENT3592,CLIENT3595,CLIENT3604,CLIENT3608,CLIENT361,CLIENT3610,CLIENT3612,CLIENT3623,CLIENT3628,CLIENT3634,CLIENT3642,CLIENT3645,CLIENT3648,CLIENT365,CLIENT3650,CLIENT3657,CLIENT3660,CLIENT3663,CLIENT3669,CLIENT3670,CLIENT3678,CLIENT3681,CLIENT3683,CLIENT369,CLIENT3698,CLIENT3699,CLIENT3702,CLIENT3708,CLIENT3713,CLIENT3717,CLIENT3719,CLIENT372,CLIENT3722,CLIENT3725,CLIENT3726,CLIENT373,CLIENT3730,CLIENT3734,CLIENT3741,CLIENT3742,CLIENT3749,CLIENT375,CLIENT3751,CLIENT3761,CLIENT3763,CLIENT3766,CLIENT3769,CLIENT3775,CLIENT3783,CLIENT3784,CLIENT3796,CLIENT3800,CLIENT3801,CLIENT3809,CLIENT381,CLIENT3812,CLIENT3822,CLIENT3826,CLIENT383,CLIENT3834,CLIENT3840,CLIENT3843,CLIENT3859,CLIENT3860,CLIENT3861,CLIENT3863,CLIENT3864,CLIENT3868,CLIENT387,CLIENT3875,CLIENT3883,CLIENT3885,CLIENT3886,CLIENT3888,CLIENT3893,CLIENT3899,CLIENT3903,CLIENT3905,CLIENT3907,CLIENT3909,CLIENT3910,CLIENT3913,CLIENT3920,CLIENT3924,CLIENT3928,CLIENT3929,CLIENT3933,CLIENT3936,CLIENT3937,CLIENT3949,CLIENT3952,CLIENT3955,CLIENT3957,CLIENT396,CLIENT3965,CLIENT397,CLIENT3982,CLIENT3984,CLIENT3992,CLIENT3995,CLIENT3998,CLIENT4005,CLIENT4008,CLIENT4011,CLIENT4013,CLIENT4016,CLIENT4018,CLIENT4024,CLIENT4029,CLIENT4032,CLIENT4037,CLIENT4044,CLIENT4046,CLIENT4056,CLIENT4070,CLIENT4073,CLIENT4074,CLIENT4078,CLIENT4084,CLIENT4088,CLIENT4089,CLIENT4092,CLIENT4103,CLIENT4107,CLIENT4108,CLIENT4111,CLIENT4114,CLIENT4116,CLIENT4119,CLIENT4122,CLIENT4123,CLIENT4125,CLIENT4127,CLIENT4128,CLIENT4130,CLIENT4132,CLIENT4138,CLIENT4139,CLIENT4141,CLIENT4145,CLIENT4146,CLIENT4148,CLIENT4156,CLIENT4160,CLIENT4165,CLIENT4169,CLIENT4171,CLIENT4172,CLIENT4173,CLIENT4175,CLIENT4176,CLIENT4184,CLIENT4190,CLIENT4193,CLIENT4196,CLIENT4199,CLIENT4200,CLIENT4201,CLIENT4206,CLIENT4208,CLIENT4215,CLIENT4217,CLIENT4219,CLIENT4228,CLIENT423,CLIENT4231,CLIENT4233,CLIENT4240,CLIENT4247,CLIENT4248,CLIENT425,CLIENT4253,CLIENT4255,CLIENT4256,CLIENT426,CLIENT4262,CLIENT4263,CLIENT427,CLIENT4286,CLIENT4289,CLIENT429,CLIENT4290,CLIENT4291,CLIENT4297,CLIENT4299,CLIENT43,CLIENT4307,CLIENT4308,CLIENT4310,CLIENT4311,CLIENT4312,CLIENT4313,CLIENT4316,CLIENT4318,CLIENT432,CLIENT4321,CLIENT4323,CLIENT4327,CLIENT4332,CLIENT4333,CLIENT4342,CLIENT4348,CLIENT4353,CLIENT4358,CLIENT4362,CLIENT4363,CLIENT4368,CLIENT4374,CLIENT4378,CLIENT4388,CLIENT4392,CLIENT440,CLIENT4400,CLIENT4401,CLIENT4405,CLIENT4407,CLIENT4415,CLIENT4418,CLIENT4419,CLIENT442,CLIENT4423,CLIENT4427,CLIENT4430,CLIENT4431,CLIENT4436,CLIENT4440,CLIENT4441,CLIENT4447,CLIENT4455,CLIENT4459,CLIENT4463,CLIENT4466,CLIENT4477,CLIENT4487,CLIENT449,CLIENT4492,CLIENT4496,CLIENT4501,CLIENT4509,CLIENT4513,CLIENT4515,CLIENT4516,CLIENT4518,CLIENT452,CLIENT4525,CLIENT4527,CLIENT4529,CLIENT4530,CLIENT4551,CLIENT4559,CLIENT4566,CLIENT4568,CLIENT4569,CLIENT4570,CLIENT4573,CLIENT4575,CLIENT458,CLIENT4582,CLIENT4584,CLIENT4586,CLIENT4595,CLIENT46,CLIENT4606,CLIENT4609,CLIENT4613,CLIENT4618,CLIENT462,CLIENT4620,CLIENT4624,CLIENT4626,CLIENT4627,CLIENT4629,CLIENT463,CLIENT4632,CLIENT4634,CLIENT4639,CLIENT4642,CLIENT4646,CLIENT465,CLIENT4650,CLIENT4652,CLIENT4653,CLIENT4663,CLIENT4666,CLIENT467,CLIENT4677,CLIENT468,CLIENT4682,CLIENT4688,CLIENT469,CLIENT4695,CLIENT4699,CLIENT4706,CLIENT4712,CLIENT4718,CLIENT4719,CLIENT4721,CLIENT4723,CLIENT4726,CLIENT4728,CLIENT473,CLIENT4732,CLIENT4734,CLIENT4738,CLIENT474,CLIENT4743,CLIENT4751,CLIENT4752,CLIENT4754,CLIENT4757,CLIENT4761,CLIENT4773,CLIENT4774,CLIENT4776,CLIENT4778,CLIENT478,CLIENT4780,CLIENT4788,CLIENT4790,CLIENT4793,CLIENT4794,CLIENT4795,CLIENT4798,CLIENT4799,CLIENT480,CLIENT4801,CLIENT4808,CLIENT4810,CLIENT4813,CLIENT4816,CLIENT4818,CLIENT482,CLIENT4825,CLIENT4827,CLIENT4830,CLIENT4832,CLIENT4836,CLIENT4842,CLIENT4844,CLIENT485,CLIENT4854,CLIENT4856,CLIENT4859,CLIENT4861,CLIENT4863,CLIENT4866,CLIENT4871,CLIENT4875,CLIENT4879,CLIENT488,CLIENT4882,CLIENT4886,CLIENT4898,CLIENT49,CLIENT4903,CLIENT4904,CLIENT4907,CLIENT4911,CLIENT4915,CLIENT4918,CLIENT4919,CLIENT4926,CLIENT4927,CLIENT493,CLIENT4930,CLIENT4933,CLIENT4939,CLIENT4945,CLIENT4947,CLIENT495,CLIENT4954,CLIENT4957,CLIENT4960,CLIENT4961,CLIENT4964,CLIENT4965,CLIENT4974,CLIENT4977,CLIENT4979,CLIENT4982,CLIENT4985,CLIENT4989,CLIENT4998,CLIENT5001,CLIENT5005,CLIENT5012,CLIENT5015,CLIENT5017,CLIENT502,CLIENT5020,CLIENT5025,CLIENT5036,CLIENT5038,CLIENT5040,CLIENT5043,CLIENT5052,CLIENT5053,CLIENT506,CLIENT5060,CLIENT5061,CLIENT5062,CLIENT5066,CLIENT5067,CLIENT5068,CLIENT5071,CLIENT5085,CLIENT5087,CLIENT5094,CLIENT5097,CLIENT5101,CLIENT5105,CLIENT5106,CLIENT5111,CLIENT5119,CLIENT5123,CLIENT5126,CLIENT5134,CLIENT5136,CLIENT5141,CLIENT5145,CLIENT5147,CLIENT5149,CLIENT5153,CLIENT5159,CLIENT5162,CLIENT5163,CLIENT5164,CLIENT5169,CLIENT5171,CLIENT5174,CLIENT5180,CLIENT5182,CLIENT5183,CLIENT5185,CLIENT5190,CLIENT5195,CLIENT5197,CLIENT5198,CLIENT5199,CLIENT5203,CLIENT5206,CLIENT5218,CLIENT5227,CLIENT523,CLIENT5232,CLIENT5233,CLIENT5238,CLIENT5243,CLIENT5247,CLIENT5248,CLIENT5253,CLIENT5258,CLIENT528,CLIENT5280,CLIENT5293,CLIENT5295,CLIENT5296,CLIENT5298,CLIENT5299,CLIENT5300,CLIENT5315,CLIENT5319,CLIENT5326,CLIENT5334,CLIENT5338,CLIENT5344,CLIENT5350,CLIENT5355,CLIENT5358,CLIENT5361,CLIENT5370,CLIENT5373,CLIENT5374,CLIENT5377,CLIENT5378,CLIENT5382,CLIENT5385,CLIENT5399,CLIENT54,CLIENT5406,CLIENT5410,CLIENT5415,CLIENT542,CLIENT5422,CLIENT5427,CLIENT5428,CLIENT5436,CLIENT5437,CLIENT5438,CLIENT5439,CLIENT5446,CLIENT5450,CLIENT5458,CLIENT5463,CLIENT5475,CLIENT5478,CLIENT5482,CLIENT5491,CLIENT5493,CLIENT5494,CLIENT5496,CLIENT550,CLIENT5503,CLIENT5504,CLIENT5507,CLIENT5512,CLIENT5515,CLIENT5519,CLIENT5527,CLIENT5528,CLIENT5531,CLIENT5533,CLIENT5538,CLIENT5539,CLIENT554,CLIENT5541,CLIENT5550,CLIENT556,CLIENT5561,CLIENT5565,CLIENT5569,CLIENT5571,CLIENT5575,CLIENT5585,CLIENT5588,CLIENT5594,CLIENT5595,CLIENT56,CLIENT5600,CLIENT5604,CLIENT5615,CLIENT5616,CLIENT5619,CLIENT5621,CLIENT5628,CLIENT5634,CLIENT5646,CLIENT5648,CLIENT565,CLIENT5656,CLIENT5659,CLIENT5666,CLIENT5669,CLIENT5670,CLIENT5675,CLIENT5683,CLIENT5684,CLIENT5688,CLIENT5689,CLIENT5690,CLIENT5693,CLIENT570,CLIENT5700,CLIENT5701,CLIENT5709,CLIENT5710,CLIENT5716,CLIENT5717,CLIENT5718,CLIENT572,CLIENT5727,CLIENT5728,CLIENT5729,CLIENT5731,CLIENT5735,CLIENT5737,CLIENT5739,CLIENT5742,CLIENT5753,CLIENT576,CLIENT5763,CLIENT5772,CLIENT5775,CLIENT5782,CLIENT5787,CLIENT5788,CLIENT5795,CLIENT5807,CLIENT5808,CLIENT5810,CLIENT5817,CLIENT5821,CLIENT5824,CLIENT5827,CLIENT5836,CLIENT5841,CLIENT5844,CLIENT5851,CLIENT5858,CLIENT5862,CLIENT587,CLIENT5871,CLIENT5876,CLIENT588,CLIENT5884,CLIENT5885,CLIENT5889,CLIENT5892,CLIENT59,CLIENT5910,CLIENT5911,CLIENT5914,CLIENT5919,CLIENT5927,CLIENT5931,CLIENT5937,CLIENT5938,CLIENT594,CLIENT5941,CLIENT595,CLIENT5951,CLIENT5952,CLIENT5953,CLIENT596,CLIENT5961,CLIENT5964,CLIENT5966,CLIENT5972,CLIENT5975,CLIENT5976,CLIENT5979,CLIENT5980,CLIENT5982,CLIENT5985,CLIENT5988,CLIENT5992,CLIENT5998,CLIENT5999,CLIENT6,CLIENT600,CLIENT6000,CLIENT6002,CLIENT6017,CLIENT6022,CLIENT6026,CLIENT6028,CLIENT6031,CLIENT6038,CLIENT6040,CLIENT6044,CLIENT6046,CLIENT605,CLIENT6052,CLIENT6053,CLIENT6056,CLIENT6057,CLIENT6067,CLIENT6071,CLIENT6076,CLIENT6083,CLIENT6089,CLIENT609,CLIENT6091,CLIENT6093,CLIENT6097,CLIENT6099,CLIENT6100,CLIENT611,CLIENT6113,CLIENT6117,CLIENT6118,CLIENT6121,CLIENT6123,CLIENT6125,CLIENT6127,CLIENT613,CLIENT6133,CLIENT6138,CLIENT6140,CLIENT6141,CLIENT6145,CLIENT6148,CLIENT6154,CLIENT6156,CLIENT6158,CLIENT616,CLIENT6163,CLIENT6169,CLIENT6178,CLIENT6181,CLIENT6183,CLIENT6195,CLIENT6196,CLIENT6200,CLIENT6204,CLIENT6205,CLIENT6207,CLIENT621,CLIENT6215,CLIENT6218,CLIENT622,CLIENT6223,CLIENT6243,CLIENT6249,CLIENT6250,CLIENT6258,CLIENT6259,CLIENT6265,CLIENT6268,CLIENT6269,CLIENT6270,CLIENT6275,CLIENT6277,CLIENT6278,CLIENT6281,CLIENT6283,CLIENT6285,CLIENT6291,CLIENT6305,CLIENT6312,CLIENT6313,CLIENT6315,CLIENT6316,CLIENT6317,CLIENT6319,CLIENT6320,CLIENT6326,CLIENT6337,CLIENT634,CLIENT6340,CLIENT6342,CLIENT6343,CLIENT6347,CLIENT6348,CLIENT6351,CLIENT6355,CLIENT6356,CLIENT6358,CLIENT636,CLIENT6365,CLIENT6369,CLIENT6372,CLIENT6377,CLIENT6382,CLIENT6383,CLIENT6386,CLIENT6388,CLIENT6389,CLIENT639,CLIENT640,CLIENT6401,CLIENT6402,CLIENT641,CLIENT6413,CLIENT6414,CLIENT6417,CLIENT6418,CLIENT6423,CLIENT6427,CLIENT6432,CLIENT6435,CLIENT6436,CLIENT6437,CLIENT6439,CLIENT6441,CLIENT6442,CLIENT6443,CLIENT6449,CLIENT6451,CLIENT6458,CLIENT6464,CLIENT647,CLIENT6471,CLIENT6472,CLIENT6481,CLIENT6485,CLIENT6488,CLIENT6490,CLIENT6491,CLIENT6494,CLIENT6501,CLIENT6505,CLIENT651,CLIENT6512,CLIENT6513,CLIENT652,CLIENT6522,CLIENT6526,CLIENT6527,CLIENT6536,CLIENT654,CLIENT6547,CLIENT6548,CLIENT6551,CLIENT6555,CLIENT656,CLIENT6561,CLIENT6563,CLIENT657,CLIENT6570,CLIENT6574,CLIENT6584,CLIENT6585,CLIENT6587,CLIENT6591,CLIENT6602,CLIENT6605,CLIENT6606,CLIENT6611,CLIENT6614,CLIENT6616,CLIENT662,CLIENT6620,CLIENT6626,CLIENT6629,CLIENT6630,CLIENT6635,CLIENT6643,CLIENT6646,CLIENT665,CLIENT6659,CLIENT6661,CLIENT6663,CLIENT6664,CLIENT667,CLIENT6675,CLIENT6678,CLIENT6679,CLIENT6681,CLIENT6682,CLIENT6699,CLIENT6700,CLIENT6703,CLIENT6706,CLIENT6708,CLIENT6712,CLIENT6713,CLIENT6722,CLIENT6735,CLIENT6745,CLIENT6749,CLIENT675,CLIENT6750,CLIENT6751,CLIENT6754,CLIENT6755,CLIENT6761,CLIENT6765,CLIENT6766,CLIENT6767,CLIENT6768,CLIENT677,CLIENT6779,CLIENT6780,CLIENT6786,CLIENT6792,CLIENT6793,CLIENT6795,CLIENT68,CLIENT6801,CLIENT6802,CLIENT6805,CLIENT6806,CLIENT6808,CLIENT6809,CLIENT6810,CLIENT6813,CLIENT6818,CLIENT6832,CLIENT6833,CLIENT6834,CLIENT6841,CLIENT6855,CLIENT6856,CLIENT6857,CLIENT6859,CLIENT686,CLIENT6860,CLIENT6864,CLIENT6866,CLIENT6872,CLIENT688,CLIENT6883,CLIENT6887,CLIENT689,CLIENT6893,CLIENT6899,CLIENT6900,CLIENT6905,CLIENT6910,CLIENT6915,CLIENT6917,CLIENT6918,CLIENT692,CLIENT6933,CLIENT6940,CLIENT6946,CLIENT6955,CLIENT6959,CLIENT6970,CLIENT6973,CLIENT6975,CLIENT6976,CLIENT6986,CLIENT6988,CLIENT6989,CLIENT6993,CLIENT6994,CLIENT7,CLIENT7003,CLIENT7004,CLIENT7006,CLIENT701,CLIENT7017,CLIENT7019,CLIENT702,CLIENT7020,CLIENT7026,CLIENT703,CLIENT7030,CLIENT7035,CLIENT7038,CLIENT7040,CLIENT7049,CLIENT7052,CLIENT7064,CLIENT7066,CLIENT707,CLIENT7071,CLIENT7079,CLIENT708,CLIENT7082,CLIENT7083,CLIENT7088,CLIENT7092,CLIENT7094,CLIENT7098,CLIENT7100,CLIENT7112,CLIENT7116,CLIENT7117,CLIENT712,CLIENT7120,CLIENT7128,CLIENT7149,CLIENT715,CLIENT7151,CLIENT7156,CLIENT7161,CLIENT7163,CLIENT7164,CLIENT7173,CLIENT7175,CLIENT7176,CLIENT7177,CLIENT7181,CLIENT7182,CLIENT7184,CLIENT7185,CLIENT7186,CLIENT7187,CLIENT7189,CLIENT7190,CLIENT7195,CLIENT7196,CLIENT7199,CLIENT7201,CLIENT7204,CLIENT7205,CLIENT7207,CLIENT7210,CLIENT7214,CLIENT7215,CLIENT7221,CLIENT7223,CLIENT7228,CLIENT7231,CLIENT7233,CLIENT7234,CLIENT7235,CLIENT7240,CLIENT7245,CLIENT7247,CLIENT7248,CLIENT725,CLIENT7250,CLIENT7255,CLIENT7260,CLIENT7266,CLIENT727,CLIENT7271,CLIENT7274,CLIENT7278,CLIENT7284,CLIENT7285,CLIENT7291,CLIENT7292,CLIENT730,CLIENT7301,CLIENT7303,CLIENT7307,CLIENT7308,CLIENT731,CLIENT7316,CLIENT7318,CLIENT732,CLIENT7324,CLIENT7325,CLIENT7327,CLIENT733,CLIENT7331,CLIENT7333,CLIENT7336,CLIENT7339,CLIENT7343,CLIENT7346,CLIENT7347,CLIENT7354,CLIENT7355,CLIENT7359,CLIENT736,CLIENT7361,CLIENT7362,CLIENT7364,CLIENT7370,CLIENT7371,CLIENT7378,CLIENT7396,CLIENT7399,CLIENT74,CLIENT7403,CLIENT7409,CLIENT7411,CLIENT7414,CLIENT7419,CLIENT742,CLIENT7420,CLIENT7426,CLIENT7428,CLIENT7437,CLIENT7445,CLIENT7446,CLIENT7447,CLIENT7449,CLIENT7450,CLIENT7453,CLIENT7458,CLIENT7459,CLIENT7462,CLIENT7463,CLIENT7471,CLIENT7472,CLIENT7474,CLIENT7482,CLIENT7484,CLIENT7487,CLIENT7488,CLIENT7494,CLIENT7495,CLIENT7496,CLIENT7497,CLIENT7499,CLIENT7504,CLIENT7506,CLIENT751,CLIENT7516,CLIENT7517,CLIENT752,CLIENT7520,CLIENT7521,CLIENT7523,CLIENT7526,CLIENT7528,CLIENT753,CLIENT7530,CLIENT7532,CLIENT7533,CLIENT7536,CLIENT7539,CLIENT7540,CLIENT7544,CLIENT7552,CLIENT7558,CLIENT756,CLIENT7567,CLIENT7570,CLIENT7575,CLIENT7580,CLIENT7584,CLIENT7585,CLIENT7588,CLIENT7589,CLIENT7593,CLIENT7596,CLIENT76,CLIENT7601,CLIENT7604,CLIENT7610,CLIENT7612,CLIENT7623,CLIENT7625,CLIENT7640,CLIENT7648,CLIENT7654,CLIENT7656,CLIENT7658,CLIENT7661,CLIENT7665,CLIENT7667,CLIENT7671,CLIENT7675,CLIENT7676,CLIENT7678,CLIENT7684,CLIENT7691,CLIENT7699,CLIENT7701,CLIENT7703,CLIENT7704,CLIENT7707,CLIENT7713,CLIENT7716,CLIENT7717,CLIENT7718,CLIENT7727,CLIENT7730,CLIENT7731,CLIENT7736,CLIENT7738,CLIENT7741,CLIENT7748,CLIENT7755,CLIENT776,CLIENT7762,CLIENT7763,CLIENT7769,CLIENT777,CLIENT7775,CLIENT7778,CLIENT7780,CLIENT7781,CLIENT7784,CLIENT7788,CLIENT779,CLIENT7790,CLIENT7809,CLIENT7810,CLIENT7814,CLIENT7817,CLIENT7827,CLIENT7830,CLIENT7833,CLIENT7839,CLIENT7842,CLIENT7844,CLIENT7848,CLIENT7859,CLIENT7861,CLIENT7863,CLIENT7872,CLIENT7874,CLIENT7876,CLIENT7879,CLIENT7880,CLIENT7881,CLIENT7883,CLIENT7892,CLIENT7894,CLIENT7895,CLIENT7896,CLIENT7898,CLIENT7904,CLIENT7905,CLIENT7906,CLIENT7908,CLIENT7909,CLIENT7910,CLIENT7911,CLIENT7913,CLIENT7916,CLIENT7930,CLIENT7932,CLIENT7937,CLIENT794,CLIENT7952,CLIENT7953,CLIENT7959,CLIENT7960,CLIENT7963,CLIENT7969,CLIENT7974,CLIENT7975,CLIENT7976,CLIENT7978,CLIENT799,CLIENT7993,CLIENT7996,CLIENT7997,CLIENT80,CLIENT800,CLIENT807,CLIENT809,CLIENT810,CLIENT814,CLIENT826,CLIENT83,CLIENT832,CLIENT837,CLIENT840,CLIENT841,CLIENT843,CLIENT844,CLIENT849,CLIENT850,CLIENT853,CLIENT86,CLIENT861,CLIENT871,CLIENT874,CLIENT875,CLIENT876,CLIENT885,CLIENT886,CLIENT888,CLIENT889,CLIENT9,CLIENT90,CLIENT904,CLIENT909,CLIENT910,CLIENT911,CLIENT920,CLIENT922,CLIENT929,CLIENT931,CLIENT95,CLIENT957,CLIENT959,CLIENT96,CLIENT964,CLIENT971,CLIENT975,CLIENT983,CLIENT984,CLIENT986,CLIENT994,CLIENT995,CLIENT997,XHJ1,XHJ10,XHJ2,XHJ3,XHJ4,XHJ5,XHJ6,XHJ7,XHJ8,XHJ9,B093,GROUP2,GROUP200,B094,GROUP3,GROUP300
+
+16-11-2022 15:01:33 : Username:- prime, ByteLength:- 35518
+
+16-11-2022 15:01:33 : Username:- prime, ByteLength:- 35357
+
+16-11-2022 15:01:34 : Username:- prime, ByteLength:- 35432
+
+16-11-2022 15:01:44 : Username:- prime, ByteLength:- 35247
+
+16-11-2022 15:01:45 : Username:- prime, ByteLength:- 35239
+
+16-11-2022 15:01:46 : Username:- prime, ByteLength:- 34957
+
+16-11-2022 15:01:47 : Username:- prime, ByteLength:- 35020
+
+16-11-2022 15:01:48 : Username:- prime, ByteLength:- 35119
+
+16-11-2022 15:01:48 : Username:- prime, ByteLength:- 35107
+
+16-11-2022 15:01:49 : Username:- prime, ByteLength:- 35392
+
+16-11-2022 15:01:50 : Username:- prime, ByteLength:- 35249
+
+16-11-2022 15:01:51 : Username:- prime, ByteLength:- 35292
+
+16-11-2022 15:01:53 : Username:- prime, ByteLength:- 35224
+
+16-11-2022 15:01:53 : Username:- prime, ByteLength:- 35519
+
+16-11-2022 15:01:54 : Username:- prime, ByteLength:- 35239
+
+16-11-2022 15:01:54 : Username:- prime, ByteLength:- 35149
+
+16-11-2022 15:01:55 : Username:- prime, ByteLength:- 35276
+
+16-11-2022 15:01:56 : Username:- prime, ByteLength:- 35275
+
+16-11-2022 15:01:57 : Username:- prime, ByteLength:- 35380
+
+16-11-2022 15:01:58 : Username:- prime, ByteLength:- 35003
+
+16-11-2022 15:01:58 : Username:- prime, ByteLength:- 35076
+
+16-11-2022 15:01:59 : Username:- prime, ByteLength:- 35328
+
+16-11-2022 15:02:00 : Username:- prime, ByteLength:- 35259
+
+16-11-2022 15:02:01 : Username:- prime, ByteLength:- 35226
+
+16-11-2022 15:02:02 : Username:- prime, ByteLength:- 35248
+
+16-11-2022 15:02:02 : Username:- prime, ByteLength:- 35579
+
+16-11-2022 15:02:03 : Username:- prime, ByteLength:- 35216
+
+16-11-2022 15:02:04 : Username:- prime, ByteLength:- 35117
+
+16-11-2022 15:02:05 : Username:- prime, ByteLength:- 35359
+
+16-11-2022 15:02:06 : Username:- prime, ByteLength:- 35799
+
+16-11-2022 15:02:07 : Username:- prime, ByteLength:- 35206
+
+16-11-2022 15:02:07 : Username:- prime, ByteLength:- 35184
+
+16-11-2022 15:02:08 : Username:- prime, ByteLength:- 35224
+
+16-11-2022 15:02:09 : Username:- prime, ByteLength:- 35168
+
+16-11-2022 15:02:10 : Username:- prime, ByteLength:- 35059
+
+16-11-2022 15:02:11 : Username:- prime, ByteLength:- 35075
+
+16-11-2022 15:02:11 : Username:- prime, ByteLength:- 35337
+
+16-11-2022 15:02:12 : Username:- prime, ByteLength:- 35423
+
+16-11-2022 15:02:13 : Username:- prime, ByteLength:- 35227
+
+16-11-2022 15:02:14 : Username:- prime, ByteLength:- 35040
+
+16-11-2022 15:02:15 : Username:- prime, ByteLength:- 35471
+
+16-11-2022 15:02:15 : Username:- prime, ByteLength:- 35261
+
+16-11-2022 15:02:16 : Username:- prime, ByteLength:- 35006
+
+16-11-2022 15:02:17 : Username:- prime, ByteLength:- 35288
+
+16-11-2022 15:02:18 : Username:- prime, ByteLength:- 35065
+
+16-11-2022 15:02:19 : Username:- prime, ByteLength:- 35194
+
+16-11-2022 15:02:19 : Username:- prime, ByteLength:- 35163
+
+16-11-2022 15:02:39 : Username:- prime, ByteLength:- 35002
+
+16-11-2022 15:02:39 : Username:- prime, ByteLength:- 35192
+
+16-11-2022 15:02:41 : Username:- prime, ByteLength:- 35147
+
+16-11-2022 15:02:41 : Username:- prime, ByteLength:- 35220
+
+16-11-2022 15:02:42 : Username:- prime, ByteLength:- 35052
+
+16-11-2022 15:02:42 : Username:- prime, ByteLength:- 35040
+
+16-11-2022 15:02:43 : Username:- prime, ByteLength:- 35164
+
+16-11-2022 15:02:44 : Username:- prime, ByteLength:- 35068
+
+16-11-2022 15:02:45 : Username:- prime, ByteLength:- 35262
+
+16-11-2022 15:02:46 : Username:- prime, ByteLength:- 35068
+
+16-11-2022 15:02:46 : Username:- prime, ByteLength:- 35042
+
+16-11-2022 15:02:47 : Username:- prime, ByteLength:- 35250
+
+16-11-2022 15:02:48 : Username:- prime, ByteLength:- 35119
+
+16-11-2022 15:02:49 : Username:- prime, ByteLength:- 35109
+
+16-11-2022 15:02:50 : Username:- prime, ByteLength:- 35018
+
+16-11-2022 15:02:51 : Username:- prime, ByteLength:- 35105
+
+16-11-2022 15:02:51 : Username:- prime, ByteLength:- 35260
+
+16-11-2022 15:02:52 : Username:- prime, ByteLength:- 35310
+
+16-11-2022 15:02:53 : Username:- prime, ByteLength:- 35112
+
+16-11-2022 15:02:54 : Username:- prime, ByteLength:- 35347
+
+16-11-2022 15:02:55 : Username:- prime, ByteLength:- 34969
+
+16-11-2022 15:02:55 : Username:- prime, ByteLength:- 35156
+
+16-11-2022 15:02:56 : Username:- prime, ByteLength:- 35060
+
+16-11-2022 15:02:57 : Username:- prime, ByteLength:- 34939
+
+16-11-2022 15:02:58 : Username:- prime, ByteLength:- 35047
+
+16-11-2022 15:02:59 : Username:- prime, ByteLength:- 35241
+
+16-11-2022 15:02:59 : Username:- prime, ByteLength:- 34958
+
+16-11-2022 15:03:00 : Username:- prime, ByteLength:- 35187
+
+16-11-2022 15:03:01 : Username:- prime, ByteLength:- 35626
+
+16-11-2022 15:03:02 : Username:- prime, ByteLength:- 35172
+
+16-11-2022 15:03:03 : Username:- prime, ByteLength:- 35023
+
+16-11-2022 15:03:03 : Username:- prime, ByteLength:- 35101
+
+16-11-2022 15:03:04 : Username:- prime, ByteLength:- 35067
+
+16-11-2022 15:03:05 : Username:- prime, ByteLength:- 35214
+
+16-11-2022 15:03:06 : Username:- prime, ByteLength:- 35162
+
+16-11-2022 15:03:15 : Username:- prime, ByteLength:- 35187
+
+16-11-2022 15:03:16 : Username:- prime, ByteLength:- 35146
+
+16-11-2022 15:03:17 : Username:- prime, ByteLength:- 35233
+
+16-11-2022 15:03:17 : Username:- prime, ByteLength:- 35123
+
+16-11-2022 15:03:18 : Username:- prime, ByteLength:- 36136
+
+16-11-2022 15:03:18 : ReceiveSpanResponse Received- 5887
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 110
+
+16-11-2022 15:03:18 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 50
+
+16-11-2022 15:03:19 : Username:- prime, ByteLength:- 35273
+
+16-11-2022 15:03:20 : Username:- prime, ByteLength:- 35234
+
+16-11-2022 15:03:21 : Username:- prime, ByteLength:- 35254
+
+16-11-2022 15:03:21 : Retrying nImageB Span 127.0.0.1:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+16-11-2022 15:03:21 : Retrying nImageB Span 127.0.0.1:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+16-11-2022 15:03:21 : Retrying 127.0.0.1:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+16-11-2022 15:03:21 : Username:- prime, ByteLength:- 35058
+
+16-11-2022 15:03:22 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+16-11-2022 15:03:22 : ReceiveTradeResponse Received- 547591
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+16-11-2022 15:03:22 : ReceiveSpanResponse Received- 3662
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+16-11-2022 15:03:22 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+16-11-2022 15:03:22 : Username:- prime, ByteLength:- 35151
+
+16-11-2022 15:03:23 : Username:- prime, ByteLength:- 35199
+
+16-11-2022 15:03:24 : Username:- prime, ByteLength:- 35166
+
+16-11-2022 15:03:24 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+16-11-2022 15:03:24 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+16-11-2022 15:03:24 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+16-11-2022 15:03:24 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+16-11-2022 15:03:25 : EngineProcess_FormClosing
+
+16-11-2022 15:08:48 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 15:08:49 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+16-11-2022 15:08:49 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 15:08:49 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+16-11-2022 15:08:49 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+16-11-2022 15:09:02 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+16-11-2022 15:09:42 : Received HB Server : ID^3203C83D4C2D
+
+16-11-2022 15:09:44 : Received HB Server : USER^prime|prime123|5.3.3.3
+
+16-11-2022 15:09:44 : Received HB Server : CLIENT^prime
+
+16-11-2022 15:09:44 : Received HB Server : BAN^prime
+
+16-11-2022 15:09:52 : IP added to list PRIME|127.0.0.1:58243
+
+16-11-2022 15:09:52 : IP added to Span list PRIME|127.0.0.1:58244
+
+16-11-2022 15:10:00 : Username:- prime, ByteLength:- 33683
+
+16-11-2022 15:10:00 : Username:- prime, ByteLength:- 33871
+
+16-11-2022 15:10:01 : Username:- prime, ByteLength:- 33911
+
+16-11-2022 15:10:01 : Username:- prime, ByteLength:- 33792
+
+16-11-2022 15:10:02 : Username:- prime, ByteLength:- 34100
+
+16-11-2022 15:10:04 : Username:- prime, ByteLength:- 33693
+
+16-11-2022 15:10:04 : Username:- prime, ByteLength:- 33741
+
+16-11-2022 15:10:05 : Username:- prime, ByteLength:- 33952
+
+16-11-2022 15:10:05 : Username:- prime, ByteLength:- 33996
+
+16-11-2022 15:10:06 : Username:- prime, ByteLength:- 33687
+
+16-11-2022 15:10:07 : Username:- prime, ByteLength:- 33792
+
+16-11-2022 15:10:08 : Username:- prime, ByteLength:- 33841
+
+16-11-2022 15:10:09 : Username:- prime, ByteLength:- 33721
+
+16-11-2022 15:10:09 : Username:- prime, ByteLength:- 33746
+
+16-11-2022 15:10:10 : Username:- prime, ByteLength:- 33730
+
+16-11-2022 15:10:11 : Username:- prime, ByteLength:- 33897
+
+16-11-2022 15:10:12 : Username:- prime, ByteLength:- 33762
+
+16-11-2022 15:10:13 : Username:- prime, ByteLength:- 33802
+
+16-11-2022 15:10:14 : Username:- prime, ByteLength:- 33727
+
+16-11-2022 15:10:14 : Username:- prime, ByteLength:- 33753
+
+16-11-2022 15:10:15 : Username:- prime, ByteLength:- 33884
+
+16-11-2022 15:10:16 : Username:- prime, ByteLength:- 33688
+
+16-11-2022 15:10:17 : Username:- prime, ByteLength:- 33770
+
+16-11-2022 15:10:20 : Username:- prime, ByteLength:- 33929
+
+16-11-2022 15:10:23 : Username:- prime, ByteLength:- 33794
+
+16-11-2022 15:10:25 : Username:- prime, ByteLength:- 33708
+
+16-11-2022 15:10:30 : Username:- prime, ByteLength:- 33894
+
+16-11-2022 15:10:30 : Username:- prime, ByteLength:- 33776
+
+16-11-2022 15:10:30 : Username:- prime, ByteLength:- 33893
+
+16-11-2022 15:10:31 : Username:- prime, ByteLength:- 33845
+
+16-11-2022 15:10:32 : Username:- prime, ByteLength:- 33972
+
+16-11-2022 15:10:33 : Username:- prime, ByteLength:- 33810
+
+16-11-2022 15:10:34 : Username:- prime, ByteLength:- 33713
+
+16-11-2022 15:10:35 : Username:- prime, ByteLength:- 33746
+
+16-11-2022 15:10:35 : Username:- prime, ByteLength:- 33745
+
+16-11-2022 15:10:36 : Username:- prime, ByteLength:- 33795
+
+16-11-2022 15:10:37 : Username:- prime, ByteLength:- 33819
+
+16-11-2022 15:10:38 : Username:- prime, ByteLength:- 33777
+
+16-11-2022 15:10:39 : Username:- prime, ByteLength:- 33815
+
+16-11-2022 15:10:39 : Username:- prime, ByteLength:- 33878
+
+16-11-2022 15:10:40 : Username:- prime, ByteLength:- 33802
+
+16-11-2022 15:10:41 : Username:- prime, ByteLength:- 33661
+
+16-11-2022 15:10:42 : Username:- prime, ByteLength:- 33629
+
+16-11-2022 15:10:43 : Username:- prime, ByteLength:- 33838
+
+16-11-2022 15:10:43 : Username:- prime, ByteLength:- 33974
+
+16-11-2022 15:10:44 : Username:- prime, ByteLength:- 33696
+
+16-11-2022 15:10:45 : Username:- prime, ByteLength:- 33890
+
+16-11-2022 15:10:46 : Username:- prime, ByteLength:- 33816
+
+16-11-2022 15:10:47 : Username:- prime, ByteLength:- 33916
+
+16-11-2022 15:10:47 : Username:- prime, ByteLength:- 33810
+
+16-11-2022 15:10:48 : Username:- prime, ByteLength:- 33773
+
+16-11-2022 15:10:49 : Username:- prime, ByteLength:- 33901
+
+16-11-2022 15:10:50 : Username:- prime, ByteLength:- 33725
+
+16-11-2022 15:10:51 : Username:- prime, ByteLength:- 33771
+
+16-11-2022 15:10:52 : Username:- prime, ByteLength:- 33850
+
+16-11-2022 15:10:52 : Username:- prime, ByteLength:- 33735
+
+16-11-2022 15:10:53 : Username:- prime, ByteLength:- 33749
+
+16-11-2022 15:10:54 : Username:- prime, ByteLength:- 33721
+
+16-11-2022 15:10:55 : Username:- prime, ByteLength:- 33712
+
+16-11-2022 15:10:56 : Username:- prime, ByteLength:- 33907
+
+16-11-2022 15:10:56 : Username:- prime, ByteLength:- 33810
+
+16-11-2022 15:10:57 : Username:- prime, ByteLength:- 33792
+
+16-11-2022 15:10:58 : Username:- prime, ByteLength:- 33779
+
+16-11-2022 15:10:59 : Username:- prime, ByteLength:- 33866
+
+16-11-2022 15:11:00 : Username:- prime, ByteLength:- 33839
+
+16-11-2022 15:11:00 : Username:- prime, ByteLength:- 33893
+
+16-11-2022 15:11:01 : Username:- prime, ByteLength:- 33806
+
+16-11-2022 15:11:02 : Username:- prime, ByteLength:- 33789
+
+16-11-2022 15:11:09 : Username:- prime, ByteLength:- 33768
+
+16-11-2022 15:11:11 : Username:- prime, ByteLength:- 33728
+
+16-11-2022 15:11:15 : Username:- prime, ByteLength:- 33816
+
+16-11-2022 15:11:16 : Username:- prime, ByteLength:- 33915
+
+16-11-2022 15:11:17 : Username:- prime, ByteLength:- 33873
+
+16-11-2022 15:11:17 : Username:- prime, ByteLength:- 34083
+
+16-11-2022 15:11:18 : Username:- prime, ByteLength:- 33741
+
+16-11-2022 15:11:19 : Username:- prime, ByteLength:- 33715
+
+16-11-2022 15:11:20 : Username:- prime, ByteLength:- 33953
+
+16-11-2022 15:11:21 : Username:- prime, ByteLength:- 33745
+
+16-11-2022 15:11:22 : Username:- prime, ByteLength:- 33772
+
+16-11-2022 15:11:22 : Username:- prime, ByteLength:- 33674
+
+16-11-2022 15:11:23 : Username:- prime, ByteLength:- 33768
+
+16-11-2022 15:11:24 : Username:- prime, ByteLength:- 33809
+
+16-11-2022 15:11:25 : Username:- prime, ByteLength:- 33808
+
+16-11-2022 15:11:26 : Username:- prime, ByteLength:- 33737
+
+16-11-2022 15:11:26 : Username:- prime, ByteLength:- 33810
+
+16-11-2022 15:11:27 : Username:- prime, ByteLength:- 33753
+
+16-11-2022 15:11:28 : Username:- prime, ByteLength:- 33670
+
+16-11-2022 15:11:29 : Username:- prime, ByteLength:- 34000
+
+16-11-2022 15:11:30 : Username:- prime, ByteLength:- 33779
+
+16-11-2022 15:11:30 : Username:- prime, ByteLength:- 33800
+
+16-11-2022 15:11:31 : Username:- prime, ByteLength:- 33674
+
+16-11-2022 15:11:32 : Username:- prime, ByteLength:- 33563
+
+16-11-2022 15:11:33 : Username:- prime, ByteLength:- 33838
+
+16-11-2022 15:11:34 : Username:- prime, ByteLength:- 33754
+
+16-11-2022 15:11:34 : Username:- prime, ByteLength:- 33807
+
+16-11-2022 15:11:35 : Username:- prime, ByteLength:- 33860
+
+16-11-2022 15:11:36 : Username:- prime, ByteLength:- 33760
+
+16-11-2022 15:11:37 : Username:- prime, ByteLength:- 33804
+
+16-11-2022 15:11:38 : Username:- prime, ByteLength:- 33757
+
+16-11-2022 15:11:38 : Username:- prime, ByteLength:- 33908
+
+16-11-2022 15:11:39 : Username:- prime, ByteLength:- 33624
+
+16-11-2022 15:11:40 : Username:- prime, ByteLength:- 33630
+
+16-11-2022 15:11:41 : Username:- prime, ByteLength:- 33902
+
+16-11-2022 15:11:42 : Username:- prime, ByteLength:- 33839
+
+16-11-2022 15:11:43 : Username:- prime, ByteLength:- 33790
+
+16-11-2022 15:11:43 : Username:- prime, ByteLength:- 33780
+
+16-11-2022 15:11:44 : Username:- prime, ByteLength:- 33770
+
+16-11-2022 15:11:45 : Username:- prime, ByteLength:- 33743
+
+16-11-2022 15:11:46 : Username:- prime, ByteLength:- 33784
+
+16-11-2022 15:11:47 : Username:- prime, ByteLength:- 33680
+
+16-11-2022 15:11:47 : Username:- prime, ByteLength:- 33784
+
+16-11-2022 15:11:48 : Username:- prime, ByteLength:- 33747
+
+16-11-2022 15:11:49 : Username:- prime, ByteLength:- 33801
+
+16-11-2022 15:11:50 : Username:- prime, ByteLength:- 33658
+
+16-11-2022 15:11:57 : Username:- prime, ByteLength:- 33773
+
+16-11-2022 15:12:01 : Username:- prime, ByteLength:- 33845
+
+16-11-2022 15:12:06 : Username:- prime, ByteLength:- 33627
+
+16-11-2022 15:12:07 : Username:- prime, ByteLength:- 33802
+
+16-11-2022 15:12:08 : Username:- prime, ByteLength:- 33841
+
+16-11-2022 15:12:08 : Username:- prime, ByteLength:- 33797
+
+16-11-2022 15:12:09 : Username:- prime, ByteLength:- 33748
+
+16-11-2022 15:12:10 : Username:- prime, ByteLength:- 33747
+
+16-11-2022 15:12:11 : Username:- prime, ByteLength:- 33855
+
+16-11-2022 15:12:12 : Username:- prime, ByteLength:- 33755
+
+16-11-2022 15:12:12 : Username:- prime, ByteLength:- 34035
+
+16-11-2022 15:12:13 : Username:- prime, ByteLength:- 33813
+
+16-11-2022 15:12:14 : Username:- prime, ByteLength:- 33744
+
+16-11-2022 15:12:15 : Username:- prime, ByteLength:- 33674
+
+16-11-2022 15:12:16 : Username:- prime, ByteLength:- 33925
+
+16-11-2022 15:12:16 : Username:- prime, ByteLength:- 33857
+
+16-11-2022 15:12:17 : Username:- prime, ByteLength:- 33866
+
+16-11-2022 15:12:18 : Username:- prime, ByteLength:- 33814
+
+16-11-2022 15:12:19 : Username:- prime, ByteLength:- 33782
+
+16-11-2022 15:12:20 : Username:- prime, ByteLength:- 33706
+
+16-11-2022 15:12:21 : Username:- prime, ByteLength:- 33893
+
+16-11-2022 15:12:21 : Username:- prime, ByteLength:- 33845
+
+16-11-2022 15:12:22 : Username:- prime, ByteLength:- 33800
+
+16-11-2022 15:12:23 : Username:- prime, ByteLength:- 33781
+
+16-11-2022 15:12:24 : Username:- prime, ByteLength:- 33792
+
+16-11-2022 15:12:25 : Username:- prime, ByteLength:- 33922
+
+16-11-2022 15:12:27 : Username:- prime, ByteLength:- 33865
+
+16-11-2022 15:12:35 : Username:- prime, ByteLength:- 33842
+
+16-11-2022 15:12:41 : Username:- prime, ByteLength:- 33760
+
+16-11-2022 15:12:45 : Username:- prime, ByteLength:- 33756
+
+16-11-2022 15:12:46 : Username:- prime, ByteLength:- 33889
+
+16-11-2022 15:12:47 : Username:- prime, ByteLength:- 33974
+
+16-11-2022 15:12:47 : Username:- prime, ByteLength:- 33805
+
+16-11-2022 15:12:48 : Username:- prime, ByteLength:- 33771
+
+16-11-2022 15:12:49 : Username:- prime, ByteLength:- 33875
+
+16-11-2022 15:12:50 : Username:- prime, ByteLength:- 33639
+
+16-11-2022 15:12:51 : Username:- prime, ByteLength:- 33911
+
+16-11-2022 15:12:51 : Username:- prime, ByteLength:- 33694
+
+16-11-2022 15:12:52 : Username:- prime, ByteLength:- 33767
+
+16-11-2022 15:12:53 : Username:- prime, ByteLength:- 33839
+
+16-11-2022 15:12:54 : Username:- prime, ByteLength:- 33889
+
+16-11-2022 15:12:55 : Username:- prime, ByteLength:- 33814
+
+16-11-2022 15:12:55 : Username:- prime, ByteLength:- 33583
+
+16-11-2022 15:12:56 : Username:- prime, ByteLength:- 33883
+
+16-11-2022 15:12:57 : Username:- prime, ByteLength:- 33897
+
+16-11-2022 15:12:58 : Username:- prime, ByteLength:- 33776
+
+16-11-2022 15:12:59 : Username:- prime, ByteLength:- 33826
+
+16-11-2022 15:12:59 : Username:- prime, ByteLength:- 33779
+
+16-11-2022 15:13:00 : Username:- prime, ByteLength:- 33686
+
+16-11-2022 15:13:01 : Username:- prime, ByteLength:- 33810
+
+16-11-2022 15:13:02 : Username:- prime, ByteLength:- 33690
+
+16-11-2022 15:13:03 : Username:- prime, ByteLength:- 33755
+
+16-11-2022 15:13:04 : Username:- prime, ByteLength:- 33930
+
+16-11-2022 15:13:04 : Username:- prime, ByteLength:- 33766
+
+16-11-2022 15:13:05 : Username:- prime, ByteLength:- 33704
+
+16-11-2022 15:13:06 : Username:- prime, ByteLength:- 33823
+
+16-11-2022 15:13:07 : Username:- prime, ByteLength:- 33815
+
+16-11-2022 15:13:08 : Username:- prime, ByteLength:- 33577
+
+16-11-2022 15:13:08 : Username:- prime, ByteLength:- 33786
+
+16-11-2022 15:13:09 : Username:- prime, ByteLength:- 33710
+
+16-11-2022 15:13:10 : Username:- prime, ByteLength:- 33808
+
+16-11-2022 15:13:11 : Username:- prime, ByteLength:- 33730
+
+16-11-2022 15:13:12 : Username:- prime, ByteLength:- 33803
+
+16-11-2022 15:13:12 : Username:- prime, ByteLength:- 33775
+
+16-11-2022 15:13:13 : Username:- prime, ByteLength:- 33781
+
+16-11-2022 15:13:14 : Username:- prime, ByteLength:- 33892
+
+16-11-2022 15:13:15 : Username:- prime, ByteLength:- 33971
+
+16-11-2022 15:13:16 : Username:- prime, ByteLength:- 33774
+
+16-11-2022 15:13:17 : Username:- prime, ByteLength:- 33817
+
+16-11-2022 15:13:17 : Username:- prime, ByteLength:- 33816
+
+16-11-2022 15:13:18 : Username:- prime, ByteLength:- 33868
+
+16-11-2022 15:13:19 : Username:- prime, ByteLength:- 33724
+
+16-11-2022 15:13:20 : Username:- prime, ByteLength:- 33762
+
+16-11-2022 15:13:21 : Username:- prime, ByteLength:- 33768
+
+16-11-2022 15:13:21 : Username:- prime, ByteLength:- 33954
+
+16-11-2022 15:13:22 : Username:- prime, ByteLength:- 33596
+
+16-11-2022 15:13:23 : Username:- prime, ByteLength:- 33830
+
+16-11-2022 15:13:24 : Username:- prime, ByteLength:- 33835
+
+16-11-2022 15:13:25 : Username:- prime, ByteLength:- 33941
+
+16-11-2022 15:13:25 : Username:- prime, ByteLength:- 33757
+
+16-11-2022 15:13:26 : Username:- prime, ByteLength:- 33879
+
+16-11-2022 15:13:27 : Username:- prime, ByteLength:- 33679
+
+16-11-2022 15:13:29 : Username:- prime, ByteLength:- 33894
+
+16-11-2022 15:13:29 : Username:- prime, ByteLength:- 33943
+
+16-11-2022 15:13:29 : Username:- prime, ByteLength:- 33882
+
+16-11-2022 15:13:30 : Username:- prime, ByteLength:- 33965
+
+16-11-2022 15:13:31 : Username:- prime, ByteLength:- 33773
+
+16-11-2022 15:13:32 : Username:- prime, ByteLength:- 33941
+
+16-11-2022 15:13:33 : Username:- prime, ByteLength:- 33741
+
+16-11-2022 15:13:34 : Username:- prime, ByteLength:- 33828
+
+16-11-2022 15:13:34 : Username:- prime, ByteLength:- 33795
+
+16-11-2022 15:13:35 : Username:- prime, ByteLength:- 33708
+
+16-11-2022 15:13:36 : Username:- prime, ByteLength:- 33965
+
+16-11-2022 15:13:37 : Username:- prime, ByteLength:- 33779
+
+16-11-2022 15:13:38 : Username:- prime, ByteLength:- 33678
+
+16-11-2022 15:13:38 : Username:- prime, ByteLength:- 33629
+
+16-11-2022 15:13:39 : Username:- prime, ByteLength:- 33590
+
+16-11-2022 15:13:40 : Username:- prime, ByteLength:- 33783
+
+16-11-2022 15:13:41 : Username:- prime, ByteLength:- 33711
+
+16-11-2022 15:13:42 : Username:- prime, ByteLength:- 33920
+
+16-11-2022 15:13:42 : Username:- prime, ByteLength:- 33648
+
+16-11-2022 15:13:43 : Username:- prime, ByteLength:- 33797
+
+16-11-2022 15:13:45 : Username:- prime, ByteLength:- 33692
+
+16-11-2022 15:13:50 : Username:- prime, ByteLength:- 33732
+
+16-11-2022 15:13:55 : Username:- prime, ByteLength:- 33829
+
+16-11-2022 15:14:00 : Username:- prime, ByteLength:- 33840
+
+16-11-2022 15:14:04 : Username:- prime, ByteLength:- 33752
+
+16-11-2022 15:14:05 : Username:- prime, ByteLength:- 33779
+
+16-11-2022 15:14:06 : Username:- prime, ByteLength:- 33703
+
+16-11-2022 15:14:07 : Username:- prime, ByteLength:- 33733
+
+16-11-2022 15:14:08 : Username:- prime, ByteLength:- 33841
+
+16-11-2022 15:14:08 : Username:- prime, ByteLength:- 33775
+
+16-11-2022 15:14:09 : Username:- prime, ByteLength:- 33922
+
+16-11-2022 15:14:10 : Username:- prime, ByteLength:- 33763
+
+16-11-2022 15:14:11 : Username:- prime, ByteLength:- 33792
+
+16-11-2022 15:14:12 : Username:- prime, ByteLength:- 33902
+
+16-11-2022 15:14:12 : Username:- prime, ByteLength:- 33816
+
+16-11-2022 15:14:13 : Username:- prime, ByteLength:- 33814
+
+16-11-2022 15:14:14 : Username:- prime, ByteLength:- 33921
+
+16-11-2022 15:14:15 : Username:- prime, ByteLength:- 33917
+
+16-11-2022 15:14:16 : Username:- prime, ByteLength:- 33949
+
+16-11-2022 15:14:16 : Username:- prime, ByteLength:- 33836
+
+16-11-2022 15:14:17 : Username:- prime, ByteLength:- 33732
+
+16-11-2022 15:14:18 : Username:- prime, ByteLength:- 33751
+
+16-11-2022 15:14:19 : Username:- prime, ByteLength:- 33921
+
+16-11-2022 15:14:20 : Username:- prime, ByteLength:- 33811
+
+16-11-2022 15:14:21 : Username:- prime, ByteLength:- 33909
+
+16-11-2022 15:14:21 : Username:- prime, ByteLength:- 33800
+
+16-11-2022 15:14:22 : Username:- prime, ByteLength:- 33700
+
+16-11-2022 15:14:23 : Username:- prime, ByteLength:- 33708
+
+16-11-2022 15:14:24 : Username:- prime, ByteLength:- 33718
+
+16-11-2022 15:14:25 : Username:- prime, ByteLength:- 33798
+
+16-11-2022 15:14:25 : Username:- prime, ByteLength:- 33774
+
+16-11-2022 15:14:26 : Username:- prime, ByteLength:- 33911
+
+16-11-2022 15:14:27 : Username:- prime, ByteLength:- 33789
+
+16-11-2022 15:14:28 : Username:- prime, ByteLength:- 33708
+
+16-11-2022 15:14:29 : Username:- prime, ByteLength:- 33659
+
+16-11-2022 15:14:29 : Username:- prime, ByteLength:- 33763
+
+16-11-2022 15:14:30 : Username:- prime, ByteLength:- 33794
+
+16-11-2022 15:14:31 : Username:- prime, ByteLength:- 34024
+
+16-11-2022 15:14:32 : Username:- prime, ByteLength:- 33686
+
+16-11-2022 15:14:33 : Username:- prime, ByteLength:- 33872
+
+16-11-2022 15:14:34 : Username:- prime, ByteLength:- 33830
+
+16-11-2022 15:14:34 : Username:- prime, ByteLength:- 33723
+
+16-11-2022 15:14:35 : Username:- prime, ByteLength:- 34001
+
+16-11-2022 15:14:36 : Username:- prime, ByteLength:- 33784
+
+16-11-2022 15:14:37 : Username:- prime, ByteLength:- 33808
+
+16-11-2022 15:14:38 : Username:- prime, ByteLength:- 33899
+
+16-11-2022 15:14:38 : Username:- prime, ByteLength:- 33797
+
+16-11-2022 15:14:39 : Username:- prime, ByteLength:- 33872
+
+16-11-2022 15:14:40 : Username:- prime, ByteLength:- 33640
+
+16-11-2022 15:14:41 : Username:- prime, ByteLength:- 33696
+
+16-11-2022 15:14:42 : Username:- prime, ByteLength:- 33701
+
+16-11-2022 15:14:42 : Username:- prime, ByteLength:- 33838
+
+16-11-2022 15:14:43 : Username:- prime, ByteLength:- 33776
+
+16-11-2022 15:14:44 : Username:- prime, ByteLength:- 33723
+
+16-11-2022 15:14:45 : Username:- prime, ByteLength:- 33781
+
+16-11-2022 15:14:46 : Username:- prime, ByteLength:- 33950
+
+16-11-2022 15:14:46 : Username:- prime, ByteLength:- 33777
+
+16-11-2022 15:14:47 : Username:- prime, ByteLength:- 33801
+
+16-11-2022 15:14:48 : Username:- prime, ByteLength:- 33775
+
+16-11-2022 15:14:49 : Username:- prime, ByteLength:- 33880
+
+16-11-2022 15:14:50 : Username:- prime, ByteLength:- 33757
+
+16-11-2022 15:14:50 : Username:- prime, ByteLength:- 33618
+
+16-11-2022 15:14:53 : Username:- prime, ByteLength:- 33839
+
+16-11-2022 15:15:01 : Username:- prime, ByteLength:- 33823
+
+16-11-2022 15:15:01 : Username:- prime, ByteLength:- 33828
+
+16-11-2022 15:15:08 : Username:- prime, ByteLength:- 33690
+
+16-11-2022 15:15:08 : Username:- prime, ByteLength:- 33599
+
+16-11-2022 15:15:09 : Username:- prime, ByteLength:- 33792
+
+16-11-2022 15:15:10 : Username:- prime, ByteLength:- 33747
+
+16-11-2022 15:15:11 : Username:- prime, ByteLength:- 33790
+
+16-11-2022 15:15:12 : Username:- prime, ByteLength:- 33776
+
+16-11-2022 15:15:12 : Username:- prime, ByteLength:- 33854
+
+16-11-2022 15:15:13 : Username:- prime, ByteLength:- 33765
+
+16-11-2022 15:15:14 : Username:- prime, ByteLength:- 33773
+
+16-11-2022 15:15:15 : Username:- prime, ByteLength:- 33933
+
+16-11-2022 15:15:16 : Username:- prime, ByteLength:- 33760
+
+16-11-2022 15:15:16 : Username:- prime, ByteLength:- 33884
+
+16-11-2022 15:15:17 : Username:- prime, ByteLength:- 33834
+
+16-11-2022 15:15:18 : Username:- prime, ByteLength:- 33622
+
+16-11-2022 15:15:19 : Username:- prime, ByteLength:- 33696
+
+16-11-2022 15:15:20 : Username:- prime, ByteLength:- 33596
+
+16-11-2022 15:15:20 : Username:- prime, ByteLength:- 33819
+
+16-11-2022 15:15:21 : Username:- prime, ByteLength:- 33786
+
+16-11-2022 15:15:22 : Username:- prime, ByteLength:- 33723
+
+16-11-2022 15:15:23 : Username:- prime, ByteLength:- 33764
+
+16-11-2022 15:15:24 : Username:- prime, ByteLength:- 33757
+
+16-11-2022 15:15:24 : Username:- prime, ByteLength:- 33702
+
+16-11-2022 15:15:25 : Username:- prime, ByteLength:- 33845
+
+16-11-2022 15:15:26 : Username:- prime, ByteLength:- 33733
+
+16-11-2022 15:15:27 : Username:- prime, ByteLength:- 33759
+
+16-11-2022 15:15:28 : Username:- prime, ByteLength:- 33884
+
+16-11-2022 15:15:29 : Username:- prime, ByteLength:- 33870
+
+16-11-2022 15:15:29 : Username:- prime, ByteLength:- 33814
+
+16-11-2022 15:15:30 : Username:- prime, ByteLength:- 33724
+
+16-11-2022 15:15:31 : Username:- prime, ByteLength:- 33879
+
+16-11-2022 15:15:32 : Username:- prime, ByteLength:- 33691
+
+16-11-2022 15:15:33 : Username:- prime, ByteLength:- 33766
+
+16-11-2022 15:15:33 : Username:- prime, ByteLength:- 33760
+
+16-11-2022 15:15:34 : Username:- prime, ByteLength:- 33653
+
+16-11-2022 15:15:35 : Username:- prime, ByteLength:- 33752
+
+16-11-2022 15:15:36 : Username:- prime, ByteLength:- 33837
+
+16-11-2022 15:15:37 : Username:- prime, ByteLength:- 33795
+
+16-11-2022 15:15:37 : Username:- prime, ByteLength:- 33748
+
+16-11-2022 15:15:38 : Username:- prime, ByteLength:- 33797
+
+16-11-2022 15:15:39 : Username:- prime, ByteLength:- 33844
+
+16-11-2022 15:15:40 : Username:- prime, ByteLength:- 33742
+
+16-11-2022 15:15:41 : Username:- prime, ByteLength:- 33777
+
+16-11-2022 15:15:41 : Username:- prime, ByteLength:- 33860
+
+16-11-2022 15:15:42 : Username:- prime, ByteLength:- 33868
+
+16-11-2022 15:15:43 : Username:- prime, ByteLength:- 33685
+
+16-11-2022 15:15:44 : Username:- prime, ByteLength:- 33745
+
+16-11-2022 15:15:45 : Username:- prime, ByteLength:- 33619
+
+16-11-2022 15:15:45 : Username:- prime, ByteLength:- 33772
+
+16-11-2022 15:15:51 : Username:- prime, ByteLength:- 33958
+
+16-11-2022 15:15:51 : Username:- prime, ByteLength:- 33853
+
+16-11-2022 15:15:57 : Username:- prime, ByteLength:- 33949
+
+16-11-2022 15:15:58 : Username:- prime, ByteLength:- 33671
+
+16-11-2022 15:15:58 : Username:- prime, ByteLength:- 33685
+
+16-11-2022 15:15:59 : Username:- prime, ByteLength:- 33785
+
+16-11-2022 15:16:00 : Username:- prime, ByteLength:- 33712
+
+16-11-2022 15:16:01 : Username:- prime, ByteLength:- 33753
+
+16-11-2022 15:16:02 : Username:- prime, ByteLength:- 33723
+
+16-11-2022 15:16:02 : Username:- prime, ByteLength:- 33716
+
+16-11-2022 15:16:03 : Username:- prime, ByteLength:- 33698
+
+16-11-2022 15:16:04 : Username:- prime, ByteLength:- 33824
+
+16-11-2022 15:16:05 : Username:- prime, ByteLength:- 33578
+
+16-11-2022 15:16:06 : Username:- prime, ByteLength:- 33685
+
+16-11-2022 15:16:07 : Username:- prime, ByteLength:- 33569
+
+16-11-2022 15:16:07 : Username:- prime, ByteLength:- 33708
+
+16-11-2022 15:16:08 : Username:- prime, ByteLength:- 33622
+
+16-11-2022 15:16:09 : Username:- prime, ByteLength:- 33854
+
+16-11-2022 15:16:10 : Username:- prime, ByteLength:- 33744
+
+16-11-2022 15:16:11 : Username:- prime, ByteLength:- 33675
+
+16-11-2022 15:16:11 : Username:- prime, ByteLength:- 33754
+
+16-11-2022 15:16:12 : Username:- prime, ByteLength:- 33640
+
+16-11-2022 15:16:13 : Username:- prime, ByteLength:- 33858
+
+16-11-2022 15:16:14 : Username:- prime, ByteLength:- 33757
+
+16-11-2022 15:16:15 : Username:- prime, ByteLength:- 33748
+
+16-11-2022 15:16:15 : Username:- prime, ByteLength:- 33626
+
+16-11-2022 15:16:16 : Username:- prime, ByteLength:- 33728
+
+16-11-2022 15:16:17 : Username:- prime, ByteLength:- 33759
+
+16-11-2022 15:16:18 : Username:- prime, ByteLength:- 33600
+
+16-11-2022 15:16:19 : Username:- prime, ByteLength:- 33769
+
+16-11-2022 15:16:19 : Username:- prime, ByteLength:- 33673
+
+16-11-2022 15:16:20 : Username:- prime, ByteLength:- 33620
+
+16-11-2022 15:16:21 : Username:- prime, ByteLength:- 33596
+
+16-11-2022 15:16:22 : Username:- prime, ByteLength:- 33773
+
+16-11-2022 15:16:23 : Username:- prime, ByteLength:- 33822
+
+16-11-2022 15:16:23 : Username:- prime, ByteLength:- 33648
+
+16-11-2022 15:16:24 : Username:- prime, ByteLength:- 33600
+
+16-11-2022 15:16:25 : Username:- prime, ByteLength:- 33848
+
+16-11-2022 15:16:26 : Username:- prime, ByteLength:- 33673
+
+16-11-2022 15:16:27 : Username:- prime, ByteLength:- 34048
+
+16-11-2022 15:16:27 : Username:- prime, ByteLength:- 33840
+
+16-11-2022 15:16:28 : Username:- prime, ByteLength:- 33746
+
+16-11-2022 15:16:29 : Username:- prime, ByteLength:- 33615
+
+16-11-2022 15:16:30 : Username:- prime, ByteLength:- 33839
+
+16-11-2022 15:16:31 : Username:- prime, ByteLength:- 33765
+
+16-11-2022 15:16:32 : Username:- prime, ByteLength:- 33817
+
+16-11-2022 15:16:33 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+16-11-2022 15:16:33 : ReceiveSpanResponse Received- 2824
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+16-11-2022 15:16:33 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+16-11-2022 15:16:33 : ReceiveTradeResponse Received- 419589
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+16-11-2022 15:16:33 : Username:- prime, ByteLength:- 33652
+
+16-11-2022 15:16:34 : Username:- prime, ByteLength:- 33758
+
+16-11-2022 15:16:34 : ObjFeed_eve_ConenctionMessage EX : CM Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.ReceiveCMResponse(Socket soc_Sender, String SocketKey)
+
+16-11-2022 15:16:34 : ObjFeed_eve_ConenctionMessage EX : FO Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.ReceiveFOResponse(Socket soc_Sender, String SocketKey)
+
+16-11-2022 15:16:34 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 15:16:34 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 15:16:34 : Username:- prime, ByteLength:- 32269
+
+16-11-2022 15:16:35 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+16-11-2022 15:16:35 : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+16-11-2022 15:16:35 : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+16-11-2022 15:16:35 : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+16-11-2022 15:16:35 : Username:- prime, ByteLength:- 32192
+
+16-11-2022 15:16:36 : ObjFeed_eve_ConenctionMessage : CM Retrying [127.0.0.1:8706]
+
+16-11-2022 15:16:36 : ObjFeed_eve_ConenctionMessage : FO Retrying [127.0.0.1:8707]
+
+16-11-2022 15:16:36 : Username:- prime, ByteLength:- 32249
+
+16-11-2022 15:16:37 : Username:- prime, ByteLength:- 32186
+
+16-11-2022 15:16:38 : Username:- prime, ByteLength:- 32249
+
+16-11-2022 15:16:38 : Username:- prime, ByteLength:- 32157
+
+16-11-2022 15:16:39 : Username:- prime, ByteLength:- 32197
+
+16-11-2022 15:16:40 : Username:- prime, ByteLength:- 32230
+
+16-11-2022 15:45:49 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 15:45:54 : ObjFeed_eve_ConenctionMessage : FO Retrying [127.0.0.1:8707]
+
+16-11-2022 15:46:09 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2
+
+16-11-2022 15:46:11 : ObjFeed_eve_ConenctionMessage : FO Retrying [127.0.0.1:8707]
+
+16-11-2022 15:46:26 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 3
+
+16-11-2022 15:46:28 : ObjFeed_eve_ConenctionMessage : FO Retrying [127.0.0.1:8707]
+
+16-11-2022 15:46:43 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 4
+
+16-11-2022 15:46:45 : ObjFeed_eve_ConenctionMessage : FO Retrying [127.0.0.1:8707]
+
+16-11-2022 15:47:00 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 5
+
+16-11-2022 15:47:02 : ObjFeed_eve_ConenctionMessage : FO Retrying [127.0.0.1:8707]
+
+16-11-2022 15:47:17 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 6
+
+16-11-2022 15:47:19 : ObjFeed_eve_ConenctionMessage : FO Failed [127.0.0.1:8707]
+
+16-11-2022 15:47:19 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 15:47:21 : ObjFeed_eve_ConenctionMessage : CM Retrying [127.0.0.1:8706]
+
+16-11-2022 15:47:34 : EngineProcess_FormClosing
+
+16-11-2022 15:47:42 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1
+
+16-11-2022 15:47:43 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707]
+
+16-11-2022 15:47:43 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1
+
+16-11-2022 15:47:43 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706]
+
+16-11-2022 15:47:43 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Helper\Addons.cs:line 122
+
+16-11-2022 15:47:59 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+16-11-2022 15:50:36 : Received HB Server : ID^3203C83D4C2D
+
+16-11-2022 15:50:37 : Received HB Server : USER^prime|prime123|5.3.3.3
+
+16-11-2022 15:50:37 : Received HB Server : CLIENT^prime
+
+16-11-2022 15:50:37 : Received HB Server : BAN^prime
+
+16-11-2022 15:50:46 : IP added to list PRIME|127.0.0.1:58931
+
+16-11-2022 15:50:46 : IP added to Span list PRIME|127.0.0.1:58932
+
+16-11-2022 15:50:50 : Username:- prime, ByteLength:- 36117
+
+16-11-2022 15:50:52 : Username:- prime, ByteLength:- 35767
+
+16-11-2022 15:50:59 : Username:- prime, ByteLength:- 35896
+
+16-11-2022 15:51:00 : Username:- prime, ByteLength:- 35729
+
+16-11-2022 15:51:01 : Username:- prime, ByteLength:- 36068
+
+16-11-2022 15:51:01 : Username:- prime, ByteLength:- 35964
+
+16-11-2022 15:51:02 : Username:- prime, ByteLength:- 35857
+
+16-11-2022 15:51:03 : Username:- prime, ByteLength:- 35993
+
+16-11-2022 15:51:04 : Username:- prime, ByteLength:- 35951
+
+16-11-2022 15:51:05 : Username:- prime, ByteLength:- 35662
+
+16-11-2022 15:51:06 : Username:- prime, ByteLength:- 36007
+
+16-11-2022 15:51:06 : Username:- prime, ByteLength:- 35967
+
+16-11-2022 15:51:07 : Username:- prime, ByteLength:- 36077
+
+16-11-2022 15:51:08 : Username:- prime, ByteLength:- 35995
+
+16-11-2022 15:51:09 : Username:- prime, ByteLength:- 35893
+
+16-11-2022 15:51:10 : Username:- prime, ByteLength:- 35873
+
+16-11-2022 15:51:11 : Username:- prime, ByteLength:- 35985
+
+16-11-2022 15:51:11 : Username:- prime, ByteLength:- 36154
+
+16-11-2022 15:51:12 : Username:- prime, ByteLength:- 35986
+
+16-11-2022 15:51:13 : Username:- prime, ByteLength:- 35720
+
+16-11-2022 15:51:14 : Username:- prime, ByteLength:- 35670
+
+16-11-2022 15:51:15 : Username:- prime, ByteLength:- 36194
+
+16-11-2022 15:51:15 : Username:- prime, ByteLength:- 35985
+
+16-11-2022 15:51:16 : Username:- prime, ByteLength:- 36147
+
+16-11-2022 15:51:17 : Username:- prime, ByteLength:- 35959
+
+16-11-2022 15:51:18 : Username:- prime, ByteLength:- 35848
+
+16-11-2022 15:51:19 : Username:- prime, ByteLength:- 36037
+
+16-11-2022 15:51:19 : Username:- prime, ByteLength:- 35886
+
+16-11-2022 15:51:20 : Username:- prime, ByteLength:- 35937
+
+16-11-2022 15:51:21 : Username:- prime, ByteLength:- 35801
+
+16-11-2022 15:51:22 : Username:- prime, ByteLength:- 35965
+
+16-11-2022 15:51:23 : Username:- prime, ByteLength:- 35665
+
+16-11-2022 15:51:23 : Username:- prime, ByteLength:- 35761
+
+16-11-2022 15:51:24 : Username:- prime, ByteLength:- 35849
+
+16-11-2022 15:51:25 : Username:- prime, ByteLength:- 35791
+
+16-11-2022 15:51:26 : Username:- prime, ByteLength:- 35829
+
+16-11-2022 15:51:27 : Username:- prime, ByteLength:- 35778
+
+16-11-2022 15:51:28 : Username:- prime, ByteLength:- 35915
+
+16-11-2022 15:51:28 : Username:- prime, ByteLength:- 35840
+
+16-11-2022 15:51:29 : Username:- prime, ByteLength:- 36007
+
+16-11-2022 15:51:30 : Username:- prime, ByteLength:- 35970
+
+16-11-2022 15:51:31 : Username:- prime, ByteLength:- 36008
+
+16-11-2022 15:51:32 : Username:- prime, ByteLength:- 36101
+
+16-11-2022 15:51:32 : Username:- prime, ByteLength:- 36046
+
+16-11-2022 15:51:33 : Username:- prime, ByteLength:- 35948
+
+16-11-2022 15:51:34 : Username:- prime, ByteLength:- 36100
+
+16-11-2022 15:51:35 : Username:- prime, ByteLength:- 35937
+
+16-11-2022 15:51:36 : Username:- prime, ByteLength:- 35752
+
+16-11-2022 15:51:36 : Username:- prime, ByteLength:- 35853
+
+16-11-2022 15:51:37 : Username:- prime, ByteLength:- 35929
+
+16-11-2022 15:51:38 : Username:- prime, ByteLength:- 35718
+
+16-11-2022 15:51:39 : Username:- prime, ByteLength:- 35853
+
+16-11-2022 15:51:40 : Username:- prime, ByteLength:- 35737
+
+16-11-2022 15:51:41 : Username:- prime, ByteLength:- 35922
+
+16-11-2022 15:51:41 : Username:- prime, ByteLength:- 35838
+
+16-11-2022 15:51:42 : Username:- prime, ByteLength:- 35691
+
+16-11-2022 15:51:43 : Username:- prime, ByteLength:- 35846
+
+16-11-2022 15:51:44 : Username:- prime, ByteLength:- 35957
+
+16-11-2022 15:51:45 : Username:- prime, ByteLength:- 35711
+
+16-11-2022 15:51:45 : Username:- prime, ByteLength:- 35801
+
+16-11-2022 15:51:46 : Username:- prime, ByteLength:- 35947
+
+16-11-2022 15:51:47 : Username:- prime, ByteLength:- 35788
+
+16-11-2022 15:51:48 : Username:- prime, ByteLength:- 35873
+
+16-11-2022 15:51:49 : Username:- prime, ByteLength:- 35825
+
+16-11-2022 15:51:49 : Username:- prime, ByteLength:- 35804
+
+16-11-2022 15:51:50 : Username:- prime, ByteLength:- 35915
+
+16-11-2022 15:51:51 : Username:- prime, ByteLength:- 35761
+
+16-11-2022 15:51:56 : Username:- prime, ByteLength:- 35912
+
+16-11-2022 15:52:03 : Username:- prime, ByteLength:- 35771
+
+16-11-2022 15:52:07 : Username:- prime, ByteLength:- 35963
+
+16-11-2022 15:52:09 : Username:- prime, ByteLength:- 35631
+
+16-11-2022 15:52:10 : Username:- prime, ByteLength:- 35721
+
+16-11-2022 15:52:10 : Username:- prime, ByteLength:- 35809
+
+16-11-2022 15:52:11 : Username:- prime, ByteLength:- 35750
+
+16-11-2022 15:52:12 : Username:- prime, ByteLength:- 35801
+
+16-11-2022 15:52:13 : Username:- prime, ByteLength:- 35881
+
+16-11-2022 15:52:14 : Username:- prime, ByteLength:- 35796
+
+16-11-2022 15:52:14 : Username:- prime, ByteLength:- 35867
+
+16-11-2022 15:52:15 : Username:- prime, ByteLength:- 35839
+
+16-11-2022 15:52:16 : Username:- prime, ByteLength:- 35730
+
+16-11-2022 15:52:17 : Username:- prime, ByteLength:- 35821
+
+16-11-2022 15:52:18 : Username:- prime, ByteLength:- 35838
+
+16-11-2022 15:52:18 : Username:- prime, ByteLength:- 35683
+
+16-11-2022 15:52:19 : Username:- prime, ByteLength:- 35844
+
+16-11-2022 15:52:20 : Username:- prime, ByteLength:- 35882
+
+16-11-2022 15:52:21 : Username:- prime, ByteLength:- 35857
+
+16-11-2022 15:52:22 : Username:- prime, ByteLength:- 35704
+
+16-11-2022 15:52:23 : Username:- prime, ByteLength:- 35854
+
+16-11-2022 15:52:23 : Username:- prime, ByteLength:- 35725
+
+16-11-2022 15:52:24 : Username:- prime, ByteLength:- 36021
+
+16-11-2022 15:52:25 : Username:- prime, ByteLength:- 35975
+
+16-11-2022 15:52:26 : Username:- prime, ByteLength:- 35680
+
+16-11-2022 15:52:27 : Username:- prime, ByteLength:- 35754
+
+16-11-2022 15:52:27 : Username:- prime, ByteLength:- 35971
+
+16-11-2022 15:52:28 : Username:- prime, ByteLength:- 35831
+
+16-11-2022 15:52:29 : Username:- prime, ByteLength:- 35781
+
+16-11-2022 15:52:30 : Username:- prime, ByteLength:- 35867
+
+16-11-2022 15:52:31 : Username:- prime, ByteLength:- 35989
+
+16-11-2022 15:52:31 : Username:- prime, ByteLength:- 35896
+
+16-11-2022 15:52:32 : Username:- prime, ByteLength:- 35892
+
+16-11-2022 15:52:33 : Username:- prime, ByteLength:- 35905
+
+16-11-2022 15:52:35 : Username:- prime, ByteLength:- 35943
+
+16-11-2022 15:52:46 : Username:- prime, ByteLength:- 35878
+
+16-11-2022 15:52:46 : Username:- prime, ByteLength:- 35606
+
+16-11-2022 15:52:51 : Username:- prime, ByteLength:- 35896
+
+16-11-2022 15:52:58 : Username:- prime, ByteLength:- 36028
+
+16-11-2022 15:52:58 : Username:- prime, ByteLength:- 35687
+
+16-11-2022 15:52:59 : Username:- prime, ByteLength:- 35860
+
+16-11-2022 15:53:00 : Username:- prime, ByteLength:- 35710
+
+16-11-2022 15:53:01 : Username:- prime, ByteLength:- 35819
+
+16-11-2022 15:53:01 : Username:- prime, ByteLength:- 35809
+
+16-11-2022 15:53:02 : Username:- prime, ByteLength:- 35741
+
+16-11-2022 15:53:03 : Username:- prime, ByteLength:- 35634
+
+16-11-2022 15:53:04 : Username:- prime, ByteLength:- 35715
+
+16-11-2022 15:53:05 : Username:- prime, ByteLength:- 35715
+
+16-11-2022 15:53:05 : Username:- prime, ByteLength:- 35864
+
+16-11-2022 15:53:06 : Username:- prime, ByteLength:- 35842
+
+16-11-2022 15:53:07 : Username:- prime, ByteLength:- 35758
+
+16-11-2022 15:53:08 : Username:- prime, ByteLength:- 35771
+
+16-11-2022 15:53:09 : Username:- prime, ByteLength:- 35761
+
+16-11-2022 15:53:09 : Username:- prime, ByteLength:- 35895
+
+16-11-2022 15:53:10 : Username:- prime, ByteLength:- 35994
+
+16-11-2022 15:53:11 : Username:- prime, ByteLength:- 35868
+
+16-11-2022 15:53:12 : Username:- prime, ByteLength:- 35716
+
+16-11-2022 15:53:13 : Username:- prime, ByteLength:- 35944
+
+16-11-2022 15:53:14 : Username:- prime, ByteLength:- 35861
+
+16-11-2022 15:53:14 : Username:- prime, ByteLength:- 35709
+
+16-11-2022 15:53:15 : Username:- prime, ByteLength:- 35808
+
+16-11-2022 15:53:16 : Username:- prime, ByteLength:- 36014
+
+16-11-2022 15:53:17 : Username:- prime, ByteLength:- 35775
+
+16-11-2022 15:53:18 : Username:- prime, ByteLength:- 35840
+
+16-11-2022 15:53:18 : Username:- prime, ByteLength:- 35800
+
+16-11-2022 15:53:19 : Username:- prime, ByteLength:- 36012
+
+16-11-2022 15:53:20 : Username:- prime, ByteLength:- 35656
+
+16-11-2022 15:53:21 : Username:- prime, ByteLength:- 35805
+
+16-11-2022 15:53:22 : Username:- prime, ByteLength:- 35932
+
+16-11-2022 15:53:28 : Username:- prime, ByteLength:- 35960
+
+16-11-2022 15:53:35 : Username:- prime, ByteLength:- 35855
+
+16-11-2022 15:53:47 : Username:- prime, ByteLength:- 35942
+
+16-11-2022 15:53:47 : Username:- prime, ByteLength:- 35950
+
+16-11-2022 15:53:48 : Username:- prime, ByteLength:- 35949
+
+16-11-2022 15:53:49 : Username:- prime, ByteLength:- 35880
+
+16-11-2022 15:53:50 : Username:- prime, ByteLength:- 35713
+
+16-11-2022 15:53:51 : Username:- prime, ByteLength:- 35743
+
+16-11-2022 15:53:51 : Username:- prime, ByteLength:- 35851
+
+16-11-2022 15:53:52 : Username:- prime, ByteLength:- 35935
+
+16-11-2022 15:53:53 : Username:- prime, ByteLength:- 35845
+
+16-11-2022 15:53:54 : Username:- prime, ByteLength:- 35869
+
+16-11-2022 15:53:55 : Username:- prime, ByteLength:- 35888
+
+16-11-2022 15:53:56 : Username:- prime, ByteLength:- 35943
+
+16-11-2022 15:53:56 : Username:- prime, ByteLength:- 35572
+
+16-11-2022 15:53:57 : Username:- prime, ByteLength:- 35845
+
+16-11-2022 15:53:58 : Username:- prime, ByteLength:- 35822
+
+16-11-2022 15:53:59 : Username:- prime, ByteLength:- 35790
+
+16-11-2022 15:54:00 : Username:- prime, ByteLength:- 35873
+
+16-11-2022 15:54:00 : Username:- prime, ByteLength:- 35828
+
+16-11-2022 15:54:01 : Username:- prime, ByteLength:- 35739
+
+16-11-2022 15:54:02 : Username:- prime, ByteLength:- 35796
+
+16-11-2022 15:54:03 : Username:- prime, ByteLength:- 35862
+
+16-11-2022 15:54:04 : Username:- prime, ByteLength:- 35888
+
+16-11-2022 15:54:05 : Username:- prime, ByteLength:- 36112
+
+16-11-2022 15:54:06 : Username:- prime, ByteLength:- 35702
+
+16-11-2022 15:54:06 : Username:- prime, ByteLength:- 36182
+
+16-11-2022 15:54:07 : Username:- prime, ByteLength:- 35805
+
+16-11-2022 15:54:08 : Username:- prime, ByteLength:- 35829
+
+16-11-2022 15:54:09 : Username:- prime, ByteLength:- 36061
+
+16-11-2022 15:54:10 : Username:- prime, ByteLength:- 35921
+
+16-11-2022 15:54:10 : Username:- prime, ByteLength:- 35881
+
+16-11-2022 15:54:11 : Username:- prime, ByteLength:- 36032
+
+16-11-2022 15:54:12 : Username:- prime, ByteLength:- 36022
+
+16-11-2022 15:54:13 : Username:- prime, ByteLength:- 35761
+
+16-11-2022 15:54:14 : SendHBToPrime : prime
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Engine.PrimeHBConnector.SendHBToPrime(String Username, String _HB) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\PrimeHBConnector.cs:line 221
+
+16-11-2022 15:54:14 : SendHBToPrime : prime
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at Engine.PrimeHBConnector.SendHBToPrime(String Username, String _HB) in C:\Snehadri-Repo\n.Prime-Marwadi\Engine\Engine\Connectors\PrimeHBConnector.cs:line 221
+
+16-11-2022 15:54:28 : EngineProcess_FormClosing
+

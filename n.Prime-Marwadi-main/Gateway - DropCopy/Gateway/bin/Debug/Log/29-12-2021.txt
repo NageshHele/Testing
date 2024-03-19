@@ -1,0 +1,126 @@
+29-Dec-21 10:08:43 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 10:10:21 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:10:21 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 10:10:23 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 10:10:40 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:10:40 : Received HB Server : SIGNAL^START
+
+29-Dec-21 10:14:45 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 10:15:43 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:15:44 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 10:15:45 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 10:15:57 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:15:57 : Received HB Server : SIGNAL^START
+
+29-Dec-21 10:19:54 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 10:20:07 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:20:08 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 10:20:11 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 10:20:37 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:20:37 : Received HB Server : SIGNAL^START
+
+29-Dec-21 10:34:50 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+29-Dec-21 10:34:50 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+29-Dec-21 10:37:04 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 10:37:30 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:37:32 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 10:37:33 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 10:37:47 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:37:47 : Received HB Server : SIGNAL^START
+
+29-Dec-21 10:49:27 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 10:49:46 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 10:49:47 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 10:49:48 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 10:53:25 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+29-Dec-21 16:53:21 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 16:54:50 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 16:54:51 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 16:54:52 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 16:55:03 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 16:55:03 : Received HB Server : SIGNAL^START
+
+29-Dec-21 17:04:02 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+29-Dec-21 17:04:03 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\EngineHBConnector.cs:line 111
+
+29-Dec-21 17:05:22 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.0.3.5:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\Gateway\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+29-Dec-21 17:06:06 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 17:06:08 : Received Trade Server : ID^n.ENGINE
+
+29-Dec-21 17:06:09 : Received Span Server : ID^n.ENGINE
+
+29-Dec-21 17:06:22 : Received HB Server : ID^n.ENGINE
+
+29-Dec-21 17:06:22 : Received HB Server : SIGNAL^START
+

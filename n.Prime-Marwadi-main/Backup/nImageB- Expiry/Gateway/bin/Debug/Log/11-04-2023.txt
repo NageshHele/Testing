@@ -1,0 +1,240 @@
+4/11/2023 8:10:49 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 8:10:54 AM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 8:10:55 AM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 8:11:00 AM : StartProcess : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\span2\20230411'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.StartSpanProcess() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Core-Logic\nProcess.cs:line 436
+
+4/11/2023 8:12:22 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 8:12:41 AM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 8:12:42 AM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 8:12:51 AM : StartProcess : System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_FILES\span2\20230411'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.StartSpanProcess() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Core-Logic\nProcess.cs:line 436
+
+4/11/2023 8:15:13 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 8:15:17 AM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 8:15:17 AM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 8:15:45 AM : ConsolidationTime: 31ms, TradeCount: 4205
+
+4/11/2023 8:26:02 AM : Line not in proper format: 
+
+4/11/2023 8:26:06 AM : ConsolidationTime: 360ms, TradeCount: 24999
+
+4/11/2023 8:26:18 AM : ConsolidationTime: 315ms, TradeCount: 25000
+
+4/11/2023 8:26:32 AM : ConsolidationTime: 342ms, TradeCount: 25000
+
+4/11/2023 8:26:45 AM : ConsolidationTime: 385ms, TradeCount: 25000
+
+4/11/2023 8:26:58 AM : ConsolidationTime: 481ms, TradeCount: 25000
+
+4/11/2023 8:27:10 AM : ConsolidationTime: 202ms, TradeCount: 18264
+
+4/11/2023 8:29:25 AM : ConsolidationTime: 511ms, TradeCount: 25000
+
+4/11/2023 8:29:38 AM : ConsolidationTime: 282ms, TradeCount: 25000
+
+4/11/2023 8:29:50 AM : ConsolidationTime: 242ms, TradeCount: 25000
+
+4/11/2023 8:30:03 AM : ConsolidationTime: 294ms, TradeCount: 25000
+
+4/11/2023 8:30:16 AM : ConsolidationTime: 222ms, TradeCount: 25000
+
+4/11/2023 8:30:28 AM : ConsolidationTime: 214ms, TradeCount: 25000
+
+4/11/2023 8:30:39 AM : ConsolidationTime: 22ms, TradeCount: 3623
+
+4/11/2023 8:32:47 AM : ConsolidationTime: 307ms, TradeCount: 25000
+
+4/11/2023 8:33:00 AM : ConsolidationTime: 288ms, TradeCount: 25000
+
+4/11/2023 8:33:12 AM : ConsolidationTime: 190ms, TradeCount: 25000
+
+4/11/2023 8:33:25 AM : ConsolidationTime: 223ms, TradeCount: 25000
+
+4/11/2023 8:33:37 AM : ConsolidationTime: 199ms, TradeCount: 25000
+
+4/11/2023 8:33:49 AM : ConsolidationTime: 184ms, TradeCount: 25000
+
+4/11/2023 8:33:59 AM : ConsolidationTime: 16ms, TradeCount: 2609
+
+4/11/2023 8:36:32 AM : ConsolidationTime: 221ms, TradeCount: 25000
+
+4/11/2023 8:36:45 AM : ConsolidationTime: 185ms, TradeCount: 25000
+
+4/11/2023 8:36:57 AM : ConsolidationTime: 186ms, TradeCount: 25000
+
+4/11/2023 8:37:10 AM : ConsolidationTime: 262ms, TradeCount: 25000
+
+4/11/2023 8:37:22 AM : ConsolidationTime: 204ms, TradeCount: 25000
+
+4/11/2023 8:37:35 AM : ConsolidationTime: 175ms, TradeCount: 24463
+
+4/11/2023 8:40:22 AM : ConsolidationTime: 209ms, TradeCount: 25000
+
+4/11/2023 8:40:35 AM : ConsolidationTime: 189ms, TradeCount: 25000
+
+4/11/2023 8:40:47 AM : ConsolidationTime: 188ms, TradeCount: 25000
+
+4/11/2023 8:40:59 AM : ConsolidationTime: 170ms, TradeCount: 25000
+
+4/11/2023 8:41:12 AM : ConsolidationTime: 168ms, TradeCount: 25000
+
+4/11/2023 8:41:24 AM : ConsolidationTime: 148ms, TradeCount: 19640
+
+4/11/2023 8:44:34 AM : ConsolidationTime: 221ms, TradeCount: 25000
+
+4/11/2023 8:44:48 AM : ConsolidationTime: 304ms, TradeCount: 25000
+
+4/11/2023 8:45:01 AM : ConsolidationTime: 195ms, TradeCount: 25000
+
+4/11/2023 8:45:14 AM : ConsolidationTime: 183ms, TradeCount: 25000
+
+4/11/2023 8:45:27 AM : ConsolidationTime: 194ms, TradeCount: 25000
+
+4/11/2023 8:45:38 AM : ConsolidationTime: 101ms, TradeCount: 13821
+
+4/11/2023 8:49:09 AM : ConsolidationTime: 204ms, TradeCount: 25000
+
+4/11/2023 8:49:21 AM : ConsolidationTime: 195ms, TradeCount: 25000
+
+4/11/2023 8:49:34 AM : ConsolidationTime: 190ms, TradeCount: 25000
+
+4/11/2023 8:49:46 AM : ConsolidationTime: 184ms, TradeCount: 25000
+
+4/11/2023 8:49:59 AM : ConsolidationTime: 186ms, TradeCount: 25000
+
+4/11/2023 8:50:10 AM : ConsolidationTime: 96ms, TradeCount: 13971
+
+4/11/2023 8:52:40 AM : ConsolidationTime: 148ms, TradeCount: 25000
+
+4/11/2023 8:52:51 AM : ConsolidationTime: 79ms, TradeCount: 25000
+
+4/11/2023 8:53:02 AM : ConsolidationTime: 89ms, TradeCount: 25000
+
+4/11/2023 8:53:13 AM : ConsolidationTime: 102ms, TradeCount: 25000
+
+4/11/2023 8:53:24 AM : ConsolidationTime: 166ms, TradeCount: 25000
+
+4/11/2023 8:53:35 AM : ConsolidationTime: 102ms, TradeCount: 25000
+
+4/11/2023 8:53:46 AM : ConsolidationTime: 35ms, TradeCount: 6053
+
+4/11/2023 8:55:13 AM : ConsolidationTime: 1365ms, TradeCount: 25000
+
+4/11/2023 8:55:25 AM : ConsolidationTime: 145ms, TradeCount: 25000
+
+4/11/2023 8:55:36 AM : ConsolidationTime: 139ms, TradeCount: 25000
+
+4/11/2023 8:55:47 AM : ConsolidationTime: 144ms, TradeCount: 25000
+
+4/11/2023 8:55:58 AM : ConsolidationTime: 89ms, TradeCount: 25000
+
+4/11/2023 8:56:09 AM : ConsolidationTime: 172ms, TradeCount: 25000
+
+4/11/2023 8:56:21 AM : ConsolidationTime: 172ms, TradeCount: 25000
+
+4/11/2023 8:56:32 AM : ConsolidationTime: 120ms, TradeCount: 19248
+
+4/11/2023 8:57:27 AM : ConsolidationTime: 185ms, TradeCount: 25000
+
+4/11/2023 8:57:38 AM : ConsolidationTime: 107ms, TradeCount: 25000
+
+4/11/2023 8:57:48 AM : ConsolidationTime: 98ms, TradeCount: 25000
+
+4/11/2023 8:58:00 AM : ConsolidationTime: 137ms, TradeCount: 25000
+
+4/11/2023 8:58:11 AM : ConsolidationTime: 75ms, TradeCount: 25000
+
+4/11/2023 8:58:22 AM : ConsolidationTime: 76ms, TradeCount: 25000
+
+4/11/2023 8:58:33 AM : ConsolidationTime: 69ms, TradeCount: 25000
+
+4/11/2023 8:58:43 AM : ConsolidationTime: 15ms, TradeCount: 7949
+
+4/11/2023 3:36:39 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 3:36:43 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 3:36:43 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 3:37:06 PM : ConsolidationTime: 21ms, TradeCount: 4205
+
+4/11/2023 3:37:10 PM : ConsolidationTime: 0ms, TradeCount: 4
+
+4/11/2023 3:37:53 PM : Line not in proper format: NT5
+
+4/11/2023 3:37:54 PM : ConsolidationTime: 0ms, TradeCount: 3
+
+4/11/2023 3:39:35 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 3:39:38 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 3:39:39 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 3:39:56 PM : ConsolidationTime: 10ms, TradeCount: 4205
+
+4/11/2023 3:42:03 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 3:42:06 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 3:42:07 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 3:42:23 PM : ConsolidationTime: 33ms, TradeCount: 4205
+
+4/11/2023 4:15:15 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 4:15:18 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 4:15:19 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 4:30:41 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Github\n.Prime-Marwadi-latest\nImageB- Expiry\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+4/11/2023 4:30:44 PM : Reading file C:\Prime\EQD_CC_CO020123.csv
+
+4/11/2023 4:30:45 PM : File C:\Prime\EQD_CC_CO020123.csv read successfully.
+
+4/11/2023 4:31:14 PM : ConsolidationTime: 25ms, TradeCount: 4205
+
+4/11/2023 4:31:24 PM : ConsolidationTime: 0ms, TradeCount: 4
+

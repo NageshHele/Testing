@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FEED>
+  <UDP-SERVER>
+    <PORT>9900</PORT>
+  </UDP-SERVER>
+  <SELF-SERVER>
+    <PORT>8704</PORT>
+  </SELF-SERVER>
+  <FILE-PATH>
+    <CONTRACT>D:\MCX_Files\</CONTRACT>
+  </FILE-PATH>
+  <OTHER>
+    <CLOSING-TIME>23:59:59</CLOSING-TIME>
+    <DEBUG-MODE>true</DEBUG-MODE>
+  </OTHER>
+</FEED>

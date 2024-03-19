@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NerveLog</name>
+    </assembly>
+    <members>
+        <member name="T:NerveLog.NerveLogger">
+            <summary>
+            Logger Class
+            </summary>
+        </member>
+        <member name="M:NerveLog.NerveLogger.#ctor(System.Boolean,System.Boolean,System.Boolean,System.String)">
+            <summary>
+            Constructor. Call Initialize() After Creating Object OR Call InitializeCustom() If Custom Logs Are Enabled
+            </summary>
+            <param name="ErrorMode">If True => Error Logging Enabled | If False => Error Logging Disabled</param>
+            <param name="DebugMode">If True => Debug Logging Enabled | If False => Debug Logging Disabled</param>
+            <param name="CustomMode">If True => Custom Logging Enabled | If False => Custom Logging Disabled</param>
+            <param name="ApplicationName">If "" => Log Directory Will Be Named "LOG" | If "ABC" => Log Directory Will Be Named "ABC-LOG"</param>
+        </member>
+        <member name="M:NerveLog.NerveLogger.Initialize(System.String,System.String,System.String)">
+            <summary>
+            Initializes Error and Debug Logs.
+            </summary>
+            <param name="path">If "auto" => Will Create Log Files Where Exe Is Located</param>
+            <param name="ExceptionFilename">Exception File Name</param>
+            <param name="DebugFilename">Debug File Name</param>
+            <returns>Boolean Array Where { [0] = True } => If Exception File Exists | { [1] = True } => If Debug File Exists</returns>
+        </member>
+        <member name="M:NerveLog.NerveLogger.InitializeCustom(System.String,System.String)">
+            <summary>
+            Initializes Custom Logs.
+            </summary>
+            <param name="path">If "auto" => Will Create Log Files Where Exe Is Located</param>
+            <param name="CustomFilename">Custom File Name</param>
+            <returns>Boolean True => If Custom File Exists</returns>
+        </member>
+        <member name="M:NerveLog.NerveLogger.Debug(System.String)">
+            <summary>
+            Will write logs if DebugMode is Enabled.
+            </summary>
+            <param name="Message">Debug String</param>
+        </member>
+        <member name="M:NerveLog.NerveLogger.Error(System.Exception,System.String)">
+            <summary>
+            Will write logs if ErrorMode is Enabled.
+            </summary>
+            <param name="obj">Exception Object. Can pass null.</param>
+            <param name="ErrorMessage">Pass Custom Message or Method name will be written.</param>
+        </member>
+        <member name="M:NerveLog.NerveLogger.Custom(System.String)">
+            <summary>
+            Will write logs if CustomMode is Enabled.
+            </summary>
+            <param name="Message">Custom String</param>
+        </member>
+    </members>
+</doc>

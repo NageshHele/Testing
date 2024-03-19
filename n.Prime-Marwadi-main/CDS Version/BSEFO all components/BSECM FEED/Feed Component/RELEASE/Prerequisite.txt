@@ -1,0 +1,7 @@
+[4:44 PM, 2/22/2022] Mihir Sir: libgcc_s_seh-1.dll, libstdc++-6.dll and libwinpthread-1.dll is present in downloads folder
+[4:44 PM, 2/22/2022] Mihir Sir: Get these dll and put then in C/windows/system32 folder on the client trading machine
+[4:44 PM, 2/22/2022] Mihir Sir: Copy mingw folder from C/program files/codeblocks and paste it in C drive of client trading machine
+[4:44 PM, 2/22/2022] Mihir Sir: Then you have to set the path "C/mingw/bin" in environment variable
+
+Setting
+LAN IP = Current Machine IP

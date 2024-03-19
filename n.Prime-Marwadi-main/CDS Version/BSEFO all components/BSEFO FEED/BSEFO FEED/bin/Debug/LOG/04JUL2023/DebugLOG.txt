@@ -1,0 +1,4 @@
+[DEBUG] 7/4/2023 5:27:00 PM => Server Setup Success on 8704 Port.
+[DEBUG] 7/4/2023 5:27:00 PM => Receiver Setup Success on 8800 Port.
+[DEBUG] 7/4/2023 5:28:01 PM => Server Setup Success on 8704 Port.
+[DEBUG] 7/4/2023 5:28:01 PM => Receiver Setup Success on 8800 Port.

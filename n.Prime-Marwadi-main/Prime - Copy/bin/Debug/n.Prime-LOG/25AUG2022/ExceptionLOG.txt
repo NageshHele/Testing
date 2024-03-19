@@ -1,0 +1,54 @@
+[EXCEPTION] ClientInfo Received for : 7999 at 25-08-2022 15:36:23
+
+
+[EXCEPTION] Waiting for Position data.. at 25-08-2022 15:36:27
+
+
+[EXCEPTION] Waiting for Span data.. at 25-08-2022 15:36:27
+
+
+[EXCEPTION] ReceivePrimeResponse Span Received- 0 at 25-08-2022 15:39:05
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceiveSpanResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 291
+
+[EXCEPTION] ReceiveResponseHB Received- 10 at 25-08-2022 15:39:05
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineHBConnector.ReceiveResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineHBConnector.cs:line 70
+
+[EXCEPTION] ReceivePrimeResponse Trade Received- 0 at 25-08-2022 15:39:05
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Prime.EngineDataConnector.ReceivePrimeResponse(Socket soc_Current) in D:\Snehadri -Nerve-Repos\n.Prime-Marwadi\Prime\Connectors\EngineDataConnector.cs:line 192
+
+[EXCEPTION] ClientInfo Received for : 7999 at 25-08-2022 09:40:49
+
+
+[EXCEPTION] Waiting for Position data.. at 25-08-2022 09:40:52
+
+
+[EXCEPTION] Waiting for Span data.. at 25-08-2022 09:40:52
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 25-08-2022 15:13:27
+
+
+[EXCEPTION] Waiting for Position data.. at 25-08-2022 15:13:29
+
+
+[EXCEPTION] Waiting for Span data.. at 25-08-2022 15:13:29
+
+
+[EXCEPTION] ClientInfo Received for : 7999 at 25-08-2022 15:19:07
+
+
+[EXCEPTION] Waiting for Position data.. at 25-08-2022 15:19:09
+
+
+[EXCEPTION] Waiting for Span data.. at 25-08-2022 15:19:09
+
+

@@ -1,0 +1,35 @@
+[DEBUG] 25-01-2023 12:55:55 => LOGIN REPONSE | STATUS : ERROR | MESSAGE : <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;login&#47;1&#46;0" on this server.<P>
+Reference&#32;&#35;18&#46;c518dd58&#46;1674631556&#46;3fe12a47
+</BODY>
+</HTML>
+
+[DEBUG] 25-01-2023 12:55:57 => DownloadContractFile API Response: {"ResponseStatus":0,"Message":"<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;common&#47;file&#47;download&#47;1&#46;0&#63;\" on this server.<P>\nReference&#32;&#35;18&#46;c518dd58&#46;1674631558&#46;3fe13239\n</BODY>\n</HTML>\n","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/C2N&filename=contract.gz"}
+[DEBUG] 25-01-2023 12:56:07 => DownloadSecurityFile API Response: {"ResponseStatus":0,"Message":"<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;common&#47;file&#47;download&#47;1&#46;0&#63;\" on this server.<P>\nReference&#32;&#35;18&#46;c518dd58&#46;1674631568&#46;3fe14ab0\n</BODY>\n</HTML>\n","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 25-01-2023 12:56:09 => DownloadCDContractFile API Response: {"ResponseStatus":0,"Message":"<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;common&#47;file&#47;download&#47;1&#46;0&#63;\" on this server.<P>\nReference&#32;&#35;18&#46;c518dd58&#46;1674631570&#46;3fe16b2c\n</BODY>\n</HTML>\n","Filename":"cd_contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CD&folderPath=/C2N&filename=cd_contract.gz"}
+[DEBUG] 25-01-2023 12:56:51 => LOGIN REPONSE | STATUS : ERROR | MESSAGE : <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;login&#47;1&#46;0" on this server.<P>
+Reference&#32;&#35;18&#46;c518dd58&#46;1674631612&#46;3fe22959
+</BODY>
+</HTML>
+
+[DEBUG] 25-01-2023 12:56:53 => DownloadContractFile API Response: {"ResponseStatus":0,"Message":"<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;common&#47;file&#47;download&#47;1&#46;0&#63;\" on this server.<P>\nReference&#32;&#35;18&#46;c518dd58&#46;1674631614&#46;3fe23198\n</BODY>\n</HTML>\n","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=FO&folderPath=/&filename=contract.gz"}
+[DEBUG] 25-01-2023 12:56:55 => DownloadSecurityFile API Response: {"ResponseStatus":0,"Message":"<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;common&#47;file&#47;download&#47;1&#46;0&#63;\" on this server.<P>\nReference&#32;&#35;18&#46;c518dd58&#46;1674631616&#46;3fe23b81\n</BODY>\n</HTML>\n","Filename":"security.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/1.0?segment=CM&folderPath=/ntneat&filename=security.gz"}
+[DEBUG] 25-01-2023 15:43:11 => LOGIN REPONSE | STATUS : ERROR | MESSAGE : <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;connect2nse&#46;com&#47;extranet&#45;api&#47;login&#47;1&#46;0" on this server.<P>
+Reference&#32;&#35;18&#46;c518dd58&#46;1674641591&#46;407c17df
+</BODY>
+</HTML>
+

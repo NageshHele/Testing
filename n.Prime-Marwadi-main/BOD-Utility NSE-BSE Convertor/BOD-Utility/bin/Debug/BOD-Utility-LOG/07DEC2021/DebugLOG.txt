@@ -1,0 +1,263 @@
+[DEBUG] 07-Dec-21 11:33:15 => Extracted OTM : True
+[DEBUG] 07-Dec-21 11:33:16 => FOExposure FileName : ael_07122021
+[DEBUG] 07-Dec-21 11:33:18 => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_6.DAT
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.s.spn.gz
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-FINAL.spn
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-04.spn
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-03.spn
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-02.spn
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-01.spn
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-00.spn
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:18 => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:19 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.s.spn.gz
+[DEBUG] 07-Dec-21 11:33:19 => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:19 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i05.spn.gz
+[DEBUG] 07-Dec-21 11:33:19 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_6.DAT
+[DEBUG] 07-Dec-21 11:33:19 => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:19 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_5.DAT
+[DEBUG] 07-Dec-21 11:33:21 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i05.spn.gz
+[DEBUG] 07-Dec-21 11:33:21 => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:21 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i04.spn.gz
+[DEBUG] 07-Dec-21 11:33:22 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_5.DAT
+[DEBUG] 07-Dec-21 11:33:22 => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:22 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_4.DAT
+[DEBUG] 07-Dec-21 11:33:23 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i04.spn.gz
+[DEBUG] 07-Dec-21 11:33:23 => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:23 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i03.spn.gz
+[DEBUG] 07-Dec-21 11:33:24 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_4.DAT
+[DEBUG] 07-Dec-21 11:33:24 => [VaRExposure] Outside IF Index : 3 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:24 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_3.DAT
+[DEBUG] 07-Dec-21 11:33:25 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i03.spn.gz
+[DEBUG] 07-Dec-21 11:33:25 => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:25 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i02.spn.gz
+[DEBUG] 07-Dec-21 11:33:27 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_3.DAT
+[DEBUG] 07-Dec-21 11:33:27 => [VaRExposure] Outside IF Index : 4 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:27 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_2.DAT
+[DEBUG] 07-Dec-21 11:33:27 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i02.spn.gz
+[DEBUG] 07-Dec-21 11:33:27 => Outside IF Index : 5 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:27 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i01.spn.gz
+[DEBUG] 07-Dec-21 11:33:29 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_2.DAT
+[DEBUG] 07-Dec-21 11:33:29 => [VaRExposure] Outside IF Index : 5 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:33:29 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_1.DAT
+[DEBUG] 07-Dec-21 11:33:33 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_1.DAT
+[DEBUG] 07-Dec-21 11:33:33 => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 5
+[DEBUG] 07-Dec-21 11:33:34 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i01.spn.gz
+[DEBUG] 07-Dec-21 11:33:34 => Extracted : True
+[DEBUG] 07-Dec-21 11:33:34 => After Slice Index : 0 FOSpanFileExtensions Count : 5
+[DEBUG] 07-Dec-21 11:33:34 => --------------------------------------------------------------------------------
+[DEBUG] 07-Dec-21 11:33:50 => Day1 Process Completed. 0 Rows added.
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : PIDILITIND|30DEC2021|2200.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -750/0
+06-Dec-21,D,O,910,T,910,P,CLIENT1,SO,PIDIOPT,PIDI,30-Dec-21,2200,PE,PIDILITIND21DEC2200.00PE,2239748,0,0,750,38962.5,0,0,0,0,0,0,750,0,0,0,0,0,750,0,55.55,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : PNB|30DEC2021|45.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -48000/0
+06-Dec-21,D,O,910,T,910,P,CLIENT2,SO,PNBKOPT,PNBK,30-Dec-21,45,CE,PNB21DEC45.00CE,830900,0,0,0,0,0,0,48000,14400,0,0,48000,0,0,0,0,0,48000,0,0.25,14400,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : PEL|30DEC2021|2500.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 1100/0
+06-Dec-21,D,O,910,T,910,P,CLIENT3,SO,PRELOPT,PREL,30-Dec-21,2500,PE,PEL21DEC2500.00PE,830241,0,0,0,0,1100,72696.25,0,0,1100,0,0,0,0,0,1100,0,0,0,79.6,-72696.25,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : PVR|30DEC2021|1700.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 407/0
+06-Dec-21,D,O,910,T,910,P,CLIENT4,SO,PVRLOPT,PVRL,30-Dec-21,1700,CE,PVR21DEC1700.00CE,832005,407,3785.1,0,0,0,0,0,0,407,0,0,0,0,0,407,0,0,0,5.25,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RBLBANK|30DEC2021|190.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -8700/0
+06-Dec-21,D,O,910,T,910,P,CLIENT5,SO,RBLBOPT,RBLB,30-Dec-21,190,CE,RBLBANK21DEC190.00CE,831141,0,0,8700,101355,0,0,0,0,0,0,8700,0,0,0,0,0,8700,0,9.9,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RBLBANK|30DEC2021|195.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -26100/0
+06-Dec-21,D,O,910,T,910,P,CLIENT6,SO,RBLBOPT,RBLB,30-Dec-21,195,CE,RBLBANK21DEC195.00CE,825536,0,0,23200,216920,0,0,2900,21460,0,0,26100,0,0,0,0,0,26100,0,7.8,21460,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RBLBANK|30DEC2021|200.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -81200/0
+06-Dec-21,D,O,910,T,910,P,CLIENT7,SO,RBLBOPT,RBLB,30-Dec-21,200,CE,RBLBANK21DEC200.00CE,821755,0,0,58000,420500,0,0,23200,158050,0,0,81200,0,0,0,0,0,81200,0,6.1,158050,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RBLBANK|30DEC2021|230.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -14500/0
+06-Dec-21,D,O,910,T,910,P,CLIENT8,SO,RBLBOPT,RBLB,30-Dec-21,230,CE,RBLBANK21DEC230.00CE,2217918,0,0,14500,21025,0,0,0,0,0,0,14500,0,0,0,0,0,14500,0,1.25,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RECLTD|30DEC2021|120.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 18000/0
+06-Dec-21,D,O,910,T,910,P,CLIENT9,SO,RECLOPT,RECL,30-Dec-21,120,PE,RECLTD21DEC120.00PE,2264754,18000,15300,0,0,0,0,0,0,18000,0,0,0,0,0,18000,0,0,0,0.85,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RELIANCE|30DEC2021|2240.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 4500/0
+06-Dec-21,D,O,910,T,910,P,CLIENT10,SO,RELIOPT,RELI,30-Dec-21,2240,PE,RELIANCE21DEC2240.00PE,2259642,4000,76400,0,0,2000,33462.5,1500,27450,4500,0,0,0,0,0,4500,0,0,0,21.45,-6012.5,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RELIANCE|30DEC2021|2320.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 1000/0
+06-Dec-21,D,O,910,T,910,P,CLIENT11,SO,RELIOPT,RELI,30-Dec-21,2320,PE,RELIANCE21DEC2320.00PE,2253372,1250,43250,0,0,2750,113500,3000,100575,1000,0,0,0,0,0,1000,0,0,0,42.1,-12925,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RELIANCE|30DEC2021|2480.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -12000/0
+06-Dec-21,D,O,910,T,910,P,CLIENT12,SO,RELIOPT,RELI,30-Dec-21,2480,CE,RELIANCE21DEC2480.00CE,824024,0,0,2500,115750,2250,73512.5,11750,394600,0,0,12000,0,0,0,0,0,12000,0,26.95,321087.5,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : RELIANCE|30DEC2021|2600.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 27000/0
+06-Dec-21,D,O,910,T,910,P,CLIENT13,SO,RELIOPT,RELI,30-Dec-21,2600,CE,RELIANCE21DEC2600.00CE,828777,34000,578000,0,0,28500,390362.5,35500,441175,27000,0,0,0,0,0,27000,0,0,0,11.15,50812.5,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT14,IO,BKNFOPT,BKNF,09-Dec-21,36500,PE,BANKNIFTY21D0936500PE,2006936,0,0,0,0,75,42125,75,43475,0,0,0,0,0,0,0,0,0,0,810.25,1350,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : MARUTI|30DEC2021|8500.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 100/0
+06-Dec-21,D,O,910,T,910,C,CLIENT15,SO,MARUOPT,MARU,30-Dec-21,8500,CE,MARUTI21DEC8500.00CE,2262660,100,1560,0,0,0,0,0,0,100,0,0,0,0,0,100,0,0,0,12.05,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : HDFCBANK|30DEC2021|1540.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 550/0
+06-Dec-21,D,O,910,T,910,C,CLIENT16,SO,HDBKOPT,HDBK,30-Dec-21,1540,CE,HDFCBANK21DEC1540.00CE,824651,550,12402.5,0,0,550,9955,550,11825,550,0,0,0,0,0,550,0,0,0,19,1870,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : NIFTY|30DEC2021|19500.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 50/0
+06-Dec-21,D,O,910,T,910,C,CLIENT17,IO,NFTYOPT,NFTY,30-Dec-21,19500,CE,NIFTY21DEC19500CE,2001785,50,212.5,0,0,0,0,0,0,50,0,0,0,0,0,50,0,0,0,4.25,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT18,SO,HULLOPT,HULL,30-Dec-21,2340,CE,HINDUNILVR21DEC2340.00CE,2219640,600,33330,0,0,0,0,600,24030,0,0,0,0,0,0,0,0,0,0,36.2,24030,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : SAIL|30DEC2021|0|XX
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 4750/0
+06-Dec-21,D,F,910,T,910,C,CLIENT19,SF,SAILFUT,SAIL,30-Dec-21,0,,SAIL21DECFUT,823243,4750,495900,0,0,4750,496612.5,4750,501600,4750,490912.5,0,0,0,0,4750,490912.5,0,0,103.25,0,-475,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : NIFTY|09DEC2021|17300.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 100/0
+06-Dec-21,D,O,910,T,910,C,CLIENT20,IO,NFTYOPT,NFTY,09-Dec-21,17300,CE,NIFTY21D0917300CE,2007196,50,5087.5,0,0,50,3527.5,0,0,100,0,0,0,0,0,100,0,0,0,20.9,-3527.5,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : ASHOKLEY|30DEC2021|130.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 4500/0
+06-Dec-21,D,O,910,T,910,C,CLIENT21,SO,ALLDOPT,ALLD,30-Dec-21,130,CE,ASHOKLEY21DEC130.00CE,831163,4500,9900,0,0,0,0,0,0,4500,0,0,0,0,0,4500,0,0,0,1.75,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : SAIL|30DEC2021|110.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 4750/0
+06-Dec-21,D,O,910,T,910,C,CLIENT22,SO,SAILOPT,SAIL,30-Dec-21,110,CE,SAIL21DEC110.00CE,826375,4750,14250,0,0,0,0,0,0,4750,0,0,0,0,0,4750,0,0,0,2.75,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT23,IO,NFTYOPT,NFTY,09-Dec-21,17200,CE,NIFTY21D0917200CE,2007295,0,0,0,0,50,5457.5,50,6227.5,0,0,0,0,0,0,0,0,0,0,35.55,770,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT24,SO,RELIOPT,RELI,30-Dec-21,2400,CE,RELIANCE21DEC2400.00CE,823207,0,0,0,0,500,35737.5,500,32862.5,0,0,0,0,0,0,0,0,0,0,52.95,-2875,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT25,IO,BKNFOPT,BKNF,09-Dec-21,36000,CE,BANKNIFTY21D0936000CE,2007006,0,0,0,0,25,9257.5,25,8500,0,0,0,0,0,0,0,0,0,0,267.15,-757.5,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT26,IO,BKNFOPT,BKNF,09-Dec-21,35900,CE,BANKNIFTY21D0935900CE,2007668,0,0,0,0,25,10052.5,25,8658.75,0,0,0,0,0,0,0,0,0,0,314.3,-1393.75,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : CIPLA|30DEC2021|940.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -1300/0
+06-Dec-21,D,O,910,T,910,C,CLIENT27,SO,CIPLOPT,CIPL,30-Dec-21,940,PE,CIPLA21DEC940.00PE,824728,0,0,1300,52650,0,0,0,0,0,0,1300,0,0,0,0,0,1300,0,50.9,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : CIPLA|30DEC2021|950.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -17550/0
+06-Dec-21,D,O,910,T,910,C,CLIENT28,SO,CIPLOPT,CIPL,30-Dec-21,950,PE,CIPLA21DEC950.00PE,828806,0,0,17550,845910,0,0,0,0,0,0,17550,0,0,0,0,0,17550,0,60,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT29,IO,BKNFOPT,BKNF,09-Dec-21,35800,PE,BANKNIFTY21D0935800PE,2007090,0,0,0,0,25,5750,25,5930,0,0,0,0,0,0,0,0,0,0,367.2,180,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : CIPLA|30DEC2021|950.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -8450/0
+06-Dec-21,D,O,910,T,910,C,CLIENT30,SO,CIPLOPT,CIPL,30-Dec-21,950,PE,CIPLA21DEC950.00PE,828806,0,0,8450,407290,0,0,0,0,0,0,8450,0,0,0,0,0,8450,0,60,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : CIPLA|30DEC2021|940.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -5850/0
+06-Dec-21,D,O,910,T,910,C,CLIENT31,SO,CIPLOPT,CIPL,30-Dec-21,940,PE,CIPLA21DEC940.00PE,824728,0,0,5850,236925,0,0,0,0,0,0,5850,0,0,0,0,0,5850,0,50.9,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT32,IO,NFTYOPT,NFTY,16-Dec-21,16400,PE,NIFTY21D1616400PE,2212360,0,0,0,0,3000,99140,3000,121215,0,0,0,0,0,0,0,0,0,0,61.55,22075,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : NIFTY|30DEC2021|16200.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 17300/0
+06-Dec-21,D,O,910,T,910,C,CLIENT33,IO,NFTYOPT,NFTY,30-Dec-21,16200,PE,NIFTY21DEC16200PE,2232367,17300,1061355,0,0,0,0,0,0,17300,0,0,0,0,0,17300,0,0,0,101.4,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : NIFTY|30DEC2021|16400.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -900/0
+06-Dec-21,D,O,910,T,910,C,CLIENT34,IO,NFTYOPT,NFTY,30-Dec-21,16400,PE,NIFTY21DEC16400PE,2262639,0,0,0,0,0,0,900,116135,0,0,900,0,0,0,0,0,900,0,138.65,116135,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : MARUTI|30DEC2021|7300.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 100/0
+06-Dec-21,D,O,910,T,910,C,CLIENT35,SO,MARUOPT,MARU,30-Dec-21,7300,CE,MARUTI21DEC7300.00CE,827910,100,18780,0,0,0,0,0,0,100,0,0,0,0,0,100,0,0,0,113.35,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT36,IO,NFTYOPT,NFTY,09-Dec-21,17100,CE,NIFTY21D0917100CE,2007637,0,0,0,0,150,17865,150,14865,0,0,0,0,0,0,0,0,0,0,59.9,-3000,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : INDUSINDBK|30DEC2021|1100.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 900/0
+06-Dec-21,D,O,910,T,910,C,CLIENT37,SO,IIBKOPT,IIBK,30-Dec-21,1100,CE,INDUSINDBK21DEC1100.00CE,822582,900,4050,0,0,0,0,0,0,900,0,0,0,0,0,900,0,0,0,3.25,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : HDFCAMC|30DEC2021|2400.00|PE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -200/0
+06-Dec-21,D,O,910,T,910,C,CLIENT38,SO,HAMCOPT,HAMC,30-Dec-21,2400,PE,HDFCAMC21DEC2400.00PE,2244151,200,2930,0,0,0,0,400,6820,0,0,200,0,0,0,0,0,200,0,19.3,6820,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : SBIN|30DEC2021|530.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : -3000/0
+06-Dec-21,D,O,910,T,910,C,CLIENT39,SO,SBILOPT,SBIL,30-Dec-21,530,CE,SBIN21DEC530.00CE,2261918,0,0,3000,7200,0,0,0,0,0,0,3000,0,0,0,0,0,3000,0,1.85,0,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT40,IO,NFTYOPT,NFTY,09-Dec-21,17100,PE,NIFTY21D0917100PE,2007632,0,0,0,0,50,6025,50,5535,0,0,0,0,0,0,0,0,0,0,227.5,-490,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : TVSMOTOR|30DEC2021|0|XX
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 1400/0
+06-Dec-21,D,F,910,T,910,C,CLIENT41,SF,TMCLFUT,TMCL,30-Dec-21,0,,TVSMOTOR21DECFUT,824953,1400,942830,0,0,0,0,0,0,1400,942830,0,0,0,0,1400,942830,0,0,661.9,0,-16170,0,0
+[DEBUG] 07-Dec-21 11:33:51 => Closing Not Found For : NIFTY|09DEC2021|18000.00|CE
+[DEBUG] 07-Dec-21 11:33:51 => Data Incorrect PS03 Skipped Invalid Qty/Price : 50/0
+06-Dec-21,D,O,910,T,910,C,CLIENT42,IO,NFTYOPT,NFTY,09-Dec-21,18000,CE,NIFTY21D0918000CE,2007069,0,0,0,0,50,127.5,0,0,50,0,0,0,0,0,50,0,0,0,2.95,-127.5,0,0,0
+[DEBUG] 07-Dec-21 11:33:51 => PS03 Process Completed. 1 Rows added.
+[DEBUG] 07-Dec-21 11:38:13 => Extracted OTM : True
+[DEBUG] 07-Dec-21 11:38:14 => FOExposure FileName : ael_07122021
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 0 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => [VaRExposure] Outside IF Index : 0 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_6.DAT
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-FINAL.spn
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 0 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.s.spn.gz
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException Before Index : 1 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 1 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-04.spn
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException Before Index : 2 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 2 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-03.spn
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException Before Index : 3 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 3 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-02.spn
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException Before Index : 4 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 4 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-01.spn
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException Before Index : 5 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => Outside IF Index : 5 BSESpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => SpanFileName Before : F:\FILES\Bajaj\BSERISK20211207-00.spn
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException Before Index : 6 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:16 => Inside WebException After Index : 0 BSEFOSpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:17 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_6.DAT
+[DEBUG] 07-Dec-21 11:38:17 => [VaRExposure] Outside IF Index : 1 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:17 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_5.DAT
+[DEBUG] 07-Dec-21 11:38:17 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.s.spn.gz
+[DEBUG] 07-Dec-21 11:38:17 => Outside IF Index : 1 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:17 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i05.spn.gz
+[DEBUG] 07-Dec-21 11:38:19 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i05.spn.gz
+[DEBUG] 07-Dec-21 11:38:19 => Outside IF Index : 2 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:19 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i04.spn.gz
+[DEBUG] 07-Dec-21 11:38:19 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_5.DAT
+[DEBUG] 07-Dec-21 11:38:19 => [VaRExposure] Outside IF Index : 2 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:19 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_4.DAT
+[DEBUG] 07-Dec-21 11:38:21 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i04.spn.gz
+[DEBUG] 07-Dec-21 11:38:21 => Outside IF Index : 3 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:21 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i03.spn.gz
+[DEBUG] 07-Dec-21 11:38:21 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_4.DAT
+[DEBUG] 07-Dec-21 11:38:21 => [VaRExposure] Outside IF Index : 3 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:21 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_3.DAT
+[DEBUG] 07-Dec-21 11:38:23 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_3.DAT
+[DEBUG] 07-Dec-21 11:38:23 => [VaRExposure] Outside IF Index : 4 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:23 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_2.DAT
+[DEBUG] 07-Dec-21 11:38:23 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i03.spn.gz
+[DEBUG] 07-Dec-21 11:38:23 => Outside IF Index : 4 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:23 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i02.spn.gz
+[DEBUG] 07-Dec-21 11:38:25 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_2.DAT
+[DEBUG] 07-Dec-21 11:38:25 => [VaRExposure] Outside IF Index : 5 VaRFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:25 => [VaRExposure] VaRFileName Before : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_1.DAT
+[DEBUG] 07-Dec-21 11:38:25 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i02.spn.gz
+[DEBUG] 07-Dec-21 11:38:25 => Outside IF Index : 5 SpanFileExtensions Count : 6
+[DEBUG] 07-Dec-21 11:38:25 => SpanFileName Before : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i01.spn.gz
+[DEBUG] 07-Dec-21 11:38:29 => [VaRExposure] VaRFileName After : ftp://ftp.connect2nse.com/Common/VARRate/C_VAR1_07122021_1.DAT
+[DEBUG] 07-Dec-21 11:38:29 => [VaRExposure] After Slice Index : 0 arr_VaRFileExtensions Count : 5
+[DEBUG] 07-Dec-21 11:38:32 => SpanFileName After : ftp://ftp.connect2nse.com/FaoCommon/Parameter/nsccl.20211207.i01.spn.gz
+[DEBUG] 07-Dec-21 11:38:32 => Extracted : True
+[DEBUG] 07-Dec-21 11:38:32 => After Slice Index : 0 FOSpanFileExtensions Count : 5
+[DEBUG] 07-Dec-21 11:38:32 => --------------------------------------------------------------------------------
+[DEBUG] 07-Dec-21 11:38:52 => Day1 Process Completed. 0 Rows added.
+[DEBUG] 07-Dec-21 11:42:53 => Day1 Process Completed. 0 Rows added.
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT14,IO,BKNFOPT,BKNF,09-Dec-21,36500,PE,BANKNIFTY21D0936500PE,2006936,0,0,0,0,75,42125,75,43475,0,0,0,0,0,0,0,0,0,0,810.25,1350,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT18,SO,HULLOPT,HULL,30-Dec-21,2340,CE,HINDUNILVR21DEC2340.00CE,2219640,600,33330,0,0,0,0,600,24030,0,0,0,0,0,0,0,0,0,0,36.2,24030,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT23,IO,NFTYOPT,NFTY,09-Dec-21,17200,CE,NIFTY21D0917200CE,2007295,0,0,0,0,50,5457.5,50,6227.5,0,0,0,0,0,0,0,0,0,0,35.55,770,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT24,SO,RELIOPT,RELI,30-Dec-21,2400,CE,RELIANCE21DEC2400.00CE,823207,0,0,0,0,500,35737.5,500,32862.5,0,0,0,0,0,0,0,0,0,0,52.95,-2875,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT25,IO,BKNFOPT,BKNF,09-Dec-21,36000,CE,BANKNIFTY21D0936000CE,2007006,0,0,0,0,25,9257.5,25,8500,0,0,0,0,0,0,0,0,0,0,267.15,-757.5,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT26,IO,BKNFOPT,BKNF,09-Dec-21,35900,CE,BANKNIFTY21D0935900CE,2007668,0,0,0,0,25,10052.5,25,8658.75,0,0,0,0,0,0,0,0,0,0,314.3,-1393.75,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT29,IO,BKNFOPT,BKNF,09-Dec-21,35800,PE,BANKNIFTY21D0935800PE,2007090,0,0,0,0,25,5750,25,5930,0,0,0,0,0,0,0,0,0,0,367.2,180,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT32,IO,NFTYOPT,NFTY,16-Dec-21,16400,PE,NIFTY21D1616400PE,2212360,0,0,0,0,3000,99140,3000,121215,0,0,0,0,0,0,0,0,0,0,61.55,22075,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT36,IO,NFTYOPT,NFTY,09-Dec-21,17100,CE,NIFTY21D0917100CE,2007637,0,0,0,0,150,17865,150,14865,0,0,0,0,0,0,0,0,0,0,59.9,-3000,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => Data Incorrect PS03 Skipped Invalid Qty : 0
+06-Dec-21,D,O,910,T,910,C,CLIENT40,IO,NFTYOPT,NFTY,09-Dec-21,17100,PE,NIFTY21D0917100PE,2007632,0,0,0,0,50,6025,50,5535,0,0,0,0,0,0,0,0,0,0,227.5,-490,0,0,0
+[DEBUG] 07-Dec-21 11:43:03 => PS03 Process Completed. 33 Rows added.

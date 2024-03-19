@@ -1,0 +1,36 @@
+[EXCEPTION] DeleteOldSpanDirectories at 5/3/2023 2:30:16 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 385
+
+[EXCEPTION] DownloadviaWebSite at 5/3/2023 2:30:36 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2151
+
+[EXCEPTION] DownloadVARExposure at 5/3/2023 2:30:52 PM
+System.IO.FileNotFoundException: Could not find file 'C:\BOD_Files\C_VAR1_03052023_6.DAT'.
+File name: 'C:\BOD_Files\C_VAR1_03052023_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2718
+
+[EXCEPTION] DownloadviaWebSite at 5/3/2023 2:30:53 PM
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadviaWebSite(String url, String TempSpanFilepPath, String SpanFileExactName) in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 2151
+
+[EXCEPTION] DeleteOldSpanDirectories at 5/3/2023 2:34:49 PM
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BOD_Files\SpanMargin\Span1\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in C:\Github\n.Prime-Marwadi-11APR2023\BOD-Utility-API\BOD-Utility\Home.cs:line 385
+

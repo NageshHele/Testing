@@ -1,0 +1,1003 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@11,Width=0.857142866@9,Height=0.7647059</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ColumnAutoWidth">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ShowIndicator">false</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="62">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">gridColumn1</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">109</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">gridColumn2</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-30</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">gridColumn3</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-29</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">gridColumn4</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-28</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">gridColumn5</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-27</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">gridColumn6</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-26</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">gridColumn7</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-25</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">gridColumn8</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-24</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">gridColumn9</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-23</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">gridColumn10</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-22</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">gridColumn11</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-21</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">gridColumn12</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-20</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">gridColumn13</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-19</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">gridColumn14</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-18</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">gridColumn15</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-17</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">gridColumn16</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-16</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Name">gridColumn17</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-15</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Name">gridColumn18</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-14</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Name">gridColumn19</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-13</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Name">gridColumn20</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-12</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Name">gridColumn21</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-11</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Name">gridColumn22</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-10</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Name">gridColumn23</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-9</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Name">gridColumn24</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-8</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Name">gridColumn25</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-7</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Name">gridColumn26</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-6</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Name">gridColumn27</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-5</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="Name">gridColumn28</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-4</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="Name">gridColumn29</property>
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-3</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="Name">gridColumn30</property>
+      <property name="VisibleIndex">14</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-2</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Name">gridColumn31</property>
+      <property name="VisibleIndex">15</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">-1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="Name">gridColumn32</property>
+      <property name="VisibleIndex">16</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">0</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="Name">gridColumn33</property>
+      <property name="VisibleIndex">17</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="Name">gridColumn34</property>
+      <property name="VisibleIndex">18</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">2</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="Name">gridColumn35</property>
+      <property name="VisibleIndex">19</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">3</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="Name">gridColumn36</property>
+      <property name="VisibleIndex">20</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">4</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="Name">gridColumn37</property>
+      <property name="VisibleIndex">21</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">5</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="Name">gridColumn38</property>
+      <property name="VisibleIndex">22</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">6</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="Name">gridColumn39</property>
+      <property name="VisibleIndex">23</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">7</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="Name">gridColumn40</property>
+      <property name="VisibleIndex">24</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">8</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="Name">gridColumn41</property>
+      <property name="VisibleIndex">25</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">9</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="Name">gridColumn42</property>
+      <property name="VisibleIndex">26</property>
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">10</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item43" isnull="true" iskey="true">
+      <property name="Name">gridColumn43</property>
+      <property name="VisibleIndex">27</property>
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">11</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item44" isnull="true" iskey="true">
+      <property name="Name">gridColumn44</property>
+      <property name="VisibleIndex">28</property>
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">12</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item45" isnull="true" iskey="true">
+      <property name="Name">gridColumn45</property>
+      <property name="VisibleIndex">29</property>
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">13</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item46" isnull="true" iskey="true">
+      <property name="Name">gridColumn46</property>
+      <property name="VisibleIndex">30</property>
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">14</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item47" isnull="true" iskey="true">
+      <property name="Name">gridColumn47</property>
+      <property name="VisibleIndex">31</property>
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">15</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item48" isnull="true" iskey="true">
+      <property name="Name">gridColumn48</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">16</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item49" isnull="true" iskey="true">
+      <property name="Name">gridColumn49</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">17</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item50" isnull="true" iskey="true">
+      <property name="Name">gridColumn50</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">18</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item51" isnull="true" iskey="true">
+      <property name="Name">gridColumn51</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">19</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item52" isnull="true" iskey="true">
+      <property name="Name">gridColumn52</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">20</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item53" isnull="true" iskey="true">
+      <property name="Name">gridColumn53</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">21</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item54" isnull="true" iskey="true">
+      <property name="Name">gridColumn54</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">22</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item55" isnull="true" iskey="true">
+      <property name="Name">gridColumn55</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">23</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item56" isnull="true" iskey="true">
+      <property name="Name">gridColumn56</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">24</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item57" isnull="true" iskey="true">
+      <property name="Name">gridColumn57</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">25</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item58" isnull="true" iskey="true">
+      <property name="Name">gridColumn58</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">26</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item59" isnull="true" iskey="true">
+      <property name="Name">gridColumn59</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">27</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item60" isnull="true" iskey="true">
+      <property name="Name">gridColumn60</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">28</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item61" isnull="true" iskey="true">
+      <property name="Name">gridColumn61</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">29</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item62" isnull="true" iskey="true">
+      <property name="Name">gridColumn62</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">30</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Mode">AllRows</property>
+          <property name="DisplayFormat">{0:N2}</property>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

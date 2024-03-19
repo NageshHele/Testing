@@ -1,0 +1,26 @@
+16-11-2022 15:51:18 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in C:\Snehadri-Repo\n.Prime-Marwadi\nImageB- Notis\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+16-11-2022 15:51:24 : Reading file C:\Prime\EQD_CC_CO280222.csv
+
+16-11-2022 15:51:25 : File C:\Prime\EQD_CC_CO280222.csv read successfully.
+
+16-11-2022 15:51:40 : Received HB Server : ID^n.ENGINE
+
+16-11-2022 15:51:40 : Received HB Server : SIGNAL^START
+
+16-11-2022 15:51:40 : Received Span Server : ID^n.ENGINE
+
+16-11-2022 15:52:03 : ConsolidationTime: 11ms, TradeCount: 1480
+
+16-11-2022 15:53:04 : SpanTime: 936ms, SpanList Count: 304
+
+16-11-2022 15:54:04 : SpanTime: 659ms, SpanList Count: 304
+
+16-11-2022 15:54:28 : ReceiveCallBack HB Socket : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Gateway.EngineHBConnector.ReceiveCallback(Socket soc_Current) in C:\Snehadri-Repo\n.Prime-Marwadi\nImageB- Notis\Gateway\Connectors\EngineHBConnector.cs:line 119
+

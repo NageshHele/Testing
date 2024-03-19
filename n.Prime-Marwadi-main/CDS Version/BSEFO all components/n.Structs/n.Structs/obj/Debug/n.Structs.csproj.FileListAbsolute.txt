@@ -1,0 +1,181 @@
+E:\Miscellaneous\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+E:\Miscellaneous\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+E:\Miscellaneous\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+E:\Miscellaneous\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+E:\Miscellaneous\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+E:\Miscellaneous\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+E:\Prime\Base-OP\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+E:\Prime\Base-OP\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+E:\Prime\Base-OP\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+E:\Prime\Base-OP\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+E:\Prime\Base-OP\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+E:\Prime\Marwadi\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+E:\Prime\Marwadi\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+E:\Prime\Marwadi\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+E:\Prime\Marwadi\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+E:\Prime\Marwadi\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+E:\Prime\Marwadi\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+D:\Prime-Pace\Prime-Pace\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+D:\Prime-Pace\Prime-Pace\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+D:\Prime-Pace\Prime-Pace\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+D:\Prime-Pace\Prime-Pace\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+D:\Prime-Pace\Prime-Pace\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+D:\Prime-Pace\Prime-Pace\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Latest Prime\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Latest Prime\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Latest Prime\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Latest Prime\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Latest Prime\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+D:\Snehadri Nerve\Prime-New-Snehadri\Prime-New\Latest Prime\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+C:\Users\Snehadri\Desktop\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\Prime-Marwadi-Snehadri\Prime-ProtoCompressor\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\obj\Debug\n.Structs.csprojAssemblyReference.cache
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+D:\AkshayNerve\Prime-Marwadi-Akshay\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.AssemblyReference.cache
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+D:\Snehadri -Nerve-Repos\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.AssemblyReference.cache
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+D:\AkshayNerve\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.AssemblyReference.cache
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+C:\n.Prime Emkay Latest\n.Prime-Emkay\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.AssemblyReference.cache
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+C:\Github\n.Prime-Marwadi-11APR2023\n.Structs\n.Structs\obj\Debug\n.Structs.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\n.Structs.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\n.Structs.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\Google.Protobuf.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\protobuf-net.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\System.Buffers.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\System.Memory.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\Google.Protobuf.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\Google.Protobuf.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\protobuf-net.pdb
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\protobuf-net.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\System.Buffers.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\System.Memory.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.AssemblyReference.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CoreCompileInputs.cache
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\obj\Debug\n.Structs.csproj.CopyComplete
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\obj\Debug\n.Structs.dll
+C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\n.Structs\n.Structs\obj\Debug\n.Structs.pdb

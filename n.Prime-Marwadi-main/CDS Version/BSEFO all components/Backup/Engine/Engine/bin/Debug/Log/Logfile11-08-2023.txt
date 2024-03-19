@@ -1,0 +1,2408 @@
+8/11/2023 11:40:30 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2 | Thread : 3
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 8
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 8
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8705] | Attempts : 1 | Thread : 9
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8705] | Thread : 9
+
+8/11/2023 11:40:47 AM : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8775] | Attempts : 1 | Thread : 11
+
+8/11/2023 11:41:05 AM : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8775] | Attempts : 2 | Thread : 11
+
+8/11/2023 11:41:22 AM : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8775] | Attempts : 3 | Thread : 11
+
+8/11/2023 11:41:39 AM : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8775] | Attempts : 4 | Thread : 11
+
+8/11/2023 11:41:56 AM : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8775] | Attempts : 5 | Thread : 11
+
+8/11/2023 11:42:13 AM : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8775] | Attempts : 6 | Thread : 11
+
+8/11/2023 11:42:15 AM : ObjFeed_eve_ConenctionMessage : BSEFO Failed [127.0.0.1:8775] | Thread : 11
+
+8/11/2023 11:42:15 AM : ReadMTDFile : CLIENT1,550000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadMTDFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+8/11/2023 11:42:15 AM : ReadMTDFile : CLIENT15,1100000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadMTDFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+8/11/2023 11:42:15 AM : ReadMTDFile : CLIENT16,9000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadMTDFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+8/11/2023 11:42:15 AM : ReadMTDFile : CLIENT35,56000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadMTDFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+8/11/2023 11:42:15 AM : ReadMTDFile : CLIENT36,46000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadMTDFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+8/11/2023 11:42:15 AM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : CLIENT10,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : CLIENT11,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : CLIENT12,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : DEALER10,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : DEALER11,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : DEALER12,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : MUMBAI,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : KOLKATA,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:15 AM : ReadLimitFile : PUNE,10000,10000,2000
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BANKNIFTY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : FINNIFTY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NIFTYINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NIFTYIT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NIFTYMID10,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NIFTYPSE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ABIRLANUVO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : 3IINFOTECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ACC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ADANIENT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ADANIPORTS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ADANIPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : AJANTPHARM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ALBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ABAN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : AMARAJABAT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : AMBUJACEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ANDHRABANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : APOLLOHOSP,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : APOLLOTYRE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ARVIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ASHOKLEY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ASIANPAINT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : AUROPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : AXISBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BAJAJ-AUTO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BAJFINANCE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BANKBARODA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BANKINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BATAINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BEML,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BHARATFORG,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BHARTIARTL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BHEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BIOCON,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BOSCHLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BPCL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : BRITANNIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CADILAHC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CAIRN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CANBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CASTROLIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CEATLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CENTURYTEX,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CESC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CIPLA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : COALINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : COLPAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CONCOR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CROMPGREAV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : CUMMINSIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : DABUR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : DHFL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : DISHTV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : DIVISLAB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : DLF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : DRREDDY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : EICHERMOT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ENGINERSIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : EXIDEIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : FEDERALBNK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GAIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GLENMARK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GMRINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GODREJCP,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GODREJIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GRANULES,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : GRASIM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HAVELLS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HCLTECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HDFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HDFCBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HDIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HEROMOTOCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HEXAWARE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HINDALCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HINDPETRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HINDUNILVR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : HINDZINC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IBREALEST,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IBULHSGFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ICICIBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ICIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IDBI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IDEA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IDFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IFCI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IGL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : INDIACEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : INDUSINDBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : INFRATEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : INFY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IOB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IOC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : IRB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ITC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JETAIRWAYS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JINDALSTEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JISLJALEQS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JPASSOCIAT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JSWENERGY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JSWSTEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JUBLFOOD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : JUSTDIAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : KOTAKBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : KPIT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : KSCL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : KTKBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : L&TFH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : LICHSGFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : LT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : LUPIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : M&M,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : M&MFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MARICO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MARUTI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MCDOWELL-N,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MCLEODRUSS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MINDTREE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MOTHERSUMI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : MRF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NCC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NHPC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NMDC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : NTPC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : OFSS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : OIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ONGC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ORIENTBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PAGEIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PCJEWELLER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PETRONET,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PIDILITIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PNB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : POWERGRID,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : PTC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : RCOM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : RECLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : RELCAPITAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : RELIANCE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : RELINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : RPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SAIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SBIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SIEMENS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SKSMICRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SOUTHBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SRF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SRTRANSFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : STAR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SUNPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SUNTV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : SYNDIBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATACHEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATACOMM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATAELXSI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATAGLOBAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATAMOTORS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATAMTRDVR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATAPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TATASTEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TCS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TECHM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TITAN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TORNTPHARM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TV18BRDCST,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : TVSMOTOR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : UBL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : UCOBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ULTRACEMCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : UNIONBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : UNITECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : UPL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : VEDL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : VOLTAS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : WIPRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : WOCKPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : YESBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : ZEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:36 AM : ReadOGFile Loop : USDINR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BANKNIFTY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : FINNIFTY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NIFTYINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NIFTYIT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NIFTYMID10,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NIFTYPSE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ABIRLANUVO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : 3IINFOTECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ACC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ADANIENT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ADANIPORTS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ADANIPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : AJANTPHARM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ALBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ABAN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : AMARAJABAT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : AMBUJACEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ANDHRABANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : APOLLOHOSP,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : APOLLOTYRE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ARVIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ASHOKLEY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ASIANPAINT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : AUROPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : AXISBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BAJAJ-AUTO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BAJFINANCE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BANKBARODA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BANKINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BATAINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BEML,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BHARATFORG,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BHARTIARTL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BHEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BIOCON,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BOSCHLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BPCL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : BRITANNIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CADILAHC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CAIRN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CANBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CASTROLIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CEATLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CENTURYTEX,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CESC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CIPLA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : COALINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : COLPAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CONCOR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CROMPGREAV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : CUMMINSIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : DABUR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : DHFL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : DISHTV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : DIVISLAB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : DLF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : DRREDDY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : EICHERMOT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ENGINERSIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : EXIDEIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : FEDERALBNK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GAIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GLENMARK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GMRINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GODREJCP,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GODREJIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GRANULES,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : GRASIM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HAVELLS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HCLTECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HDFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HDFCBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HDIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HEROMOTOCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HEXAWARE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HINDALCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HINDPETRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HINDUNILVR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : HINDZINC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IBREALEST,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IBULHSGFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ICICIBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ICIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IDBI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IDEA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IDFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IFCI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IGL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : INDIACEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : INDUSINDBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : INFRATEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : INFY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IOB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IOC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : IRB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ITC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JETAIRWAYS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JINDALSTEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JISLJALEQS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JPASSOCIAT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JSWENERGY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JSWSTEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JUBLFOOD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : JUSTDIAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : KOTAKBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : KPIT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : KSCL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : KTKBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : L&TFH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : LICHSGFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : LT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : LUPIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : M&M,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : M&MFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MARICO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MARUTI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MCDOWELL-N,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MCLEODRUSS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MINDTREE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MOTHERSUMI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : MRF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NCC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NHPC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NMDC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : NTPC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : OFSS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : OIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ONGC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ORIENTBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PAGEIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PCJEWELLER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PETRONET,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PIDILITIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PNB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : POWERGRID,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : PTC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : RCOM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : RECLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : RELCAPITAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : RELIANCE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : RELINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : RPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SAIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SBIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SIEMENS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SKSMICRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SOUTHBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SRF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SRTRANSFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : STAR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SUNPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SUNTV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : SYNDIBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATACHEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATACOMM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATAELXSI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATAGLOBAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATAMOTORS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATAMTRDVR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATAPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TATASTEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TCS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TECHM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TITAN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TORNTPHARM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TV18BRDCST,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : TVSMOTOR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : UBL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : UCOBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ULTRACEMCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : UNIONBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : UNITECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : UPL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : VEDL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : VOLTAS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : WIPRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : WOCKPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : YESBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : ZEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:37 AM : ReadOGFile Loop : USDINR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BANKNIFTY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : FINNIFTY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NIFTYINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NIFTYIT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NIFTYMID10,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NIFTYPSE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ABIRLANUVO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : 3IINFOTECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ACC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ADANIENT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ADANIPORTS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ADANIPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : AJANTPHARM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ALBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ABAN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : AMARAJABAT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : AMBUJACEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ANDHRABANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : APOLLOHOSP,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : APOLLOTYRE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ARVIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ASHOKLEY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ASIANPAINT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : AUROPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : AXISBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BAJAJ-AUTO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BAJFINANCE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BANKBARODA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BANKINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BATAINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BEML,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BHARATFORG,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BHARTIARTL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BHEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BIOCON,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BOSCHLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BPCL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : BRITANNIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CADILAHC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CAIRN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CANBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CASTROLIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CEATLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CENTURYTEX,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CESC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CIPLA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : COALINDIA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : COLPAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CONCOR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CROMPGREAV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : CUMMINSIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : DABUR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : DHFL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : DISHTV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : DIVISLAB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : DLF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : DRREDDY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : EICHERMOT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ENGINERSIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : EXIDEIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : FEDERALBNK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GAIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GLENMARK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GMRINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GODREJCP,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GODREJIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GRANULES,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : GRASIM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HAVELLS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HCLTECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HDFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HDFCBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HDIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HEROMOTOCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HEXAWARE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HINDALCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HINDPETRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HINDUNILVR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : HINDZINC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IBREALEST,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IBULHSGFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ICICIBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ICIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IDBI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IDEA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IDFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IFCI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IGL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : INDIACEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : INDUSINDBK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : INFRATEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : INFY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IOB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IOC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : IRB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ITC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JETAIRWAYS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JINDALSTEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JISLJALEQS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JPASSOCIAT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JSWENERGY,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JSWSTEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JUBLFOOD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : JUSTDIAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : KOTAKBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : KPIT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : KSCL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : KTKBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : L&TFH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : LICHSGFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : LT,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : LUPIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : M&M,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : M&MFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MARICO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MARUTI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MCDOWELL-N,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MCLEODRUSS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MINDTREE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MOTHERSUMI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : MRF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NCC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NHPC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NMDC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : NTPC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : OFSS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : OIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ONGC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ORIENTBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PAGEIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PCJEWELLER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PETRONET,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PFC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PIDILITIND,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PNB,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : POWERGRID,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : PTC,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : RCOM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : RECLTD,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : RELCAPITAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : RELIANCE,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : RELINFRA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : RPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SAIL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SBIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SIEMENS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SKSMICRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SOUTHBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SRF,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SRTRANSFIN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : STAR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SUNPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SUNTV,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : SYNDIBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATACHEM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATACOMM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATAELXSI,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATAGLOBAL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATAMOTORS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATAMTRDVR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATAPOWER,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TATASTEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TCS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TECHM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TITAN,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TORNTPHARM,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TV18BRDCST,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : TVSMOTOR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : UBL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : UCOBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ULTRACEMCO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : UNIONBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : UNITECH,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : UPL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : VEDL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : VOLTAS,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : WIPRO,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : WOCKPHARMA,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : YESBANK,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : ZEEL,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:41 AM : ReadOGFile Loop : USDINR,-10,10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Engine.EngineProcess.ReadOGFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 4077
+
+8/11/2023 11:42:45 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:14100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+8/11/2023 12:03:44 PM : ReceiveTradeResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+8/11/2023 12:03:44 PM : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 275
+
+8/11/2023 12:03:44 PM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+8/11/2023 12:03:46 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+8/11/2023 12:03:46 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+8/11/2023 12:03:46 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+8/11/2023 12:03:58 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+8/11/2023 12:03:58 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+8/11/2023 12:03:58 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+8/11/2023 12:04:10 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+8/11/2023 12:04:10 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+8/11/2023 12:04:10 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+8/11/2023 12:04:10 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+8/11/2023 12:04:22 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+8/11/2023 12:04:22 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+8/11/2023 12:04:22 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+8/11/2023 12:04:34 PM : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+8/11/2023 12:04:34 PM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+8/11/2023 12:04:35 PM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+8/11/2023 3:07:51 PM : EngineProcess_FormClosing
+

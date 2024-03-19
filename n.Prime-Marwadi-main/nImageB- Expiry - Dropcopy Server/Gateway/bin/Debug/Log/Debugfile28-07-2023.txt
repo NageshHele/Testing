@@ -1,0 +1,18 @@
+7/28/2023 8:29:27 PM,Initialising Image.
+7/28/2023 8:30:58 PM,Initialising Image.
+7/28/2023 8:32:26 PM,Initialising Image.
+7/28/2023 8:32:41 PM,FO Trade Count: 1
+7/28/2023 8:32:41 PM,FO Trade Count: 2
+7/28/2023 8:32:41 PM,FO Trade Count: 3
+7/28/2023 8:32:41 PM,FO Trade Count: 4
+7/28/2023 8:32:41 PM,FO Trade Count: 5
+7/28/2023 8:32:41 PM,FO Trade Count: 6
+7/28/2023 8:32:41 PM,FO Trade Count: 7
+7/28/2023 8:32:41 PM,FO Trade Count: 8
+7/28/2023 8:32:41 PM,FO Trade Count: 9
+7/28/2023 8:32:41 PM,FO Trade Count: 10
+7/28/2023 8:32:41 PM,FO Trade Count: 11
+7/28/2023 8:32:41 PM,FO Trade Count: 12
+7/28/2023 8:32:41 PM,FO Trade Count: 13
+7/28/2023 8:32:41 PM,FO Trade Count: 14
+7/28/2023 8:32:41 PM,ReadFO Loop 0.02secs, Trades:14

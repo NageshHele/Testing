@@ -1,0 +1,810 @@
+2/23/2022 2:26:55 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:28:37 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:28:43 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 2:28:44 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 2:28:49 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:28:49 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:28:49 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,38869,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,2,25,39398.35,CLIENT16,CLIENT16,1.20E+15,200000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,30919,O,OPTIDX,49309,BANKNIFTY,02/10/2022,40500,CE,2,50,140,CLIENT15,CLIENT16,1.30E+15,300000001,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,180,CLIENT16,CLIENT16,1.30E+15,300000003,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,167.7,CLIENT16,CLIENT16,1.30E+15,300000008,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,167.7,CLIENT16,CLIENT16,1.30E+15,300000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000013,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.1,CLIENT16,CLIENT16,1.20E+15,200000015,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000017,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,39655,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,1,25,39397,CLIENT16,CLIENT16,1.20E+15,200000018,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000035,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000036,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000039,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000047,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000049,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000057,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:29:42 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000059,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:34 PM : Received HB Server : SIGNAL^STOP
+
+2/23/2022 2:31:36 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:31:36 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:31:36 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,38869,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,2,25,39398.35,CLIENT16,CLIENT16,1.20E+15,200000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,30919,O,OPTIDX,49309,BANKNIFTY,02/10/2022,40500,CE,2,50,140,CLIENT15,CLIENT16,1.30E+15,300000001,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,180,CLIENT16,CLIENT16,1.30E+15,300000003,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,167.7,CLIENT16,CLIENT16,1.30E+15,300000008,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,167.7,CLIENT16,CLIENT16,1.30E+15,300000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000013,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.1,CLIENT16,CLIENT16,1.20E+15,200000015,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000017,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,39655,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,1,25,39397,CLIENT16,CLIENT16,1.20E+15,200000018,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000035,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000036,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000039,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000047,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000049,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000057,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:31:36 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000059,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:33:36 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:35:09 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:35:15 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 2:35:20 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 2:35:27 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:35:27 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:35:27 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 2:41:53 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:45:40 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:52:51 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:52:57 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 2:53:03 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 2:53:11 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:53:11 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:53:11 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 2:53:40 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,25,117.45,CLIENT15,CLIENT16,1.50E+15,500000004,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,25,117.45,CLIENT15,CLIENT16,1.50E+15,500000006,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,50,117.45,CLIENT15,CLIENT16,1.50E+15,500000007,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,75,117.45,CLIENT15,CLIENT16,1.50E+15,500000008,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,38869,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,2,25,39398.35,CLIENT16,CLIENT16,1.20E+15,200000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,44244,O,OPTIDX,45650,NIFTY,02/24/2022,18200,CE,2,400,0.6,CLIENT16,CLIENT16,1.00E+15,2,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,30919,O,OPTIDX,49309,BANKNIFTY,02/10/2022,40500,CE,2,50,140,CLIENT15,CLIENT16,1.30E+15,300000001,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,38550,O,OPTIDX,45291,BANKNIFTY,02/24/2022,38500,PE,2,25,16.8,CLIENT16,CLIENT16,1.70E+15,700000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,38550,O,OPTIDX,45291,BANKNIFTY,02/24/2022,38500,PE,2,75,16.8,CLIENT16,CLIENT16,1.70E+15,700000012,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,180,CLIENT16,CLIENT16,1.30E+15,300000003,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,167.7,CLIENT16,CLIENT16,1.30E+15,300000008,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,167.7,CLIENT16,CLIENT16,1.30E+15,300000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000013,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,275,16,CLIENT16,CLIENT16,1.40E+15,400000036,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,50,16,CLIENT16,CLIENT16,1.40E+15,400000037,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000038,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,50,16,CLIENT16,CLIENT16,1.40E+15,400000039,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000040,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:44 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000046,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000049,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,50,16,CLIENT16,CLIENT16,1.40E+15,400000052,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.1,CLIENT16,CLIENT16,1.20E+15,200000015,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000017,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45614,NIFTY,02/24/2022,17800,CE,2,50,59.65,CLIENT15,CLIENT16,1.00E+15,3,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,38595,O,OPTIDX,35839,BANKNIFTY,02/24/2022,42700,CE,2,25,0.6,CLIENT16,CLIENT16,1.50E+15,500000075,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,1,25,39397,CLIENT16,CLIENT16,1.20E+15,200000018,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,38595,O,OPTIDX,35839,BANKNIFTY,02/24/2022,42700,CE,2,25,0.6,CLIENT16,CLIENT16,1.50E+15,500000085,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000035,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000036,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000039,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,34462,O,OPTIDX,45208,BANKNIFTY,02/24/2022,37000,PE,2,50,3.8,CLIENT16,CLIENT16,1.60E+15,600000108,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,200,0.1,CLIENT16,CLIENT16,1.00E+15,6,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,34462,O,OPTIDX,45208,BANKNIFTY,02/24/2022,37000,PE,2,25,3.8,CLIENT16,CLIENT16,1.60E+15,600000110,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,600,0.1,CLIENT16,CLIENT16,1.00E+15,7,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,1200,0.1,CLIENT16,CLIENT16,1.00E+15,8,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,200,0.1,CLIENT16,CLIENT16,1.00E+15,9,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,400,0.1,CLIENT16,CLIENT16,1.00E+15,10,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,1400,0.1,CLIENT16,CLIENT16,1.00E+15,11,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000047,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000049,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000057,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:53:45 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000059,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:54:41 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:55:08 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 2:55:08 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 2:55:17 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:55:17 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:55:17 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,25,117.45,CLIENT15,CLIENT16,1.50E+15,500000004,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,25,117.45,CLIENT15,CLIENT16,1.50E+15,500000006,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,50,117.45,CLIENT15,CLIENT16,1.50E+15,500000007,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45374,BANKNIFTY,02/24/2022,39500,CE,2,75,117.45,CLIENT15,CLIENT16,1.50E+15,500000008,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,38869,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,2,25,39398.35,CLIENT16,CLIENT16,1.20E+15,200000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,44244,O,OPTIDX,45650,NIFTY,02/24/2022,18200,CE,2,400,0.6,CLIENT16,CLIENT16,1.00E+15,2,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,30919,O,OPTIDX,49309,BANKNIFTY,02/10/2022,40500,CE,2,50,140,CLIENT15,CLIENT16,1.30E+15,300000001,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,38550,O,OPTIDX,45291,BANKNIFTY,02/24/2022,38500,PE,2,25,16.8,CLIENT16,CLIENT16,1.70E+15,700000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,38550,O,OPTIDX,45291,BANKNIFTY,02/24/2022,38500,PE,2,75,16.8,CLIENT16,CLIENT16,1.70E+15,700000012,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,180,CLIENT16,CLIENT16,1.30E+15,300000003,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,25,167.7,CLIENT16,CLIENT16,1.30E+15,300000008,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,167.7,CLIENT16,CLIENT16,1.30E+15,300000010,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000013,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,49289,BANKNIFTY,02/10/2022,40000,CE,2,50,161.05,CLIENT16,CLIENT16,1.30E+15,300000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,275,16,CLIENT16,CLIENT16,1.40E+15,400000036,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,50,16,CLIENT16,CLIENT16,1.40E+15,400000037,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000038,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:22 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,50,16,CLIENT16,CLIENT16,1.40E+15,400000039,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000040,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000046,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,25,16,CLIENT16,CLIENT16,1.40E+15,400000049,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45403,BANKNIFTY,02/24/2022,40000,CE,2,50,16,CLIENT16,CLIENT16,1.40E+15,400000052,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.1,CLIENT16,CLIENT16,1.20E+15,200000015,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000016,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,52357,BANKNIFTY,02/24/2022,40500,CE,1,25,363.15,CLIENT16,CLIENT16,1.20E+15,200000017,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35294,O,OPTIDX,45614,NIFTY,02/24/2022,17800,CE,2,50,59.65,CLIENT15,CLIENT16,1.00E+15,3,AACCC5088R,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,38595,O,OPTIDX,35839,BANKNIFTY,02/24/2022,42700,CE,2,25,0.6,CLIENT16,CLIENT16,1.50E+15,500000075,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,39655,F,FUTIDX,51868,BANKNIFTY,02/24/2022,-1,XX,1,25,39397,CLIENT16,CLIENT16,1.20E+15,200000018,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,38595,O,OPTIDX,35839,BANKNIFTY,02/24/2022,42700,CE,2,25,0.6,CLIENT16,CLIENT16,1.50E+15,500000085,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000035,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000036,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:23 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000039,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,34462,O,OPTIDX,45208,BANKNIFTY,02/24/2022,37000,PE,2,50,3.8,CLIENT16,CLIENT16,1.60E+15,600000108,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,200,0.1,CLIENT16,CLIENT16,1.00E+15,6,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,34462,O,OPTIDX,45208,BANKNIFTY,02/24/2022,37000,PE,2,25,3.8,CLIENT16,CLIENT16,1.60E+15,600000110,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,600,0.1,CLIENT16,CLIENT16,1.00E+15,7,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,1200,0.1,CLIENT16,CLIENT16,1.00E+15,8,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,200,0.1,CLIENT16,CLIENT16,1.00E+15,9,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,400,0.1,CLIENT16,CLIENT16,1.00E+15,10,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,39655,O,OPTIDX,36649,NIFTY,02/24/2022,19800,CE,2,1400,0.1,CLIENT16,CLIENT16,1.00E+15,11,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000047,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000049,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,35855,O,OPTSTK,95273,M&MFIN,02/24/2022,170,CE,2,4000,4.15,CLIENT16,CLIENT16,2.00E+15,900000057,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:55:24 PM : ReadFO Loop : NFO,CLIENT16,35855,F,FUTSTK,52014,M&MFIN,02/24/2022,-1,XX,1,4000,162.8,CLIENT16,CLIENT16,2.00E+15,900000059,AABCM5192K,1328346900,9:15:00
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Gateway.Core_Logic.CTradeProcess.ReadFO() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\CTradeProcess.cs:line 332
+
+2/23/2022 2:56:01 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:56:15 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:56:15 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 2:56:16 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 2:56:16 PM : Received HB Server : SIGNAL^STOP
+
+2/23/2022 2:56:19 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:56:19 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:56:19 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 2:59:01 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 2:59:23 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 2:59:23 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 2:59:23 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 3:56:16 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 3:59:00 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 3:59:06 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 3:59:11 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 3:59:16 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 3:59:16 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 3:59:16 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+
+2/23/2022 4:02:41 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.29.247:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Gateway.BODUtilityConnector.StartClient() in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Connectors\BODUtilityConnector.cs:line 44
+
+2/23/2022 4:02:54 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 4:02:56 PM : Received Trade Server : ID^n.ENGINE
+
+2/23/2022 4:02:56 PM : Received Span Server : ID^n.ENGINE
+
+2/23/2022 4:03:02 PM : Received HB Server : SIGNAL^STOP
+
+2/23/2022 4:03:03 PM : Received HB Server : ID^n.ENGINE
+
+2/23/2022 4:03:03 PM : Received HB Server : SIGNAL^START
+
+2/23/2022 4:03:03 PM : ReceiveResponseFromEngine : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\SpanMargin\20220223'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at Gateway.nProcess.ReceiveResponseFromEngine(String _Signal) in D:\AkshayNerve\Prime-Marwadi-Akshay\Gateway - Copy\Gateway\Core-Logic\nProcess.cs:line 405
+

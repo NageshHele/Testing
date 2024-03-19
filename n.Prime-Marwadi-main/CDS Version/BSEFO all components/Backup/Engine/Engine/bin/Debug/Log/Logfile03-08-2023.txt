@@ -1,0 +1,1464 @@
+03-08-2023 10:47:56 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 10:48:13 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2 | Thread : 3
+
+03-08-2023 10:48:13 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 10:48:13 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 9
+
+03-08-2023 10:48:14 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 9
+
+03-08-2023 10:48:14 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 10
+
+03-08-2023 10:48:14 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 10
+
+03-08-2023 10:48:14 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 13
+
+03-08-2023 16:51:55 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 16:52:12 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2 | Thread : 3
+
+03-08-2023 16:52:29 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 3 | Thread : 3
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 8
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 8
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 12
+
+03-08-2023 17:43:05 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 12
+
+03-08-2023 17:43:05 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 17:43:06 : ReadClientDetail : MySql.Data.MySqlClient.MySqlException (0x80004005): Retrieval of the RSA public key is not enabled for insecure connections.
+   at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3797
+
+03-08-2023 17:43:06 : ReadContractMaster : MySql.Data.MySqlClient.MySqlException (0x80004005): Retrieval of the RSA public key is not enabled for insecure connections.
+   at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Engine.EngineProcess.ReadContractMaster() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3949
+
+03-08-2023 17:43:24 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 17:43:25 : BOD getClientDetails MySql.Data.MySqlClient.MySqlException (0x80004005): Retrieval of the RSA public key is not enabled for insecure connections.
+   at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Engine.BODProcess.GetClientDetails() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 72  _03-08-2023 17:43:25
+
+03-08-2023 17:43:30 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:43:30
+
+03-08-2023 17:43:30 : Full Client upload started  _03-08-2023 17:43:30
+
+03-08-2023 17:43:30 : Upload client MySql.Data.MySqlClient.MySqlException (0x80004005): Retrieval of the RSA public key is not enabled for insecure connections.
+   at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 198  _03-08-2023 17:43:30
+
+03-08-2023 17:43:30 : MySql.Data.MySqlClient.MySqlException (0x80004005): Retrieval of the RSA public key is not enabled for insecure connections.
+   at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 226  _03-08-2023 17:43:30
+
+03-08-2023 17:43:32 : ReadClientDetail : MySql.Data.MySqlClient.MySqlException (0x80004005): Retrieval of the RSA public key is not enabled for insecure connections.
+   at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3797
+
+03-08-2023 17:44:06 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:44:06
+
+03-08-2023 17:44:06 : Full Client upload started  _03-08-2023 17:44:06
+
+03-08-2023 17:44:06 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:44:06
+
+03-08-2023 17:44:07 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:44:07
+
+03-08-2023 17:44:07 : Full Client upload started  _03-08-2023 17:44:07
+
+03-08-2023 17:44:07 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:44:07
+
+03-08-2023 17:44:17 : EngineProcess_FormClosing
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 9
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 9
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 9
+
+03-08-2023 17:44:21 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 9
+
+03-08-2023 17:44:21 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 17:44:48 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 17:44:54 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+03-08-2023 17:44:54 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:44:54
+
+03-08-2023 17:44:54 : Full Client upload started  _03-08-2023 17:44:54
+
+03-08-2023 17:44:54 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:44:54
+
+03-08-2023 17:45:50 : GetClientDetails -inner : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.BODProcess.GetClientDetails() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 85  _03-08-2023 17:45:50
+
+03-08-2023 17:45:54 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:45:54
+
+03-08-2023 17:45:54 : Full Client upload started  _03-08-2023 17:45:54
+
+03-08-2023 17:45:54 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:45:54
+
+03-08-2023 17:45:56 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:45:58 : EngineProcess_FormClosing
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 9
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 9
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 10
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 10
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 12
+
+03-08-2023 17:46:01 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 12
+
+03-08-2023 17:46:01 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 17:46:02 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:46:04 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 17:46:16 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 17:46:24 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 17:46:26 : GetClientDetails -inner : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.BODProcess.GetClientDetails() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 85  _03-08-2023 17:46:26
+
+03-08-2023 17:46:28 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 17:46:31 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:46:31
+
+03-08-2023 17:46:31 : Full Client upload started  _03-08-2023 17:46:31
+
+03-08-2023 17:46:31 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:46:31
+
+03-08-2023 17:46:40 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 17:46:52 : Unable to connect to the Gateway Server. 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 17:46:54 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:46:57 : GetClientDetails -inner : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.BODProcess.GetClientDetails() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 85  _03-08-2023 17:46:57
+
+03-08-2023 17:47:10 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:47:10
+
+03-08-2023 17:47:10 : Full Client upload started  _03-08-2023 17:47:10
+
+03-08-2023 17:47:10 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:47:10
+
+03-08-2023 17:47:31 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:47:31
+
+03-08-2023 17:47:31 : Full Client upload started  _03-08-2023 17:47:31
+
+03-08-2023 17:47:31 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:47:31
+
+03-08-2023 17:47:34 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:47:36 : EngineProcess_FormClosing
+
+03-08-2023 17:49:09 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:49:09 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 17:49:09 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+03-08-2023 17:49:09 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+03-08-2023 17:49:09 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 10
+
+03-08-2023 17:49:10 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 10
+
+03-08-2023 17:49:10 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 11
+
+03-08-2023 17:49:10 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 11
+
+03-08-2023 17:49:10 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 17:49:10 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:49:33 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 17:49:35 : GetClientDetails -inner : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ExclCode' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.BODProcess.GetClientDetails() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 85  _03-08-2023 17:49:35
+
+03-08-2023 17:49:41 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:49:41
+
+03-08-2023 17:49:41 : Full Client upload started  _03-08-2023 17:49:41
+
+03-08-2023 17:49:41 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Segment' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:49:41
+
+03-08-2023 17:49:49 : Client file selected C:\MY-DRIVE\ClientMaster Files\New Text Document.txt  _03-08-2023 17:49:49
+
+03-08-2023 17:49:49 : Client Upload Loop Incomplete :   _03-08-2023 17:49:49
+
+03-08-2023 17:51:03 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:51:03
+
+03-08-2023 17:51:03 : Full Client upload started  _03-08-2023 17:51:03
+
+03-08-2023 17:51:03 : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Product' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Engine.BODProcess.UploadClient(String strType) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 231  _03-08-2023 17:51:03
+
+03-08-2023 17:51:04 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Product' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:51:06 : EngineProcess_FormClosing
+
+03-08-2023 17:51:51 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 3
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 3
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 12
+
+03-08-2023 17:51:52 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 12
+
+03-08-2023 17:51:52 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 17:51:52 : ReadClientDetail ALL : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Product' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.EngineProcess.ReadClientDetail() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3827
+
+03-08-2023 17:52:18 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 17:52:20 : GetClientDetails -inner : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Product' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Engine.BODProcess.GetClientDetails() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\BODProcess.cs:line 85  _03-08-2023 17:52:20
+
+03-08-2023 17:53:19 : EngineProcess_FormClosing
+
+03-08-2023 17:53:36 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 8
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 8
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 9
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 9
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 11
+
+03-08-2023 17:53:37 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 11
+
+03-08-2023 17:53:37 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 17:54:03 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 17:54:09 : Client file selected C:\MY-DRIVE\ClientMaster Files\Marwadi Clientmaster.txt  _03-08-2023 17:54:09
+
+03-08-2023 17:54:09 : Full Client upload started  _03-08-2023 17:54:09
+
+03-08-2023 17:54:09 : Client Uploaded Successfully.  _03-08-2023 17:54:09
+
+03-08-2023 17:54:09 : Row count 5, Total time taken for client upload 00:00:00.0091683  _03-08-2023 17:54:09
+
+03-08-2023 17:54:20 : Mapping updated for user omkar, Mapped client-CLIENT11,CLIENT12,CLIENT13,CLIENT14,OWN
+
+03-08-2023 17:54:22 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 17:54:22 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 17:54:22 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 17:54:22 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 17:54:22 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 17:54:22 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 17:54:24 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+03-08-2023 17:54:26 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+03-08-2023 17:54:40 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+03-08-2023 17:55:47 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+03-08-2023 18:14:44 : nImageBHB : System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.nImageBHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\nImageBHBConnector.cs:line 69
+
+03-08-2023 18:14:44 : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): The operation completed successfully
+   at Engine.Connectors.nImageBDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\nImageBDataConnector.cs:line 147
+
+03-08-2023 18:14:46 : Retrying 192.168.0.104:13600
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13600
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.nImageBHBConnector.ConnectTonImageB(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\nImageBHBConnector.cs:line 101
+
+03-08-2023 18:14:46 : Retrying nImageB Span 192.168.0.104:13700
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13700
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.nImageBDataConnector.ConnectTonImageBSpan(String ID, IPAddress _nImageBIP, Int32 _nImageBPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\nImageBDataConnector.cs:line 52
+
+03-08-2023 18:14:53 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+03-08-2023 18:14:53 : ReceiveSpanResponse Received- 173
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+03-08-2023 18:14:53 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.SendToGateway(String _Message) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 145
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 60
+
+03-08-2023 18:14:53 : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+03-08-2023 18:14:53 : ReceiveTradeResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+03-08-2023 18:14:55 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:14:55 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:14:55 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:14:57 : EngineProcess_FormClosing
+
+03-08-2023 18:18:26 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 8
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 8
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 9
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 9
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 12
+
+03-08-2023 18:18:27 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 12
+
+03-08-2023 18:18:27 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 18:18:30 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:18:30 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:18:30 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+ector.cs:line 53
+
+03-08-2023 18:18:30 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:18:42 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:18:42 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:18:42 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:18:42 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:18:42 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:18:42 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:18:54 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:18:54 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:18:54 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:19:04 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 18:19:06 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:19:06 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:19:06 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:19:18 : Unable to connect to the Gateway Server. 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:19:18 : Unable to connect to the Gateway Span Server. 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:19:18 : Unable to connect to the Gateway Server. 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:20:50 : EngineProcess_FormClosing
+
+03-08-2023 18:20:55 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 7
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 7
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 7
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 11
+
+03-08-2023 18:20:56 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 11
+
+03-08-2023 18:20:56 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 18:21:06 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:06 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:06 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:21:06 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:18 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:18 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:18 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:18 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:18 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:18 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:21:30 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:21:30 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:30 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:41 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 18:21:42 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:21:42 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:42 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:21:50 : btn_Start_Click : System.Net.Sockets.SocketException (0x80004005): A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.SendToGateway(String _Message) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 145
+   at Engine.EngineProcess.btn_Start_Click(Object sender, EventArgs e) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 931
+
+03-08-2023 18:21:50 : Unable to connect to the Gateway Server. 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:50 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:21:50 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:21:50 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:21:50 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:21:50 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:21:50 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:21:54 : Unable to connect to the Gateway Server. 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:21:54 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:21:55 : Unable to connect to the Gateway Span Server. 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:22:07 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:22:19 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:22:31 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:22:43 : Unable to connect to the Gateway Server. 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:22:48 : Received HB Server : ID^04BF1B618C77
+
+03-08-2023 18:22:49 : Received HB Server : USER^omkar|omkar|5.7.0.1
+
+03-08-2023 18:28:06 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 8
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 8
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 10
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 10
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 12
+
+03-08-2023 18:28:07 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 12
+
+03-08-2023 18:28:07 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 18:28:10 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:28:10 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:28:10 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:28:22 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:28:22 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:28:22 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:28:34 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:28:34 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:28:34 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:28:35 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 18:28:46 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:28:46 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:28:46 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:28:58 : Unable to connect to the Gateway Span Server. 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:28:58 : Unable to connect to the Gateway Server. 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:28:58 : Unable to connect to the Gateway Server. 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:47:15 : EngineProcess_FormClosing
+
+03-08-2023 18:47:30 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 7
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 7
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 7
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 12
+
+03-08-2023 18:47:32 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 12
+
+03-08-2023 18:47:32 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 18:47:35 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:47:35 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:47:35 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:47:47 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:47:48 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:47:48 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:47:52 : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+03-08-2023 18:47:56 : btn_Start_Click : System.Net.Sockets.SocketException (0x80004005): A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.SendToGateway(String _Message) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 145
+   at Engine.EngineProcess.btn_Start_Click(Object sender, EventArgs e) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 931
+
+03-08-2023 18:47:56 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:47:56 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:47:56 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:47:56 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:47:56 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:47:56 : Inner Linq Loop : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Engine.EngineProcess.ConsolidateAndSend() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 2323
+
+03-08-2023 18:47:56 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:48:00 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:48:00 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:48:00 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:48:08 : Unable to connect to the Gateway Server. 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:48:12 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:48:12 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:48:12 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:48:24 : Unable to connect to the Gateway Server. 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:48:24 : Unable to connect to the Gateway Span Server. 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:48:24 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:48:36 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:48:48 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+03-08-2023 18:55:57 : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : BSEFO Connecting to [127.0.0.1:8715] | Attempts : 1 | Thread : 10
+
+03-08-2023 18:55:59 : ObjFeed_eve_ConenctionMessage : BSEFO Connected to [127.0.0.1:8715] | Thread : 10
+
+03-08-2023 18:55:59 : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,BankNifty Expo Limit,Nifty Expo Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+03-08-2023 18:56:04 : Retrying 192.168.0.104:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+03-08-2023 18:56:04 : Retrying Gateway Span 192.168.0.104:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+03-08-2023 18:56:04 : Retrying 192.168.0.104:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.0.104:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in C:\Users\omkar\Documents\GitHub\n.Prime-Marwadi\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+

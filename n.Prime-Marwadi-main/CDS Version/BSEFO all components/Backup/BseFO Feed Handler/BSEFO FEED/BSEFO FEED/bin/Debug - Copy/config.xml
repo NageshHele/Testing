@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FEED>
+  <UDP-SERVER>
+    <PORT>8718</PORT>
+    <IP>127.0.0.1</IP>
+  </UDP-SERVER>
+  <SELF-SERVER>
+    <IP>127.0.0.1</IP>
+    <PORT>8715</PORT>
+  </SELF-SERVER>
+  <FILE-PATH>
+	  <BSE-CONTRACT>C:\Prime\</BSE-CONTRACT>
+	  <BHAVCOPY>C:\Prime\</BHAVCOPY>
+  </FILE-PATH>
+  <OTHER>
+    <CLOSING-TIME>23:59:59</CLOSING-TIME>
+    <DEBUG-MODE>true</DEBUG-MODE>
+  </OTHER>
+</FEED>

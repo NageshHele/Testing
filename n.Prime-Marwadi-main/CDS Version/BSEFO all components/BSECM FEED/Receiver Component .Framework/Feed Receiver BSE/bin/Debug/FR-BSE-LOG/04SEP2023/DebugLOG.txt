@@ -1,0 +1,2 @@
+[DEBUG] 9/4/2023 7:10:45 PM => Server Setup Success
+[DEBUG] 9/4/2023 7:10:46 PM => Receiver Setup Success

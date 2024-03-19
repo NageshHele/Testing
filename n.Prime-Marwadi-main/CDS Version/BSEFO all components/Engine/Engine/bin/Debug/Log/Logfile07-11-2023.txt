@@ -1,0 +1,2194 @@
+11/7/2023 9:22:41 AM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 9:22:41 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 9:22:59 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2 | Thread : 3
+
+11/7/2023 9:22:59 AM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 9:22:59 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 3
+
+11/7/2023 9:22:59 AM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 3
+
+11/7/2023 9:23:00 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 9:23:00 AM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 9:23:01 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 9:23:18 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 2 | Thread : 9
+
+11/7/2023 9:23:35 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 3 | Thread : 9
+
+11/7/2023 9:23:52 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 4 | Thread : 9
+
+11/7/2023 9:24:09 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 5 | Thread : 9
+
+11/7/2023 9:24:26 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 6 | Thread : 9
+
+11/7/2023 9:24:26 AM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 9:24:26 AM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 9:24:26 AM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 9:24:26 AM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:27 AM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:24:30 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:24:31 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:24:33 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:24:42 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:24:43 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:24:45 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:24:54 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:24:57 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:24:58 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:25:07 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:25:08 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 9:25:09 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:25:10 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:25:19 AM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:25:21 AM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:25:22 AM : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:49:46 AM : ObjFeed_eve_ConenctionMessage EX : FO Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.O5Verphmj(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 810
+
+11/7/2023 9:49:46 AM : ObjFeed_eve_ConenctionMessage EX : CM Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.gQwZyx5Xn(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 967
+
+11/7/2023 9:49:46 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+11/7/2023 9:49:46 AM : ObjFeed_eve_ConenctionMessage EX : CD Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.k1FxMBoRC(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 889
+
+11/7/2023 9:49:46 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 10
+
+11/7/2023 9:49:48 AM : ObjFeed_eve_ConenctionMessage EX : BSECM Feed -CON : 
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.kErW96ZTC(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 1041
+
+11/7/2023 9:49:48 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 11
+
+11/7/2023 9:50:03 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 2 | Thread : 7
+
+11/7/2023 9:50:03 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 2 | Thread : 10
+
+11/7/2023 9:50:05 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 2 | Thread : 11
+
+11/7/2023 9:50:20 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 3 | Thread : 7
+
+11/7/2023 9:50:20 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 3 | Thread : 10
+
+11/7/2023 9:50:22 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 3 | Thread : 11
+
+11/7/2023 9:50:37 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 4 | Thread : 7
+
+11/7/2023 9:50:37 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 4 | Thread : 10
+
+11/7/2023 9:50:39 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 4 | Thread : 11
+
+11/7/2023 9:50:54 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 5 | Thread : 7
+
+11/7/2023 9:50:54 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 5 | Thread : 10
+
+11/7/2023 9:50:56 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 5 | Thread : 11
+
+11/7/2023 9:51:11 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 6 | Thread : 7
+
+11/7/2023 9:51:11 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 6 | Thread : 10
+
+11/7/2023 9:51:13 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 6 | Thread : 11
+
+11/7/2023 9:51:13 AM : ObjFeed_eve_ConenctionMessage : CM Failed [127.0.0.1:8706] | Thread : 7
+
+11/7/2023 9:51:13 AM : ObjFeed_eve_ConenctionMessage : CD Failed [127.0.0.1:8708] | Thread : 10
+
+11/7/2023 9:51:15 AM : ObjFeed_eve_ConenctionMessage : BSECM Failed [127.0.0.1:16100] | Thread : 11
+
+11/7/2023 9:56:58 AM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 9:56:58 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 9:56:59 AM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 9:56:59 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+11/7/2023 9:56:59 AM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 7
+
+11/7/2023 9:57:00 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 9:57:00 AM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 9:57:01 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 10
+
+11/7/2023 9:57:01 AM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 10
+
+11/7/2023 9:57:01 AM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 9:57:01 AM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 9:57:01 AM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:01 AM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 9:57:07 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:57:08 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:57:09 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:57:19 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 9:57:20 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 9:57:21 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 9:58:07 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 10:09:11 AM : ReceiveSpanResponse Received- 43
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+tion (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : ReceiveSpanResponse Received- 43
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 10:09:11 AM : ReceiveSpanResponse Received- 43
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+tion (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+ Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+tion (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 10:09:11 AM : ReceiveSpanResponse Received- 43
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+tion (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+ Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+tion (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 10:09:11 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 10:09:11 AM : ReceiveTradeResponse Received- 89006
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+11/7/2023 10:09:13 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 10:09:13 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:13 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 10:09:13 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:09:19 AM : ObjFeed_eve_ConenctionMessage EX : BSECM Feed -CON : 
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.kErW96ZTC(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 1041
+
+11/7/2023 10:09:20 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 15
+
+11/7/2023 10:09:23 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): An invalid argument was supplied 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 10:09:25 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:09:25 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:09:25 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:09:25 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:35 AM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 10:09:37 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 2 | Thread : 15
+
+11/7/2023 10:09:37 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:37 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:37 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:37 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:09:49 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:49 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:49 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 10:09:49 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:09:54 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 3 | Thread : 15
+
+11/7/2023 10:10:01 AM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+3
+
+11/7/2023 10:10:01 AM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 10:10:11 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 4 | Thread : 15
+
+11/7/2023 10:10:28 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 5 | Thread : 15
+
+11/7/2023 10:10:45 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 6 | Thread : 15
+
+11/7/2023 10:10:47 AM : ObjFeed_eve_ConenctionMessage : BSECM Failed [127.0.0.1:16100] | Thread : 15
+
+11/7/2023 11:12:38 AM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 11:12:38 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 11:12:38 AM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 11:12:38 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+11/7/2023 11:12:38 AM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+11/7/2023 11:12:41 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 11:12:41 AM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 11:12:42 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 11:12:42 AM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 11:12:42 AM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 11:12:42 AM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 11:12:42 AM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:42 AM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:12:45 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:12:46 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:12:50 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:12:57 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:12:58 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:13:02 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:13:09 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:13:10 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:13:14 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:13:21 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:13:21 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 11:13:22 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:13:26 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:13:33 AM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:13:34 AM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:13:38 AM : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:14:16 AM : ObjFeed_eve_ConenctionMessage EX : BSECM Feed -CON : 
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.kErW96ZTC(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 1041
+
+11/7/2023 11:14:16 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 18
+
+11/7/2023 11:14:20 AM : EngineProcess_FormClosing
+
+11/7/2023 11:39:33 AM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 11:39:33 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 11:39:34 AM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 11:39:34 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+11/7/2023 11:39:34 AM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 7
+
+11/7/2023 11:39:35 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 11:39:35 AM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 11:39:36 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 11:39:36 AM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 11:39:36 AM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 11:39:36 AM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 11:39:36 AM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:36 AM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:39:39 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:39:40 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:39:41 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:39:51 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:39:52 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:39:53 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:40:03 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:40:04 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:40:05 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:40:15 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:40:16 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:40:17 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:40:19 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 11:40:27 AM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:40:28 AM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:40:29 AM : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:51:00 AM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 11:51:02 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:51:11 AM : EngineProcess_FormClosing
+
+11/7/2023 11:51:54 AM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 11:51:54 AM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 11:51:54 AM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 11:51:54 AM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 3
+
+11/7/2023 11:51:54 AM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 3
+
+11/7/2023 11:51:55 AM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 11:51:55 AM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 11:51:56 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 11:52:13 AM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 2 | Thread : 9
+
+11/7/2023 11:52:13 AM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 11:52:13 AM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 11:52:13 AM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 11:52:13 AM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:13 AM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 11:52:17 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:52:18 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:52:20 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:52:29 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:52:30 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:52:32 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:52:42 AM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 11:52:43 AM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 11:52:45 AM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 11:52:51 AM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 12:04:03 PM : EngineProcess_FormClosing
+
+11/7/2023 12:04:32 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 12:04:32 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 12:04:32 PM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 12:04:33 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+11/7/2023 12:04:33 PM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+11/7/2023 12:04:34 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 12:04:34 PM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 12:04:35 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 12:04:35 PM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 12:22:51 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 12:22:51 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 12:23:09 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2 | Thread : 3
+
+11/7/2023 12:23:26 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 3 | Thread : 3
+
+11/7/2023 12:23:43 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 4 | Thread : 3
+
+11/7/2023 12:24:00 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 5 | Thread : 3
+
+11/7/2023 12:24:18 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 6 | Thread : 3
+
+11/7/2023 12:24:20 PM : ObjFeed_eve_ConenctionMessage : FO Failed [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 12:24:20 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 4
+
+11/7/2023 12:24:37 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 2 | Thread : 4
+
+11/7/2023 12:24:54 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 3 | Thread : 4
+
+11/7/2023 12:25:11 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 4 | Thread : 4
+
+11/7/2023 12:25:32 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 5 | Thread : 4
+
+11/7/2023 12:25:50 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 6 | Thread : 4
+
+11/7/2023 12:25:52 PM : ObjFeed_eve_ConenctionMessage : CM Failed [127.0.0.1:8706] | Thread : 4
+
+11/7/2023 12:25:52 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 7
+
+11/7/2023 12:26:09 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 2 | Thread : 7
+
+11/7/2023 12:26:26 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 3 | Thread : 7
+
+11/7/2023 12:26:43 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 4 | Thread : 7
+
+11/7/2023 12:27:00 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 5 | Thread : 7
+
+11/7/2023 12:27:17 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 6 | Thread : 7
+
+11/7/2023 12:27:19 PM : ObjFeed_eve_ConenctionMessage : CD Failed [127.0.0.1:8708] | Thread : 7
+
+11/7/2023 12:27:19 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 4
+
+11/7/2023 12:27:19 PM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 4
+
+11/7/2023 12:27:19 PM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 12:27:19 PM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 12:27:19 PM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:19 PM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:19 PM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:19 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:19 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:19 PM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:20 PM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:20 PM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:20 PM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:27:20 PM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:28:01 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 12:47:50 PM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 12:47:50 PM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 12:47:50 PM : ReceiveSpanResponse Received- 43
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 12:47:50 PM : ReceiveTradeResponse Received- 11150
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+11/7/2023 12:47:52 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 12:47:52 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 12:47:52 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 12:48:03 PM : ObjFeed_eve_ConenctionMessage EX : BSECM Feed -CON : 
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.kErW96ZTC(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 1041
+
+11/7/2023 12:48:03 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 3
+
+11/7/2023 12:55:53 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 12:55:53 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 12:55:54 PM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 12:55:54 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+11/7/2023 12:55:54 PM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 7
+
+11/7/2023 12:55:55 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 9
+
+11/7/2023 12:55:55 PM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 9
+
+11/7/2023 12:55:56 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 10
+
+11/7/2023 12:55:56 PM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 10
+
+11/7/2023 12:55:56 PM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 12:55:56 PM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 12:55:56 PM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:55:56 PM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 12:56:02 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 12:56:02 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 12:56:03 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 12:56:14 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 12:56:14 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 12:56:15 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 12:56:26 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 12:56:26 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 12:56:27 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 12:56:38 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 12:56:38 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 12:56:39 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 12:56:46 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 12:56:50 PM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 12:56:50 PM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 12:56:51 PM : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 12:57:21 PM : EngineProcess_FormClosing
+
+11/7/2023 12:57:53 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 12:57:53 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 12:57:54 PM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 12:57:54 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 3
+
+11/7/2023 12:57:54 PM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 3
+
+11/7/2023 12:57:54 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 7
+
+11/7/2023 1:13:19 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 1:13:19 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 1:13:36 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 2 | Thread : 3
+
+11/7/2023 1:13:53 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 3 | Thread : 3
+
+11/7/2023 1:14:10 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 4 | Thread : 3
+
+11/7/2023 1:14:27 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 5 | Thread : 3
+
+11/7/2023 1:14:44 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 6 | Thread : 3
+
+11/7/2023 1:14:44 PM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 1:14:44 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+11/7/2023 1:14:44 PM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 7
+
+11/7/2023 1:14:45 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 1:14:45 PM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 1:14:46 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 1:14:46 PM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 1:14:47 PM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 1:14:47 PM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 1:14:47 PM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:14:47 PM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:15:28 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 1:16:18 PM : EngineProcess_FormClosing
+
+11/7/2023 1:16:26 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 1:16:26 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 1:16:26 PM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 1:16:26 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+11/7/2023 1:16:26 PM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+11/7/2023 1:16:27 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 1:16:27 PM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 1:16:28 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 1:16:28 PM : ObjFeed_eve_ConenctionMessage : BSECM Connected to [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 1:16:28 PM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 1:16:28 PM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 1:16:28 PM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:16:28 PM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:17:07 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 1:17:44 PM : ReceiveSpanResponse Received- 0
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 1:17:47 PM : EngineProcess_FormClosing
+
+11/7/2023 1:18:19 PM : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.EngineProcess.ReadClosingFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 3855
+
+11/7/2023 1:18:19 PM : ObjFeed_eve_ConenctionMessage : FO Connecting to [127.0.0.1:8707] | Attempts : 1 | Thread : 3
+
+11/7/2023 1:18:20 PM : ObjFeed_eve_ConenctionMessage : FO Connected to [127.0.0.1:8707] | Thread : 3
+
+11/7/2023 1:18:20 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 6
+
+11/7/2023 1:18:20 PM : ObjFeed_eve_ConenctionMessage : CM Connected to [127.0.0.1:8706] | Thread : 6
+
+11/7/2023 1:18:20 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 8
+
+11/7/2023 1:18:20 PM : ObjFeed_eve_ConenctionMessage : CD Connected to [127.0.0.1:8708] | Thread : 8
+
+11/7/2023 1:18:21 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 1 | Thread : 9
+
+11/7/2023 1:18:38 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 2 | Thread : 9
+
+11/7/2023 1:18:56 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 3 | Thread : 9
+
+11/7/2023 1:19:13 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 4 | Thread : 9
+
+11/7/2023 1:19:31 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 5 | Thread : 9
+
+11/7/2023 1:19:48 PM : ObjFeed_eve_ConenctionMessage : BSECM Connecting to [127.0.0.1:16100] | Attempts : 6 | Thread : 9
+
+11/7/2023 1:19:50 PM : ObjFeed_eve_ConenctionMessage : BSECM Failed [127.0.0.1:16100] | Thread : 9
+
+11/7/2023 1:19:50 PM : ReadNPLFile : Username,Underlying,NPL
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadNPLFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 32
+
+11/7/2023 1:19:50 PM : ReadMTDFile : Grp TM,A/C Code,A/C Name,B/F Amt,Sell Amt,Buy Amt,C/F Amt,Gross P/L_Amt,Expn Amt,Net P/L_Amt,Int Amt,Broker Flag
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadMTDFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 92
+
+11/7/2023 1:19:50 PM : ReadLimitFile : Code,MTMLimit,VARLimit,MarginLimit,Banknifty Expo Limit,Nifty Exposure Limit
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT102,83624,45983,72109,14876,50231
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT15,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT20,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT51,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT52,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT53,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT54,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:50 PM : ReadLimitFile : CLIENT55,10000,10000,2000,2000,2000
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Engine.Addons.ReadLimitFile() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Helper\Addons.cs:line 122
+
+11/7/2023 1:19:55 PM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 1:20:32 PM : Sending Message Error in BODUtilityConnector: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.112:9900
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at Engine.BODUtilityConnector.StartClient() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\BODUtilityConnector.cs:line 46
+
+11/7/2023 1:43:25 PM : ObjFeed_eve_ConenctionMessage EX : CM Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.gQwZyx5Xn(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 967
+
+11/7/2023 1:43:25 PM : ObjFeed_eve_ConenctionMessage EX : CM Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.gQwZyx5Xn(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 967
+
+11/7/2023 1:43:25 PM : ObjFeed_eve_ConenctionMessage EX : CM Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.gQwZyx5Xn(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 967
+
+11/7/2023 1:43:25 PM : ObjFeed_eve_ConenctionMessage EX : FO Feed -CON : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at FeedLibrary.Feed.O5Verphmj(Socket  , String  ) in C:\Github\n.Prime-Marwadi-latest\CDS Version\BSEFO all components\BSEFO FEED\Feed Library\FeedLibrary\Feed.cs:line 810
+
+11/7/2023 1:43:25 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 1 | Thread : 7
+
+11/7/2023 1:43:25 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 1 | Thread : 10
+
+11/7/2023 1:43:42 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 2 | Thread : 7
+
+11/7/2023 1:43:42 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 2 | Thread : 10
+
+11/7/2023 1:43:59 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 3 | Thread : 7
+
+11/7/2023 1:43:59 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 3 | Thread : 10
+
+11/7/2023 1:44:16 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 4 | Thread : 7
+
+11/7/2023 1:44:16 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 4 | Thread : 10
+
+11/7/2023 1:44:33 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 5 | Thread : 7
+
+11/7/2023 1:44:33 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 5 | Thread : 10
+
+11/7/2023 1:44:50 PM : ObjFeed_eve_ConenctionMessage : CM Connecting to [127.0.0.1:8706] | Attempts : 6 | Thread : 7
+
+11/7/2023 1:44:50 PM : ObjFeed_eve_ConenctionMessage : CD Connecting to [127.0.0.1:8708] | Attempts : 6 | Thread : 10
+
+11/7/2023 1:44:52 PM : ObjFeed_eve_ConenctionMessage : CM Failed [127.0.0.1:8706] | Thread : 7
+
+11/7/2023 1:44:52 PM : ObjFeed_eve_ConenctionMessage : CD Failed [127.0.0.1:8708] | Thread : 10
+
+11/7/2023 4:18:01 PM : GatewayHB : System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.ReceiveResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 99
+
+11/7/2023 4:18:01 PM : ReceiveTradeResponse Received- 11150
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveTradeResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 158
+
+11/7/2023 4:18:01 PM : ReceiveSpanResponse Received- 181
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, SocketFlags socketFlags)
+   at Engine.Connectors.GatewayDataConnector.ReceiveSpanResponse(Socket soc_Current) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 238
+
+11/7/2023 4:18:09 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:09 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:09 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:09 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:09 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:09 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 4:18:21 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:21 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 4:18:21 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 4:18:33 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 4:18:33 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:33 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 4:18:45 PM : Retrying 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 4:18:45 PM : Retrying Gateway Span 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:45 PM : Retrying 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 4:18:57 PM : Unable to connect to the Gateway Server. 127.0.0.1:13400
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13400
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewayTrade(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 53
+
+11/7/2023 4:18:57 PM : Unable to connect to the Gateway Span Server. 127.0.0.1:13500
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13500
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.Connectors.GatewayDataConnector.ConnectToGatewaySpan(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayDataConnector.cs:line 103
+
+11/7/2023 4:18:57 PM : Unable to connect to the Gateway Server. 127.0.0.1:13000
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at Engine.GatewayHBConnector.ConnectToGateway(String ID, IPAddress _GatewayIP, Int32 _GatewayPORT) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 51
+
+11/7/2023 4:20:38 PM : Mapping cleared successfully.
+
+11/7/2023 4:21:02 PM : Updating user mapping System.NullReferenceException: Object reference not set to an instance of an object.
+   at Engine.AddUser.btnUpdateClient_Click(Object sender, EventArgs e) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\AddUser.cs:line 574
+
+11/7/2023 4:21:12 PM : EditUserMappedClients System.NullReferenceException: Object reference not set to an instance of an object.
+   at Engine.AddUser.EditUserMappedClients() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\AddUser.cs:line 199
+
+11/7/2023 4:22:11 PM :    at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at Engine.GatewayHBConnector.SendToGateway(String _Message) in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\Connectors\GatewayHBConnector.cs:line 145
+   at Engine.EngineProcess.SendBodUpdateToGetway() in E:\Marwadi code\n.Prime-Marwadi-main\CDS Version\BSEFO all components\Engine\Engine\UI\EngineProcess.cs:line 1148
+

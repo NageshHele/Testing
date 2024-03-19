@@ -1,0 +1,7 @@
+8/9/2023 1:04:36 PM,Initialising Image.
+8/9/2023 1:06:14 PM,Initialising Image.
+8/9/2023 1:07:25 PM,Initialising Image.
+8/9/2023 1:07:38 PM,ReadBSEFO Loop 2.94secs, Trades:7
+8/9/2023 1:07:38 PM,ReadCP Loop 0secs, Trades:0
+8/9/2023 1:08:17 PM,Initialising Image.
+8/9/2023 1:08:38 PM,ReadBSEFO Loop 0.01secs, Trades:7

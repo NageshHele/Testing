@@ -1,0 +1,1245 @@
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\CM at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\FO at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\Span1 at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\Span2 at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\SpanLogs1 at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\SpanLogs2 at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories Loop : D:\BOD_Files\VarMargin at 31-Jan-22 15:24:07
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 280
+
+[EXCEPTION] DeleteOldSpanDirectories at 31-Jan-22 15:24:07
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Prime\Span Margin\Logs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at BOD_Utility.Home.DeleteOldSpanDirectories() in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 290
+
+[EXCEPTION] DecompressGZAndDelete at 31-Jan-22 15:24:40
+System.IO.FileNotFoundException: Could not find file 'D:\BOD_Files\20220131\F_AEL_OTM_CONTRACTS_31012022.csv.gz'.
+File name: 'D:\BOD_Files\20220131\F_AEL_OTM_CONTRACTS_31012022.csv.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1690
+
+[EXCEPTION] DownloadBSEExposureFile at 31-Jan-22 15:24:43
+System.Net.WebException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'. ---> System.Net.WebException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'. ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   at System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadBSEExposureFile(String IndexFolderPath, String ExposureFolderPath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1388
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:24:44
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:24:45
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:24:45
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:24:46
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:24:46
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:24:46
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:24:47
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:24:47
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:24:47
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:24:48
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:24:49
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:24:49
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DecompressGZAndDelete at 31-Jan-22 15:27:08
+System.IO.FileNotFoundException: Could not find file 'D:\BOD_Files\20220131\F_AEL_OTM_CONTRACTS_31012022.csv.gz'.
+File name: 'D:\BOD_Files\20220131\F_AEL_OTM_CONTRACTS_31012022.csv.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1690
+
+[EXCEPTION] DownloadBSEExposureFile at 31-Jan-22 15:27:11
+System.Net.WebException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'. ---> System.Net.WebException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'. ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   at System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadBSEExposureFile(String IndexFolderPath, String ExposureFolderPath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1388
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:27:12
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:27:13
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:27:13
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:27:14
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:27:14
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:27:14
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:27:15
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:27:15
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:27:15
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:27:16
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:27:16
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:27:16
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:28:24
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:28:24
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:28:24
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:28:24
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:28:24
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:28:24
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:28:26
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:28:26
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:28:26
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:28:26
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:28:26
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:28:26
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:29:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:29:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:29:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:29:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:29:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:29:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:29:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:29:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:29:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:29:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:29:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:29:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:30:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:30:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:30:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:30:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:30:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:30:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:30:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:30:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:30:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:30:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:30:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:30:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:31:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:31:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:31:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:31:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:31:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:31:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:31:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:31:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:31:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:31:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:31:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:31:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:32:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:32:25
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:32:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:32:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:32:25
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:32:25
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:32:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:32:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:32:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:32:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_5.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:32:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:32:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DecompressGZAndDelete at 31-Jan-22 15:36:14
+System.IO.FileNotFoundException: Could not find file 'D:\BOD_Files\20220131\F_AEL_OTM_CONTRACTS_31012022.csv.gz'.
+File name: 'D:\BOD_Files\20220131\F_AEL_OTM_CONTRACTS_31012022.csv.gz'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.FileInfo.OpenRead()
+   at BOD_Utility.Home.DecompressGZAndDelete(FileInfo fileToDecompress, String FileExtension) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1690
+
+[EXCEPTION] DownloadBSEExposureFile at 31-Jan-22 15:36:16
+System.Net.WebException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'. ---> System.Net.WebException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'. ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\FILES\Bajaj\EF310122'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   at System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadBSEExposureFile(String IndexFolderPath, String ExposureFolderPath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1388
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:36:18
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:36:18
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:36:18
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:36:19
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:36:20
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:36:20
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:36:20
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:36:20
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:36:20
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:37:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:37:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:37:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:37:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:37:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:37:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:37:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:37:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:37:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.i05.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:38:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:38:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:38:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:38:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:38:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:38:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:39:27
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:39:27
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:39:27
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:39:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:39:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:39:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:40:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:40:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:40:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:40:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:40:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:40:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:41:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:41:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:41:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:41:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:41:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:41:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:42:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:42:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:42:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:42:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:42:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:42:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:43:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:43:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:43:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:43:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:43:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:43:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:44:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:44:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:44:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:44:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:44:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:44:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:45:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:45:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:45:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:45:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:45:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:45:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:46:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:46:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:46:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:46:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:46:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:46:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:47:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:47:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:47:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:47:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:47:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:47:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:48:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1307
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:48:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1323
+
+[EXCEPTION] DownloadVARExposure at 31-Jan-22 15:48:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\C_VAR1_31012022_6.DAT'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadVARExposure(Object source, ElapsedEventArgs e, String VaRExposureFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1336
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:48:29
+System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1125
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:48:29
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1153
+
+[EXCEPTION] DownloadSpan at 31-Jan-22 15:48:29
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'.
+File name: 'C:\Users\Snehadri\Desktop\BODFiles\nsccl.20220131.s.spn'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at BOD_Utility.Home.DownloadSpan(Object source, ElapsedEventArgs e, String SpanFilePath) in D:\Snehadri Nerve\Prime-Marwadi-Snehadri\BOD-Utility\BOD-Utility\Home.cs:line 1170
+

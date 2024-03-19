@@ -1,0 +1,3 @@
+[DEBUG] 9/27/2022 11:56:36 AM => Receiver Setup Success on 8800 Port.
+[DEBUG] 9/27/2022 11:56:36 AM => Server Setup Success on 8704 Port.
+[DEBUG] 9/27/2022 11:56:49 AM => Received Text: CONNECT^N.ENGINE^<EOF>

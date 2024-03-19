@@ -1,0 +1,89 @@
+11/9/2022 12:40:18 PM,Initialising Image.
+11/9/2022 2:05:58 PM,Initialising Image.
+11/9/2022 2:13:02 PM,Initialising Image.
+11/9/2022 2:16:54 PM,Initialising Image.
+11/9/2022 2:18:01 PM,Initialising Image.
+11/9/2022 2:18:30 PM,FO Trade Count: 1
+11/9/2022 2:19:57 PM,Initialising Image.
+11/9/2022 2:20:08 PM,FO Trade Count: 1
+11/9/2022 2:20:09 PM,ReadFO Loop 11.42secs, Trades:1
+11/9/2022 2:20:11 PM,Trades Read in 14secs
+11/9/2022 2:20:11 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:20:49 PM,Initialising Image.
+11/9/2022 2:21:14 PM,FO Trade Count: 1
+11/9/2022 2:22:29 PM,Initialising Image.
+11/9/2022 2:22:33 PM,FO Trade Count: 1
+11/9/2022 2:22:36 PM,ReadFO Loop 7.02secs, Trades:1
+11/9/2022 2:23:08 PM,Trades Read in 38.55secs
+11/9/2022 2:23:08 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:27 PM,ReadFO Loop 19.68secs, Trades:1
+11/9/2022 2:23:31 PM,Trades Read in 23.05secs
+11/9/2022 2:23:31 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:31 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:35 PM,Trades Read in 4.61secs
+11/9/2022 2:23:35 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:35 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:38 PM,Trades Read in 2.08secs
+11/9/2022 2:23:38 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:38 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:38 PM,Trades Read in 0secs
+11/9/2022 2:23:38 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:38 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:38 PM,Trades Read in 0secs
+11/9/2022 2:23:38 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:39 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:39 PM,Trades Read in 0secs
+11/9/2022 2:23:39 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:40 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:40 PM,Trades Read in 0secs
+11/9/2022 2:23:40 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:41 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:41 PM,Trades Read in 0secs
+11/9/2022 2:23:41 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:42 PM,ReadFO Loop 0secs, Trades:1
+11/9/2022 2:23:42 PM,Trades Read in 0secs
+11/9/2022 2:23:42 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:42 PM,ReadFO Loop 0.01secs, Trades:1
+11/9/2022 2:23:42 PM,Trades Read in 0.01secs
+11/9/2022 2:23:42 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:23:43 PM,Initialising Image.
+11/9/2022 2:24:01 PM,FO Trade Count: 2
+11/9/2022 2:27:48 PM,Initialising Image.
+11/9/2022 2:29:34 PM,FO Trade Count: 1
+11/9/2022 2:29:35 PM,ReadFO Loop 106.73secs, Trades:1
+11/9/2022 2:29:35 PM,Trades Read in 106.73secs
+11/9/2022 2:29:35 PM,Total Trade Rows Sent,1, Status,False
+11/9/2022 2:45:30 PM,Initialising Image.
+11/9/2022 2:46:04 PM,FO Trade Count: 1
+11/9/2022 2:46:04 PM,FO Trade Count: 2
+11/9/2022 2:46:04 PM,ReadFO Loop 33.97secs, Trades:2
+11/9/2022 2:46:04 PM,Trades Read in 33.99secs
+11/9/2022 2:46:05 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:05 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:05 PM,Trades Read in 0secs
+11/9/2022 2:46:05 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:05 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:05 PM,Trades Read in 0secs
+11/9/2022 2:46:05 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:06 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:06 PM,Trades Read in 0secs
+11/9/2022 2:46:06 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:07 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:07 PM,Trades Read in 0secs
+11/9/2022 2:46:07 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:08 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:08 PM,Trades Read in 0secs
+11/9/2022 2:46:08 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:09 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:09 PM,Trades Read in 0secs
+11/9/2022 2:46:09 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:09 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:09 PM,Trades Read in 0secs
+11/9/2022 2:46:09 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:10 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:46:10 PM,Trades Read in 0secs
+11/9/2022 2:46:10 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:46:11 PM,ReadFO Loop 0secs, Trades:2
+11/9/2022 2:53:08 PM,Trades Read in 417.29secs
+11/9/2022 2:53:08 PM,Total Trade Rows Sent,2, Status,False
+11/9/2022 2:53:08 PM,ReadFO Loop 0secs, Trades:2

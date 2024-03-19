@@ -1,0 +1,84 @@
+Broadcast Strcuture 
+Endianess BigEndianStructure
+_pack_=1
+Total Size= 261 bytes
+InstrumentID uint64
+NumberOfTrades uint32
+TradeVolume  uint32
+TradeValue uint32
+TraceValue  char*1 // 'C' for Crores 'L' for Lakh If this field doesn't contain either of the value pls ignore the packet
+TimeStamp uint64
+TodayCloseRate uint32  // this field will be zero during market hours
+LTQ uint32
+LTP int32
+OpenPrice int32
+LastTradingSessionClosePrice  int32
+High   int32
+Low int32
+TotalBidQuantity uint32
+TotalAskQuantity uint32
+LowerCircuit int32
+UpperCircuit  int32
+WeightedAveragePrice int32   
+BID{
+    BidPrice int32
+    BidQuantity uint32
+    BidOrders    unt32
+    BidImpliedQuantity unt32
+
+
+}*5
+ASK{
+    BidPrice int32
+    BidQuantity uint32
+    BidOrders    uint32
+    BidImpliedQuantity uint32
+
+
+}*5
+OpenInterestQuantity uint32
+OpenInterestValue    uint64
+OpenInterestChange    uint32
+Var/IM Percentage     uint32
+ELMVARPErcentage      uint32
+
+To run the program 
+
+ .\main.exe .\settings.yaml
+Before running the program please enter correct network parameter
+
+BSEBroadcastInterfaceName: "127.0.0.1" # this should be replaced by BSEInterface IP
+BSEBroadcastMulticastIP: "224.0.0.1"  # Normally this is 227.0.0.22
+BSEBroadcastPort: 8080            #Normally yhis is 12997
+
+Please check the below parameter in settings.yaml..
+  DestinationBroadcastInterface: "127.0.0.1"
+  DestinationMulticastIP: "239.255.255.255"
+  BindingPort: 8081 
+  DestinationPort: 8083
+To see output please run reciever.py with following arguments
+
+ .\Reciever.exe 127.0.0.1 239.255.255.255 8081
+
+
+
+
+For latest build file please go to BSE_FOPublisher Folder
+
+Please install latest version of go.
+Pleaase run go mod tidy in the root direcctory of project.
+To build the file please run go build ./main.go
+Please copy the new build file to  BSE_FOPublisher Folder
+TO change the license expiry date please go to PacketStrcut/PacketStrcut.go file
+Inside the file , search for func CheckLicenseDay(timestamp *uint64){
+Inside the function please change the following variable to make newlicense for the product...
+
+year := 2023
+month := time.August
+day := 30
+
+
+
+
+
+

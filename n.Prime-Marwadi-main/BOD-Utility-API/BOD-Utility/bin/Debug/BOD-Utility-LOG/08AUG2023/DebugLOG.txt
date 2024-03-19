@@ -1,0 +1,17 @@
+[DEBUG] 8/8/2023 3:21:06 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:21:33 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:21:57 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:25:41 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:25:44 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 8/8/2023 3:25:44 PM => DownloadContractFile API Response: {"ResponseStatus":0,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/&filename=contract.gz"}
+[DEBUG] 8/8/2023 3:25:52 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:29:14 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:29:17 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 8/8/2023 3:29:17 PM => DownloadContractFile API Response: {"ResponseStatus":0,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/&filename=contract.gz"}
+[DEBUG] 8/8/2023 3:29:27 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:32:15 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:34:15 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:34:22 PM => LOGIN REPONSE | STATUS : ERROR | MESSAGE : {"memberCode":"090181223","responseCode":["701"],"loginId":"ees","token":"","status":"error"}
+[DEBUG] 8/8/2023 3:34:23 PM => DownloadContractFile API Response: {"ResponseStatus":0,"Message":"","Filename":"contract.gz","URL":"https://www.connect2nse.com/extranet-api///common/file/download/2.0?segment=FO&folderPath=/&filename=contract.gz"}
+[DEBUG] 8/8/2023 3:34:32 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
+[DEBUG] 8/8/2023 3:43:18 PM => Span wait seconds init: SpanWaitSecondsWebSite | 10000 , SpanWaitSecondsApi | 20000
